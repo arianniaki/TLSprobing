@@ -63,7 +63,7 @@ public class Run {
         
     	StringBuilder result = new StringBuilder("");
 
-    	String command2 = "whois -h whois.arin.net flag search-term";
+    	String command2 = "whois -h whois.arin.net -i origin AS5693";
 		WhoisClient whois = new WhoisClient();
 		try {
 
