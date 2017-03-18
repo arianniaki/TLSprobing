@@ -42,8 +42,9 @@ public class Run {
 		
         System.out.println("Found AS list for keyword: " + keyword + "\n" + list);
         String command = "whois -h whois.radb.net -- \'-i origin AS5693\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
+        String[] commands = {"whois","-h whois.radb.net","-i origin AS5693", "grep -Eo \"([0-9.]+){4}/[0-9]+\""};
         System.out.println(command);
-        final Process p = Runtime.getRuntime().exec(command);
+        final Process p = Runtime.getRuntime().exec(commands);
 
         new Thread(new Runnable() {
             public void run() {
