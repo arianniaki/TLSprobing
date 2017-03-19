@@ -18,7 +18,7 @@ public class Run {
 		FileInputStream inputStream = new FileInputStream(new File(dir));
 		Scanner reader = new Scanner(inputStream, "UTF-8");		
 
-        String keyword = "Irvine";
+        String keyword = "Stony";
         
         ArrayList<String> list = new ArrayList<>();
         int index = 0;
@@ -41,45 +41,30 @@ public class Run {
         }
 		
         System.out.println("Found AS list for keyword: " + keyword + "\n" + list);
-        String command = "whois -h whois.radb.net -- \'-i origin AS5693\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
-        String[] commands = {"whois","-h whois.radb.net","-i origin AS5693", "grep -Eo \"([0-9.]+){4}/[0-9]+\""};
-        System.out.println(command);
-        final Process p = Runtime.getRuntime().exec(commands);
-
-        new Thread(new Runnable() {
-            public void run() {
-             BufferedReader input = new BufferedReader(new InputStreamReader(p.getInputStream()));
-             String line = null; 
-
-             try {
-                while ((line = input.readLine()) != null)
-                    System.out.println(line);
-             } catch (IOException e) {
-                    e.printStackTrace();
-             }
-            }
-        }).start();
-
-        p.waitFor();
+        //String command = "whois -h whois.radb.net -- \'-i origin AS5693\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
         
-    	StringBuilder result = new StringBuilder("");
-
-    	String command2 = "whois -h whois.arin.net -i origin AS5693";
+        
+        String command2 = "-i origin AS299";
+    	StringBuilder result = new StringBuilder("");    	
 		WhoisClient whois = new WhoisClient();
 		try {
-
-			//default is internic.net
 			whois.connect("whois.radb.net");
-			//whois.connect("whois.radb.net");
-			
-			String whoisData1 = whois.query(command2);
-			result.append(whoisData1);
+			String whoisData = whois.query(command2);
+			result.append(whoisData);
 			whois.disconnect();
 
 		}  catch (IOException e) {
 			e.printStackTrace();
 		}
-		System.out.println(result);
+		
+		
+		
+		String[] lines = result.toString().split("\n");
+		for(int i=0; i<lines.length ; i++){
+			if(lines[i].contains("route:"))
+				System.out.println(lines[i]);
+		}
+		
 		
 		
 		
