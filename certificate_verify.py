@@ -33,10 +33,14 @@ def check_ssl(url,file ):
 				cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
 				cert = cert[0].replace('ZZZZ','\n')
 				# print(cert)
+				p = subprocess.Popen(["curl", "-k" ,url, "--head"],stdout=subprocess.PIPE)
+				out, err = p.communicate()
+				print(out)
+
 
 				# ssl._create_default_https_context = ssl._create_unverified_context() 
 				# cert = ssl.get_server_certificate((url_without_https, 443))
-				print(cert)
+				# print(cert)
 				load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
 				get_certificate_info(load_cert,url)
 				# get_curl_info(url,req.headers)
