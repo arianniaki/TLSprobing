@@ -27,12 +27,15 @@ def check_ssl(url,file ):
 				ssl_servers_file.write(url+'\n')
 				url_without_https = url.replace("https://","")
 
-				p = subprocess.Popen(["openssl", "s_client",'-connect',url_without_https+":443"], stdout=subprocess.PIPE)
+				p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443"], stdout=subprocess.PIPE)
 				out, err = p.communicate()
 				out_without_n = out.replace('\n','ZZZZ')
 				cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
-				cert = cert[0].replace('ZZZZ','\n')
-				# print(cert)
+				if(len(cert)>0):
+					cert = cert[0].replace('ZZZZ','\n')
+					load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
+					get_certificate_info(load_cert,url)
+					# print(cert)
 				p = subprocess.Popen(["curl", "-k" ,url, "--head"],stdout=subprocess.PIPE)
 				out, err = p.communicate()
 				print(out)
@@ -41,21 +44,21 @@ def check_ssl(url,file ):
 				# ssl._create_default_https_context = ssl._create_unverified_context() 
 				# cert = ssl.get_server_certificate((url_without_https, 443))
 				# print(cert)
-				load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-				get_certificate_info(load_cert,url)
+				
 				# get_curl_info(url,req.headers)
 
 			except requests.exceptions.ConnectionError:
-				print url + ' Not SSL'
 				# try to send http request
 				newurl = url.replace("https","http")
 				try:
 					req = requests.get(newurl,timeout = 0.1)
 					get_curl_info(url,req.headers)
 				except requests.exceptions.ConnectionError:
-					print("Not a Web Server")
+					pass
+					# print("NOT SSL AND Not a Web Server")
 				except requests.exceptions.ReadTimeout:
-					print ("timeout No web server at all")
+					pass
+					# print ("NOT SSL timeout No web server at all")
 			except requests.exceptions.ReadTimeout:
 				print 'timeout'
 
@@ -63,16 +66,19 @@ def get_curl_info(url,curl_data):
 	data = {}
 	data['url'] = url
 	print()
-	data['Content-Length'] = curl_data['Content-Length']
-	data['Content-Encoding'] = curl_data['Content-Encoding']
-	data['Vary'] = curl_data['Vary']
-	data['Keep-Alive'] = curl_data['Keep-Alive']
-	data['Server'] = curl_data['Server']
-	data['Connection'] = curl_data['Connection']
-	data['Date'] = curl_data['Date']
-	data['Content-Type'] = curl_data['Content-Type']
-	json_data = json.dumps(data)
-	print(json_data)
+	try:
+		data['Content-Length'] = curl_data['Content-Length']
+		data['Content-Encoding'] = curl_data['Content-Encoding']
+		data['Vary'] = curl_data['Vary']
+		data['Keep-Alive'] = curl_data['Keep-Alive']
+		data['Server'] = curl_data['Server']
+		data['Connection'] = curl_data['Connection']
+		data['Date'] = curl_data['Date']
+		data['Content-Type'] = curl_data['Content-Type']
+		json_data = json.dumps(data)
+		print(json_data)
+	except KeyError:
+		print(url+'   key error given')
 
 def get_certificate_info(cert,url):
 	print(cert)
@@ -88,20 +94,14 @@ def get_certificate_info(cert,url):
 	data['subject'] = str(cert.get_subject())
 	data['version'] = cert.get_version()
 	data['has_expired'] = cert.has_expired()
-	print(data)
+	# print(data)
 	json_data = json.dumps(data)
 	print(json_data)
 
 
 subnet_to_check = sys.argv[1]
 ssl_servers_file = open(subnet_to_check.replace("/","")+"_ssl_servers.txt", "w")
-counter = 10000
 for ip in IPNetwork(subnet_to_check):
-	if(counter == 0):
-		break
-	else:
-		counter -= 1
-
 	print '%s' % ip
 	check_ssl('https://'+str(ip),ssl_servers_file)
 ssl_servers_file.close()
