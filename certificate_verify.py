@@ -29,10 +29,13 @@ def check_ssl(url,file ):
 
 				p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443"], stdout=subprocess.PIPE)
 				out, err = p.communicate()
-				out_without_n = out.replace('\n','ZZZZ')
+				out_without_n = out.replace('\n','!@#$&*()')
 				cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
 				if(len(cert)>0):
-					cert = cert[0].replace('ZZZZ','\n')
+					print('============')
+					print(cert)
+					print('============')
+					cert = cert[0].replace('!@#$&*()','\n')
 					load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
 					get_certificate_info(load_cert,url)
 					# print(cert)
