@@ -15,12 +15,13 @@ tls_versions = ['-ssl3','-tls1','-tls1_1','-tls1_2']
 # print(tls_version)
 for ver in tls_versions:
 	for cipher in ciphers:
+		print('...............................')
 		print(ver+'___: '+cipher)
-		p = subprocess.Popen(["openssl", "s_client",'-cipher',cipher ,ver,'-connect','130.245.27.33:443','-status'], stdout=subprocess.PIPE)
+		p = subprocess.Popen(["timeout","30","openssl", "s_client",'-cipher',cipher ,ver,'-connect','130.245.27.37:443','-status'], stdout=subprocess.PIPE)
 		out, err = p.communicate()
 		print('=======')
 		print(out)
-		print(':::::::')
+		print('::::end:::')
 		time.sleep(1)
 
 #print out
