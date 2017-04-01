@@ -65,6 +65,10 @@ def check_ssl(url,file ):
 			except requests.exceptions.ReadTimeout:
 				print 'timeout'
 
+def get_curl_info_invalidcert(url,curl_date):
+	data = {}
+	data['url'] = url
+	
 def get_curl_info(url,curl_data):
 	data = {}
 	data['url'] = url
