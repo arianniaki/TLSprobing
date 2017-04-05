@@ -7,12 +7,20 @@ import ssl
 import json
 import subprocess
 import re
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+import OpenSSL
 
-def check_ssl(url,file ):
+def check_ssl(ip,url,subnet ):
+			if(url != ''):
+				print(url)
+			else:
+				print(url + ' it is empty')
+			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 			try:
-				req = requests.get(url, verify=True,timeout=0.1)
+				req = requests.get(url, verify=True,timeout=0.5)
+
 				print url + ' has a valid SSL certificate!'
-				ssl_servers_file.write(url+'\n')
+				# servers_file.write(url+'\n')
 				url_without_https = url.replace("https://","")
 				try:
 					cert = ssl.get_server_certificate((url_without_https, 443))
@@ -21,10 +29,14 @@ def check_ssl(url,file ):
 					get_curl_info(url,req.headers)
 				except ssl.SSLError:
 					print("SSL ERROR ______ __ _ _ ")
+				except requests.exceptions.SSLError:
+					print("sni ERROR")
+			except requests.exceptions.TooManyRedirects:
+				print("too many redirect")
 
 			except requests.exceptions.SSLError:
 				print url + ' has INVALID SSL certificate!'
-				ssl_servers_file.write(url+'\n')
+				# servers_file.write(url+'\n')
 				url_without_https = url.replace("https://","")
 
 				p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443"], stdout=subprocess.PIPE)
@@ -39,7 +51,7 @@ def check_ssl(url,file ):
 					load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
 					get_certificate_info(load_cert,url)
 					# print(cert)
-				p = subprocess.Popen(["curl", "-k" ,url, "--head"],stdout=subprocess.PIPE)
+				p = subprocess.Popen(["curl", "-k" ,url, "--head","-m","30"],stdout=subprocess.PIPE)
 				out, err = p.communicate()
 				print(out)
 
@@ -72,7 +84,7 @@ def get_curl_info_invalidcert(url,curl_date):
 def get_curl_info(url,curl_data):
 	data = {}
 	data['url'] = url
-	print()
+	print('HTTP')
 	try:
 		data['Content-Length'] = curl_data['Content-Length']
 		data['Content-Encoding'] = curl_data['Content-Encoding']
@@ -92,6 +104,11 @@ def get_certificate_info(cert,url):
 	data = {}
 	data['url'] = url
 	# data['extension'] = cert.get_extension()
+	subject = cert.get_subject()
+	data['issued_to'] = str(subject.CN)
+	issuer = cert.get_issuer()
+	issued_by = issuer.CN
+	print(issued_by)
 	data['issuer'] = str(cert.get_issuer())
 	data['not_after'] = cert.get_notAfter()
 	data['not_before'] = cert.get_notBefore()
@@ -106,9 +123,18 @@ def get_certificate_info(cert,url):
 	print(json_data)
 
 
-subnet_to_check = sys.argv[1]
-ssl_servers_file = open(subnet_to_check.replace("/","")+"_ssl_servers.txt", "w")
-for ip in IPNetwork(subnet_to_check):
-	print '%s' % ip
-	check_ssl('https://'+str(ip),ssl_servers_file)
-ssl_servers_file.close()
+# req = requests.get('https://31.13.71.36', verify=True,timeout=0.1)
+# subnet_to_check = sys.argv[1]
+
+subnet_file_name = sys.argv[1]
+# servers_file = open(subnet_file_name+"_servers.txt", "w")
+
+F = open(subnet_file_name,"r") 
+list_of_servers = F.readlines()
+# print(list_of_servers)
+for server in list_of_servers:
+	ip,url,subnet = server.split(',')
+	print(ip+'  '+url+' '+subnet)
+	check_ssl(ip,url,subnet)
+
+# servers_file.close()
