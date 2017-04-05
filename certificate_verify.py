@@ -64,6 +64,7 @@ def check_ssl(url,cname,subnet ):
 					out, err = p.communicate()
 					print("___CURL INFO___")
 					print(out)
+					get_curl_info_invalidcert(url,out)
 					print("____END CURL___\n")
 
 
@@ -98,10 +99,29 @@ def check_ssl(url,cname,subnet ):
 				# except requests.exceptions.ReadTimeout:
 				# 	pass
 
-def get_curl_info_invalidcert(url,curl_date):
+def get_curl_info_invalidcert(url,curl_data):
 	data = {}
 	data['url'] = url
-	
+	if('Server' in curl_data):
+		server = re.findall(r'Server.*\n',curl_data)
+		server = server[0].replace('Server:','')
+		data['Server'] = server.strip()
+		print(server)
+	if('Content-Type' in curl_data):
+		content_type = re.findall(r'Content-Type.*\n',curl_data)
+		content_type = content_type[0].replace('Content-Type:','')
+		data['Content-Type'] = content_type.strip()
+	if('Connection' in curl_data):
+		connection = re.findall(r'Connection.*\n',curl_data)
+		connection = connection[0].replace('Connection:','')
+		data['Connection'] = connection.strip()
+	if('Content-Enconding' in curl_data):
+		content_encoding = re.findall(r'Content-Encoding.*\n',curl_data)
+		content_encoding = content_encoding[0].replace('Content-Encoding:','')
+		data['Content-Encoding'] = content_encoding.strip()
+	json_date = json.dumps(data)
+	print(json_date)
+
 def get_curl_info(url,curl_data):
 	data = {}
 	data['url'] = url
