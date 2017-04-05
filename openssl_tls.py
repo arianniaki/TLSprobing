@@ -53,8 +53,10 @@ def get_client_hello_info(s_client_out,url):
 F = open('test2.txt',"r") 
 list_of_servers = F.readlines()
 
-R = open('test_results.txt', "a")
 
+response_json = {}
+response_json["university"] = 'Stony Brook'
+children = []
 
 for server in list_of_servers:
 	url,servername,subnet = server.split(',')
@@ -75,9 +77,7 @@ for server in list_of_servers:
 				#print(url_without_https)				
 				p = subprocess.Popen(["timeout","10","openssl", "s_client",'-cipher',cipher ,ver,'-connect',url_without_https+':443','-status'], stdout=subprocess.PIPE)
 				out, err = p.communicate()
-				#print('=======')
 				print(out)
-				#print('::::end:::')
 				a = get_client_hello_info(out,url_without_https)
 				
 				if(a != '0000' and a != 'NA'):
@@ -86,13 +86,18 @@ for server in list_of_servers:
 				#print(">>>>>>>>>>>>>>>>\n")
 				#time.sleep(1)
 			data['valid_cipher'] = list_of_valid_ciphers
-			json_data = json.dumps(data, R)
-			print(json_data) 	
 # 			if (len(list_of_valid_ciphers) > 0 ):		
 # 				print (list_of_valid_ciphers)
 # 			else:
 # 				print('List is empty!!')	
-			print('==========END======================')	
-R.close()	
+			children.append(data)
+			print('==========END======================')
+		response_json["servers"] = children
+		print json.dumps(response_json,indent=2)
+		# name should be the same as input text file
+		with open('resulting_json.json', 'a') as outfile:
+			json.dump(response_json, outfile)
+
+
 #print out
 # print(out)
