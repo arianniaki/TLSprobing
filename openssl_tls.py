@@ -29,12 +29,12 @@ def get_client_hello_info(s_client_out,url):
 		ciphers = re.findall(r'Cipher.*',info)
 		cipher = ciphers[0].replace('Cipher    : ','')
 		cipher = cipher.replace('!@#$&*()','')
-	
+
 		data = {}
-		data['url'] = url	
+		data['url'] = url
 		#print()
 		data['Protocol'] = protocol.strip()
-		data['Cipher'] = cipher.strip()	
+		data['Cipher'] = cipher.strip()
 		json_data = json.dumps(data)
 		#print(json_data)
 		#print('==========END======================')
@@ -47,55 +47,55 @@ def get_client_hello_info(s_client_out,url):
 # print(ciphers)
 # print(tls_version)
 
-#read urls 
+#read urls
 
-
-F = open('test2.txt',"r") 
+file_to_read = sys.argv[1]
+F = open(file_to_read,"r")
 list_of_servers = F.readlines()
 
+file_to_read_name, file_to_read_format = file_to_read.split('.')
 
 response_json = {}
-response_json["university"] = 'Stony Brook'
+response_json["university"] = file_to_read_name
 children = []
 
 for server in list_of_servers:
 	url,servername,subnet = server.split(',')
-	if ('https' in url):		
+	if ('https' in url):
 		for ver in tls_versions:
 			print('===========START=====================')
 			print('Protocol: ' + ver)
 			data = {}
 			data['url'] = url
 			data['Protocol'] = ver
-			
+
 			list_of_valid_ciphers = []
-			for cipher in ciphers:			
-				
+			for cipher in ciphers:
+
 				print('...............................')
-				print(ver+'___: '+cipher)		
+				print(ver+'___: '+cipher)
 				url_without_https = url.replace("https://","")
-				#print(url_without_https)				
+				#print(url_without_https)
 				p = subprocess.Popen(["timeout","10","openssl", "s_client",'-cipher',cipher ,ver,'-connect',url_without_https+':443','-status'], stdout=subprocess.PIPE)
 				out, err = p.communicate()
 				print(out)
 				a = get_client_hello_info(out,url_without_https)
-				
+
 				if(a != '0000' and a != 'NA'):
-					list_of_valid_ciphers.append(a) 
-				 
+					list_of_valid_ciphers.append(a)
+
 				#print(">>>>>>>>>>>>>>>>\n")
 				#time.sleep(1)
-			data['valid_cipher'] = list_of_valid_ciphers
-# 			if (len(list_of_valid_ciphers) > 0 ):		
-# 				print (list_of_valid_ciphers)
-# 			else:
-# 				print('List is empty!!')	
-			children.append(data)
+
+			if (len(list_of_valid_ciphers) > 0 ):
+				data['valid_cipher'] = list_of_valid_ciphers
+				children.append(data)
+
 			print('==========END======================')
 		response_json["servers"] = children
 		print json.dumps(response_json,indent=2)
 		# name should be the same as input text file
-		with open('resulting_json.json', 'a') as outfile:
+		with open(file_to_read_name + '_json.json', 'a') as outfile:
 			json.dump(response_json, outfile)
 
 

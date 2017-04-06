@@ -33,7 +33,7 @@ def check_without_verify(url,file,subnet):
 					servers_file.write(url+','+url+','+subnet+', SSL Handshake Error'+'\n')
 				except requests.exceptions.ConnectionError:
 					print("connection Error")
-					servers_file.write(url+','+url+','+subnet+', Connection Error'+'\n')
+					# servers_file.write(url+','+url+','+subnet+', Connection Error'+'\n')
 
 			except ssl.SSLError:
 				servers_file.write(url+','+url+','+subnet+', SSL Error'+'\n')
@@ -53,11 +53,11 @@ def check_without_verify(url,file,subnet):
 					# get_curl_info(newurl,req.headers)
 					servers_file.write(newurl+','+','+subnet+'\n')
 				except requests.exceptions.ConnectionError:
-					servers_file.write(newurl+','+','+subnet+','+'connection error'+'\n')
+					# servers_file.write(newurl+','+','+subnet+','+'connection error'+'\n')
 					pass
 					# print("NOT SSL AND Not a Web Server")
 				except requests.exceptions.ReadTimeout:
-					servers_file.write(newurl+','+','+subnet+','+'connection timeout'+'\n')
+					# servers_file.write(newurl+','+','+subnet+','+'connection timeout'+'\n')
 					pass
 					# print ("NOT SSL timeout No web server at all")
 				except requests.packages.urllib3.exceptions.InvalidHeader:
