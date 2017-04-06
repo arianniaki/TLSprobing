@@ -40,7 +40,10 @@ def check_without_verify(url,file,subnet):
 				print("SSL ERROR")
 			except OpenSSL.SSL.SysCallError:
 				servers_file.write(url+','+url+','+subnet+', SSL SyscallError'+'\n')
-				print("OpenSSL syscall error" )		
+				print("OpenSSL syscall error" )
+			except socket.error:
+				servers_file.write(url+','+url+','+subnet+', SSL Socket error'+'\n')
+				print("socket error" )					
 
 			except requests.exceptions.TooManyRedirects:
 				print("too many redirects")
