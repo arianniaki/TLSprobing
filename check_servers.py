@@ -103,7 +103,7 @@ list_of_subnets = F.readlines()
 print(list_of_subnets)
 for subnet in list_of_subnets:
 	for ip in IPNetwork(subnet.replace('\n','')):
-		print '%s' % ip
+		# print '%s' % ip
 		check_without_verify('https://'+str(ip),servers_file,subnet)
 
 servers_file.close()
