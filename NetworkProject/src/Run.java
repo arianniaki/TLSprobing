@@ -22,7 +22,7 @@ public class Run {
 		FileInputStream inputStream = new FileInputStream(new File(dir));
 		Scanner reader = new Scanner(inputStream, "UTF-8");		
 
-        String keyword = "irvine";
+        String keyword = "Rice University";
         
         ArrayList<String> list = new ArrayList<>();
         int index = 0;
@@ -45,8 +45,8 @@ public class Run {
         }
 		
         System.out.println("Found AS list for keyword: " + keyword + "\n" + list);
-        String command = "whois -h whois.radb.net -- \'-i origin "+ list.get(0)+"\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
-        System.out.println(command + "\n");
+        //String command = "whois -h whois.radb.net -- \'-i origin "+ list.get(0)+"\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
+        //System.out.println(command + "\n");
         
         String outFile = keyword+".txt";
 		PrintWriter writer = new PrintWriter(outFile, "UTF-8");
@@ -65,15 +65,20 @@ public class Run {
 	
 			}  catch (IOException e) {
 				e.printStackTrace();
-			}
-			
+			}		
 			
 			// regex spliting router IP addresses 
 			String[] lines = result.toString().split("\n");
+			ArrayList<String> subnet_list = new ArrayList<>();
 			for(int i=0; i<lines.length ; i++){
 				if(lines[i].contains("route:")){
-					System.out.println(lines[i].substring(7).trim());
-					writer.println(lines[i].substring(7).trim());
+					String add_subnet = lines[i].substring(7).trim();
+					if(!subnet_list.contains(add_subnet)){ //duplicate checker
+						System.out.println(add_subnet);
+						subnet_list.add(add_subnet);
+						writer.println(add_subnet);
+					}
+				
 				}				
 			}
 			
