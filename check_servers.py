@@ -9,6 +9,7 @@ import subprocess
 import re
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 import OpenSSL
+import socket
 
 def check_without_verify(url,file,subnet):
 			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)

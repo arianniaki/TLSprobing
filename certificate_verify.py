@@ -18,6 +18,7 @@ def time_format(time):
 	return Year+'-'+Month+'-'+Day
 
 def check_ssl(url,cname,subnet ):
+			ip = url
 			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 			if("https" in url):
 				print("----------HTTPS----------")
@@ -43,7 +44,7 @@ def check_ssl(url,cname,subnet ):
 					try:
 						cert = ssl.get_server_certificate((url_without_https, 443))
 						load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-						cert_res = get_certificate_info(load_cert,url,'valid')
+						cert_res = get_certificate_info(load_cert,url,'valid',ip)
 						print("___CURL INFO___")
 						curl_res = get_curl_info(url,req.headers)
 						print("____END CURL___\n")
@@ -73,7 +74,7 @@ def check_ssl(url,cname,subnet ):
 						print('============')
 						cert = cert[0].replace('!@#$&*()','\n')
 						load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-						cert_res = get_certificate_info(load_cert,url,'invalid')
+						cert_res = get_certificate_info(load_cert,url,'invalid',ip)
 						# print(cert)
 					p = subprocess.Popen(["curl", "-k" ,url, "--head","-m","30"],stdout=subprocess.PIPE)
 					out, err = p.communicate()
@@ -156,9 +157,10 @@ def get_curl_info(url,curl_data):
 	print(json_data)
 	return json_data
 
-def get_certificate_info(cert,url,validity):
+def get_certificate_info(cert,url,validity,ip):
 	# print(cert)
 	data = {}
+	data['ip'] = ip
 	data['url'] = url
 	data['valid'] = validity
 	# data['extension'] = cert.get_extension()

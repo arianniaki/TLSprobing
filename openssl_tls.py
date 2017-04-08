@@ -13,7 +13,7 @@ ciphers = ['ECDHE-RSA-RC4-SHA','DHE-RSA-AES256-SHA', 'DHE-RSA-CAMELLIA256-SHA', 
 
 # tls_version = sys.argv[2]
 #tls_versions = ['-ssl3','-tls1','-tls1_1','-tls1_2']
-tls_versions = ['-tls1','-tls1_1','-tls1_2']
+tls_versions = ['-ssl3','-tls1','-tls1_1','-tls1_2']
 
 def get_client_hello_info(s_client_out,url):
 	#print('===========START=====================')
