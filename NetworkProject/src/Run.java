@@ -22,7 +22,7 @@ public class Run {
 		FileInputStream inputStream = new FileInputStream(new File(dir));
 		Scanner reader = new Scanner(inputStream, "UTF-8");		
 
-        String keyword = "Rice University";
+        String keyword = "Georgia Institute of Technology";
         
         ArrayList<String> list = new ArrayList<>();
         int index = 0;
@@ -32,7 +32,8 @@ public class Run {
             String[] tokens = line.split(",");
             
             // if found 
-            if(tokens[2].toLowerCase().contains(keyword.toLowerCase())){
+            if(tokens[2].toLowerCase().contains(keyword.toLowerCase())) {
+            	System.out.println(tokens[2]);
             	String temp = tokens[2];
             	temp = temp.substring(1, temp.length()-1);
             	String[] temp_tokens = temp.split(" ");
@@ -43,7 +44,8 @@ public class Run {
             index++;	
             	
         }
-		
+        
+        
         System.out.println("Found AS list for keyword: " + keyword + "\n" + list);
         //String command = "whois -h whois.radb.net -- \'-i origin "+ list.get(0)+"\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
         //System.out.println(command + "\n");
