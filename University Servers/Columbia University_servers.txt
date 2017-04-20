@@ -1,0 +1,2 @@
+https://192.12.82.22,syr-asavpn-1.net.columbia.edu,192.12.82.0/24
+
