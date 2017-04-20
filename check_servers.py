@@ -69,7 +69,7 @@ def check_without_verify(url,file,subnet):
 					pass
 					# print("invalid header")
 			except requests.exceptions.ReadTimeout:
-				print 'timeout'	
+				print 'timeout: '+url	
 
 
 subnet_file_name = sys.argv[1]
