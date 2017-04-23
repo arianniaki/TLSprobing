@@ -31,84 +31,121 @@ def check_ssl(url,cname,subnet ):
 				if(good_cname == 0):
 					print("======CNAME NOT GOOD======")
 					print(url, cname)
+					return '','',''
+				if(good_cname == 1):
+						try:
+							url = url.replace('*.','')
+							print(url+'  try')
+							req = requests.get(url, verify=True,timeout=0.5)
+							print url + ' >>>>>>>>>>>>>>>> has a valid SSL certificate!'
+							print('--\n')
+							# servers_file.write(url+'\n')
+							url_without_https = url.replace("https://","")
+							print(url_without_https)
+							try:
+								cert = ssl.get_server_certificate((url_without_https, 443))
+								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
+								cert_res = get_certificate_info(load_cert,url,'valid',ip)
+								print("___CURL INFO___")
+								curl_res = get_curl_info(url,req.headers)
+								print("____END CURL___\n")
+								return 'valid_https',curl_res,cert_res
+							except ssl.SSLError:
+								print("SSL ERROR ______ __ _ _ ")
+								return 'https','',''
+							except requests.exceptions.SSLError:
+								print("sni ERROR")
+								return 'https','',''
+						except requests.exceptions.TooManyRedirects:
+							print("too many redirect")
+							return 'https','',''
+						except requests.exceptions.ConnectionError:
+							print "connection error, site won't respond to dns name"
+							print url + ' >>>>>>>>>>>>>>>> has INVALID SSL certificate!'
+							# servers_file.write(url+'\n')
+							url_without_https = ip.replace("https://","")
 
-				try:
-					url = url.replace('*.','')
-					print(url+'  try')
-					req = requests.get(url, verify=True,timeout=0.5)
-					print url + ' >>>>>>>>>>>>>>>> has a valid SSL certificate!'
-					print('--\n')
-					# servers_file.write(url+'\n')
-					url_without_https = url.replace("https://","")
-					print(url_without_https)
-					try:
-						cert = ssl.get_server_certificate((url_without_https, 443))
-						load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-						cert_res = get_certificate_info(load_cert,url,'valid',ip)
-						print("___CURL INFO___")
-						curl_res = get_curl_info(url,req.headers)
-						print("____END CURL___\n")
-						return 'valid_https',curl_res,cert_res
-					except ssl.SSLError:
-						print("SSL ERROR ______ __ _ _ ")
-						return 'https','',''
-					except requests.exceptions.SSLError:
-						print("sni ERROR")
-						return 'https','',''
-				except requests.exceptions.TooManyRedirects:
-					print("too many redirect")
-					return 'https','',''
+							p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443",'-status','-verify_return_error'], stdout=subprocess.PIPE)
+							out, err = p.communicate()
+							print("??????????")
+							print(out)
+							print("++++++++")
+							if("self" in out):
+								print("__+_+_+_+_+_+_+_+_+_+_+__+_++_++++_+_++_+_+_")
+							out_without_n = out.replace('\n','!@#$&*()')
 
-				except requests.exceptions.SSLError:
-					print url + ' >>>>>>>>>>>>>>>> has INVALID SSL certificate!'
-					# servers_file.write(url+'\n')
-					url_without_https = url.replace("https://","")
+							cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
+							if(len(cert)>0):
+								print('============')
+								print(cert)
+								print('============')
+								cert = cert[0].replace('!@#$&*()','\n')
+								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
+								if("Verify return code: 0 (ok)" in out):
+									cert_res = get_certificate_info(load_cert,ip,'valid',ip)
+								else:
+									cert_res = get_certificate_info(load_cert,ip,'invalid',ip)
+								# print(cert)
+							p = subprocess.Popen(["curl", "-k" ,ip, "--head","-m","30"],stdout=subprocess.PIPE)
+							out, err = p.communicate()
+							print("___CURL INFO___")
+							print(out)
+							curl_res = get_curl_info_invalidcert(url,out)
+							return 'invalid_https',curl_res,cert_res
+							print("____END CURL___\n")
 
-					p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443"], stdout=subprocess.PIPE)
-					out, err = p.communicate()
-					out_without_n = out.replace('\n','!@#$&*()')
-					cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
-					if(len(cert)>0):
-						print('============')
-						print(cert)
-						print('============')
-						cert = cert[0].replace('!@#$&*()','\n')
-						load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-						cert_res = get_certificate_info(load_cert,url,'invalid',ip)
-						# print(cert)
-					p = subprocess.Popen(["curl", "-k" ,url, "--head","-m","30"],stdout=subprocess.PIPE)
-					out, err = p.communicate()
-					print("___CURL INFO___")
-					print(out)
-					curl_res = get_curl_info_invalidcert(url,out)
-					return 'invalid_https',curl_res,cert_res
-					print("____END CURL___\n")
+						except requests.exceptions.SSLError:
+							# print("bad handshake: Error([('SSL routines', 'tls_process_server_certificate', 'certificate verify failed")
+							print url + ' >>>>>>>>>>>>>>>> has INVALID SSL certificate!'
+							# servers_file.write(url+'\n')
+							url_without_https = url.replace("https://","")
+
+							p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443",'-status','-verify_return_error'], stdout=subprocess.PIPE)
+							out, err = p.communicate()
+							if("self" in out):
+								print("__+_+_+_+_+_+_+_+_+_+_+__+_++_++++_+_++_+_+_")
+							out_without_n = out.replace('\n','!@#$&*()')
+							cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
+							if(len(cert)>0):
+								print('============')
+								print(cert)
+								print('============')
+								cert = cert[0].replace('!@#$&*()','\n')
+								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
+								cert_res = get_certificate_info(load_cert,url,'invalid',ip)
+								# print(cert)
+							p = subprocess.Popen(["curl", "-k" ,url, "--head","-m","30"],stdout=subprocess.PIPE)
+							out, err = p.communicate()
+							print("___CURL INFO___")
+							print(out)
+							curl_res = get_curl_info_invalidcert(url,out)
+							return 'invalid_https',curl_res,cert_res
+							print("____END CURL___\n")
 
 
-					# ssl._create_default_https_context = ssl._create_unverified_context() 
-					# cert = ssl.get_server_certificate((url_without_https, 443))
-					# print(cert)
-					
-					# get_curl_info(url,req.headers)
-
-				except requests.exceptions.ConnectionError:
-					# try to send http request
-					newurl = url.replace("https","http")
-					try:
-						req = requests.get(newurl,timeout = 0.1)
-						curl_res = get_curl_info(url,req.headers)
-						return 'http',curl_res,'none'
-					except requests.exceptions.ConnectionError:
-						pass
-						return 'http','',''
-						# print("NOT SSL AND Not a Web Server")
-					except requests.exceptions.ReadTimeout:
-						pass
-						return 'https','',''
-						# print ("NOT SSL timeout No web server at all")
-				except requests.exceptions.ReadTimeout:
-					print 'timeout'
-					return 'https','',''
+							# ssl._create_default_https_context = ssl._create_unverified_context() 
+							# cert = ssl.get_server_certificate((url_without_https, 443))
+							# print(cert)
+							
+							# get_curl_info(url,req.headers)
+						# except requests.exceptions.ConnectionError:
+						# 	# try to send http request
+						# 	newurl = url.replace("https","http")
+						# 	try:
+						# 		req = requests.get(newurl,timeout = 0.1)
+						# 		curl_res = get_curl_info(url,req.headers)
+						# 		return 'http',curl_res,'none'
+						# 	except requests.exceptions.ConnectionError:
+						# 		pass
+						# 		return 'http','',''
+						# 		# print("NOT SSL AND Not a Web Server")
+						# 	except requests.exceptions.ReadTimeout:
+						# 		pass
+						# 		return 'https','',''
+						# 		# print ("NOT SSL timeout No web server at all")
+						except requests.exceptions.ReadTimeout:
+							print 'timeout'
+							return 'https','',''
 			else:
 				print("HTTP URL", url)
 				try:
@@ -169,19 +206,21 @@ def get_certificate_info(cert,url,validity,ip):
 	issuer = cert.get_issuer()
 	issued_by = issuer.CN
 	# print(issued_by)
-	data['issuer'] = str(cert.get_issuer())
+	# data['Issuer'] = str(cert.get_issuer())
 	data['Issuer_Country'] = cert.get_issuer().C
 	data['Issuer_State'] = cert.get_issuer().ST
 	data['Issuer_Location'] = cert.get_issuer().L
 	data['Issuer_Organization'] = cert.get_issuer().O
+	data['Issuer Organization_Unit'] = cert.get_issuer().OU
 	data['Issuer_Common_Name'] = cert.get_issuer().CN
+
 
 	data['not_after'] = time_format(str(cert.get_notAfter()))
 	data['not_before'] = time_format(str(cert.get_notBefore()))
 	# data['public_key'] = cert.get_pubkey()
 	data['serial_number'] = cert.get_serial_number()
 	data['sig_alg'] = cert.get_signature_algorithm()
-	data['subject'] = str(cert.get_subject())
+	# data['subject'] = str(cert.get_subject())
 	data['Country'] = cert.get_subject().C
 	data['State'] =cert.get_subject().ST
 	data['Location'] = cert.get_subject().L

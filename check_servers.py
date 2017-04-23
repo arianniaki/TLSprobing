@@ -69,31 +69,7 @@ def check_without_verify(url,file,subnet):
 					pass
 					# print("invalid header")
 			except requests.exceptions.ReadTimeout:
-				print 'timeout'
-
-
-def get_certificate_info(cert,url):
-	print(cert)
-	data = {}
-	data['url'] = url
-	# data['extension'] = cert.get_extension()
-	subject = cert.get_subject()
-	data['issued_to'] = str(subject.CN)
-	issuer = cert.get_issuer()
-	issued_by = issuer.CN
-	print(issued_by)
-	data['issuer'] = str(cert.get_issuer())
-	data['not_after'] = cert.get_notAfter()
-	data['not_before'] = cert.get_notBefore()
-	# data['public_key'] = cert.get_pubkey()
-	data['serial_number'] = cert.get_serial_number()
-	data['sig_alg'] = cert.get_signature_algorithm()
-	data['subject'] = str(cert.get_subject())
-	data['version'] = cert.get_version()
-	data['has_expired'] = cert.has_expired()
-	# print(data)
-	json_data = json.dumps(data)
-	print(json_data)
+				print 'timeout: '+url	
 
 
 subnet_file_name = sys.argv[1]
