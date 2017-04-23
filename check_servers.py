@@ -27,15 +27,16 @@ def check_without_verify(url,file,subnet):
 					print("SSL ERROR")
 					servers_file.write(url+','+issued_to+','+subnet+', SSL Error'+'\n')
 				except requests.exceptions.SSLError:
-					print("SNI ERROR")
-					servers_file.write(url+','+issued_to+','+subnet+', SNI Error'+'\n')
-				except requests.exceptions.SSLError:
 					print("Bad SSL Handshake Error")
 					servers_file.write(url+','+url+','+subnet+', SSL Handshake Error'+'\n')
+
 				except requests.exceptions.ConnectionError:
 					print("connection Error")
 					# servers_file.write(url+','+url+','+subnet+', Connection Error'+'\n')
-
+			
+			except requests.exceptions.SSLError:
+				print("Bad SSL Handshake Error")
+				servers_file.write(url+','+url+','+subnet+', SSL Handshake Error'+'\n')
 			except ssl.SSLError:
 				servers_file.write(url+','+url+','+subnet+', SSL Error'+'\n')
 				print("SSL ERROR")
