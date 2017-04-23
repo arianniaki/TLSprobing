@@ -69,6 +69,7 @@ def check_without_verify(url,file,subnet):
 					pass
 					# print("invalid header")
 			except requests.exceptions.ReadTimeout:
+				servers_file.write(url+','+url+','+subnet+', Timeout'+'\n')
 				print 'timeout: '+url	
 
 
