@@ -25,7 +25,7 @@ def check_without_verify(url,file,subnet):
 					servers_file.write(url+','+issued_to+','+subnet+'\n')
 				except ssl.SSLError:
 					print("SSL ERROR")
-					servers_file.write(url+','+issued_to+','+subnet+', SSL Error'+'\n')
+					servers_file.write(url+','+subnet+', SSL Error'+'\n')
 				except requests.exceptions.SSLError:
 					print("Bad SSL Handshake Error")
 					servers_file.write(url+','+url+','+subnet+', SSL Handshake Error'+'\n')
@@ -33,7 +33,7 @@ def check_without_verify(url,file,subnet):
 				except requests.exceptions.ConnectionError:
 					print("connection Error")
 					# servers_file.write(url+','+url+','+subnet+', Connection Error'+'\n')
-			
+
 			except requests.exceptions.SSLError:
 				print("Bad SSL Handshake Error")
 				servers_file.write(url+','+url+','+subnet+', SSL Handshake Error'+'\n')
@@ -45,7 +45,7 @@ def check_without_verify(url,file,subnet):
 				print("OpenSSL syscall error" )
 			except socket.error:
 				servers_file.write(url+','+url+','+subnet+', SSL Socket error'+'\n')
-				print("socket error" )					
+				print("socket error" )
 
 			except requests.exceptions.TooManyRedirects:
 				print("too many redirects")
@@ -71,13 +71,13 @@ def check_without_verify(url,file,subnet):
 					# print("invalid header")
 			except requests.exceptions.ReadTimeout:
 				servers_file.write(url+','+url+','+subnet+', Timeout'+'\n')
-				print 'timeout: '+url	
+				print 'timeout: '+url
 
 
 subnet_file_name = sys.argv[1]
 servers_file = open(subnet_file_name+"_servers.txt", "w")
 
-F = open(subnet_file_name+'.txt',"r") 
+F = open(subnet_file_name+'.txt',"r")
 list_of_subnets = F.readlines()
 print(list_of_subnets)
 for subnet in list_of_subnets:
