@@ -14,7 +14,7 @@ import socket
 def check_without_verify(url,file,subnet):
 			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 			try:
-				req = requests.get(url, verify=False,timeout=0.1)
+				req = requests.get(url, verify=False,timeout=0.15)
 				print url + ' SSL certificate!'
 				url_without_https = url.replace("https://","")
 				try:
@@ -54,7 +54,7 @@ def check_without_verify(url,file,subnet):
 				# try to send http request
 				newurl = url.replace("https","http")
 				try:
-					req = requests.get(newurl,timeout = 0.1)
+					req = requests.get(newurl,timeout = 0.15)
 					# get_curl_info(newurl,req.headers)
 					servers_file.write(newurl+','+','+subnet+'\n')
 				except requests.exceptions.ConnectionError:
