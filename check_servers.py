@@ -40,6 +40,9 @@ def check_without_verify(url,file,subnet):
 			except ssl.SSLError:
 				servers_file.write(url+','+url+','+subnet+',SSL Error'+'\n')
 				print("SSL ERROR", url)
+			except OpenSSL.SSL.Error:
+				print("openssl error",url)
+
 			except OpenSSL.SSL.SysCallError:
 				servers_file.write(url+','+url+','+subnet+',SSL SyscallError'+'\n')
 				print("OpenSSL syscall error",url)
