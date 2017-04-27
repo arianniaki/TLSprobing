@@ -56,7 +56,7 @@ list_of_servers = F.readlines()
 file_to_read_name, file_to_read_format = file_to_read.split('.')
 
 response_json = {}
-response_json["university"] = file_to_read_name
+# response_json["university"] = file_to_read_name
 children = []
 
 for server in list_of_servers:
@@ -66,6 +66,7 @@ for server in list_of_servers:
 			print('===========START=====================')
 			print('Protocol: ' + ver)
 			data = {}
+			data['university'] = file_to_read_name
 			data['url'] = url
 			data['Protocol'] = ver
 

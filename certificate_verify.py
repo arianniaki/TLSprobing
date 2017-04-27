@@ -247,8 +247,8 @@ F = open(subnet_file_name,"r")
 list_of_servers = F.readlines()
 response_json = {}
 response_curl_json = {}
-response_curl_json["university"] = subnet_file_name
-response_json["university"] = subnet_file_name
+# response_curl_json["university"] = subnet_file_name
+# response_json["university"] = subnet_file_name
 
 children_certs = []
 children_curls = []
