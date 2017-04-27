@@ -22,7 +22,7 @@ public class Run {
 		FileInputStream inputStream = new FileInputStream(new File(dir));
 		Scanner reader = new Scanner(inputStream, "UTF-8");		
 
-        String keyword = "Georgia Institute of Technology";
+        String keyword = "University of Utah";
         
         ArrayList<String> list = new ArrayList<>();
         int index = 0;
@@ -45,6 +45,7 @@ public class Run {
             	
         }
         
+        //list.remove("AS13712");
         
         System.out.println("Found AS list for keyword: " + keyword + "\n" + list);
         //String command = "whois -h whois.radb.net -- \'-i origin "+ list.get(0)+"\' | grep -Eo \"([0-9.]+){4}/[0-9]+\"";
