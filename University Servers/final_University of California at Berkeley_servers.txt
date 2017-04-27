@@ -1,0 +1,2141 @@
+https://128.32.3.38,HP Jetdirect DE142E50,128.32.0.0/16
+https://128.32.3.40,Canon iR-ADV,128.32.0.0/16
+https://128.32.3.74,HP Jetdirect A04C0B44,128.32.0.0/16
+https://128.32.3.79,OPENSSL,128.32.0.0/16
+https://128.32.3.80,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.3.103,TDHGLABSERVER.campus.berkeley.edu,128.32.0.0/16
+https://128.32.3.121,device2513950-6e09e1d3.wd2go.com,128.32.0.0/16
+https://128.32.3.158,NPI01500A,128.32.0.0/16
+https://128.32.3.246,128.32.3.247,128.32.0.0/16
+https://128.32.8.2,synology.com,128.32.0.0/16
+https://128.32.8.4,NPIB92A6E,128.32.0.0/16
+https://128.32.8.50,HP Jetdirect 7D88C3B0,128.32.0.0/16
+https://128.32.8.74,HP Jetdirect 2BA34B18,128.32.0.0/16
+https://128.32.8.99,intermedia.glasslab.org,128.32.0.0/16
+https://128.32.8.143,HP Jetdirect 2BA05714,128.32.0.0/16
+https://128.32.10.8,HP6026A5,128.32.0.0/16
+https://128.32.10.55,OPENSSL,128.32.0.0/16
+https://128.32.10.56,OPENSSL,128.32.0.0/16
+https://128.32.10.147,vm147,128.32.0.0/16
+https://128.32.10.163,las.lib.berkeley.edu,128.32.0.0/16
+https://128.32.10.164,OPENSSL,128.32.0.0/16
+https://128.32.10.176,dev-oskicatp.berkeley.edu,128.32.0.0/16
+https://128.32.10.184,None,128.32.0.0/16
+https://128.32.10.191,*.lib.berkeley.edu,128.32.0.0/16
+https://128.32.10.196,dev-sierra.lib.berkeley.edu,128.32.0.0/16
+https://128.32.10.205,oskicatp.berkeley.edu,128.32.0.0/16
+https://128.32.10.209,dev-oskicat.berkeley.edu,128.32.0.0/16
+https://128.32.10.210,oskicat.berkeley.edu,128.32.0.0/16
+https://128.32.10.211,oskicat3.lib.berkeley.edu,128.32.0.0/16
+https://128.32.11.34,OPENSSL,128.32.0.0/16
+https://128.32.13.127,efw.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.155,git.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.162,spp.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.164,docs.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.198,DS9.SSL.Berkeley.EDU,128.32.0.0/16
+https://128.32.13.215,sunearth.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.223,sunearth2.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.229,sprg.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.230,www.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.232,computing.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.235,svn.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.237,lists.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.13.244,files.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.14.209,xlab-pdc,128.32.0.0/16
+https://128.32.15.2,128.32.15.2,128.32.0.0/16
+https://128.32.15.26,58:97:bd:6b:39:dc,128.32.0.0/16
+https://128.32.16.32,Preset Certificate,128.32.0.0/16
+https://128.32.16.142,OPENSSL,128.32.0.0/16
+https://128.32.16.178,OPENSSL,128.32.0.0/16
+https://128.32.16.179,OPENSSL,128.32.0.0/16
+https://128.32.16.180,OPENSSL,128.32.0.0/16
+https://128.32.16.186,HP Jetdirect 1727CEC9,128.32.0.0/16
+https://128.32.16.218,HP Jetdirect 088DD4F6,128.32.0.0/16
+https://128.32.17.9,forum.pierobotics.org,128.32.0.0/16
+https://128.32.17.15,tbp.berkeley.edu,128.32.0.0/16
+https://128.32.17.28,XRX9C934E3325A6,128.32.0.0/16
+https://128.32.17.35,A_LifeSize_System,128.32.0.0/16
+https://128.32.17.90,HP Jetdirect D03C4E7B,128.32.0.0/16
+https://128.32.18.49,ssl-ops-vpn.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.18.56,themisgbo-2.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.18.61,ops-srvr.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.18.176,casper.berkeley.edu,128.32.0.0/16
+https://128.32.18.185,setibase.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.18.251,webmail.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.19.2,HP5CD91A,128.32.0.0/16
+https://128.32.19.6,NPI535080,128.32.0.0/16
+https://128.32.19.7,NPIBFE77A,128.32.0.0/16
+https://128.32.19.10,synology.com,128.32.0.0/16
+https://128.32.19.76,FMI Default Certificate,128.32.0.0/16
+https://128.32.19.79,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.19.82,HP Jetdirect A04FF732,128.32.0.0/16
+https://128.32.19.210,synology.com,128.32.0.0/16
+https://128.32.19.225,OPENSSL,128.32.0.0/16
+https://128.32.19.249,NPID7CF90,128.32.0.0/16
+https://128.32.25.86,sagebrush.berkeley.edu,128.32.0.0/16
+https://128.32.26.2,XRX9C934E931A64,128.32.0.0/16
+https://128.32.26.3,HP Jetdirect 2A010793,128.32.0.0/16
+https://128.32.26.78,128.32.26.78,128.32.0.0/16
+https://128.32.26.79,XRX9C934E32DF48,128.32.0.0/16
+https://128.32.26.111,OPENSSL,128.32.0.0/16
+https://128.32.26.126,128.32.26.126,128.32.0.0/16
+https://128.32.26.133,OPENSSL,128.32.0.0/16
+https://128.32.26.136,OPENSSL,128.32.0.0/16
+https://128.32.26.137,OPENSSL,128.32.0.0/16
+https://128.32.26.144,XRX9C934E310232,128.32.0.0/16
+https://128.32.26.145,OPENSSL,128.32.0.0/16
+https://128.32.26.154,OPENSSL,128.32.0.0/16
+https://128.32.26.166,OPENSSL,128.32.0.0/16
+https://128.32.26.201,OPENSSL,128.32.0.0/16
+https://128.32.26.213,128.32.26.213,128.32.0.0/16
+https://128.32.26.215,128.32.26.215,128.32.0.0/16
+https://128.32.26.219,128.32.26.219,128.32.0.0/16
+https://128.32.26.225,128.32.26.225,128.32.0.0/16
+https://128.32.27.134,NPI153645,128.32.0.0/16
+https://128.32.27.207,OPENSSL,128.32.0.0/16
+https://128.32.27.247,NPI2190A7,128.32.0.0/16
+https://128.32.30.143,NPI4EEE20,128.32.0.0/16
+https://128.32.30.206,NPIFEE271,128.32.0.0/16
+https://128.32.33.222,gdp.cs.berkeley.edu,128.32.0.0/16
+https://128.32.35.232,self.cs.berkeley.edu,128.32.0.0/16
+https://128.32.36.236,synology.com,128.32.0.0/16
+https://128.32.37.188,rll-server2.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.37.201,r.cal-sdb.org,128.32.0.0/16
+https://128.32.37.203,freeside-1,128.32.0.0/16
+https://128.32.37.207,default.autocert.smartgrid.store,128.32.0.0/16
+https://128.32.37.209,VMware,128.32.0.0/16
+https://128.32.37.212,kubi-qarc.cs.berkeley.edu,128.32.0.0/16
+https://128.32.37.213,kubi.cs.berkeley.edu,128.32.0.0/16
+https://128.32.37.231,plot.upmu.org,128.32.0.0/16
+https://128.32.37.241,upmuplot.cal-sdb.org,128.32.0.0/16
+https://128.32.37.248,research.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.40.245,diskstation.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.42.30,acropolis.cs.berkeley.edu,128.32.0.0/16
+https://128.32.42.57,repo.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.42.96,ds8-proxy.cs.berkeley.edu,128.32.0.0/16
+https://128.32.42.119,imail.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.42.196,isvn.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.42.199,inst.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.43.202,BIOMIMETICS,128.32.0.0/16
+https://128.32.43.242,abestick-server.EECS.Berkeley.EDU,128.32.0.0/16
+https://128.32.48.153,tilden.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.48.216,erso-it5.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.48.231,consrt.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.48.245,light.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.49.2,www.dlink.com,128.32.0.0/16
+https://128.32.49.9,HP Jetdirect B85E0081,128.32.0.0/16
+https://128.32.49.28,Dell B3460dn Laser Printer,128.32.0.0/16
+https://128.32.49.87,Preset Certificate,128.32.0.0/16
+https://128.32.49.133,OPENSSL,128.32.0.0/16
+https://128.32.50.69,NPI66B003,128.32.0.0/16
+https://128.32.50.198,VMware,128.32.0.0/16
+https://128.32.51.3,128.32.51.3,128.32.0.0/16
+https://128.32.51.6,HP Jetdirect D19FBD0D,128.32.0.0/16
+https://128.32.51.8,NPIA66B52.berkeley.edu,128.32.0.0/16
+https://128.32.51.85,NPI622430.berkeley.edu,128.32.0.0/16
+https://128.32.51.233,128.32.51.233,128.32.0.0/16
+https://128.32.52.45,RNP002673BFCBC0,128.32.0.0/16
+https://128.32.52.53,NPI95DE77.berkeley.edu,128.32.0.0/16
+https://128.32.52.54,HP Jetdirect B3FBB493,128.32.0.0/16
+https://128.32.52.57,NPI25F7CC.berkeley.edu,128.32.0.0/16
+https://128.32.52.69,HP Jetdirect D70ECE9C,128.32.0.0/16
+https://128.32.52.73,NPIC0D8F1.berkeley.edu,128.32.0.0/16
+https://128.32.52.82,128.32.52.82,128.32.0.0/16
+https://128.32.52.87,128.32.52.87,128.32.0.0/16
+https://128.32.53.198,h2195-322-321s77-022-d.ist.berkeley.edu.berkeley.edu,128.32.0.0/16
+https://128.32.53.199,rfcodef718a7,128.32.0.0/16
+https://128.32.53.200,static-128-32-53-200.ist.berkeley.edu,128.32.0.0/16
+https://128.32.53.201,static-128-32-53-201.IST.Berkeley.EDU.berkeley.edu,128.32.0.0/16
+https://128.32.53.202,static-128-32-53-202.IST.Berkeley.EDU.berkeley.edu,128.32.0.0/16
+https://128.32.53.203,static-128-32-53-203.IST.Berkeley.EDU.berkeley.edu,128.32.0.0/16
+https://128.32.53.206,rfcodef712f1,128.32.0.0/16
+https://128.32.53.207,rfcodef712ef,128.32.0.0/16
+https://128.32.53.208,static-128.32.53.208.ist.berkeley.edu.berkeley.edu,128.32.0.0/16
+https://128.32.54.137,OPENSSL,128.32.0.0/16
+https://128.32.54.141,HP Jetdirect DE111290,128.32.0.0/16
+https://128.32.54.163,HP Jetdirect 7D6F7208,128.32.0.0/16
+https://128.32.55.52,HP Jetdirect CC9C3450,128.32.0.0/16
+https://128.32.55.94,NPI5A4D2A,128.32.0.0/16
+https://128.32.55.130,XRX9C934E50B78D,128.32.0.0/16
+https://128.32.55.162,*.elauwit.net,128.32.0.0/16
+https://128.32.55.163,*.elauwit.net,128.32.0.0/16
+https://128.32.55.169,*.elauwit.net,128.32.0.0/16
+https://128.32.55.207,NPI3AF899,128.32.0.0/16
+https://128.32.56.14,vpn.internal.alumni.berkeley.edu,128.32.0.0/16
+https://128.32.56.20,OPENSSL,128.32.0.0/16
+https://128.32.56.75,Lexmark CS410dn,128.32.0.0/16
+https://128.32.57.136,HP Jetdirect B85F5B56,128.32.0.0/16
+https://128.32.57.147,NPIB3B30E.berkeley.edu,128.32.0.0/16
+https://128.32.57.149,HP Jetdirect 5A9075BB,128.32.0.0/16
+https://128.32.58.15,AWiND,128.32.0.0/16
+https://128.32.58.21,AWiND,128.32.0.0/16
+https://128.32.58.33,AWiND,128.32.0.0/16
+https://128.32.58.35,AWiND,128.32.0.0/16
+https://128.32.58.43,AWiND,128.32.0.0/16
+https://128.32.58.62,AWiND,128.32.0.0/16
+https://128.32.58.63,AWiND,128.32.0.0/16
+https://128.32.58.67,AWiND,128.32.0.0/16
+https://128.32.58.206,LaCie SA,128.32.0.0/16
+https://128.32.58.235,HP Jetdirect 0B1AB3F8,128.32.0.0/16
+https://128.32.58.237,OPENSSL,128.32.0.0/16
+https://128.32.58.241,OPENSSL,128.32.0.0/16
+https://128.32.58.245,TS Series NAS,128.32.0.0/16
+https://128.32.59.134,backup-srv-4.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.136,grizzlybear.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.139,fs1.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.141,virt2.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.145,zw1100_EC43F6FDA480,128.32.0.0/16
+https://128.32.59.158,rstudio.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.161,jss-dev1.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.162,jss.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.59.165,biostat-svn.berkeley.edu,128.32.0.0/16
+https://128.32.59.173,grizzlybear2.biostat.berkeley.edu,128.32.0.0/16
+https://128.32.60.4,HP Jetdirect DB54AD62,128.32.0.0/16
+https://128.32.60.98,128.32.60.98,128.32.0.0/16
+https://128.32.60.170,XRX9C934E30E57A,128.32.0.0/16
+https://128.32.60.174,XRX9C934E4A594F,128.32.0.0/16
+https://128.32.60.181,XRX9C934E4A592B,128.32.0.0/16
+https://128.32.60.198,Preset Certificate,128.32.0.0/16
+https://128.32.61.17,XRX9C934E86224E,128.32.0.0/16
+https://128.32.61.198,wbe-itunes.berkeley.edu,128.32.0.0/16
+https://128.32.61.200,classrooms.berkeley.edu,128.32.0.0/16
+https://128.32.61.201,*.ets.berkeley.edu,128.32.0.0/16
+https://128.32.61.202,*.ets.berkeley.edu,128.32.0.0/16
+https://128.32.63.8,bwrc.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.63.18,bwrcdevvm2.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.63.33,OPENSSL,128.32.0.0/16
+https://128.32.63.37,bwrcs.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.63.47,bwrcwebdev.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.63.66,bwrcrepo.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.63.76,OPENSSL,128.32.0.0/16
+https://128.32.67.93,dotberkeleyvip.haas.berkeley.edu,128.32.0.0/16
+https://128.32.67.112,search.haas.berkeley.edu,128.32.0.0/16
+https://128.32.67.137,tsgate.haas.berkeley.edu,128.32.0.0/16
+https://128.32.67.174,haas.berkeley.edu,128.32.0.0/16
+https://128.32.67.175,*.haas.berkeley.edu,128.32.0.0/16
+https://128.32.67.176,mail.haas.berkeley.edu,128.32.0.0/16
+https://128.32.68.112,HP Jetdirect 2B9FA1BE,128.32.0.0/16
+https://128.32.69.12,NPI23653D.berkeley.edu,128.32.0.0/16
+https://128.32.76.53,HP Jetdirect F35AC0A8,128.32.0.0/16
+https://128.32.76.68,XRX9C934E50F47A,128.32.0.0/16
+https://128.32.76.97,HP LaserJet 500 color M551 [33F052],128.32.0.0/16
+https://128.32.76.119,HPF78BC6,128.32.0.0/16
+https://128.32.76.137,128.32.76.137,128.32.0.0/16
+https://128.32.77.26,HP LaserJet 600 M602 [61004E],128.32.0.0/16
+https://128.32.77.35,HP LaserJet 600 M602 [60FECD],128.32.0.0/16
+https://128.32.77.82,HP LaserJet 600 M602 [601FC8],128.32.0.0/16
+https://128.32.77.91,HP LaserJet 600 M602 [60EE72],128.32.0.0/16
+https://128.32.77.100,HP LaserJet 600 M602 [61CFED],128.32.0.0/16
+https://128.32.77.109,HP LaserJet 600 M602 [60EE7C],128.32.0.0/16
+https://128.32.78.11,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.13,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.16,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.17,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.19,bebop.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.24,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.25,omen.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.26,ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.27,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.28,hellbender.info.local,128.32.0.0/16
+https://128.32.78.29,persimmon.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.78.221,OPENSSL,128.32.0.0/16
+https://128.32.79.6,OPENSSL,128.32.0.0/16
+https://128.32.79.30,OPENSSL,128.32.0.0/16
+https://128.32.79.57,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.79.84,HP Jetdirect D03F139E,128.32.0.0/16
+https://128.32.79.130,128.32.79.130,128.32.0.0/16
+https://128.32.80.18,VMware,128.32.0.0/16
+https://128.32.80.72,bcswebqat.is.berkeley.edu,128.32.0.0/16
+https://128.32.80.92,bcswebqat.is.berkeley.edu,128.32.0.0/16
+https://128.32.80.93,bcswebqat.is.berkeley.edu,128.32.0.0/16
+https://128.32.80.138,g.ucla.edu,128.32.0.0/16
+https://128.32.80.139,g.ucla.edu,128.32.0.0/16
+https://128.32.80.146,shb.ais.ucla.edu,128.32.0.0/16
+https://128.32.80.167,list1.bruinpost.ucla.edu,128.32.0.0/16
+https://128.32.80.207,www.ucla.edu,128.32.0.0/16
+https://128.32.80.208,www.ucla.edu,128.32.0.0/16
+https://128.32.80.219,www.ucla.edu,128.32.0.0/16
+https://128.32.81.13,XRX9C934E5F9B1B,128.32.0.0/16
+https://128.32.82.7,RNP002673C331E8,128.32.0.0/16
+https://128.32.83.18,OPENSSL,128.32.0.0/16
+https://128.32.83.27,OPENSSL,128.32.0.0/16
+https://128.32.83.30,OPENSSL,128.32.0.0/16
+https://128.32.83.32,128.32.83.32,128.32.0.0/16
+https://128.32.84.39,OPENSSL,128.32.0.0/16
+https://128.32.84.43,HP Jetdirect 463F2BA4,128.32.0.0/16
+https://128.32.84.44,HP Jetdirect D45CF232,128.32.0.0/16
+https://128.32.84.46,OPENSSL,128.32.0.0/16
+https://128.32.84.48,NPI259B69,128.32.0.0/16
+https://128.32.84.49,HP Jetdirect 4B24F9EE,128.32.0.0/16
+https://128.32.84.56,HP Jetdirect 0B1073A4,128.32.0.0/16
+https://128.32.84.57,OPENSSL,128.32.0.0/16
+https://128.32.84.60,HP Jetdirect 389D282E,128.32.0.0/16
+https://128.32.84.62,HP Jetdirect 4B2CD368,128.32.0.0/16
+https://128.32.84.77,NPI27F1D9,128.32.0.0/16
+https://128.32.84.93,OPENSSL,128.32.0.0/16
+https://128.32.84.95,FMI Default Certificate,128.32.0.0/16
+https://128.32.84.97,128.32.84.97,128.32.0.0/16
+https://128.32.84.108,HP Jetdirect 2FF61D35,128.32.0.0/16
+https://128.32.84.214,urhpdm-2080a84.urel.berkeley.edu,128.32.0.0/16
+https://128.32.85.2,HPC5840B,128.32.0.0/16
+https://128.32.85.195,NPIE741AD.berkeley.edu,128.32.0.0/16
+https://128.32.85.198,NPI3E0A16,128.32.0.0/16
+https://128.32.86.9,RNP002673C0CA26,128.32.0.0/16
+https://128.32.86.209,LHSREGScanner,128.32.0.0/16
+https://128.32.86.220,safarimontage.com,128.32.0.0/16
+https://128.32.86.251,server1.lhs.berkeley.edu,128.32.0.0/16
+https://128.32.87.132,128.32.87.132,128.32.0.0/16
+https://128.32.87.133,128.32.87.133,128.32.0.0/16
+https://128.32.87.134,128.32.87.134,128.32.0.0/16
+https://128.32.88.185,FMI Default Certificate,128.32.0.0/16
+https://128.32.88.250,HP Jetdirect 4B15D57C,128.32.0.0/16
+https://128.32.89.4,orapps.berkeley.edu,128.32.0.0/16
+https://128.32.89.9,twiki.rescomp.berkeley.edu,128.32.0.0/16
+https://128.32.89.19,maintenance.housing.berkeley.edu,128.32.0.0/16
+https://128.32.89.23,portal.housing.berkeley.edu,128.32.0.0/16
+https://128.32.91.35,NPI0272F1,128.32.0.0/16
+https://128.32.91.64,OPENSSL,128.32.0.0/16
+https://128.32.92.208,HP Jetdirect 36647C6B,128.32.0.0/16
+https://128.32.92.209,XRX9C934E92EED3,128.32.0.0/16
+https://128.32.92.210,HP Jetdirect 1C6E14EE,128.32.0.0/16
+https://128.32.92.212,OPENSSL,128.32.0.0/16
+https://128.32.92.213,HP Jetdirect 4B2CF30E,128.32.0.0/16
+https://128.32.92.215,OPENSSL,128.32.0.0/16
+https://128.32.92.216,HP Jetdirect 5419F543,128.32.0.0/16
+https://128.32.92.217,HP Jetdirect 4B1A326A,128.32.0.0/16
+https://128.32.92.219,unknownb8aeed7e133e.att.net,128.32.0.0/16
+https://128.32.92.220,localhost.localdomain,128.32.0.0/16
+https://128.32.92.221,udarhpdm1995u92.urel.berkeley.edu,128.32.0.0/16
+https://128.32.92.223,localhost.localdomain,128.32.0.0/16
+https://128.32.92.225,128.32.92.225,128.32.0.0/16
+https://128.32.92.227,localhost.localdomain,128.32.0.0/16
+https://128.32.93.22,www.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.23,www.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.25,www.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.43,www.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.52,www.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.55,www.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.57,vm3-censusmosaic,128.32.0.0/16
+https://128.32.93.61,rstudio.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.63,rstudio175.demog.berkeley.edu,128.32.0.0/16
+https://128.32.93.64,rstudio175.demog.berkeley.edu,128.32.0.0/16
+https://128.32.94.18,Canon iR-ADV,128.32.0.0/16
+https://128.32.94.131,IRLE-CLRE-CRM02.campus.berkeley.edu,128.32.0.0/16
+https://128.32.94.167,irle-X4200.campus.berkeley.edu,128.32.0.0/16
+https://128.32.95.3,128.32.95.3,128.32.0.0/16
+https://128.32.95.16,e6printer,128.32.0.0/16
+https://128.32.95.93,NPI3A62E6,128.32.0.0/16
+https://128.32.95.124,192.168.125.64,128.32.0.0/16
+https://128.32.95.136,OPENSSL,128.32.0.0/16
+https://128.32.95.253,NPICC25D5,128.32.0.0/16
+https://128.32.97.126,OPENSSL,128.32.0.0/16
+https://128.32.97.134,OPENSSL,128.32.0.0/16
+https://128.32.97.159,OPENSSL,128.32.0.0/16
+https://128.32.97.175,OPENSSL,128.32.0.0/16
+https://128.32.97.197,0.0.0.0,128.32.0.0/16
+https://128.32.98.32,jake.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.98.56,maven3.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.99.15,128.32.99.15,128.32.0.0/16
+https://128.32.99.37,128.32.99.37,128.32.0.0/16
+https://128.32.99.152,OPENSSL,128.32.0.0/16
+https://128.32.99.230,128.32.99.230,128.32.0.0/16
+https://128.32.100.131,128.32.100.131,128.32.0.0/16
+https://128.32.100.135,OPENSSL,128.32.0.0/16
+https://128.32.100.137,OPENSSL,128.32.0.0/16
+https://128.32.100.184,OPENSSL,128.32.0.0/16
+https://128.32.100.188,OPENSSL,128.32.0.0/16
+https://128.32.100.195,OPENSSL,128.32.0.0/16
+https://128.32.100.209,OPENSSL,128.32.0.0/16
+https://128.32.100.237,OPENSSL,128.32.0.0/16
+https://128.32.102.9,NPIC3388F,128.32.0.0/16
+https://128.32.102.21,Canon iR-ADV,128.32.0.0/16
+https://128.32.102.47,device2583186-3b3e5d43.wd2go.com,128.32.0.0/16
+https://128.32.102.88,synology.com,128.32.0.0/16
+https://128.32.102.170,HP Jetdirect D460CA53,128.32.0.0/16
+https://128.32.102.175,HP Jetdirect E13A9961,128.32.0.0/16
+https://128.32.102.219,HP Jetdirect 4B1463BB,128.32.0.0/16
+https://128.32.102.223,NPI531078,128.32.0.0/16
+https://128.32.102.227,PCoIP Root CA,128.32.0.0/16
+https://128.32.104.58,HP5FDD64,128.32.0.0/16
+https://128.32.104.110,PCoIP Root CA,128.32.0.0/16
+https://128.32.104.145,128.32.104.145,128.32.0.0/16
+https://128.32.104.152,128.32.104.152,128.32.0.0/16
+https://128.32.104.163,128.32.104.163,128.32.0.0/16
+https://128.32.105.2,eml.berkeley.edu,128.32.0.0/16
+https://128.32.105.133,NPI841C8C,128.32.0.0/16
+https://128.32.105.167,NPICD2CC8,128.32.0.0/16
+https://128.32.105.215,HP Jetdirect 99AD266C,128.32.0.0/16
+https://128.32.106.13,HP Jetdirect C183B617,128.32.0.0/16
+https://128.32.106.175,www.barco.com,128.32.0.0/16
+https://128.32.107.10,hitoshi.berkeley.edu,128.32.0.0/16
+https://128.32.107.22,HP Jetdirect B85D8C46,128.32.0.0/16
+https://128.32.107.41,OPENSSL,128.32.0.0/16
+https://128.32.107.61,OPENSSL,128.32.0.0/16
+https://128.32.107.68,NPI15459D,128.32.0.0/16
+https://128.32.108.189,128.32.108.189,128.32.0.0/16
+https://128.32.109.6,NPIF9353D,128.32.0.0/16
+https://128.32.109.92,00:25:25:00:84:66,128.32.0.0/16
+https://128.32.109.93,A_LifeSize_System,128.32.0.0/16
+https://128.32.109.151,OPENSSL,128.32.0.0/16
+https://128.32.110.2,OPENSSL,128.32.0.0/16
+https://128.32.110.3,NPI1788B5,128.32.0.0/16
+https://128.32.110.7,NPI9D562F,128.32.0.0/16
+https://128.32.110.37,Preset Certificate,128.32.0.0/16
+https://128.32.110.73,OPENSSL,128.32.0.0/16
+https://128.32.110.92,HP Jetdirect C183D833,128.32.0.0/16
+https://128.32.110.98,OPENSSL,128.32.0.0/16
+https://128.32.110.114,HP Jetdirect 7D6F906F,128.32.0.0/16
+https://128.32.110.131,HP Jetdirect 46482B81,128.32.0.0/16
+https://128.32.111.66,RNP002673C5965F,128.32.0.0/16
+https://128.32.112.184,OPENSSL,128.32.0.0/16
+https://128.32.112.198,csgsa.berkeley.edu,128.32.0.0/16
+https://128.32.112.202,hkn.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.112.230,www.csua.berkeley.edu,128.32.0.0/16
+https://128.32.112.233,csua.berkeley.edu,128.32.0.0/16
+https://128.32.113.13,NPIEC8EBE,128.32.0.0/16
+https://128.32.113.122,OPENSSL,128.32.0.0/16
+https://128.32.113.179,128.32.113.179,128.32.0.0/16
+https://128.32.113.193,OPENSSL,128.32.0.0/16
+https://128.32.114.28,XRX9C934E6BD396,128.32.0.0/16
+https://128.32.114.30,XRX9C934E68BA0F,128.32.0.0/16
+https://128.32.114.84,XRX9C934E702556,128.32.0.0/16
+https://128.32.114.239,128.32.114.239,128.32.0.0/16
+https://128.32.115.147,OPENSSL,128.32.0.0/16
+https://128.32.115.155,HPAD0610,128.32.0.0/16
+https://128.32.115.202,NPIE7DC89,128.32.0.0/16
+https://128.32.115.203,128.32.115.203,128.32.0.0/16
+https://128.32.116.3,NPI100243,128.32.0.0/16
+https://128.32.116.4,HP Jetdirect 92B35BF6,128.32.0.0/16
+https://128.32.116.22,HP Jetdirect D45F4325,128.32.0.0/16
+https://128.32.116.29,RNP002673C60E86,128.32.0.0/16
+https://128.32.116.30,HP Jetdirect 7444082D,128.32.0.0/16
+https://128.32.116.39,128.32.116.39,128.32.0.0/16
+https://128.32.116.40,HP Jetdirect 3EB18B67,128.32.0.0/16
+https://128.32.116.47,OPENSSL,128.32.0.0/16
+https://128.32.116.57,NPI254C32,128.32.0.0/16
+https://128.32.116.60,HP Jetdirect 9C30312B,128.32.0.0/16
+https://128.32.116.80,128.32.116.80,128.32.0.0/16
+https://128.32.116.93,NPI251CDD,128.32.0.0/16
+https://128.32.116.101,a_lifesize_system,128.32.0.0/16
+https://128.32.116.117,A_LifeSize_System,128.32.0.0/16
+https://128.32.116.148,HP Jetdirect 9CB95150,128.32.0.0/16
+https://128.32.117.45,128.32.117.45,128.32.0.0/16
+https://128.32.117.49,OPENSSL,128.32.0.0/16
+https://128.32.117.57,NPIF4E4AF.berkeley.edu,128.32.0.0/16
+https://128.32.117.82,OPENSSL,128.32.0.0/16
+https://128.32.118.2,HP LaserJet M506 F2A69A,128.32.0.0/16
+https://128.32.118.4,NPI0528A8,128.32.0.0/16
+https://128.32.118.5,middleawash.berkeley.edu,128.32.0.0/16
+https://128.32.118.18,HPE4217A,128.32.0.0/16
+https://128.32.118.59,HP Jetdirect A5100B9C,128.32.0.0/16
+https://128.32.118.69,cteg.berkeley.edu,128.32.0.0/16
+https://128.32.118.123,OPENSSL,128.32.0.0/16
+https://128.32.118.126,NPIFA08A2.berkeley.edu,128.32.0.0/16
+https://128.32.118.138,128.32.118.138,128.32.0.0/16
+https://128.32.118.173,BRN30055CF6F0DF.local,128.32.0.0/16
+https://128.32.118.194,herc.berkeley.edu,128.32.0.0/16
+https://128.32.118.200,fisher02.berkeley.edu,128.32.0.0/16
+https://128.32.118.208,iDRAC6 default certificate,128.32.0.0/16
+https://128.32.122.122,HP LaserJet 700 color MFP M775 [CCF999],128.32.0.0/16
+https://128.32.123.81,OPENSSL,128.32.0.0/16
+https://128.32.123.215,aristotle.me.berkeley.edu,128.32.0.0/16
+https://128.32.123.225,OPENSSL,128.32.0.0/16
+https://128.32.124.10,NPI001EE5.Berkeley.EDU,128.32.0.0/16
+https://128.32.124.14,128.32.124.14,128.32.0.0/16
+https://128.32.124.35,NPI3CB6A6.dyn.berkeley.edu,128.32.0.0/16
+https://128.32.124.137,HP Jetdirect 38E3F7F9,128.32.0.0/16
+https://128.32.125.42,www.wattstopper.com,128.32.0.0/16
+https://128.32.125.48,128.32.125.48,128.32.0.0/16
+https://128.32.125.94,177-Stanley-Hall.berkeley.edu,128.32.0.0/16
+https://128.32.125.100,808-Stanley-Hall.berkeley.edu,128.32.0.0/16
+https://128.32.125.156,OPENSSL,128.32.0.0/16
+https://128.32.126.93,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.126.162,dueberlab.com,128.32.0.0/16
+https://128.32.127.3,NPIBD6E6E,128.32.0.0/16
+https://128.32.127.89,HP Jetdirect 464ADFF1,128.32.0.0/16
+https://128.32.127.219,Canon iR-ADV,128.32.0.0/16
+https://128.32.128.24,Intellus,128.32.0.0/16
+https://128.32.128.28,Intellus,128.32.0.0/16
+https://128.32.128.148,Huygens2017,128.32.0.0/16
+https://128.32.128.149,golubcollection.berkeley.edu,128.32.0.0/16
+https://128.32.128.151,golubcollection.berkeley.edu,128.32.0.0/16
+https://128.32.129.8,HP LaserJet 500 color M551 [1B9942],128.32.0.0/16
+https://128.32.129.27,OPENSSL,128.32.0.0/16
+https://128.32.129.71,OPENSSL,128.32.0.0/16
+https://128.32.129.87,OPENSSL,128.32.0.0/16
+https://128.32.129.169,128.32.129.169,128.32.0.0/16
+https://128.32.129.208,RNP002673DCE079,128.32.0.0/16
+https://128.32.133.67,128.32.133.67,128.32.0.0/16
+https://128.32.133.71,XRX9C934E8632BD,128.32.0.0/16
+https://128.32.134.200,esgw01.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.134.229,ag.cs61bl.org,128.32.0.0/16
+https://128.32.134.231,cs162.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.134.238,erso-linux4.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.135.50,forage.berkeley.edu,128.32.0.0/16
+https://128.32.136.84,sheriff.net.berkeley.edu,128.32.0.0/16
+https://128.32.136.138,nettools.net.berkeley.edu,128.32.0.0/16
+https://128.32.137.54,HP Jetdirect 7D894ECA,128.32.0.0/16
+https://128.32.137.166,hadrian.ist.berkeley.edu,128.32.0.0/16
+https://128.32.137.194,NPI3A2D4D,128.32.0.0/16
+https://128.32.137.205,128.32.137.205,128.32.0.0/16
+https://128.32.137.206,OPENSSL,128.32.0.0/16
+https://128.32.137.215,128.32.137.215,128.32.0.0/16
+https://128.32.137.244,OPENSSL,128.32.0.0/16
+https://128.32.140.11,OPENSSL,128.32.0.0/16
+https://128.32.140.43,A_LifeSize_System,128.32.0.0/16
+https://128.32.141.7,OPENSSL,128.32.0.0/16
+https://128.32.141.28,HP Jetdirect 06240B65,128.32.0.0/16
+https://128.32.141.32,synology.com,128.32.0.0/16
+https://128.32.141.57,HP Jetdirect 1C62DF1C,128.32.0.0/16
+https://128.32.141.166,jkweb.qb3.berkeley.edu,128.32.0.0/16
+https://128.32.142.159,NPI245D9A,128.32.0.0/16
+https://128.32.142.221,OPENSSL,128.32.0.0/16
+https://128.32.143.9,prosam-web-dev-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.10,prosam-web-qa-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.11,prosam-web-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.14,redirector.berkeley.edu,128.32.0.0/16
+https://128.32.143.20,apis-qa.berkeley.edu,128.32.0.0/16
+https://128.32.143.21,nerds.berkeley.edu,128.32.0.0/16
+https://128.32.143.22,peer-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.25,as-jenkins-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.27,winnie-demo-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.28,winnie-int-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.29,winnie-qa-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.143.30,winnie-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.144.99,NPIB07C58,128.32.0.0/16
+https://128.32.144.120,XRX9C934E92F1EF,128.32.0.0/16
+https://128.32.145.34,nisee.berkeley.edu,128.32.0.0/16
+https://128.32.146.26,XRX9C934E2F9547,128.32.0.0/16
+https://128.32.146.45,XRX9C934E5C793D,128.32.0.0/16
+https://128.32.146.93,128.32.146.93,128.32.0.0/16
+https://128.32.146.135,gromit.mvz.berkeley.edu,128.32.0.0/16
+https://128.32.146.147,128.32.146.147,128.32.0.0/16
+https://128.32.146.152,OPENSSL,128.32.0.0/16
+https://128.32.146.154,head.cluster,128.32.0.0/16
+https://128.32.146.155,Xerox Generic Root Certificate Authority,128.32.0.0/16
+https://128.32.146.206,128.32.146.206,128.32.0.0/16
+https://128.32.147.8,mailwall2.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.147.21,hobbit.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.147.185,aide.ssl.berkeley.edu,128.32.0.0/16
+https://128.32.148.208,HP5F8CCA,128.32.0.0/16
+https://128.32.149.3,dna.berkeley.edu,128.32.0.0/16
+https://128.32.149.5,hum.geo.berkeley.edu,128.32.0.0/16
+https://128.32.149.17,HP Jetdirect 797F4440,128.32.0.0/16
+https://128.32.149.71,HPA1E853,128.32.0.0/16
+https://128.32.149.72,www.elarms.org,128.32.0.0/16
+https://128.32.149.85,www.deep-earth.org,128.32.0.0/16
+https://128.32.149.86,OPENSSL,128.32.0.0/16
+https://128.32.149.87,HP Jetdirect 2924FC2D,128.32.0.0/16
+https://128.32.149.88,HP Jetdirect 99AD2453,128.32.0.0/16
+https://128.32.149.94,88:5a:92:60:6d:80,128.32.0.0/16
+https://128.32.149.103,www.atmos.berkeley.edu,128.32.0.0/16
+https://128.32.149.148,seismo.berkeley.edu,128.32.0.0/16
+https://128.32.149.149,mail.geo.berkeley.edu,128.32.0.0/16
+https://128.32.149.174,HP Jetdirect 9245FA8F,128.32.0.0/16
+https://128.32.149.179,A_LifeSize_System,128.32.0.0/16
+https://128.32.149.217,ticketsys.geo.berkeley.edu,128.32.0.0/16
+https://128.32.149.231,synology.com,128.32.0.0/16
+https://128.32.149.249,eps.berkeley.edu,128.32.0.0/16
+https://128.32.150.2,*.ehs.berkeley.edu,128.32.0.0/16
+https://128.32.152.22,HP Jetdirect B3F9AE37,128.32.0.0/16
+https://128.32.152.159,Canon iR-ADV,128.32.0.0/16
+https://128.32.152.245,128.32.152.245,128.32.0.0/16
+https://128.32.152.246,NPIC1C349,128.32.0.0/16
+https://128.32.153.217,XRX9C934E510A30,128.32.0.0/16
+https://128.32.153.230,OPENSSL,128.32.0.0/16
+https://128.32.153.233,sgx03.cs.berkeley.edu,128.32.0.0/16
+https://128.32.153.235,sgx01.cs.berkeley.edu,128.32.0.0/16
+https://128.32.153.242,www.airzoom.net,128.32.0.0/16
+https://128.32.153.243,sgx02.cs.berkeley.edu,128.32.0.0/16
+https://128.32.154.9,Server Fallback SSL Certificate,128.32.0.0/16
+https://128.32.154.25,XRX9C934E8615EC,128.32.0.0/16
+https://128.32.154.144,regw.fs.berkeley.edu,128.32.0.0/16
+https://128.32.154.154,mxws2tst.fs.berkeley.edu,128.32.0.0/16
+https://128.32.154.166,maxdevmf.berkeley.edu,128.32.0.0/16
+https://128.32.154.222,HP LaserJet 600 M602 [3AC533],128.32.0.0/16
+https://128.32.154.223,HP LaserJet 600 M602 [3AC5F2],128.32.0.0/16
+https://128.32.155.2,build1-sp.net.1918.berkeley.edu,128.32.0.0/16
+https://128.32.156.163,mercury4.banatao.berkeley.edu,128.32.0.0/16
+https://128.32.156.168,192.168.125.69,128.32.0.0/16
+https://128.32.156.175,subsonic.org,128.32.0.0/16
+https://128.32.156.200,OPENSSL,128.32.0.0/16
+https://128.32.157.34,HP Jetdirect 06207B7A,128.32.0.0/16
+https://128.32.157.35,HP Jetdirect 06207BDF,128.32.0.0/16
+https://128.32.157.38,HP Jetdirect E5089FEC,128.32.0.0/16
+https://128.32.157.50,128.32.157.50,128.32.0.0/16
+https://128.32.157.53,NPIAABB60,128.32.0.0/16
+https://128.32.157.119,NPI5BFA56,128.32.0.0/16
+https://128.32.158.230,www.crcns.org,128.32.0.0/16
+https://128.32.161.92,lc.language.berkeley.edu,128.32.0.0/16
+https://128.32.161.103,ZA1242011104,128.32.0.0/16
+https://128.32.161.132,flfc.berkeley.edu,128.32.0.0/16
+https://128.32.161.135,bolt.language.berkeley.edu,128.32.0.0/16
+https://128.32.161.152,OPENSSL,128.32.0.0/16
+https://128.32.162.16,HP Jetdirect A051950C,128.32.0.0/16
+https://128.32.162.32,HP LaserJet 600 M601 [60657D],128.32.0.0/16
+https://128.32.162.67,NPIDAAEF7,128.32.0.0/16
+https://128.32.162.78,128.32.162.78,128.32.0.0/16
+https://128.32.162.81,HP Jetdirect A49377E1,128.32.0.0/16
+https://128.32.162.120,127.0.0.1,128.32.0.0/16
+https://128.32.162.126,128.32.162.126,128.32.0.0/16
+https://128.32.162.159,urhpdm-2080u162.urel.berkeley.edu,128.32.0.0/16
+https://128.32.162.160,NPI14BBEE,128.32.0.0/16
+https://128.32.162.165,NPI2D7350,128.32.0.0/16
+https://128.32.162.170,HP Jetdirect 38D85955,128.32.0.0/16
+https://128.32.162.171,HP Jetdirect 38CE6286,128.32.0.0/16
+https://128.32.162.221,HP Jetdirect 365E305A,128.32.0.0/16
+https://128.32.164.38,US-UC-Berkeley-Conf-Room,128.32.0.0/16
+https://128.32.164.86,OPENSSL,128.32.0.0/16
+https://128.32.164.122,OPENSSL,128.32.0.0/16
+https://128.32.164.135,localhost.localdomain,128.32.0.0/16
+https://128.32.165.149,BRN30055C0D02BA,128.32.0.0/16
+https://128.32.166.5,NPIB3A37F,128.32.0.0/16
+https://128.32.166.7,HP Jetdirect 36627917,128.32.0.0/16
+https://128.32.166.73,TS Series NAS,128.32.0.0/16
+https://128.32.166.90,OPENSSL,128.32.0.0/16
+https://128.32.166.195,Preset Certificate,128.32.0.0/16
+https://128.32.168.252,turtle.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.169.48,*.law.berkeley.edu,128.32.0.0/16
+https://128.32.169.50,fp2.law.berkeley.edu,128.32.0.0/16
+https://128.32.169.58,clinical.law.berkeley.edu,128.32.0.0/16
+https://128.32.169.73,128.32.169.73,128.32.0.0/16
+https://128.32.169.133,hcic.cairweb.org,128.32.0.0/16
+https://128.32.169.140,www.cviis.org,128.32.0.0/16
+https://128.32.169.142,www.scc-cair.org,128.32.0.0/16
+https://128.32.169.144,link.immunizela.org,128.32.0.0/16
+https://128.32.169.146,ie.cairweb.org,128.32.0.0/16
+https://128.32.169.148,www.centralcoastizregistry.com,128.32.0.0/16
+https://128.32.169.157,SIISSERVER4.IZNET2.LOCAL,128.32.0.0/16
+https://128.32.169.178,hcic.cairweb.org,128.32.0.0/16
+https://128.32.169.179,training.cairweb.org,128.32.0.0/16
+https://128.32.169.235,None,128.32.0.0/16
+https://128.32.170.103,128.32.170.103,128.32.0.0/16
+https://128.32.170.104,128.32.170.104,128.32.0.0/16
+https://128.32.170.106,128.32.170.106,128.32.0.0/16
+https://128.32.170.146,VMware,128.32.0.0/16
+https://128.32.171.233,localhost,128.32.0.0/16
+https://128.32.171.243,VMware,128.32.0.0/16
+https://128.32.171.245,a52c17016130,128.32.0.0/16
+https://128.32.173.2,NPI0FB6F4,128.32.0.0/16
+https://128.32.173.3,HP Jetdirect 5FBC05E3,128.32.0.0/16
+https://128.32.173.14,NPID850EC,128.32.0.0/16
+https://128.32.173.32,VMware,128.32.0.0/16
+https://128.32.173.37,Canon iR-ADV,128.32.0.0/16
+https://128.32.173.40,NPID4D1CB,128.32.0.0/16
+https://128.32.173.105,VMware,128.32.0.0/16
+https://128.32.173.163,OPENSSL,128.32.0.0/16
+https://128.32.174.60,128.32.174.60,128.32.0.0/16
+https://128.32.174.65,128.32.174.65,128.32.0.0/16
+https://128.32.175.5,Preset Certificate,128.32.0.0/16
+https://128.32.175.36,OPENSSL,128.32.0.0/16
+https://128.32.177.138,Preset Certificate,128.32.0.0/16
+https://128.32.177.172,VMware,128.32.0.0/16
+https://128.32.177.200,VMware,128.32.0.0/16
+https://128.32.179.5,Lexmark MS510dn,128.32.0.0/16
+https://128.32.179.6,Preset Certificate,128.32.0.0/16
+https://128.32.179.33,Preset Certificate,128.32.0.0/16
+https://128.32.179.152,OPENSSL,128.32.0.0/16
+https://128.32.179.186,Preset Certificate,128.32.0.0/16
+https://128.32.181.115,HP Jetdirect 9989FEB4,128.32.0.0/16
+https://128.32.181.151,HP Jetdirect 2311F39B,128.32.0.0/16
+https://128.32.181.204,HP Jetdirect CFCD9951,128.32.0.0/16
+https://128.32.182.59,OPENSSL,128.32.0.0/16
+https://128.32.182.60,HP Jetdirect B431782C,128.32.0.0/16
+https://128.32.182.100,HP Jetdirect E13C4F0B,128.32.0.0/16
+https://128.32.182.136,192.168.0.2,128.32.0.0/16
+https://128.32.182.236,yildizserv1,128.32.0.0/16
+https://128.32.184.2,NPI275C4D,128.32.0.0/16
+https://128.32.184.39,conollylab.berkeley.edu,128.32.0.0/16
+https://128.32.186.51,128.32.186.51,128.32.0.0/16
+https://128.32.186.66,HP Jetdirect E13AFA7E,128.32.0.0/16
+https://128.32.186.130,Fireware web CA,128.32.0.0/16
+https://128.32.186.134,foo.ent.google.com,128.32.0.0/16
+https://128.32.186.140,192.168.200.1,128.32.0.0/16
+https://128.32.186.148,www.nwp.org,128.32.0.0/16
+https://128.32.187.2,NPIBEBD3A,128.32.0.0/16
+https://128.32.187.5,NPI077556.berkeley.edu,128.32.0.0/16
+https://128.32.187.6,Canon iR-ADV,128.32.0.0/16
+https://128.32.187.7,NPI07752C.berkeley.edu,128.32.0.0/16
+https://128.32.187.8,Canon Imaging Product,128.32.0.0/16
+https://128.32.187.30,RNP002673C5DA29,128.32.0.0/16
+https://128.32.187.123,RNP002673DDD91A,128.32.0.0/16
+https://128.32.188.3,HP625CD1,128.32.0.0/16
+https://128.32.188.57,OPENSSL,128.32.0.0/16
+https://128.32.188.75,OPENSSL,128.32.0.0/16
+https://128.32.188.139,Dell 5350dn Laser Printer,128.32.0.0/16
+https://128.32.188.189,OPENSSL,128.32.0.0/16
+https://128.32.188.197,FullmerAsst,128.32.0.0/16
+https://128.32.189.6,OPENSSL,128.32.0.0/16
+https://128.32.189.10,api-devops-prod-03.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.18,apps.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.23,bio-issm.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.26,docgate.cchem.berkeley.edu,128.32.0.0/16
+https://128.32.189.34,buffy.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.36,ucbsurveys.berkeley.edu,128.32.0.0/16
+https://128.32.189.54,reshib1.berkeley.edu,128.32.0.0/16
+https://128.32.189.56,asc.berkeley.edu,128.32.0.0/16
+https://128.32.189.60,idsgdev.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.62,iris.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.66,mingus.journalism.berkeley.edu,128.32.0.0/16
+https://128.32.189.67,journalism.berkeley.edu,128.32.0.0/16
+https://128.32.189.68,mingus.journalism.berkeley.edu,128.32.0.0/16
+https://128.32.189.69,ours.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.70,iris.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.73,iris.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.74,bdshelp.berkeley.edu,128.32.0.0/16
+https://128.32.189.76,FMI Default Certificate,128.32.0.0/16
+https://128.32.189.86,None,128.32.0.0/16
+https://128.32.189.88,bomgar-pa01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.92,coeus.spo.berkeley.edu,128.32.0.0/16
+https://128.32.189.95,hamer.ce.berkeley.edu,128.32.0.0/16
+https://128.32.189.97,apps.ce.berkeley.edu,128.32.0.0/16
+https://128.32.189.98,academic-senate.berkeley.edu,128.32.0.0/16
+https://128.32.189.99,www-bsac.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.101,wise.berkeley.edu,128.32.0.0/16
+https://128.32.189.102,ib.berkeley.edu,128.32.0.0/16
+https://128.32.189.106,cow.lhs.berkeley.edu,128.32.0.0/16
+https://128.32.189.107,rael.berkeley.edu,128.32.0.0/16
+https://128.32.189.110,filemaker12.ls.berkeley.edu,128.32.0.0/16
+https://128.32.189.117,iris.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.125,ieee.berkeley.edu,128.32.0.0/16
+https://128.32.189.126,bds-web.berkeley.edu,128.32.0.0/16
+https://128.32.189.128,www4.decf.berkeley.edu,128.32.0.0/16
+https://128.32.189.130,eziz-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.134,ugis.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.148,bio-stage.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.150,bio-mercury.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.154,bairs-sb.berkeley.edu,128.32.0.0/16
+https://128.32.189.161,research.physics.berkeley.edu,128.32.0.0/16
+https://128.32.189.163,systematic.berkeley.edu,128.32.0.0/16
+https://128.32.189.168,bid.berkeley.edu,128.32.0.0/16
+https://128.32.189.169,None,128.32.0.0/16
+https://128.32.189.171,www3.nuc.berkeley.edu,128.32.0.0/16
+https://128.32.189.174,fss.ist.berkeley.edu,128.32.0.0/16
+https://128.32.189.195,app.ce.berkeley.edu,128.32.0.0/16
+https://128.32.189.197,redtail.security.berkeley.edu,128.32.0.0/16
+https://128.32.189.201,fm.bds.berkeley.edu,128.32.0.0/16
+https://128.32.189.204,supernode.berkeley.edu,128.32.0.0/16
+https://128.32.189.207,apps.rac.berkeley.edu,128.32.0.0/16
+https://128.32.189.209,vm-colo-rhel6.IST.Berkeley.EDU,128.32.0.0/16
+https://128.32.189.215,rt.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.226,apps.rac.berkeley.edu,128.32.0.0/16
+https://128.32.189.227,apps.rac.berkeley.edu,128.32.0.0/16
+https://128.32.189.228,sbb01.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.189.230,OPENSSL,128.32.0.0/16
+https://128.32.189.240,wise-discuss.berkeley.edu,128.32.0.0/16
+https://128.32.189.243,blumcenter.berkeley.edu,128.32.0.0/16
+https://128.32.189.249,localhost.localdomain,128.32.0.0/16
+https://128.32.190.14,for.temporary.use.only,128.32.0.0/16
+https://128.32.190.18,OPENSSL,128.32.0.0/16
+https://128.32.190.49,RNP002673C59AF3,128.32.0.0/16
+https://128.32.190.77,scienceview3.LHS.berkeley.edu,128.32.0.0/16
+https://128.32.190.250,www.lawrencehallofscience.org,128.32.0.0/16
+https://128.32.191.230,Canon iR-ADV,128.32.0.0/16
+https://128.32.191.231,Canon iR-ADV,128.32.0.0/16
+https://128.32.192.14,OPENSSL,128.32.0.0/16
+https://128.32.192.68,OPENSSL,128.32.0.0/16
+https://128.32.192.83,OPENSSL,128.32.0.0/16
+https://128.32.192.85,NPIA931CE,128.32.0.0/16
+https://128.32.192.116,OPENSSL,128.32.0.0/16
+https://128.32.192.130,NPIA6B2CE,128.32.0.0/16
+https://128.32.192.152,XRX9C934E72A5E5,128.32.0.0/16
+https://128.32.192.207,Preset Certificate,128.32.0.0/16
+https://128.32.193.8,128.32.193.8,128.32.0.0/16
+https://128.32.193.18,128.32.193.18,128.32.0.0/16
+https://128.32.193.254,Preset Certificate,128.32.0.0/16
+https://128.32.195.83,HP Jetdirect 641AF1EE,128.32.0.0/16
+https://128.32.196.2,HP Jetdirect 38D45DBF,128.32.0.0/16
+https://128.32.196.3,OPENSSL,128.32.0.0/16
+https://128.32.196.5,OPENSSL,128.32.0.0/16
+https://128.32.196.16,128.32.196.16,128.32.0.0/16
+https://128.32.196.36,OPENSSL,128.32.0.0/16
+https://128.32.196.42,XRX9C934E934D17,128.32.0.0/16
+https://128.32.196.112,HP Jetdirect D1A01FAF,128.32.0.0/16
+https://128.32.196.113,NPI260492,128.32.0.0/16
+https://128.32.196.135,NPIC1A5A9.dyn.berkeley.edu,128.32.0.0/16
+https://128.32.196.205,128.32.196.205,128.32.0.0/16
+https://128.32.196.218,OPENSSL,128.32.0.0/16
+https://128.32.196.241,HP Jetdirect E5773BA2,128.32.0.0/16
+https://128.32.196.243,HP Jetdirect 9C301F5F,128.32.0.0/16
+https://128.32.196.244,HP Jetdirect BBDB1CBA,128.32.0.0/16
+https://128.32.197.16,fsgateway.fs.berkeley.edu,128.32.0.0/16
+https://128.32.197.26,192.168.168.168,128.32.0.0/16
+https://128.32.197.75,emsalc.berkeley.edu,128.32.0.0/16
+https://128.32.197.77,gis.fs.berkeley.edu,128.32.0.0/16
+https://128.32.197.110,AcquiSuite SN 001EC6001CF3 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.197.119,OPENSSL,128.32.0.0/16
+https://128.32.197.170,HP Jetdirect A04E6D81,128.32.0.0/16
+https://128.32.197.196,88:5a:92:60:33:04,128.32.0.0/16
+https://128.32.197.222,OPENSSL,128.32.0.0/16
+https://128.32.197.245,OPENSSL,128.32.0.0/16
+https://128.32.198.12,HP Jetdirect D03EA025,128.32.0.0/16
+https://128.32.198.17,192.168.1.3,128.32.0.0/16
+https://128.32.198.20,Thecus,128.32.0.0/16
+https://128.32.198.22,nas-D5-CD-1E.local,128.32.0.0/16
+https://128.32.198.61,192.168.1.3,128.32.0.0/16
+https://128.32.198.64,NPIF9ACB7,128.32.0.0/16
+https://128.32.198.116,192.168.1.4,128.32.0.0/16
+https://128.32.198.120,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.198.141,nv-chu3.cchem.berkeley.edu,128.32.0.0/16
+https://128.32.198.168,Preset Certificate,128.32.0.0/16
+https://128.32.198.237,Thecus,128.32.0.0/16
+https://128.32.198.253,169.254.209.11,128.32.0.0/16
+https://128.32.199.225,cdgw.fs.berkeley.edu,128.32.0.0/16
+https://128.32.200.7,groundwork.berkeley.edu,128.32.0.0/16
+https://128.32.200.9,gw-graph-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.200.10,gw-graph-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.200.93,OPENSSL,128.32.0.0/16
+https://128.32.200.117,synology.com,128.32.0.0/16
+https://128.32.200.118,NPI07F4F9.berkeley.edu,128.32.0.0/16
+https://128.32.200.195,OPENSSL,128.32.0.0/16
+https://128.32.201.2,HP Jetdirect 9942AA84,128.32.0.0/16
+https://128.32.201.3,XRX9C934E32D766,128.32.0.0/16
+https://128.32.201.42,128.32.201.42,128.32.0.0/16
+https://128.32.201.56,OPENSSL,128.32.0.0/16
+https://128.32.201.130,XRX9C934E6FD738,128.32.0.0/16
+https://128.32.201.131,NPIBBB942,128.32.0.0/16
+https://128.32.201.230,mallard.calsol.berkeley.edu,128.32.0.0/16
+https://128.32.201.236,turkey.calsol.berkeley.edu,128.32.0.0/16
+https://128.32.203.3,XRX9C934E1D59D4,128.32.0.0/16
+https://128.32.203.90,128.32.203.90,128.32.0.0/16
+https://128.32.203.134,calweb-basic-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.135,calweb-basic-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.136,calweb-basic-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.137,calweb-farm-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.138,calweb-farm-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.139,calweb-farm-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.140,calweb-farm-prod.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.142,calweb-farm-dev.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.143,calweb-farm-dev.ist.berkeley.edu,128.32.0.0/16
+https://128.32.203.144,calweb-farm-dev.ist.berkeley.edu,128.32.0.0/16
+https://128.32.204.190,OPENSSL,128.32.0.0/16
+https://128.32.204.204,iDRAC6 default certificate,128.32.0.0/16
+https://128.32.205.130,Pre-installed Certificate,128.32.0.0/16
+https://128.32.205.140,GS-821434424C0FCV.berkeley.edu,128.32.0.0/16
+https://128.32.207.3,mbf-server.cchem,128.32.0.0/16
+https://128.32.207.91,HP Jetdirect D1A435CA,128.32.0.0/16
+https://128.32.208.9,HP Color LaserJet M651 [0901B3],128.32.0.0/16
+https://128.32.208.12,OPENSSL,128.32.0.0/16
+https://128.32.208.16,HP Jetdirect 99A9F41C,128.32.0.0/16
+https://128.32.208.17,HP Jetdirect FD0463DB,128.32.0.0/16
+https://128.32.208.18,OPENSSL,128.32.0.0/16
+https://128.32.208.19,NPI223CAE.Berkeley.EDU,128.32.0.0/16
+https://128.32.208.26,Preset Certificate,128.32.0.0/16
+https://128.32.208.36,Preset Certificate,128.32.0.0/16
+https://128.32.208.37,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.208.50,HP Jetdirect 64419957,128.32.0.0/16
+https://128.32.209.4,*.berkeley.edu,128.32.0.0/16
+https://128.32.209.5,*.berkeley.edu,128.32.0.0/16
+https://128.32.209.8,*.berkeley.edu,128.32.0.0/16
+https://128.32.211.2,AcquiSuite SN 001EC6002308 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.3,AcquiSuite SN 001EC6001DE1 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.5,AcquiSuite SN 001EC6070202 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.6,AcquiSuite SN 001EC6000450 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.7,AcquiSuite SN 001EC6001D6F Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.10,AcquiSuite SN 001EC600009A Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.12,AcquiSuite SN 001EC600077E Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.13,AcquiSuite SN 001EC600077A,128.32.0.0/16
+https://128.32.211.14,AcquiSuite SN 001EC6000CD2,128.32.0.0/16
+https://128.32.211.15,AcquiSuite SN 001EC6000C8E Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.16,AcquiSuite SN 001EC6000C24,128.32.0.0/16
+https://128.32.211.17,AcquiSuite SN 001EC6000C5A,128.32.0.0/16
+https://128.32.211.19,AcquiSuite SN 001EC600187F Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.20,AcquiSuite SN 001EC6001C55 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.22,AcquiSuite SN 001EC6001C79 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.23,AcquiSuite SN 001EC6001CE7 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.24,AcquiSuite SN 001EC6001CE4 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.25,AcquiSuite SN 001EC6001C7A Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.26,OPENSSL,128.32.0.0/16
+https://128.32.211.27,AcquiSuite SN 001EC6001B32 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.28,AcquiSuite SN 001EC6070132 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.29,AcquiSuite SN 001EC60701E6 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.30,AcquiSuite SN 001EC6001C97 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.39,AcquiSuite SN 001EC6000459 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.44,AcquiSuite SN 001EC6000777,128.32.0.0/16
+https://128.32.211.45,AcquiSuite SN 001EC600077D Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.46,AcquiSuite SN 001EC6000CCF Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.51,AcquiSuite SN 001EC6001473 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.52,AcquiSuite SN 001EC6000C35 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.53,AcquiSuite SN 001EC6001C7D Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.54,AcquiSuite SN 001EC6000C57 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.55,AcquiSuite SN 001EC6001CC0 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.57,AcquiSuite SN 001EC600219A Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.66,AcquiSuite SN 001EC6070147 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.68,AcquiSuite SN 001EC6001CEC Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.69,AcquiSuite SN 001EC6001DDF Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.70,AcquiSuite SN 001EC6001BC1 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.71,AcquiSuite SN 001EC60004F2 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.73,AcquiSuite SN 001EC6000CAE Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.74,AcquiSuite SN 001EC6000CCD Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.75,AcquiSuite SN 001EC6070192 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.76,AcquiSuite SN 001EC6000CB6 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.79,AcquiSuite SN 001EC6000C9A,128.32.0.0/16
+https://128.32.211.82,AcquiSuite SN 001EC6001E01 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.99,AcquiSuite SN 001EC6002164 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.100,AcquiSuite SN 001EC6001CF0 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.101,AcquiSuite SN 001EC60014D0,128.32.0.0/16
+https://128.32.211.102,AcquiSuite SN 001EC600043E Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.103,HP Jetdirect C0825CA6,128.32.0.0/16
+https://128.32.211.107,AcquiSuite SN 0050C230ECED,128.32.0.0/16
+https://128.32.211.114,Dust Networks Certificate Authority,128.32.0.0/16
+https://128.32.211.115,Dust Networks Certificate Authority,128.32.0.0/16
+https://128.32.211.116,AcquiSuite SN 001EC6000764 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.117,AcquiSuite SN 001EC6000B5E Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.118,OPENSSL,128.32.0.0/16
+https://128.32.211.120,AcquiSuite SN 001EC6000C90 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.121,AcquiSuite SN 001EC6000C89 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.122,AcquiSuite SN 001EC6000CCA,128.32.0.0/16
+https://128.32.211.131,AcquiSuite SN 001EC6001E4A Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.133,AcquiSuite SN 001EC600222C Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.134,AcquiSuite SN 001EC6000C30 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.135,AcquiSuite SN 001EC6000CA0 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.136,AcquiSuite SN 001EC60701BB Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.139,AcquiSuite SN 001EC600254B Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.142,AcquiSuite SN 001EC6000C8F Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.143,AcquiSuite SN 001EC6000BB9,128.32.0.0/16
+https://128.32.211.144,AcquiSuite SN 001EC6001BC4 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.162,AcquiSuite SN 001EC6001E46 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.163,AcquiSuite SN 001EC607014A Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.164,AcquiSuite SN 001EC6001DE3 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.165,AcquiSuite SN 001EC60701C1 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.166,AcquiSuite SN 001EC6000495 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.167,localhost,128.32.0.0/16
+https://128.32.211.168,localhost,128.32.0.0/16
+https://128.32.211.169,localhost,128.32.0.0/16
+https://128.32.211.170,localhost,128.32.0.0/16
+https://128.32.211.171,localhost,128.32.0.0/16
+https://128.32.211.172,AcquiSuite SN 001EC607012F Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.174,AcquiSuite SN 001EC6001CE2 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.175,AcquiSuite SN 001EC6001DD6 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.176,AcquiSuite SN 001EC6070024 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.177,AcquiSuite SN 001EC6001CF6 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.185,AcquiSuite SN 001EC6000779 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.186,AcquiSuite SN 001EC6001CF4 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.187,AcquiSuite SN 001EC6000C8D Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.188,AcquiSuite SN 001EC6001CEE Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.189,AcquiSuite SN 001EC607013F Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.198,AcquiSuite SN 001EC600045C,128.32.0.0/16
+https://128.32.211.199,AcquiSuite SN 001EC6000073 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.200,AcquiSuite SN 001EC6000775,128.32.0.0/16
+https://128.32.211.201,AcquiSuite SN 001EC6000CC0 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.202,AcquiSuite SN 001EC6000C54,128.32.0.0/16
+https://128.32.211.203,AcquiSuite SN 001EC6000CD7 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.205,AcquiSuite SN 001EC6000C58 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.206,AcquiSuite SN 001EC6000778 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.208,AcquiSuite SN 001EC6001C7B Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.209,AcquiSuite SN 001EC6001DE7 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.211.210,AcquiSuite SN 001EC6001D70 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.212.81,OPENSSL,128.32.0.0/16
+https://128.32.212.106,OPENSSL,128.32.0.0/16
+https://128.32.212.109,STUDIO1,128.32.0.0/16
+https://128.32.213.7,give.berkeley.edu,128.32.0.0/16
+https://128.32.213.42,asterix.urel.berkeley.edu,128.32.0.0/16
+https://128.32.213.71,advancement.berkeley.edu,128.32.0.0/16
+https://128.32.213.74,cd2.urel.berkeley.edu,128.32.0.0/16
+https://128.32.213.75,give2cal,128.32.0.0/16
+https://128.32.213.91,webservices.urel.berkeley.edu,128.32.0.0/16
+https://128.32.213.92,campustours-qa.urel.berkeley.edu,128.32.0.0/16
+https://128.32.213.104,*.urel.berkeley.edu,128.32.0.0/16
+https://128.32.213.120,give.berkeley.edu,128.32.0.0/16
+https://128.32.213.142,math.berkeley.edu,128.32.0.0/16
+https://128.32.213.145,wp.math.berkeley.edu,128.32.0.0/16
+https://128.32.213.155,arctosdb.org,128.32.0.0/16
+https://128.32.213.156,annie.bnhm.berkeley.edu,128.32.0.0/16
+https://128.32.213.157,louise.bnhm.berkeley.edu,128.32.0.0/16
+https://128.32.213.161,wanda.bnhm.berkeley.edu,128.32.0.0/16
+https://128.32.213.162,nx.math.berkeley.edu,128.32.0.0/16
+https://128.32.213.164,bianca.math.berkeley.edu,128.32.0.0/16
+https://128.32.213.179,cosmology.berkeley.edu,128.32.0.0/16
+https://128.32.213.187,webwork.math.berkeley.edu,128.32.0.0/16
+https://128.32.214.131,HP Jetdirect D1A03F96,128.32.0.0/16
+https://128.32.215.158,XRX9C934E85BA61,128.32.0.0/16
+https://128.32.215.166,OPENSSL,128.32.0.0/16
+https://128.32.216.38,128.32.216.38,128.32.0.0/16
+https://128.32.216.40,OPENSSL,128.32.0.0/16
+https://128.32.216.105,128.32.216.105,128.32.0.0/16
+https://128.32.216.150,RNP002673C41960,128.32.0.0/16
+https://128.32.216.163,OPENSSL,128.32.0.0/16
+https://128.32.216.227,OPENSSL,128.32.0.0/16
+https://128.32.216.236,OPENSSL,128.32.0.0/16
+https://128.32.218.130,NPIA6B50F,128.32.0.0/16
+https://128.32.218.161,synology.com,128.32.0.0/16
+https://128.32.218.223,OPENSSL,128.32.0.0/16
+https://128.32.219.2,Preset Certificate,128.32.0.0/16
+https://128.32.219.4,FMI Default Certificate,128.32.0.0/16
+https://128.32.219.48,128.32.219.48,128.32.0.0/16
+https://128.32.219.98,1283221998,128.32.0.0/16
+https://128.32.219.125,OPENSSL,128.32.0.0/16
+https://128.32.220.2,HP Color LaserJet M553 B5L25A,128.32.0.0/16
+https://128.32.220.45,OPENSSL,128.32.0.0/16
+https://128.32.220.80,HP Jetdirect FD029E4A,128.32.0.0/16
+https://128.32.220.147,HP Jetdirect 743072E1,128.32.0.0/16
+https://128.32.220.171,HP Jetdirect DE83C6A6,128.32.0.0/16
+https://128.32.220.194,OPENSSL,128.32.0.0/16
+https://128.32.220.199,iDRAC6 default certificate,128.32.0.0/16
+https://128.32.220.237,OPENSSL,128.32.0.0/16
+https://128.32.220.247,HP Color LaserJet M553 B5L24A,128.32.0.0/16
+https://128.32.220.251,NPI964570,128.32.0.0/16
+https://128.32.221.36,OPENSSL,128.32.0.0/16
+https://128.32.222.8,crowdfunding.haas.berkeley.edu,128.32.0.0/16
+https://128.32.222.16,mail.haas.berkeley.edu,128.32.0.0/16
+https://128.32.222.17,mail.haas.berkeley.edu,128.32.0.0/16
+https://128.32.222.25,OPENSSL,128.32.0.0/16
+https://128.32.222.100,AcquiSuite SN 001EC6001C05 Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.222.102,AcquiSuite SN 001EC6001D9B Self-Signed Certificate Generator,128.32.0.0/16
+https://128.32.222.134,BRN30055CB956F9.local,128.32.0.0/16
+https://128.32.222.135,BRN30055CC1EE75.local,128.32.0.0/16
+https://128.32.222.247,develop,128.32.0.0/16
+https://128.32.223.32,BRN30055CE2116F.local,128.32.0.0/16
+https://128.32.223.88,HP Jetdirect DAC6FDC9,128.32.0.0/16
+https://128.32.223.90,HP Jetdirect 38827F52,128.32.0.0/16
+https://128.32.223.127,FMI Default Certificate,128.32.0.0/16
+https://128.32.224.43,HP Jetdirect 9987973C,128.32.0.0/16
+https://128.32.224.169,XRX9C934E553D9F,128.32.0.0/16
+https://128.32.225.56,128.32.225.56,128.32.0.0/16
+https://128.32.225.57,128.32.225.57,128.32.0.0/16
+https://128.32.225.100,HP Jetdirect B85DB93F,128.32.0.0/16
+https://128.32.225.130,HP Jetdirect 38DA95FA,128.32.0.0/16
+https://128.32.225.132,OPENSSL,128.32.0.0/16
+https://128.32.225.140,HP Jetdirect B3EBC716,128.32.0.0/16
+https://128.32.226.4,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.226.44,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.226.46,OPENSSL,128.32.0.0/16
+https://128.32.226.84,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.226.102,HP Jetdirect FEA707B9,128.32.0.0/16
+https://128.32.226.103,HP Jetdirect 641D6815,128.32.0.0/16
+https://128.32.226.104,HP Jetdirect 99AACDF1,128.32.0.0/16
+https://128.32.226.105,HP Jetdirect 641D681A,128.32.0.0/16
+https://128.32.226.107,HP Jetdirect 99A97C60,128.32.0.0/16
+https://128.32.226.109,HP LaserJet M506 F2A69A,128.32.0.0/16
+https://128.32.226.115,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.226.148,rosetta.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.226.149,OPENSSL,128.32.0.0/16
+https://128.32.226.166,OPENSSL,128.32.0.0/16
+https://128.32.226.175,localhost.localdomain,128.32.0.0/16
+https://128.32.226.180,*.ischool.berkeley.edu,128.32.0.0/16
+https://128.32.227.71,HP Jetdirect 4647840F,128.32.0.0/16
+https://128.32.227.90,HP Jetdirect 74483DF9,128.32.0.0/16
+https://128.32.227.93,NPIB4339F.berkeley.edu,128.32.0.0/16
+https://128.32.227.94,Canon iR-ADV,128.32.0.0/16
+https://128.32.227.169,proxy5d.lib.berkeley.edu,128.32.0.0/16
+https://128.32.227.173,OPENSSL,128.32.0.0/16
+https://128.32.228.140,XRX9C934E510083,128.32.0.0/16
+https://128.32.231.5,AM-US-94720-UC-Berkeley,128.32.0.0/16
+https://128.32.231.66,for.temporary.use.only,128.32.0.0/16
+https://128.32.234.151,OPENSSL,128.32.0.0/16
+https://128.32.234.159,HP Color LaserJet M553 B5L24A,128.32.0.0/16
+https://128.32.235.94,FMI Certificate Authority,128.32.0.0/16
+https://128.32.236.24,localhost.localdomain,128.32.0.0/16
+https://128.32.236.160,giving.berkeley.edu,128.32.0.0/16
+https://128.32.237.111,HP Jetdirect E5D88BDC,128.32.0.0/16
+https://128.32.238.226,XRX9C934E1B7491,128.32.0.0/16
+https://128.32.239.6,budker.berkeley.edu,128.32.0.0/16
+https://128.32.239.20,192.168.1.1,128.32.0.0/16
+https://128.32.239.165,HP86Birge364,128.32.0.0/16
+https://128.32.239.209,Preset Certificate,128.32.0.0/16
+https://128.32.239.254,NPIC3B8A0,128.32.0.0/16
+https://128.32.240.41,NPIC00212,128.32.0.0/16
+https://128.32.240.123,Preset Certificate,128.32.0.0/16
+https://128.32.240.124,civet.berkeley.edu,128.32.0.0/16
+https://128.32.240.188,OPENSSL,128.32.0.0/16
+https://128.32.240.254,bolowiki.berkeley.edu,128.32.0.0/16
+https://128.32.241.33,128.32.241.33,128.32.0.0/16
+https://128.32.241.51,128.32.241.51,128.32.0.0/16
+https://128.32.241.77,OPENSSL,128.32.0.0/16
+https://128.32.241.80,OPENSSL,128.32.0.0/16
+https://128.32.241.83,OPENSSL,128.32.0.0/16
+https://128.32.242.31,HP Jetdirect 92C4C800,128.32.0.0/16
+https://128.32.243.53,128.32.243.53,128.32.0.0/16
+https://128.32.243.70,OPENSSL,128.32.0.0/16
+https://128.32.243.99,FMI Default Certificate,128.32.0.0/16
+https://128.32.243.249,Canon iR-ADV,128.32.0.0/16
+https://128.32.244.167,Common Name,128.32.0.0/16
+https://128.32.244.171,lists.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.244.181,cusg.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.244.183,www.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.244.209,wsus.eecs.berkeley.edu,128.32.0.0/16
+https://128.32.245.56,RNP002673BFCBC8,128.32.0.0/16
+https://128.32.245.65,HP Jetdirect 54150C92,128.32.0.0/16
+https://128.32.245.104,NPIC9FDFB,128.32.0.0/16
+https://128.32.245.138,HP Jetdirect DE82CD2E,128.32.0.0/16
+https://128.32.245.172,HP Jetdirect 46485E2E,128.32.0.0/16
+https://128.32.246.6,128.32.246.6,128.32.0.0/16
+https://128.32.246.9,NPI23C05E.berkeley.edu,128.32.0.0/16
+https://128.32.246.10,fom.cchem.berkeley.edu,128.32.0.0/16
+https://128.32.246.61,HP Jetdirect B85FBB97,128.32.0.0/16
+https://128.32.246.130,chexscheduler.cchem.berkeley.edu,128.32.0.0/16
+https://128.32.246.227,NPI24A330,128.32.0.0/16
+https://128.32.246.243,Preset Certificate,128.32.0.0/16
+https://128.32.247.112,mercury3.banatao.berkeley.edu,128.32.0.0/16
+https://128.32.247.246,XRX9C934E7024F3,128.32.0.0/16
+https://128.32.248.4,localhost.localdomain,128.32.0.0/16
+https://128.32.248.7,localhost.localdomain,128.32.0.0/16
+https://128.32.248.12,genomics.lbl.gov,128.32.0.0/16
+https://128.32.248.15,Keith Keller,128.32.0.0/16
+https://128.32.248.20,localhost.localdomain,128.32.0.0/16
+https://128.32.248.36,NPI14AD63,128.32.0.0/16
+https://128.32.248.164,128.32.248.164,128.32.0.0/16
+https://128.32.249.35,yogi-qa-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.36,yogi-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.41,pc-mftgw-prod-01-b.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.43,pc-mftgw-qa-01-b.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.44,bhive.berkeley.edu,128.32.0.0/16
+https://128.32.249.45,apis.berkeley.edu,128.32.0.0/16
+https://128.32.249.46,apis.berkeley.edu,128.32.0.0/16
+https://128.32.249.47,yogi-dev-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.48,eprotocol-dev-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.49,eprotocol-qa-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.50,eprotocol-prod-01.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.51,apis.berkeley.edu,128.32.0.0/16
+https://128.32.249.55,pc-mftgw-dev-01-b.ist.berkeley.edu,128.32.0.0/16
+https://128.32.249.56,*.berkeley.edu,128.32.0.0/16
+https://128.32.249.57,*.berkeley.edu,128.32.0.0/16
+https://128.32.249.59,*.berkeley.edu,128.32.0.0/16
+https://128.32.249.61,*.berkeley.edu,128.32.0.0/16
+https://128.32.249.87,jobsprod.is.berkeley.edu,128.32.0.0/16
+https://128.32.249.100,ebillprod.is.berkeley.edu,128.32.0.0/16
+https://128.32.249.105,hrw-vip-prod.is.berkeley.edu.berkeley.edu,128.32.0.0/16
+https://128.32.250.6,gse6.soe.berkeley.edu,128.32.0.0/16
+https://128.32.250.17,Server Fallback SSL Certificate,128.32.0.0/16
+https://128.32.250.23,HP Jetdirect 5A7B4192,128.32.0.0/16
+https://128.32.250.64,HP Jetdirect BB07E16B,128.32.0.0/16
+https://128.32.250.70,NPIEA3C1F,128.32.0.0/16
+https://128.32.250.164,NPI2111FA,128.32.0.0/16
+https://128.32.250.252,HP Jetdirect 01110F89,128.32.0.0/16
+https://128.32.250.253,NPI153920.berkeley.edu,128.32.0.0/16
+https://128.32.251.104,HP Jetdirect 05FFF0F5,128.32.0.0/16
+https://128.32.251.145,NPIAE77C5,128.32.0.0/16
+https://128.32.251.178,develop,128.32.0.0/16
+https://128.32.252.5,XRX9C934E1C1FBC,128.32.0.0/16
+https://128.32.252.43,XRX9C934E5C9C82,128.32.0.0/16
+https://128.32.252.44,HP Jetdirect 2AF4A381,128.32.0.0/16
+https://128.32.253.53,ET0021B7B211F6.,128.32.0.0/16
+https://128.32.253.72,HP Jetdirect A132F27B,128.32.0.0/16
+https://128.32.253.195,NPI54A3D5,128.32.0.0/16
+https://128.32.254.27,Preset Certificate,128.32.0.0/16
+https://136.152.156.75,authorize.ceb.com,136.152.0.0/16
+https://136.152.156.77,epubsiefmp.com,136.152.0.0/16
+https://136.152.156.78,svnedge.collab.net,136.152.0.0/16
+https://136.152.156.81,cc.ceb.ucla.edu,136.152.0.0/16
+https://136.152.156.83,nopwebprd.ceb.com,136.152.0.0/16
+https://136.152.156.84,keaton.ceb.ucla.edu,136.152.0.0/16
+https://136.152.156.86,epubsiefmp.com,136.152.0.0/16
+https://136.152.156.87,webstager.ceb.com,136.152.0.0/16
+https://136.152.156.102,authorizetest.ceb.com,136.152.0.0/16
+https://136.152.156.104,ccdev.ceb.ucla.edu,136.152.0.0/16
+https://136.152.156.106,nopwebstg.ceb.com,136.152.0.0/16
+https://136.152.156.108,iefmd.ceb.com,136.152.0.0/16
+https://136.152.156.109,hostedapptest.ceb.ucla.edu,136.152.0.0/16
+https://136.152.208.54,OPENSSL,136.152.0.0/16
+https://136.152.208.169,OPENSSL,136.152.0.0/16
+https://136.152.224.40,ln000.brc.berkeley.edu,136.152.0.0/16
+https://136.152.224.105,eei-dp.ist.berkeley.edu,136.152.0.0/16
+https://136.152.224.120,software-download.berkeley.edu,136.152.0.0/16
+https://136.152.224.122,software-download.berkeley.edu,136.152.0.0/16
+https://136.152.224.123,ac39e1abc.acc,136.152.0.0/16
+https://136.152.224.143,eei-dp.ist.berkeley.edu,136.152.0.0/16
+https://136.152.224.144,eei-dp.ist.berkeley.edu,136.152.0.0/16
+https://136.152.224.145,eei-dp.ist.berkeley.edu,136.152.0.0/16
+https://136.152.224.149,eei-swd-dev.ist.berkeley.edu,136.152.0.0/16
+https://136.152.224.167,eei-svc-01.ist.berkeley.edu,136.152.0.0/16
+https://136.152.225.43,136.152.225.43,136.152.0.0/16
+https://136.152.225.66,136.152.225.66,136.152.0.0/16
+https://136.152.225.100,192.168.168.168,136.152.0.0/16
+https://136.152.226.111,haze,136.152.0.0/16
+https://136.152.226.217,sparc.berkeley.edu,136.152.0.0/16
+https://136.152.227.9,NSeries,136.152.0.0/16
+https://136.152.227.27,NSeries,136.152.0.0/16
+https://136.152.227.28,NSeries,136.152.0.0/16
+https://136.152.227.33,NSeries,136.152.0.0/16
+https://136.152.227.34,NSeries,136.152.0.0/16
+https://136.152.227.38,NSeries,136.152.0.0/16
+https://136.152.227.39,NSeries,136.152.0.0/16
+https://136.152.227.42,NSeries,136.152.0.0/16
+https://136.152.227.43,NSeries,136.152.0.0/16
+https://136.152.227.46,NSeries,136.152.0.0/16
+https://136.152.227.48,NSeries,136.152.0.0/16
+https://136.152.227.49,NSeries,136.152.0.0/16
+https://136.152.227.61,NSeries,136.152.0.0/16
+https://136.152.227.79,NSeries,136.152.0.0/16
+https://136.152.228.45,infoblox.net.berkeley.edu,136.152.0.0/16
+https://136.152.250.142,AMX,136.152.0.0/16
+https://136.152.253.2,XRX9C934E56E63E,136.152.0.0/16
+https://136.152.253.3,136.152.253.3,136.152.0.0/16
+https://136.152.253.227,XRX9C934E0417DC,136.152.0.0/16
+https://136.152.253.228,XRX9C934E931388,136.152.0.0/16
+https://136.152.254.196,FG080D3914000840,136.152.0.0/16
+https://136.152.255.95,OPENSSL,136.152.0.0/16
+https://136.152.255.96,OPENSSL,136.152.0.0/16
+https://136.152.255.97,OPENSSL,136.152.0.0/16
+https://136.152.255.99,OPENSSL,136.152.0.0/16
+https://136.152.255.100,OPENSSL,136.152.0.0/16
+https://136.152.255.101,OPENSSL,136.152.0.0/16
+https://136.152.255.110,OPENSSL,136.152.0.0/16
+https://136.152.255.114,OPENSSL,136.152.0.0/16
+https://136.152.255.115,OPENSSL,136.152.0.0/16
+https://192.150.186.19,*.icsi.berkeley.edu,192.150.186.0/23
+https://192.150.186.160,*.icsi.berkeley.edu,192.150.186.0/23
+https://192.150.187.11,www.icir.org,192.150.186.0/23
+https://192.150.187.12,www.icir.org,192.150.186.0/23
+https://192.150.187.18,www.icir.org,192.150.186.0/23
+https://192.150.187.30,www.icir.org,192.150.186.0/23
+https://192.150.187.43,*.bro.org,192.150.186.0/23
+https://192.150.187.44,www.haystack.mobi,192.150.186.0/23
+https://192.150.187.169,*.ICSI.Berkeley.EDU,192.150.186.0/23
+https://192.150.187.170,*.icsi.berkeley.edu,192.150.186.0/23
+https://192.150.187.171,*.icsi.berkeley.edu,192.150.186.0/23
+https://192.150.187.241,admin-gw.ICSI.Berkeley.EDU,192.150.186.0/23
+https://192.150.187.248,OPENSSL,192.150.186.0/23
+https://169.229.0.220,ssl-vpn.ssl.berkeley.edu,169.229.0.0/16
+https://169.229.1.150,localhost.localdomain,169.229.0.0/16
+https://169.229.2.67,169.229.2.67,169.229.0.0/16
+https://169.229.2.151,169.229.2.151,169.229.0.0/16
+https://169.229.2.166,infoblox.net.berkeley.edu,169.229.0.0/16
+https://169.229.2.168,infoblox.net.berkeley.edu,169.229.0.0/16
+https://169.229.2.171,srb-infoblox-nsm1.berkeley.edu,169.229.0.0/16
+https://169.229.3.3,OPENSSL,169.229.0.0/16
+https://169.229.3.74,192.168.168.168,169.229.0.0/16
+https://169.229.4.150,OPENSSL,169.229.0.0/16
+https://169.229.5.86,OPENSSL,169.229.0.0/16
+https://169.229.5.87,OPENSSL,169.229.0.0/16
+https://169.229.6.113,ET0021B7B92A07.,169.229.0.0/16
+https://169.229.6.117,Dell 3330dn Laser Printer,169.229.0.0/16
+https://169.229.6.134,169.229.6.134,169.229.0.0/16
+https://169.229.6.135,169.229.6.135,169.229.0.0/16
+https://169.229.7.49,NPI37A3F2.berkeley.edu,169.229.0.0/16
+https://169.229.7.201,HP Jetdirect 6B1BFDFB,169.229.0.0/16
+https://169.229.7.203,RNP002673BAB60B,169.229.0.0/16
+https://169.229.8.8,169.229.8.8,169.229.0.0/16
+https://169.229.8.22,synology.com,169.229.0.0/16
+https://169.229.8.35,synology.com,169.229.0.0/16
+https://169.229.8.44,synology.com,169.229.0.0/16
+https://169.229.8.54,synology.com,169.229.0.0/16
+https://169.229.8.193,synology.com,169.229.0.0/16
+https://169.229.9.65,Preset Certificate,169.229.0.0/16
+https://169.229.9.87,OPENSSL,169.229.0.0/16
+https://169.229.10.187,NPIB49921,169.229.0.0/16
+https://169.229.10.188,NPIBA9DF8,169.229.0.0/16
+https://169.229.10.190,XRX9C934E861763,169.229.0.0/16
+https://169.229.10.219,localhost.localdomain,169.229.0.0/16
+https://169.229.10.220,localhost.localdomain,169.229.0.0/16
+https://169.229.10.221,udarhpdm1995u10.urel.berkeley.edu,169.229.0.0/16
+https://169.229.10.227,URVCSB.urel.berkeley.edu,169.229.0.0/16
+https://169.229.10.228,urcssb.urel.berkeley.edu,169.229.0.0/16
+https://169.229.11.225,OPENSSL,169.229.0.0/16
+https://169.229.11.174,169.229.11.174,169.229.0.0/16
+https://169.229.11.231,169.229.11.231,169.229.0.0/16
+https://169.229.12.98,OPENSSL,169.229.0.0/16
+https://169.229.12.107,169.229.12.107,169.229.0.0/16
+https://169.229.12.227,ARClaserjet.dyn.berkeley.edu,169.229.0.0/16
+https://169.229.12.238,ARCColorLJ.dyn.berkeley.edu,169.229.0.0/16
+https://169.229.12.251,DMP8-01-AFGR,169.229.0.0/16
+https://169.229.13.84,HP LaserJet 600 M602 [609D44],169.229.0.0/16
+https://169.229.13.120,HP LaserJet 600 M602 [60DDAC],169.229.0.0/16
+https://169.229.15.130,XRX9C934E1ECC82,169.229.0.0/16
+https://169.229.15.189,POLYCOM.berkeley.edu,169.229.0.0/16
+https://169.229.15.246,169.229.15.246,169.229.0.0/16
+https://169.229.16.9,NPIEDD79F,169.229.0.0/16
+https://169.229.16.99,XRX9C934E6FE87C,169.229.0.0/16
+https://169.229.16.122,XRX9C934E72A89F,169.229.0.0/16
+https://169.229.16.133,RNP002673C421C3,169.229.0.0/16
+https://169.229.19.10,*.ehs.berkeley.edu,169.229.0.0/16
+https://169.229.19.131,Preset Certificate,169.229.0.0/16
+https://169.229.22.59,VMware,169.229.0.0/16
+https://169.229.22.133,OPENSSL,169.229.0.0/16
+https://169.229.22.138,richard-c1.richard4912.me,169.229.0.0/16
+https://169.229.22.140,HP6367E3,169.229.0.0/16
+https://169.229.22.143,Preset Certificate,169.229.0.0/16
+https://169.229.22.156,VMware,169.229.0.0/16
+https://169.229.22.158,HPOccam,169.229.0.0/16
+https://169.229.22.182,OPENSSL,169.229.0.0/16
+https://169.229.23.186,HP6B4766,169.229.0.0/16
+https://169.229.32.78,FMI Default Certificate,169.229.0.0/16
+https://169.229.32.161,169.229.32.161,169.229.0.0/16
+https://169.229.32.163,SPA,169.229.0.0/16
+https://169.229.32.164,SPB,169.229.0.0/16
+https://169.229.33.31,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.33.45,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.33.49,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.33.55,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.33.59,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.33.60,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.33.62,Avocent Mergepoint Unity,169.229.0.0/16
+https://169.229.36.53,169.229.36.53,169.229.0.0/16
+https://169.229.36.57,169.229.36.57,169.229.0.0/16
+https://169.229.36.62,169.229.36.62,169.229.0.0/16
+https://169.229.36.104,HP Designjet 5588941D,169.229.0.0/16
+https://169.229.37.22,OPENSSL,169.229.0.0/16
+https://169.229.37.23,OPENSSL,169.229.0.0/16
+https://169.229.37.70,Dust Networks Certificate Authority,169.229.0.0/16
+https://169.229.37.101,AcquiSuite SN 001EC6001DD8 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.37.102,AcquiSuite SN 001EC6000099 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.37.135,Preset Certificate,169.229.0.0/16
+https://169.229.38.6,169.229.38.6,169.229.0.0/16
+https://169.229.38.9,NPIC1B550,169.229.0.0/16
+https://169.229.38.16,HP Jetdirect 641A18C0,169.229.0.0/16
+https://169.229.38.17,NPI12B3A4,169.229.0.0/16
+https://169.229.38.21,OPENSSL,169.229.0.0/16
+https://169.229.38.40,NPIF4F3F4,169.229.0.0/16
+https://169.229.38.75,OPENSSL,169.229.0.0/16
+https://169.229.38.80,HP Jetdirect 641BA634,169.229.0.0/16
+https://169.229.38.95,HP Jetdirect 4B141C75,169.229.0.0/16
+https://169.229.39.3,RNP002673CC2B16,169.229.0.0/16
+https://169.229.39.20,169.229.39.20,169.229.0.0/16
+https://169.229.39.24,169.229.39.24,169.229.0.0/16
+https://169.229.39.74,OPENSSL,169.229.0.0/16
+https://169.229.39.86,VMware,169.229.0.0/16
+https://169.229.39.133,HP Jetdirect E1399AFB,169.229.0.0/16
+https://169.229.39.139,169.229.39.139,169.229.0.0/16
+https://169.229.48.139,www.millennium.berkeley.edu,169.229.0.0/16
+https://169.229.48.157,mail.millennium.berkeley.edu,169.229.0.0/16
+https://169.229.49.114,OPENSSL,169.229.0.0/16
+https://169.229.50.27,OPENSSL,169.229.0.0/16
+https://169.229.50.28,OPENSSL,169.229.0.0/16
+https://169.229.51.137,OPENSSL,169.229.0.0/16
+https://169.229.51.153,OPENSSL,169.229.0.0/16
+https://169.229.51.158,zero.millennium.berkeley.edu,169.229.0.0/16
+https://169.229.52.13,OPENSSL,169.229.0.0/16
+https://169.229.52.112,OPENSSL,169.229.0.0/16
+https://169.229.53.29,NPIBCC850,169.229.0.0/16
+https://169.229.53.66,NPI022868,169.229.0.0/16
+https://169.229.53.114,Lexmark C746,169.229.0.0/16
+https://169.229.53.135,A_LifeSize_System,169.229.0.0/16
+https://169.229.53.136,A_LifeSize_System,169.229.0.0/16
+https://169.229.53.151,HPF23348,169.229.0.0/16
+https://169.229.53.170,HPF8F693,169.229.0.0/16
+https://169.229.53.235,HP Jetdirect 5FBAEE4D,169.229.0.0/16
+https://169.229.53.236,A_LifeSize_System,169.229.0.0/16
+https://169.229.53.242,OPENSSL,169.229.0.0/16
+https://169.229.53.250,NPI3901EC.berkeley.edu,169.229.0.0/16
+https://169.229.53.254,NPI06BD5B,169.229.0.0/16
+https://169.229.54.20,synology.com,169.229.0.0/16
+https://169.229.54.65,NPIC835F3,169.229.0.0/16
+https://169.229.54.111,synology.com,169.229.0.0/16
+https://169.229.54.199,group-test.berkeley.edu,169.229.0.0/16
+https://169.229.54.203,idc-d1.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.54.205,idc-test.berkeley.edu,169.229.0.0/16
+https://169.229.54.206,idc.berkeley.edu,169.229.0.0/16
+https://169.229.54.207,idc.berkeley.edu,169.229.0.0/16
+https://169.229.54.208,idc.berkeley.edu,169.229.0.0/16
+https://169.229.54.210,group-test.berkeley.edu,169.229.0.0/16
+https://169.229.54.211,group-test.berkeley.edu,169.229.0.0/16
+https://169.229.54.214,group-d1.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.54.217,calgroups.berkeley.edu,169.229.0.0/16
+https://169.229.54.219,idc-test.berkeley.edu,169.229.0.0/16
+https://169.229.54.220,shib.berkeley.edu,169.229.0.0/16
+https://169.229.54.232,shib.berkeley.edu,169.229.0.0/16
+https://169.229.54.234,calgroups.berkeley.edu,169.229.0.0/16
+https://169.229.54.235,calgroups.berkeley.edu,169.229.0.0/16
+https://169.229.55.51,HP Color LaserJet CP5520 Series [69B28D],169.229.0.0/16
+https://169.229.56.2,XRX9C934E1E3245,169.229.0.0/16
+https://169.229.56.55,XRX9C934E32F367,169.229.0.0/16
+https://169.229.56.143,VMware default certificate,169.229.0.0/16
+https://169.229.56.201,169.229.56.201,169.229.0.0/16
+https://169.229.57.2,NPI17AC86,169.229.0.0/16
+https://169.229.57.3,NPID1101D.berkeley.edu,169.229.0.0/16
+https://169.229.57.4,NPIEC3F08,169.229.0.0/16
+https://169.229.57.5,NPI3BD337,169.229.0.0/16
+https://169.229.57.14,HP Jetdirect 463F663D,169.229.0.0/16
+https://169.229.57.41,OPENSSL,169.229.0.0/16
+https://169.229.57.47,HP Jetdirect 9C368300,169.229.0.0/16
+https://169.229.57.54,OPENSSL,169.229.0.0/16
+https://169.229.57.76,HP Jetdirect 05ED075E,169.229.0.0/16
+https://169.229.57.78,HP Color LaserJet M553 B5L25A,169.229.0.0/16
+https://169.229.57.101,OPENSSL,169.229.0.0/16
+https://169.229.57.126,NPIC7AD40.berkeley.edu,169.229.0.0/16
+https://169.229.57.134,calvm-access.berkeley.edu,169.229.0.0/16
+https://169.229.58.77,OPENSSL,169.229.0.0/16
+https://169.229.59.61,AcquiSuite SN 001EC6001885,169.229.0.0/16
+https://169.229.60.42,OPENSSL,169.229.0.0/16
+https://169.229.61.74,client-does-not-support-sni.sandstorm-requires-sni.invalid,169.229.0.0/16
+https://169.229.61.101,HP Color LaserJet CP5520 Series [6198AE],169.229.0.0/16
+https://169.229.62.192,169.229.62.192,169.229.0.0/16
+https://169.229.63.101,OPENSSL,169.229.0.0/16
+https://169.229.63.108,rhino.eecs.berkeley.edu,169.229.0.0/16
+https://169.229.64.22,169.229.64.22,169.229.0.0/16
+https://169.229.64.23,OPENSSL,169.229.0.0/16
+https://169.229.64.99,XRX9C934E2E0572,169.229.0.0/16
+https://169.229.64.101,HP Jetdirect 7D6F8F36,169.229.0.0/16
+https://169.229.64.120,RNP0026737949C9,169.229.0.0/16
+https://169.229.64.122,OPENSSL,169.229.0.0/16
+https://169.229.64.245,AcquiSuite SN 001EC60014AE Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.64.246,AcquiSuite SN 001EC6001CE6 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.65.47,OPENSSL,169.229.0.0/16
+https://169.229.65.102,HP Jetdirect 7D702C2D,169.229.0.0/16
+https://169.229.65.104,XRX9C934E703B44,169.229.0.0/16
+https://169.229.65.120,AcquiSuite SN 001EC60014B3 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.66.22,169.229.66.22,169.229.0.0/16
+https://169.229.66.31,XRX9C934E5E8AFE,169.229.0.0/16
+https://169.229.66.35,XRX9C934E2E0A15,169.229.0.0/16
+https://169.229.66.43,NPI78E66A,169.229.0.0/16
+https://169.229.66.68,HP Jetdirect C08E4EAE,169.229.0.0/16
+https://169.229.67.22,169.229.67.22,169.229.0.0/16
+https://169.229.67.36,RNP00267383E5C7,169.229.0.0/16
+https://169.229.67.245,AcquiSuite SN 001EC6001C06 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.67.246,AcquiSuite SN 001EC6001CE5 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.67.247,AcquiSuite SN 001EC6000CD8 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.67.248,AcquiSuite SN 001EC6001E3F Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.55,NPI343D24,169.229.0.0/16
+https://169.229.68.79,HP Jetdirect D1A035B1,169.229.0.0/16
+https://169.229.68.83,RNP002673DBFE07,169.229.0.0/16
+https://169.229.68.86,RNP002673C6DBA8,169.229.0.0/16
+https://169.229.68.92,HP Jetdirect D1A035A8,169.229.0.0/16
+https://169.229.68.115,NPI7E2A13.Housing.berkeley.edu,169.229.0.0/16
+https://169.229.68.151,AcquiSuite SN 001EC6001CE3 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.152,AcquiSuite SN 001EC6001AB3 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.154,AcquiSuite SN 001EC6001C56 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.155,AcquiSuite SN 001EC6001B5B Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.156,AcquiSuite SN 001EC6001C7E Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.157,AcquiSuite SN 001EC6001CBA Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.68.176,NPIFEE294,169.229.0.0/16
+https://169.229.70.24,it.housing.berkeley.edu,169.229.0.0/16
+https://169.229.70.40,saservices.berkeley.edu,169.229.0.0/16
+https://169.229.70.136,OPENSSL,169.229.0.0/16
+https://169.229.70.143,OPENSSL,169.229.0.0/16
+https://169.229.70.145,it.housing.berkeley.edu,169.229.0.0/16
+https://169.229.70.160,workstudy.berkeley.edu,169.229.0.0/16
+https://169.229.70.202,it.housing.berkeley.edu,169.229.0.0/16
+https://169.229.74.135,OPENSSL,169.229.0.0/16
+https://169.229.76.116,mpcp.no-ip.org,169.229.0.0/16
+https://169.229.78.11,QNAP NAS,169.229.0.0/16
+https://169.229.81.113,OPENSSL,169.229.0.0/16
+https://169.229.83.109,OPENSSL,169.229.0.0/16
+https://169.229.84.12,OPENSSL,169.229.0.0/16
+https://169.229.93.100,OPENSSL,169.229.0.0/16
+https://169.229.95.103,OPENSSL,169.229.0.0/16
+https://169.229.97.108,niteshmor.com,169.229.0.0/16
+https://169.229.97.133,OPENSSL,169.229.0.0/16
+https://169.229.99.148,OPENSSL,169.229.0.0/16
+https://169.229.100.103,OPENSSL,169.229.0.0/16
+https://169.229.101.112,OPENSSL,169.229.0.0/16
+https://169.229.118.104,OPENSSL,169.229.0.0/16
+https://169.229.119.19,OPENSSL,169.229.0.0/16
+https://169.229.120.39,siumai.mmq.be,169.229.0.0/16
+https://169.229.120.69,synology.com,169.229.0.0/16
+https://169.229.120.135,OPENSSL,169.229.0.0/16
+https://169.229.120.194,www.dlink.com
+,169.229.0.0/16
+https://169.229.121.77,OPENSSL,169.229.0.0/16
+https://169.229.122.45,cloud.kyleboone.ca,169.229.0.0/16
+https://169.229.122.163,OPENSSL,169.229.0.0/16
+https://169.229.123.39,ni4ni.org,169.229.0.0/16
+https://169.229.124.142,169.229.124.142,169.229.0.0/16
+https://169.229.124.144,XRX9C934E865388,169.229.0.0/16
+https://169.229.124.146,HP Jetdirect 05E7F379,169.229.0.0/16
+https://169.229.124.197,NPI7D179E.Housing.berkeley.edu,169.229.0.0/16
+https://169.229.124.235,OPENSSL,169.229.0.0/16
+https://169.229.125.113,None,169.229.0.0/16
+https://169.229.128.19,OPENSSL,169.229.0.0/16
+https://169.229.128.54,OPENSSL,169.229.0.0/16
+https://169.229.128.67,OPENSSL,169.229.0.0/16
+https://169.229.128.134,ntp1.net.berkeley.edu,169.229.0.0/16
+https://169.229.128.142,ntp2.net.berkeley.edu,169.229.0.0/16
+https://169.229.129.2,NPI07BE44,169.229.0.0/16
+https://169.229.129.8,OPENSSL,169.229.0.0/16
+https://169.229.129.17,HP9B752B,169.229.0.0/16
+https://169.229.129.18,Preset Certificate,169.229.0.0/16
+https://169.229.129.19,HP Jetdirect 5FBB4DB6,169.229.0.0/16
+https://169.229.129.29,HP LaserJet 500 color M551 [F32899],169.229.0.0/16
+https://169.229.129.65,HP Jetdirect DE12B5B2,169.229.0.0/16
+https://169.229.129.123,OPENSSL,169.229.0.0/16
+https://169.229.130.53,Seagate Technology LLC,169.229.0.0/16
+https://169.229.130.134,HP Jetdirect 7980EBB9,169.229.0.0/16
+https://169.229.131.4,gogreen.berkeley.edu,169.229.0.0/16
+https://169.229.131.22,*.simons.berkeley.edu,169.229.0.0/16
+https://169.229.131.28,github.berkeley.edu,169.229.0.0/16
+https://169.229.131.29,github.berkeley.edu,169.229.0.0/16
+https://169.229.131.30,WMSvc-BIO-DEV,169.229.0.0/16
+https://169.229.131.164,169.229.131.164,169.229.0.0/16
+https://169.229.132.104,Jeff McCullough,169.229.0.0/16
+https://169.229.133.42,169.229.133.42,169.229.0.0/16
+https://169.229.133.79,169.229.133.79,169.229.0.0/16
+https://169.229.133.144,for.temporary.use.only,169.229.0.0/16
+https://169.229.133.243,for.temporary.use.only,169.229.0.0/16
+https://169.229.134.140,169.229.134.140,169.229.0.0/16
+https://169.229.134.213,HP Jetdirect D040C74E,169.229.0.0/16
+https://169.229.135.55,UBNT-00:27:22:A2:25:CF,169.229.0.0/16
+https://169.229.135.96,UBNT-68:72:51:44:71:20,169.229.0.0/16
+https://169.229.135.97,UBNT-68:72:51:44:71:24,169.229.0.0/16
+https://169.229.135.99,UBNT-68:72:51:44:07:F6,169.229.0.0/16
+https://169.229.135.100,UBNT-68:72:51:42:F1:B6,169.229.0.0/16
+https://169.229.135.101,UBNT-68:72:51:46:45:88,169.229.0.0/16
+https://169.229.135.124,OPENSSL,169.229.0.0/16
+https://169.229.135.167,169.229.135.167,169.229.0.0/16
+https://169.229.135.192,HPCD5BDC,169.229.0.0/16
+https://169.229.136.67,OPENSSL,169.229.0.0/16
+https://169.229.136.70,169.229.136.70,169.229.0.0/16
+https://169.229.136.77,OPENSSL,169.229.0.0/16
+https://169.229.136.80,OPENSSL,169.229.0.0/16
+https://169.229.136.85,NPIB362CD,169.229.0.0/16
+https://169.229.136.106,NPI3BF35B,169.229.0.0/16
+https://169.229.136.154,OPENSSL,169.229.0.0/16
+https://169.229.136.160,atdp.berkeley.edu,169.229.0.0/16
+https://169.229.136.164,atdpcourses.berkeley.edu,169.229.0.0/16
+https://169.229.137.2,OPENSSL,169.229.0.0/16
+https://169.229.137.4,NPIC3E2FE,169.229.0.0/16
+https://169.229.137.27,HP Jetdirect A969C01C,169.229.0.0/16
+https://169.229.137.56,HP LaserJet 700 M712 [0FA402],169.229.0.0/16
+https://169.229.137.75,OPENSSL,169.229.0.0/16
+https://169.229.137.171,OPENSSL,169.229.0.0/16
+https://169.229.137.190,OPENSSL,169.229.0.0/16
+https://169.229.137.217,OPENSSL,169.229.0.0/16
+https://169.229.138.2,HP Jetdirect DBC0E1D1,169.229.0.0/16
+https://169.229.138.3,NPI39A766,169.229.0.0/16
+https://169.229.138.17,XRX9C934E93EC2A,169.229.0.0/16
+https://169.229.138.125,HP Color LaserJet MFP M680 [C0A63F],169.229.0.0/16
+https://169.229.138.130,NPIA8B98E,169.229.0.0/16
+https://169.229.138.203,169.229.138.203,169.229.0.0/16
+https://169.229.138.214,HP LaserJet M506 F2A69A,169.229.0.0/16
+https://169.229.139.12,169.229.139.12,169.229.0.0/16
+https://169.229.139.30,OPENSSL,169.229.0.0/16
+https://169.229.139.199,169.229.139.199,169.229.0.0/16
+https://169.229.139.249,NPI520AA2.berkeley.edu,169.229.0.0/16
+https://169.229.139.250,OPENSSL,169.229.0.0/16
+https://169.229.140.143,campustours.berkeley.edu,169.229.0.0/16
+https://169.229.140.157,give.berkeley.edu,169.229.0.0/16
+https://169.229.140.161,udarwfe.urel.berkeley.edu,169.229.0.0/16
+https://169.229.140.175,give.berkeley.edu,169.229.0.0/16
+https://169.229.140.176,give.berkeley.edu,169.229.0.0/16
+https://169.229.140.183,jira.urel.berkeley.edu,169.229.0.0/16
+https://169.229.140.184,payment-qa.urel.berkeley.edu,169.229.0.0/16
+https://169.229.142.117,*.ehs.berkeley.edu,169.229.0.0/16
+https://169.229.142.226,NPIC1016F,169.229.0.0/16
+https://169.229.142.229,HPEC5801,169.229.0.0/16
+https://169.229.143.91,HP Jetdirect 4B15019A,169.229.0.0/16
+https://169.229.143.130,169.229.143.130,169.229.0.0/16
+https://169.229.143.169,web1.citris.berkeley.edu,169.229.0.0/16
+https://169.229.143.199,HP Jetdirect 2FF28B74,169.229.0.0/16
+https://169.229.144.131,169.229.144.131,169.229.0.0/16
+https://169.229.144.132,10.0.0.3,169.229.0.0/16
+https://169.229.145.222,OPENSSL,169.229.0.0/16
+https://169.229.145.223,OPENSSL,169.229.0.0/16
+https://169.229.146.99,HP Jetdirect B5FC54C2,169.229.0.0/16
+https://169.229.146.137,pub.ebi.berkeley.edu,169.229.0.0/16
+https://169.229.146.138,pub.ebi.berkeley.edu,169.229.0.0/16
+https://169.229.147.6,Preset Certificate,169.229.0.0/16
+https://169.229.147.21,HP Jetdirect 7D8A4A36,169.229.0.0/16
+https://169.229.147.42,169.229.147.42,169.229.0.0/16
+https://169.229.147.111,Canon iR-ADV,169.229.0.0/16
+https://169.229.147.229,NPI505B70.berkeley.edu,169.229.0.0/16
+https://169.229.149.150,NPI01CC19,169.229.0.0/16
+https://169.229.149.189,169.229.149.189,169.229.0.0/16
+https://169.229.149.202,SMP_351,169.229.0.0/16
+https://169.229.149.217,169.229.149.217,169.229.0.0/16
+https://169.229.150.75,HP Jetdirect 92B5E362,169.229.0.0/16
+https://169.229.150.150,OPENSSL,169.229.0.0/16
+https://169.229.150.183,HPC9AC60,169.229.0.0/16
+https://169.229.151.9,OPENSSL,169.229.0.0/16
+https://169.229.151.126,XRX9C934E4A0F19,169.229.0.0/16
+https://169.229.151.130,NPIA52F18,169.229.0.0/16
+https://169.229.151.139,169.229.151.139,169.229.0.0/16
+https://169.229.151.183,OPENSSL,169.229.0.0/16
+https://169.229.151.231,OPENSSL,169.229.0.0/16
+https://169.229.152.134,RNP002673BFDE0B,169.229.0.0/16
+https://169.229.154.9,HP LaserJet 700 M712 [10FB67],169.229.0.0/16
+https://169.229.154.24,HP Designjet 36B62F95,169.229.0.0/16
+https://169.229.154.25,HP Designjet 36B60F3F,169.229.0.0/16
+https://169.229.154.36,HP Designjet 36B6EC0A,169.229.0.0/16
+https://169.229.154.73,HP Color LaserJet M855 [A6EC33],169.229.0.0/16
+https://169.229.154.195,HP Jetdirect B4761BA3,169.229.0.0/16
+https://169.229.154.196,HP Color LaserJet M855 [A6EC69],169.229.0.0/16
+https://169.229.154.197,HP Jetdirect A969C00A,169.229.0.0/16
+https://169.229.154.199,HP Jetdirect A969C06C,169.229.0.0/16
+https://169.229.154.224,SN62502,169.229.0.0/16
+https://169.229.154.225,SN62503,169.229.0.0/16
+https://169.229.154.226,SN62504,169.229.0.0/16
+https://169.229.154.227,SN62505,169.229.0.0/16
+https://169.229.154.228,SN62636,169.229.0.0/16
+https://169.229.154.246,HP Color LaserJet M855 [D2CA99],169.229.0.0/16
+https://169.229.155.7,fixed-169-229-155-7.cnr.berkeley.edu,169.229.0.0/16
+https://169.229.155.73,pathos.berkeley.edu,169.229.0.0/16
+https://169.229.155.75,NPI40FD83,169.229.0.0/16
+https://169.229.155.85,OPENSSL,169.229.0.0/16
+https://169.229.156.36,HP Jetdirect B3F94EFE,169.229.0.0/16
+https://169.229.156.78,HP LaserJet 500 color M551 [2540D3],169.229.0.0/16
+https://169.229.156.79,HP Jetdirect 7D895E8B,169.229.0.0/16
+https://169.229.156.130,OPENSSL,169.229.0.0/16
+https://169.229.156.168,HP Jetdirect 365F40BF,169.229.0.0/16
+https://169.229.157.50,OPENSSL,169.229.0.0/16
+https://169.229.157.79,XRX9C934E856B18,169.229.0.0/16
+https://169.229.157.84,XRX9C934E72DAF9,169.229.0.0/16
+https://169.229.157.152,HP Color LaserJet M553 B5L25A,169.229.0.0/16
+https://169.229.157.167,Seagate Technology LLC,169.229.0.0/16
+https://169.229.157.232,OPENSSL,169.229.0.0/16
+https://169.229.157.250,HP LaserJet M506 F2A69A,169.229.0.0/16
+https://169.229.158.15,HP Jetdirect B4788129,169.229.0.0/16
+https://169.229.158.16,KMA0BBEA,169.229.0.0/16
+https://169.229.158.99,Preset Certificate,169.229.0.0/16
+https://169.229.158.176,filenest.diskstation.me,169.229.0.0/16
+https://169.229.158.193,OPENSSL,169.229.0.0/16
+https://169.229.158.217,nipy.bic.berkeley.edu,169.229.0.0/16
+https://169.229.158.247,OPENSSL,169.229.0.0/16
+https://169.229.159.104,OPENSSL,169.229.0.0/16
+https://169.229.159.229,HP Jetdirect FBEA476D,169.229.0.0/16
+https://169.229.159.243,169.229.159.243,169.229.0.0/16
+https://169.229.161.5,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.6,imagineweb.berkeley.edu,169.229.0.0/16
+https://169.229.161.7,*.berkeley.edu,169.229.0.0/16
+https://169.229.161.17,caltimeqa.berkeley.edu,169.229.0.0/16
+https://169.229.161.19,*.berkeley.edu,169.229.0.0/16
+https://169.229.161.20,myrecreation-qa.ucdavis.edu,169.229.0.0/16
+https://169.229.161.26,*.berkeley.edu,169.229.0.0/16
+https://169.229.161.27,OPENSSL,169.229.0.0/16
+https://169.229.161.28,myrecreation.ucdavis.edu,169.229.0.0/16
+https://169.229.161.29,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.161.33,caltimeprod.berkeley.edu,169.229.0.0/16
+https://169.229.161.34,bairs-sb.berkeley.edu,169.229.0.0/16
+https://169.229.161.35,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.161.36,dsp-wp.berkeley.edu,169.229.0.0/16
+https://169.229.161.41,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.42,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.51,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.54,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.58,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.68,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.161.70,kro62-pw08.ist.1918.berkeley.edu,169.229.0.0/16
+https://169.229.162.2,hpcfa1.ica.berkeley.edu,169.229.0.0/16
+https://169.229.164.14,dba-pgw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.17,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.20,Menlo Security, Inc.,169.229.0.0/16
+https://169.229.164.23,css-pgw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.25,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.29,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.34,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.35,bitbucket.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.36,dbac-pgw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.40,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.41,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.42,myrecreation-qa.ucdavis.edu,169.229.0.0/16
+https://169.229.164.44,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.45,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.46,OPENSSL,169.229.0.0/16
+https://169.229.164.47,OPENSSL,169.229.0.0/16
+https://169.229.164.48,myrecreation.ucdavis.edu,169.229.0.0/16
+https://169.229.164.49,myrecreation.ucdavis.edu,169.229.0.0/16
+https://169.229.164.50,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.55,calwebiisupload.berkeley.edu,169.229.0.0/16
+https://169.229.164.57,OPENSSL,169.229.0.0/16
+https://169.229.164.58,OPENSSL,169.229.0.0/16
+https://169.229.164.61,sbg-pgw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.63,FMI Default Certificate,169.229.0.0/16
+https://169.229.164.65,etang.berkeley.edu,169.229.0.0/16
+https://169.229.164.70,sis-pgw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.71,sis-pgw02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.72,slc-pw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.75,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.164.76,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.164.80,win-pgw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.84,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.85,vca-pw01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.97,win-pfp03.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.106,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.107,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.109,FMI Default Certificate,169.229.0.0/16
+https://169.229.164.112,imagine-content-dev.berkeley.edu,169.229.0.0/16
+https://169.229.164.113,win-psh01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.117,shadow.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.121,sagate.berkeley.edu,169.229.0.0/16
+https://169.229.164.128,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.164.132,citrix.berkeley.edu,169.229.0.0/16
+https://169.229.164.134,citrix-dev.berkeley.edu,169.229.0.0/16
+https://169.229.164.136,cmp-dev-01.pi.berkeley.edu,169.229.0.0/16
+https://169.229.164.138,citrix-sec.berkeley.edu,169.229.0.0/16
+https://169.229.164.141,OPENSSL,169.229.0.0/16
+https://169.229.164.147,citrix-dev-sec.berkeley.edu,169.229.0.0/16
+https://169.229.164.148,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.164.149,*.haas.berkeley.edu,169.229.0.0/16
+https://169.229.164.151,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.160,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.162,myrecreation-train.ucdavis.edu,169.229.0.0/16
+https://169.229.164.167,mvs-pprt03.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.169,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.177,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.178,FMI Certificate Authority,169.229.0.0/16
+https://169.229.164.188,*.berkeley.edu,169.229.0.0/16
+https://169.229.164.194,dw-pgs01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.214,dw-pgs02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.164.218,win-pgw02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.165.17,OPENSSL,169.229.0.0/16
+https://169.229.165.88,HPA01AED,169.229.0.0/16
+https://169.229.165.112,Preset Certificate,169.229.0.0/16
+https://169.229.165.134,NPIC41BF6,169.229.0.0/16
+https://169.229.165.180,OPENSSL,169.229.0.0/16
+https://169.229.165.183,OPENSSL,169.229.0.0/16
+https://169.229.165.198,0.0.0.0,169.229.0.0/16
+https://169.229.165.199,169.229.165.199,169.229.0.0/16
+https://169.229.168.22,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.168.31,bairs.berkeley.edu,169.229.0.0/16
+https://169.229.168.32,bairs.berkeley.edu,169.229.0.0/16
+https://169.229.169.129,OPENSSL,169.229.0.0/16
+https://169.229.172.115,OPENSSL,169.229.0.0/16
+https://169.229.173.37,OPENSSL,169.229.0.0/16
+https://169.229.173.121,Dell B2360dn Laser Printer,169.229.0.0/16
+https://169.229.173.123,Dell B2360dn Laser Printer,169.229.0.0/16
+https://169.229.174.21,169.229.174.21,169.229.0.0/16
+https://169.229.174.26,HP Jetdirect E57BBD53,169.229.0.0/16
+https://169.229.174.29,synology.com,169.229.0.0/16
+https://169.229.175.149,LaCie SA,169.229.0.0/16
+https://169.229.175.150,LaCie SA,169.229.0.0/16
+https://169.229.176.34,localhost.localdomain,169.229.0.0/16
+https://169.229.192.66,NPI12F7FA,169.229.0.0/16
+https://169.229.192.88,CSSR2.dyn.berkeley.edu,169.229.0.0/16
+https://169.229.192.101,OPENSSL,169.229.0.0/16
+https://169.229.192.135,cahl.berkeley.edu,169.229.0.0/16
+https://169.229.192.136,h2195-322-321s70-006-d.IST.Berkeley.EDU,169.229.0.0/16
+https://169.229.192.145,ihouse.berkeley.edu,169.229.0.0/16
+https://169.229.192.185,bnrc,169.229.0.0/16
+https://169.229.192.190,erso-linux2.eecs.berkeley.edu,169.229.0.0/16
+https://169.229.192.202,sda.berkeley.edu,169.229.0.0/16
+https://169.229.192.215,sda.berkeley.edu,169.229.0.0/16
+https://169.229.192.216,sda.berkeley.edu,169.229.0.0/16
+https://169.229.192.234,gsppi.berkeley.edu,169.229.0.0/16
+https://169.229.193.105,XRX0000AAD82F27,169.229.0.0/16
+https://169.229.193.221,RNP002673BFD3D0,169.229.0.0/16
+https://169.229.194.38,clean.cchem.berkeley.edu,169.229.0.0/16
+https://169.229.194.40,dino.cchem.berkeley.edu,169.229.0.0/16
+https://169.229.195.34,OPENSSL,169.229.0.0/16
+https://169.229.195.36,dhcp-169-229-195-20.lips.berkeley.edu,169.229.0.0/16
+https://169.229.196.13,VMware,169.229.0.0/16
+https://169.229.196.46,OPENSSL,169.229.0.0/16
+https://169.229.196.66,OPENSSL,169.229.0.0/16
+https://169.229.196.77,OPENSSL,169.229.0.0/16
+https://169.229.196.95,OPENSSL,169.229.0.0/16
+https://169.229.196.202,RNP002673CA58BB,169.229.0.0/16
+https://169.229.196.220,host-2c-44-fd-07-05-94.dyn.berkeley.edu.,169.229.0.0/16
+https://169.229.197.17,OPENSSL,169.229.0.0/16
+https://169.229.197.22,eew.geo.berkeley.edu,169.229.0.0/16
+https://169.229.197.27,din.geo.berkeley.edu,169.229.0.0/16
+https://169.229.197.34,88:5a:92:60:6d:84,169.229.0.0/16
+https://169.229.197.37,mail.cisn.org,169.229.0.0/16
+https://169.229.197.44,benito.geo.berkeley.edu,169.229.0.0/16
+https://169.229.198.105,None,169.229.0.0/16
+https://169.229.198.106,indivisipedia.org,169.229.0.0/16
+https://169.229.198.200,OPENSSL,169.229.0.0/16
+https://169.229.199.15,VMware,169.229.0.0/16
+https://169.229.199.28,OPENSSL,169.229.0.0/16
+https://169.229.199.34,VMware,169.229.0.0/16
+https://169.229.199.68,ef.msp.org,169.229.0.0/16
+https://169.229.199.69,OPENSSL,169.229.0.0/16
+https://169.229.199.71,OPENSSL,169.229.0.0/16
+https://169.229.199.131,www.dlink.com
+,169.229.0.0/16
+https://169.229.199.161,NPIE9D52B,169.229.0.0/16
+https://169.229.199.228,HP Jetdirect 9985A1A7,169.229.0.0/16
+https://169.229.200.84,OPENSSL,169.229.0.0/16
+https://169.229.200.93,NPI6ADD7B,169.229.0.0/16
+https://169.229.200.135,willett.security.berkeley.edu,169.229.0.0/16
+https://169.229.200.144,simplehttp.security.berkeley.edu,169.229.0.0/16
+https://169.229.200.147,hipchat.security.berkeley.edu,169.229.0.0/16
+https://169.229.201.8,ur-testmoss1.berkeley.edu,169.229.0.0/16
+https://169.229.201.76,Dust Networks Certificate Authority,169.229.0.0/16
+https://169.229.201.151,169.229.201.151,169.229.0.0/16
+https://169.229.201.201,nature.berkeley.edu,169.229.0.0/16
+https://169.229.201.203,nature.berkeley.edu,169.229.0.0/16
+https://169.229.201.205,h2195-322-321ah09-002-d.cnr.berkeley.edu,169.229.0.0/16
+https://169.229.202.61,HP Jetdirect E5D42F37,169.229.0.0/16
+https://169.229.202.100,169.229.202.100,169.229.0.0/16
+https://169.229.202.134,169.229.202.134,169.229.0.0/16
+https://169.229.202.136,169.229.202.136,169.229.0.0/16
+https://169.229.203.4,sut-infoblox-nsm2.berkeley.edu,169.229.0.0/16
+https://169.229.203.38,OPENSSL,169.229.0.0/16
+https://169.229.203.39,OPENSSL,169.229.0.0/16
+https://169.229.203.69,Canon iR-ADV,169.229.0.0/16
+https://169.229.203.109,169.229.203.109,169.229.0.0/16
+https://169.229.204.77,169.229.204.77,169.229.0.0/16
+https://169.229.204.80,169.229.204.80,169.229.0.0/16
+https://169.229.204.242,OPENSSL,169.229.0.0/16
+https://169.229.204.243,HP Jetdirect BBDC34D8,169.229.0.0/16
+https://169.229.205.154,localhost,169.229.0.0/16
+https://169.229.205.155,laserjet.gisc.berkeley,169.229.0.0/16
+https://169.229.205.227,test-vpn.net.berkeley.edu,169.229.0.0/16
+https://169.229.205.228,ucbvpn.berkeley.edu,169.229.0.0/16
+https://169.229.205.229,ucbvpn-1-external.berkeley.edu,169.229.0.0/16
+https://169.229.205.230,ucbvpn-2-external.berkeley.edu,169.229.0.0/16
+https://169.229.206.4,AcquiSuite SN 001EC6001DCC Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.206.11,OPENSSL,169.229.0.0/16
+https://169.229.206.29,XRX9C934E861891,169.229.0.0/16
+https://169.229.206.33,HP Jetdirect 08875795,169.229.0.0/16
+https://169.229.208.5,NPI5F868B,169.229.0.0/16
+https://169.229.208.68,HP35C55C,169.229.0.0/16
+https://169.229.208.93,169.229.208.93,169.229.0.0/16
+https://169.229.208.94,HP Jetdirect 2914800B,169.229.0.0/16
+https://169.229.208.110,169.229.208.110,169.229.0.0/16
+https://169.229.208.120,HP Jetdirect 3881AC3F,169.229.0.0/16
+https://169.229.208.141,JMP-590G,169.229.0.0/16
+https://169.229.208.193,OPENSSL,169.229.0.0/16
+https://169.229.208.217,HP Jetdirect 5FBBDE82,169.229.0.0/16
+https://169.229.208.223,Cisco,169.229.0.0/16
+https://169.229.209.21,HP Jetdirect D70D1615,169.229.0.0/16
+https://169.229.209.29,OPENSSL,169.229.0.0/16
+https://169.229.209.32,HP Jetdirect 998AD862,169.229.0.0/16
+https://169.229.209.40,OPENSSL,169.229.0.0/16
+https://169.229.210.8,AcquiSuite SN 0050C230ECF8 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.18,OPENSSL,169.229.0.0/16
+https://169.229.210.78,EEI.Berkeley.edu,169.229.0.0/16
+https://169.229.210.87,EEI_PFS02.Berkeley.edu,169.229.0.0/16
+https://169.229.210.115,AcquiSuite SN 0050C230ED00 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.141,AcquiSuite SN 001EC600063F,169.229.0.0/16
+https://169.229.210.143,AcquiSuite SN 001EC6001CC2 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.167,localhost,169.229.0.0/16
+https://169.229.210.175,Dust Networks Certificate Authority,169.229.0.0/16
+https://169.229.210.177,AcquiSuite SN 001EC6000B62,169.229.0.0/16
+https://169.229.210.198,AcquiSuite SN 001EC6000C2F Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.205,AcquiSuite SN 001EC6000044 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.226,AcquiSuite SN 001EC6000793,169.229.0.0/16
+https://169.229.210.227,AcquiSuite SN 001EC6001CBB Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.228,AcquiSuite SN 001EC6001D07 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.234,AcquiSuite SN 001EC6000B5F Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.236,AcquiSuite SN 001EC6070140 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.210.248,AcquiSuite SN 0050C230ECE6 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.211.9,OPENSSL,169.229.0.0/16
+https://169.229.211.24,169.229.211.24,169.229.0.0/16
+https://169.229.212.14,synology.com,169.229.0.0/16
+https://169.229.212.118,xsangw.media.berkeley.edu,169.229.0.0/16
+https://169.229.212.136,Preset Certificate,169.229.0.0/16
+https://169.229.212.145,NPI14F4EE.berkeley.edu,169.229.0.0/16
+https://169.229.212.152,169.229.212.152,169.229.0.0/16
+https://169.229.212.182,169.229.212.182,169.229.0.0/16
+https://169.229.212.212,169.229.212.212,169.229.0.0/16
+https://169.229.213.75,NPIBDBCA5,169.229.0.0/16
+https://169.229.213.79,fixed-169-229-213-79,169.229.0.0/16
+https://169.229.213.131,NPI5B812E.berkeley.edu,169.229.0.0/16
+https://169.229.213.134,XRX9C934E60E74A,169.229.0.0/16
+https://169.229.213.203,HP Jetdirect 2B0E7ED6,169.229.0.0/16
+https://169.229.213.209,HP Jetdirect 64402B25,169.229.0.0/16
+https://169.229.213.211,OPENSSL,169.229.0.0/16
+https://169.229.213.215,NPIC4D768.berkeley.edu,169.229.0.0/16
+https://169.229.213.216,NPI536E26,169.229.0.0/16
+https://169.229.213.217,NPI06BBEB,169.229.0.0/16
+https://169.229.213.218,NPI06FBC2,169.229.0.0/16
+https://169.229.214.2,NPI4E3EFE.berkeley.edu,169.229.0.0/16
+https://169.229.214.80,169.229.214.80,169.229.0.0/16
+https://169.229.214.83,HP Jetdirect B47798A9,169.229.0.0/16
+https://169.229.215.51,HP Jetdirect 38CC70B6,169.229.0.0/16
+https://169.229.215.54,HP Jetdirect 998F8145,169.229.0.0/16
+https://169.229.215.56,169.229.215.56,169.229.0.0/16
+https://169.229.215.84,tsgate.haas.berkeley.edu,169.229.0.0/16
+https://169.229.215.187,XRX9C934E4D63FF,169.229.0.0/16
+https://169.229.216.6,bconn-sar-qa-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.9,ggsc-web-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.12,postbac-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.18,scarab-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.19,genepi-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.22,junction-dev.berkeley.edu,169.229.0.0/16
+https://169.229.216.24,mobile-web-qa-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.25,cspace-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.26,mobile-web-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.27,junction-dev.berkeley.edu,169.229.0.0/16
+https://169.229.216.28,junction-qa.berkeley.edu,169.229.0.0/16
+https://169.229.216.29,junction.berkeley.edu,169.229.0.0/16
+https://169.229.216.31,cspace-dev-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.32,oski-int-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.38,safetrec-web-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.39,oski-qa-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.43,itop-dev-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.44,hwni-knightweb-prod.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.45,oski-qa-02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.46,darwin-qa.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.64,ggsc-web-dev-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.68,course-qa.berkeley.edu,169.229.0.0/16
+https://169.229.216.69,course.berkeley.edu,169.229.0.0/16
+https://169.229.216.70,itop.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.73,unex-apps-dev.berkeley.edu,169.229.0.0/16
+https://169.229.216.74,ssall-web-dev-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.75,ssall-web-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.76,ssall-web-prod-02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.77,ssall-web-dev-02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.83,unex-apps-qa.berkeley.edu,169.229.0.0/16
+https://169.229.216.88,adminit-apps-qa-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.89,adminit-apps-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.90,devkit-test-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.91,devkit-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.93,berc-web-prod.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.94,calcentral.berkeley.edu,169.229.0.0/16
+https://169.229.216.104,calcentral.berkeley.edu,169.229.0.0/16
+https://169.229.216.105,unex-apps.berkeley.edu,169.229.0.0/16
+https://169.229.216.106,gradadmit.berkeley.edu,169.229.0.0/16
+https://169.229.216.107,calcentral.berkeley.edu,169.229.0.0/16
+https://169.229.216.108,calcentral.berkeley.edu,169.229.0.0/16
+https://169.229.216.111,oski-prod-02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.124,junction-qa.berkeley.edu,169.229.0.0/16
+https://169.229.216.126,junction-qa.berkeley.edu,169.229.0.0/16
+https://169.229.216.127,junction.berkeley.edu,169.229.0.0/16
+https://169.229.216.128,junction.berkeley.edu,169.229.0.0/16
+https://169.229.216.130,eu-mediawiki-prod.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.138,irlestore.berkeley.edu,169.229.0.0/16
+https://169.229.216.165,calcentral.berkeley.edu,169.229.0.0/16
+https://169.229.216.173,eu-mediawiki-dev.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.175,darwin-prod.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.177,bspace-dev-02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.178,bspace-prod-02.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.187,calcentral-col-dev.berkeley.edu,169.229.0.0/16
+https://169.229.216.188,calcentral-col-qa-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.189,calcentral-col-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.201,bearfacts-dev.berkeley.edu,169.229.0.0/16
+https://169.229.216.202,sisoas-dev-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.203,bearfacts.berkeley.edu,169.229.0.0/16
+https://169.229.216.204,sisoas-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.206,darwin-dev.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.207,star-dev.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.217,knightweb-prod-01.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.224,nagios.ist.berkeley.edu,169.229.0.0/16
+https://169.229.216.248,sar.berkeley.edu,169.229.0.0/16
+https://169.229.217.35,ucbrhn-prod-01.pi.berkeley.edu,169.229.0.0/16
+https://169.229.217.174,adfs-dev.ist.berkeley.edu,169.229.0.0/16
+https://169.229.217.182,adfs-dev.ist.berkeley.edu,169.229.0.0/16
+https://169.229.217.185,adfs.berkeley.edu,169.229.0.0/16
+https://169.229.217.186,adfs.berkeley.edu,169.229.0.0/16
+https://169.229.217.187,adfs.berkeley.edu,169.229.0.0/16
+https://169.229.218.71,bpr-calnet.berkeley.edu,169.229.0.0/16
+https://169.229.218.76,auth-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.78,auth-dev.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.218.79,auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.82,auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.85,auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.91,OPENSSL,169.229.0.0/16
+https://169.229.218.92,calnet-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.93,net-auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.94,net-auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.95,shib-d1.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.218.97,shib-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.98,shib.berkeley.edu,169.229.0.0/16
+https://169.229.218.100,shib-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.101,shib.berkeley.edu,169.229.0.0/16
+https://169.229.218.102,calnet-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.103,net-auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.105,auth-key.berkeley.edu,169.229.0.0/16
+https://169.229.218.107,auth-dev.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.218.108,auth-key.berkeley.edu,169.229.0.0/16
+https://169.229.218.109,auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.110,bpr-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.113,repo.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.218.114,auth-test.berkeley.edu,169.229.0.0/16
+https://169.229.218.115,monitor.calnet.berkeley.edu,169.229.0.0/16
+https://169.229.218.117,net-auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.118,net-auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.120,net-auth.berkeley.edu,169.229.0.0/16
+https://169.229.218.163,calmail.berkeley.edu,169.229.0.0/16
+https://169.229.218.164,calmail.berkeley.edu,169.229.0.0/16
+https://169.229.218.167,cm01adm.ist.berkeley.edu,169.229.0.0/16
+https://169.229.218.200,bconn-admin.ist.berkeley.edu,169.229.0.0/16
+https://169.229.218.211,bconn-admin.ist.berkeley.edu,169.229.0.0/16
+https://169.229.218.250,bconn-admin.ist.berkeley.edu,169.229.0.0/16
+https://169.229.219.27,calnetpki.berkeley.edu,169.229.0.0/16
+https://169.229.219.33,unex-pgs01.berkeley.edu,169.229.0.0/16
+https://169.229.219.35,vmconsole.berkeley.edu,169.229.0.0/16
+https://169.229.219.51,unex-pgs02.unex.berkeley.edu,169.229.0.0/16
+https://169.229.219.57,ems-pa02.berkeley.edu,169.229.0.0/16
+https://169.229.219.58,ems-qa02.berkeley.edu,169.229.0.0/16
+https://169.229.219.89,confluence.ucmerced.edu,169.229.0.0/16
+https://169.229.219.90,jira.ucmerced.edu,169.229.0.0/16
+https://169.229.219.93,ewa-webhosting.UCM.Berkeley.EDU,169.229.0.0/16
+https://169.229.219.100,ewa-php-test,169.229.0.0/16
+https://169.229.219.111,ewa-wp2-prod.UCM.Berkeley.EDU,169.229.0.0/16
+https://169.229.219.150,mof1.cchem.berkeley.edu,169.229.0.0/16
+https://169.229.219.151,mof2.cchem.berkeley.edu,169.229.0.0/16
+https://169.229.219.154,council.cloyne.org,169.229.0.0/16
+https://169.229.219.159,OPENSSL,169.229.0.0/16
+https://169.229.219.166,owncloud.jlg.berkeley.edu,169.229.0.0/16
+https://169.229.219.167,cfdev.jamesgao.com,169.229.0.0/16
+https://169.229.219.178,jhub-prp.berkeley.edu,169.229.0.0/16
+https://169.229.220.96,OPENSSL,169.229.0.0/16
+https://169.229.220.110,XRX9C934E1E2D49,169.229.0.0/16
+https://169.229.220.111,XRX9C934E1E3241,169.229.0.0/16
+https://169.229.220.230,169.229.220.230,169.229.0.0/16
+https://169.229.221.4,HP Jetdirect C18238F4,169.229.0.0/16
+https://169.229.221.65,169.229.221.65,169.229.0.0/16
+https://169.229.221.70,Canon iR-ADV,169.229.0.0/16
+https://169.229.221.138,nagios.rescomp.berkeley.edu,169.229.0.0/16
+https://169.229.221.172,zabbix.rescomp.berkeley.edu,169.229.0.0/16
+https://169.229.222.164,telemonitoring.berkeley.edu,169.229.0.0/16
+https://169.229.222.174,TI-DRIVE,169.229.0.0/16
+https://169.229.222.186,synology.com,169.229.0.0/16
+https://169.229.222.239,fixed-169-229-222-239,169.229.0.0/16
+https://169.229.222.242,nestsense.banatao.berkeley.edu,169.229.0.0/16
+https://169.229.222.251,amtexplanation.berkeleyvision.org,169.229.0.0/16
+https://169.229.224.208,XRX9C934E555BE2,169.229.0.0/16
+https://169.229.225.230,AcquiSuite SN 001EC600173A Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.225.231,AcquiSuite SN 001EC6001DE0 Self-Signed Certificate Generator,169.229.0.0/16
+https://169.229.226.23,death.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.25,tsunami.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.30,fallingrocks.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.31,flood.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.33,dementors.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.48,reaper.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.49,api.asuc.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.50,*.agent.mesos.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.51,*.agent.mesos.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.52,*.agent.mesos.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.53,*.agent.mesos.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.203,leprosy.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.226,fireball.ocf.berkeley.edu,169.229.0.0/16
+https://169.229.226.230,pox.ocf.io,169.229.0.0/16
+https://169.229.227.8,HP Jetdirect B85DB142,169.229.0.0/16
+https://169.229.227.9,HP Jetdirect 4B18D7F3,169.229.0.0/16
+https://169.229.227.10,HP Jetdirect A04B501E,169.229.0.0/16
+https://169.229.227.11,169.229.227.11,169.229.0.0/16
+https://169.229.227.12,169.229.227.12,169.229.0.0/16
+https://169.229.227.13,HP Jetdirect 4B135A1C,169.229.0.0/16
+https://169.229.227.15,HP Jetdirect B85DB14F,169.229.0.0/16
+https://169.229.227.18,HP Jetdirect 365EFD42,169.229.0.0/16
+https://169.229.227.19,HP Jetdirect D45AF1F0,169.229.0.0/16
+https://169.229.227.20,HP Jetdirect B42CF047,169.229.0.0/16
+https://169.229.227.23,169.229.227.23,169.229.0.0/16
+https://169.229.227.24,169.229.227.24,169.229.0.0/16
+https://169.229.227.25,169.229.227.25,169.229.0.0/16
+https://169.229.227.26,169.229.227.26,169.229.0.0/16
+https://169.229.227.29,HP Jetdirect 4B192F1C,169.229.0.0/16
+https://169.229.227.30,169.229.227.30,169.229.0.0/16
+https://169.229.227.31,HP Jetdirect 4B18D78E,169.229.0.0/16
+https://169.229.227.167,OPENSSL,169.229.0.0/16
+https://169.229.228.89,192.168.2.201,169.229.0.0/16
+https://169.229.228.233,sprucemoose.duckdns.org,169.229.0.0/16
+https://169.229.230.106,169.229.230.106,169.229.0.0/16
+https://169.229.230.149,ciee.cal-sdb.org,169.229.0.0/16
+https://169.229.231.198,localhost,169.229.0.0/16
+https://169.229.231.207,RNP002673BAC579,169.229.0.0/16
+https://169.229.240.98,VMware,169.229.0.0/16
+https://169.229.240.230,HP Jetdirect B14E7823,169.229.0.0/16
+https://169.229.240.240,VMware,169.229.0.0/16
+https://169.229.241.68,NPI26C224,169.229.0.0/16
+https://169.229.241.69,NPI26C213,169.229.0.0/16
+https://169.229.241.107,OPENSSL,169.229.0.0/16
+https://169.229.241.108,OPENSSL,169.229.0.0/16
+https://169.229.241.111,HP Jetdirect A7681674,169.229.0.0/16
+https://169.229.241.112,OPENSSL,169.229.0.0/16
+https://169.229.241.124,OPENSSL,169.229.0.0/16
+https://169.229.241.135,OPENSSL,169.229.0.0/16
+https://169.229.241.137,HP Jetdirect 9CBA7C56,169.229.0.0/16
+https://169.229.241.150,XRX9C934E5F5E9B,169.229.0.0/16
+https://169.229.241.252,NPI268768.dyn.berkeley.edu,169.229.0.0/16
+https://169.229.242.132,XRX9C934E1E277E,169.229.0.0/16
+https://169.229.242.136,XRX9C934E1E2D54,169.229.0.0/16
+https://169.229.242.227,OPENSSL,169.229.0.0/16
+https://169.229.243.8,philosophy.berkeley.edu,169.229.0.0/16
+https://169.229.243.88,169.229.243.88,169.229.0.0/16
+https://169.229.243.134,ggkbase.berkeley.edu,169.229.0.0/16
+https://169.229.243.195,OPENSSL,169.229.0.0/16
+https://169.229.243.201,zw1100_EC43F6FDA420,169.229.0.0/16
+https://169.229.243.208,localhost.localdomain,169.229.0.0/16
+https://169.229.244.58,XRX9C934E5111CA,169.229.0.0/16
+https://169.229.244.76,dd.qb3.berkeley.edu,169.229.0.0/16
+https://169.229.244.92,appion.qb3.berkeley.edu,169.229.0.0/16
+https://169.229.244.107,cryoem.berkeley.edu,169.229.0.0/16
+https://169.229.244.108,OPENSSL,169.229.0.0/16
+https://169.229.244.241,HP Jetdirect 7825BBF2,169.229.0.0/16
+https://169.229.244.247,HP Jetdirect A133D4AF,169.229.0.0/16
+https://169.229.248.2,OPENSSL,169.229.0.0/16
+https://169.229.248.15,VMware,169.229.0.0/16
+https://169.229.248.54,HP Jetdirect A052059C,169.229.0.0/16
+https://169.229.248.69,HP Jetdirect 8A3F61E0,169.229.0.0/16
+https://169.229.248.73,OPENSSL,169.229.0.0/16
+https://169.229.248.87,OPENSSL,169.229.0.0/16
+https://169.229.248.90,HP Jetdirect 2FF567C5,169.229.0.0/16
+https://169.229.248.139,calnet-tin.ist.berkeley.edu,169.229.0.0/16
+https://169.229.248.202,OPENSSL,169.229.0.0/16
+https://169.229.248.216,www.law.berkeley.edu,169.229.0.0/16
+https://169.229.248.233,despolab.berkeley.edu,169.229.0.0/16
+https://169.229.248.236,www.neuro.berkeley.edu,169.229.0.0/16
+https://169.229.249.21,HP Jetdirect C1E9FCCF,169.229.0.0/16
+https://169.229.249.56,OPENSSL,169.229.0.0/16
+https://169.229.249.72,for.temporary.use.only,169.229.0.0/16
+https://169.229.249.203,HP Jetdirect CC9C4460,169.229.0.0/16
+https://169.229.249.238,HP Jetdirect CC9C4458,169.229.0.0/16
+https://169.229.250.2,OLACMFP577.berkeley.edu,169.229.0.0/16
+https://169.229.250.3,HP Jetdirect BAC2FE50,169.229.0.0/16
+https://169.229.250.5,Canon iR-ADV,169.229.0.0/16
+https://169.229.250.41,192.168.1.108,169.229.0.0/16
+https://169.229.250.197,NPI1359F3,169.229.0.0/16
+https://169.229.250.207,169.229.250.207,169.229.0.0/16
+https://169.229.251.18,169.229.251.18,169.229.0.0/16
+https://169.229.251.35,HP Jetdirect DE15981B,169.229.0.0/16
+https://169.229.251.72,OPENSSL,169.229.0.0/16
+https://169.229.252.7,169.229.252.7,169.229.0.0/16
+https://169.229.252.52,VMware,169.229.0.0/16
+https://169.229.254.136,bcsweb.is.berkeley.edu,169.229.0.0/16
+https://169.229.254.156,bcsweb.is.berkeley.edu,169.229.0.0/16
+https://169.229.254.157,bcsweb.is.berkeley.edu,169.229.0.0/16
+https://169.229.254.226,NPI17AC0A.berkeley.edu,169.229.0.0/16
+https://169.229.254.228,169.229.254.228,169.229.0.0/16
+https://169.229.254.248,NPIFA7B61.berkeley.edu,169.229.0.0/16
+https://169.229.254.251,OPENSSL,169.229.0.0/16
+https://169.229.254.252,NPIFA7B19,169.229.0.0/16
+https://169.229.254.254,NPI178CBC.berkeley.edu,169.229.0.0/16
+https://169.229.255.144,OPENSSL,169.229.0.0/16
+https://169.229.255.145,OPENSSL,169.229.0.0/16
+https://169.229.255.248,OPENSSL,169.229.0.0/16
+https://192.58.221.149,adfs.berkeley.edu,192.58.221.0/24
+https://192.58.221.155,*.berkeley.edu,192.58.221.0/24
+https://192.58.221.164,ssall-web-prod-01.ist.berkeley.edu,192.58.221.0/24
+https://192.58.221.196,PCDR-PTS01-SD.SDSC.BERKELEY.EDU,192.58.221.0/24
+https://192.58.221.198,bconn-admin.ist.berkeley.edu,192.58.221.0/24
+https://192.58.221.199,eis-github-prod-03.sdsc.berkeley.edu,192.58.221.0/24
+https://192.58.221.254,win-pgw03.sdsc.berkeley.edu,192.58.221.0/24
+https://192.12.234.170,info-ucb1.smtp.ucla.edu,192.12.234.0/24
+https://192.31.95.70,Avocent Mergepoint Unity,192.31.95.0/24
+https://192.31.95.108,OPENSSL,192.31.95.0/24
+https://192.31.95.109,OPENSSL,192.31.95.0/24
+https://192.31.95.112,localhost.localdomain,192.31.95.0/24
+https://192.31.95.113,localhost.localdomain,192.31.95.0/24
+https://192.31.95.196,OPENSSL,192.31.95.0/24
+https://192.31.95.197,OPENSSL,192.31.95.0/24
+https://192.31.95.202,OPENSSL,192.31.95.0/24
+https://192.31.95.204,LBNL.SDSC,192.31.95.0/24
+https://192.31.95.210,OPENSSL,192.31.95.0/24
+https://192.31.95.227,sdsc-nas2,192.31.95.0/24
+https://192.31.95.228,sdsc-nas2,192.31.95.0/24
+https://192.31.95.231,sdsc-nas2,192.31.95.0/24
+https://192.31.95.237,sdsc-nas2,192.31.95.0/24
+https://192.31.95.240,sdsc-nas2,192.31.95.0/24
+https://192.31.95.253,TEST.UREL.SDSC,192.31.95.0/24
+https://192.31.161.5,gsppi.berkeley.edu,192.31.161.0/24
+https://192.31.161.8,gw-master-dr-01.sdsc.berkeley.edu,192.31.161.0/24
+https://192.31.161.16,pc-mftgw-prod-01-b.ist.berkeley.edu,192.31.161.0/24
+https://192.31.161.34,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.46,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.51,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.52,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.54,give.berkeley.edu,192.31.161.0/24
+https://24.156.39.10,flg.wlbgroup.com,24.156.39.0/24
+https://24.156.39.14,asa76068830,24.156.39.0/24
+https://24.156.39.19,remote.pegasusts.com,24.156.39.0/24
+https://24.156.39.24,192.168.168.168,24.156.39.0/24
+https://24.156.39.110,nacog.org,24.156.39.0/24
+https://24.156.39.113,192.168.168.168,24.156.39.0/24
+https://24.156.39.114,aaacng.nacog.org,24.156.39.0/24
+https://24.156.39.141,spectrum.lovencontracting.com,24.156.39.0/24
+https://24.156.39.229,OPENSSL,24.156.39.0/24
+https://208.68.240.110,setiathome.berkeley.edu,208.68.240.0/22
+https://208.68.240.122,seti.berkeley.edu,208.68.240.0/22
+https://208.68.240.126,setiboinc.ssl.berkeley.edu,208.68.240.0/22
+https://192.31.95.70,Avocent Mergepoint Unity,192.31.95.0/24
+https://192.31.95.108,OPENSSL,192.31.95.0/24
+https://192.31.95.109,OPENSSL,192.31.95.0/24
+https://192.31.95.113,localhost.localdomain,192.31.95.0/24
+https://192.31.95.196,OPENSSL,192.31.95.0/24
+https://192.31.95.202,OPENSSL,192.31.95.0/24
+https://192.31.95.204,LBNL.SDSC,192.31.95.0/24
+https://192.31.95.210,OPENSSL,192.31.95.0/24
+https://192.31.95.218,OPENSSL,192.31.95.0/24
+https://192.31.95.227,sdsc-nas2,192.31.95.0/24
+https://192.31.95.231,sdsc-nas2,192.31.95.0/24
+https://192.31.95.237,sdsc-nas2,192.31.95.0/24
+https://192.31.95.240,sdsc-nas2,192.31.95.0/24
+https://192.31.95.253,TEST.UREL.SDSC,192.31.95.0/24
+https://192.31.161.5,gsppi.berkeley.edu,192.31.161.0/24
+https://192.31.161.8,gw-master-dr-01.sdsc.berkeley.edu,192.31.161.0/24
+https://192.31.161.16,pc-mftgw-prod-01-b.ist.berkeley.edu,192.31.161.0/24
+https://192.31.161.34,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.46,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.51,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.52,auth.berkeley.edu,192.31.161.0/24
+https://192.31.161.54,give.berkeley.edu,192.31.161.0/24
+https://192.58.221.149,adfs.berkeley.edu,192.58.221.0/24
+https://192.58.221.155,*.berkeley.edu,192.58.221.0/24
+https://192.58.221.161,*.berkeley.edu,192.58.221.0/24
+https://192.58.221.164,ssall-web-prod-01.ist.berkeley.edu,192.58.221.0/24
+https://192.58.221.196,PCDR-PTS01-SD.SDSC.BERKELEY.EDU,192.58.221.0/24
+https://192.58.221.198,bconn-admin.ist.berkeley.edu,192.58.221.0/24
+https://192.58.221.199,eis-github-prod-03.sdsc.berkeley.edu,192.58.221.0/24
+https://192.58.221.254,win-pgw03.sdsc.berkeley.edu,192.58.221.0/24
+https://192.107.102.136,sdsc2slb.net.berkeley.edu,192.107.102.0/24
