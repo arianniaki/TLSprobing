@@ -17,6 +17,42 @@ def time_format(time):
 	Day = time[6:8]
 	return Year+'-'+Month+'-'+Day
 
+def use_openssl(ip):
+	url_without_https = ip.replace("https://","")
+	p = subprocess.Popen(["curl", "-k" ,ip, "--head","-m","30"],stdout=subprocess.PIPE)
+	out, err = p.communicate()
+	print("____________________________________CURL INFO____________________________________")
+	print(out)
+	curl_res = get_curl_info_invalidcert(url,out)
+	print("____________________________END CURL_________________________\n")
+
+
+
+
+	p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443",'-status','-verify_return_error'], stdout=subprocess.PIPE)
+	out, err = p.communicate()
+	print("_______________________________ out _________________________________________")
+	print(out)
+	print("<<---------------------------------out done ---------------------------------->")
+	if("self" in out):
+		print("SELF SIGNED<  DO STH ABOUT IT LATER")
+	out_without_n = out.replace('\n','!@#$&*()')
+	cert_res = ''
+	cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
+	if(len(cert)>0):
+		#print('============')
+		#print(cert)
+		#print('============')
+		cert = cert[0].replace('!@#$&*()','\n')
+		load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
+		if("Verify return code: 0 (ok)" in out):
+			cert_res = get_certificate_info(load_cert,ip,'valid',ip,subnet_file_name)
+			return 'valid_https',curl_res,cert_res
+		else:
+			cert_res = get_certificate_info(load_cert,ip,'invalid',ip,subnet_file_name)
+			return 'invalid_https',curl_res,cert_res
+		# print(cert)
+	
 def check_ssl(url,cname,subnet,subnet_file_name):
 			ip = url
 			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
@@ -31,14 +67,17 @@ def check_ssl(url,cname,subnet,subnet_file_name):
 				if(good_cname == 0):
 					print("======CNAME NOT GOOD======")
 					print(url, cname)
-					return '','',''
+					print url + ' >>>>>>>>>>>>>>>> has INVALID SSL certificate!'
+					# servers_file.write(url+'\n')
+					output= use_openssl(ip)
+					return output
+
 				if(good_cname == 1):
 						try:
 							url = url.replace('*.','')
 							print(url+'  try')
 							req = requests.get(url, verify=True,timeout=0.5)
-							print url + ' >>>>>>>>>>>>>>>> has a valid SSL certificate!'
-							print('--\n')
+							print url + ' >>>>>>>>>>>>>>>> has a valid SSL certificate! \n\n'
 							# servers_file.write(url+'\n')
 							url_without_https = url.replace("https://","")
 							print(url_without_https)
@@ -46,9 +85,9 @@ def check_ssl(url,cname,subnet,subnet_file_name):
 								cert = ssl.get_server_certificate((url_without_https, 443))
 								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
 								cert_res = get_certificate_info(load_cert,url,'valid',ip,subnet_file_name)
-								print("___CURL INFO___")
+								print("____________________________________CURL INFO____________________________________")
 								curl_res = get_curl_info(url,req.headers)
-								print("____END CURL___\n")
+								print("____________________________END CURL_________________________\n")
 								return 'valid_https',curl_res,cert_res
 							except ssl.SSLError:
 								print("SSL ERROR ______ __ _ _ ")
@@ -62,66 +101,14 @@ def check_ssl(url,cname,subnet,subnet_file_name):
 						except requests.exceptions.ConnectionError:
 							print "connection error, site won't respond to dns name"
 							print url + ' >>>>>>>>>>>>>>>> has INVALID SSL certificate!'
-							# servers_file.write(url+'\n')
-							url_without_https = ip.replace("https://","")
-
-							p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443",'-status','-verify_return_error'], stdout=subprocess.PIPE)
-							out, err = p.communicate()
-							print("??????????")
-							print(out)
-							print("++++++++")
-							if("self" in out):
-								print("__+_+_+_+_+_+_+_+_+_+_+__+_++_++++_+_++_+_+_")
-							out_without_n = out.replace('\n','!@#$&*()')
-							cert_res = ''
-							cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
-							if(len(cert)>0):
-								print('============')
-								print(cert)
-								print('============')
-								cert = cert[0].replace('!@#$&*()','\n')
-								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-								if("Verify return code: 0 (ok)" in out):
-									cert_res = get_certificate_info(load_cert,ip,'valid',ip,subnet_file_name)
-								else:
-									cert_res = get_certificate_info(load_cert,ip,'invalid',ip,subnet_file_name)
-								# print(cert)
-							p = subprocess.Popen(["curl", "-k" ,ip, "--head","-m","30"],stdout=subprocess.PIPE)
-							out, err = p.communicate()
-							print("___CURL INFO___")
-							print(out)
-							curl_res = get_curl_info_invalidcert(url,out)
-							print("____END CURL___\n")
-							return 'invalid_https',curl_res,cert_res
-
+							output= use_openssl(ip)
+							return output
+					
 						except requests.exceptions.SSLError:
 							# print("bad handshake: Error([('SSL routines', 'tls_process_server_certificate', 'certificate verify failed")
 							print url + ' >>>>>>>>>>>>>>>> has INVALID SSL certificate!'
-							# servers_file.write(url+'\n')
-							url_without_https = url.replace("https://","")
-
-							p = subprocess.Popen(["timeout","30","openssl", "s_client",'-connect',url_without_https+":443",'-status','-verify_return_error'], stdout=subprocess.PIPE)
-							out, err = p.communicate()
-							if("self" in out):
-								print("__+_+_+_+_+_+_+_+_+_+_+__+_++_++++_+_++_+_+_")
-							out_without_n = out.replace('\n','!@#$&*()')
-							cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
-							if(len(cert)>0):
-								print('============')
-								print(cert)
-								print('============')
-								cert = cert[0].replace('!@#$&*()','\n')
-								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-								cert_res = get_certificate_info(load_cert,url,'invalid',ip,subnet_file_name)
-								# print(cert)
-							p = subprocess.Popen(["curl", "-k" ,url, "--head","-m","30"],stdout=subprocess.PIPE)
-							out, err = p.communicate()
-							print("___CURL INFO___")
-							print(out)
-							curl_res = get_curl_info_invalidcert(url,out)
-							print("____END CURL___\n")
-							return 'invalid_https',curl_res,cert_res
-
+							output = use_openss(ip)
+							return output
 
 							# ssl._create_default_https_context = ssl._create_unverified_context() 
 							# cert = ssl.get_server_certificate((url_without_https, 443))
@@ -237,8 +224,7 @@ def get_certificate_info(cert,url,validity,ip,subnet_file_name):
 	return json_data
 
 
-# req = requests.get('https://31.13.71.36', verify=True,timeout=0.1)
-# subnet_to_check = sys.argv[1]
+
 
 subnet_file_name = sys.argv[1]
 # servers_file = open(subnet_file_name+"_servers.txt", "w")
