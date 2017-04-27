@@ -1,0 +1,369 @@
+https://152.16.0.48,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.50,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.51,https://152.16.0.51,152.16.0.0/16
+, SSL Socket error
+https://152.16.0.52,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.58,*.duhs.duke.edu,152.16.0.0/16
+
+https://152.16.0.59,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+http://152.16.0.61,,152.16.0.0/16
+
+https://152.16.0.66,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.67,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.68,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.69,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.70,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.71,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.72,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.78,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.79,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.80,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.83,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.85,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.86,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.88,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.89,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.90,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.91,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.92,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.93,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.94,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.95,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.99,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.101,https://152.16.0.101,152.16.0.0/16
+, SSL Socket error
+https://152.16.0.104,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.105,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.106,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.107,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.108,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.109,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.110,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.111,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.112,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.113,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.114,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.117,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.118,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.119,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.120,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.121,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.129,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.132,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.133,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.134,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.135,portal.duhs.duke.edu,152.16.0.0/16
+
+https://152.16.0.140,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.141,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.143,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.145,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.154,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.163,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.168,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.170,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.173,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.174,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.175,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.177,localhost.localdomain,152.16.0.0/16
+
+https://152.16.0.179,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.180,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.185,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.187,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.200,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.206,maestro-mobile.duhs.duke.edu,152.16.0.0/16
+
+https://152.16.0.210,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.215,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.216,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.217,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.220,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.0.222,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+http://152.16.1.84,,152.16.0.0/16
+
+https://152.16.1.85,civmvoxport.duhs.duke.edu,152.16.0.0/16
+
+https://152.16.2.19,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.24,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.29,*.duhs.duke.edu,152.16.0.0/16
+
+https://152.16.2.32,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.44,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.48,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.49,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.50,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.59,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.87,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.98,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.100,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.102,https://152.16.2.102,152.16.0.0/16
+, SSL Socket error
+https://152.16.2.103,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.104,https://152.16.2.104,152.16.0.0/16
+, SSL Socket error
+https://152.16.2.106,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.110,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.154,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.155,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.157,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.174,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.180,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.194,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.2.206,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+http://152.16.14.2,,152.16.0.0/16
+
+https://152.16.14.3,nxos,152.16.0.0/16
+
+https://152.16.14.9,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+http://152.16.14.13,,152.16.0.0/16
+
+http://152.16.14.25,,152.16.0.0/16
+
+http://152.16.14.29,,152.16.0.0/16
+
+https://152.16.14.70,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+http://152.16.14.71,,152.16.0.0/16
+
+http://152.16.14.90,,152.16.0.0/16
+
+http://152.16.14.110,,152.16.0.0/16
+
+http://152.16.14.120,,152.16.0.0/16
+
+https://152.16.14.124,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.14.125,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.14.126,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.14.151,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+http://152.16.14.181,,152.16.0.0/16
+
+http://152.16.14.182,,152.16.0.0/16
+
+https://152.16.14.214,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.14.219,HP Jetdirect 5A8E2370,152.16.0.0/16
+
+http://152.16.14.220,,152.16.0.0/16
+
+http://152.16.14.224,,152.16.0.0/16
+
+https://152.16.14.233,HP Jetdirect 7D8CE7B7,152.16.0.0/16
+
+https://152.16.15.1,nxos,152.16.0.0/16
+
+https://152.16.15.2,nxos,152.16.0.0/16
+
+https://152.16.15.3,nxos,152.16.0.0/16
+
+http://152.16.15.49,,152.16.0.0/16
+
+http://152.16.15.91,,152.16.0.0/16
+
+http://152.16.15.157,,152.16.0.0/16
+
+http://152.16.49.20,,152.16.0.0/16
+
+http://152.16.49.25,,152.16.0.0/16
+
+https://152.16.49.43,www.dcri.org,152.16.0.0/16
+
+http://152.16.49.45,,152.16.0.0/16
+
+https://152.16.49.50,epm-val.dcri.duke.edu,152.16.0.0/16
+
+http://152.16.49.53,,152.16.0.0/16
+
+http://152.16.49.55,,152.16.0.0/16
+
+https://152.16.49.61,siteresearch.dcri.duke.edu,152.16.0.0/16
+
+http://152.16.49.64,,152.16.0.0/16
+
+https://152.16.49.72,sts-phase1.dcri.org,152.16.0.0/16
+
+https://152.16.49.74,outcomes.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.75,outcomes-demo.dcri.duke.edu,152.16.0.0/16
+
+http://152.16.49.77,,152.16.0.0/16
+
+https://152.16.49.78,stsdatawarehouse.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.94,mt.dcri.duke.edu,152.16.0.0/16
+
+http://152.16.49.100,,152.16.0.0/16
+
+https://152.16.49.101,plonedemo3.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.104,caleriecentral.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.106,www-dev.dukeoct.org,152.16.0.0/16
+
+https://152.16.49.110,mt-val.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.115,flow.dcri.org,152.16.0.0/16
+
+https://152.16.49.116,flow-val.dcri.org,152.16.0.0/16
+
+https://152.16.49.117,dcrihome.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.119,tableau.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.120,tableau-val.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.124,accounts.dtmi.duke.edu,152.16.0.0/16
+
+https://152.16.49.126,dukecerts.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.127,hcvmonitoring.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.139,www.sixthvitalsign.org,152.16.0.0/16
+
+https://152.16.49.140,www-val.sixthvitalsign.org,152.16.0.0/16
+
+https://152.16.49.142,www.dukecardiologyfellows.org,152.16.0.0/16
+
+https://152.16.49.144,dcricasper.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.145,www-val.dukeoct.org,152.16.0.0/16
+
+https://152.16.49.148,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.49.152,www.drcgrading.org,152.16.0.0/16
+
+https://152.16.49.155,<class 'ssl.SSLError'>,152.16.0.0/16
+, SSL Error
+https://152.16.49.156,www-val.vividstudy.org,152.16.0.0/16
+
+http://152.16.49.158,,152.16.0.0/16
+
+https://152.16.49.163,www.palmregistry.org,152.16.0.0/16
+
+https://152.16.49.167,pactte.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.173,www.arlgcatalogue.org,152.16.0.0/16
+
+https://152.16.49.174,accounts-val.dtmi.duke.edu,152.16.0.0/16
+
+http://152.16.49.175,,152.16.0.0/16
+
+http://152.16.49.178,,152.16.0.0/16
+
+http://152.16.49.181,,152.16.0.0/16
+
+https://152.16.49.191,orbit-af.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.197,plonedemo2.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.208,dcrihome.dcri.duke.edu,152.16.0.0/16
+
+http://152.16.49.218,,152.16.0.0/16
+
+https://152.16.49.229,cttimembers-clinicaltrials.org,152.16.0.0/16
+
+https://152.16.49.235,live.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.240,palmregistry-train.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.245,*.asqnet2.org,152.16.0.0/16
+
+https://152.16.49.246,cognosbi-val.dcri.duke.edu,152.16.0.0/16
+
+https://152.16.49.247,cognosbi.dcri.duke.edu,152.16.0.0/16
+
+http://152.16.61.100,,1

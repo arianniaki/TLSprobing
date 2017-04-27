@@ -1,0 +1,223 @@
+https://143.215.4.11,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.14,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.15,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.16,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.17,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.18,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.24,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.25,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.33,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.34,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.35,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.36,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.38,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.40,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.41,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.42,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.4.61,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.7.214,,143.215.0.0/16
+
+https://143.215.43.25,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.43.57,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.45.140,mydesk.gatech.edu,143.215.0.0/16
+
+https://143.215.45.141,mydesk-int.gatech.edu,143.215.0.0/16
+
+https://143.215.45.142,vlab.matrix.gatech.edu,143.215.0.0/16
+
+https://143.215.45.143,mydesktest.gatech.edu,143.215.0.0/16
+
+https://143.215.45.144,citrix.gatech.edu,143.215.0.0/16
+
+https://143.215.45.145,mycloud.gatech.edu,143.215.0.0/16
+
+https://143.215.45.147,mycloudtest.gatech.edu,143.215.0.0/16
+
+https://143.215.45.148,mycloud2f.gatech.edu,143.215.0.0/16
+
+http://143.215.66.51,,143.215.0.0/16
+
+https://143.215.70.17,ptah,143.215.0.0/16
+
+http://143.215.70.44,,143.215.0.0/16
+
+https://143.215.128.84,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.128.99,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.128.105,,143.215.0.0/16
+
+http://143.215.128.149,,143.215.0.0/16
+
+http://143.215.128.155,,143.215.0.0/16
+
+http://143.215.128.177,,143.215.0.0/16
+
+http://143.215.128.200,,143.215.0.0/16
+
+http://143.215.129.16,,143.215.0.0/16
+
+http://143.215.129.35,,143.215.0.0/16
+
+http://143.215.129.51,,143.215.0.0/16
+
+http://143.215.129.57,,143.215.0.0/16
+
+https://143.215.129.69,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.129.178,,143.215.0.0/16
+
+https://143.215.129.193,thebrain.golems.org,143.215.0.0/16
+
+http://143.215.129.198,,143.215.0.0/16
+
+http://143.215.129.206,,143.215.0.0/16
+
+http://143.215.129.211,,143.215.0.0/16
+
+http://143.215.129.227,,143.215.0.0/16
+
+http://143.215.129.229,,143.215.0.0/16
+
+http://143.215.129.230,,143.215.0.0/16
+
+http://143.215.130.16,,143.215.0.0/16
+
+https://143.215.130.18,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.19,,143.215.0.0/16
+
+http://143.215.130.20,,143.215.0.0/16
+
+http://143.215.130.24,,143.215.0.0/16
+
+https://143.215.130.25,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.43,,143.215.0.0/16
+
+http://143.215.130.46,,143.215.0.0/16
+
+http://143.215.130.52,,143.215.0.0/16
+
+http://143.215.130.53,,143.215.0.0/16
+
+https://143.215.130.61,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.130.63,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.65,,143.215.0.0/16
+
+https://143.215.130.66,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.68,,143.215.0.0/16
+
+https://143.215.130.72,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.130.76,surreal.gtisc.gatech.edu,143.215.0.0/16
+
+https://143.215.130.78,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.130.80,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.91,,143.215.0.0/16
+
+https://143.215.130.92,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.93,,143.215.0.0/16
+
+http://143.215.130.94,,143.215.0.0/16
+
+http://143.215.130.98,,143.215.0.0/16
+
+https://143.215.130.103,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.109,,143.215.0.0/16
+
+http://143.215.130.125,,143.215.0.0/16
+
+http://143.215.130.142,,143.215.0.0/16
+
+https://143.215.130.144,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.130.145,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.130.152,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.159,,143.215.0.0/16
+
+http://143.215.130.170,,143.215.0.0/16
+
+http://143.215.130.188,,143.215.0.0/16
+
+https://143.215.130.192,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.199,,143.215.0.0/16
+
+http://143.215.130.200,,143.215.0.0/16
+
+http://143.215.130.204,,143.215.0.0/16
+
+http://143.215.130.208,,143.215.0.0/16
+
+http://143.215.130.211,,143.215.0.0/16
+
+https://143.215.130.217,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.130.220,update.hexxeh.net,143.215.0.0/16
+
+https://143.215.130.223,bobble.gtisc.gatech.edu,143.215.0.0/16
+
+https://143.215.130.229,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.237,,143.215.0.0/16
+
+https://143.215.130.238,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+http://143.215.130.248,,143.215.0.0/16
+
+http://143.215.130.249,,143.215.0.0/16
+
+http://143.215.131.128,,143.215.0.0/16
+
+http://143.215.131.172,,143.215.0.0/16
+
+http://143.215.131.231,,143.215.0.0/16
+
+http://143.215.132.115,,143.215.0.0/16
+
+https://143.215.134.134,fm.iac.gatech.edu,143.215.0.0/16
+
+https://143.215.134.139,vhosting.iac.gatech.edu,143.215.0.0/16
+
+https://143.215.134.144,vhosting.iac.gatech.edu,143.215.0.0/16
+
+https://143.215.134.151,mthread.iac.gatech.edu,143.215.0.0/16
+
+https://143.215.134.152,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.134.163,mahara.iac.gatech.edu,143.215.0.0/16
+
+https://143.215.134.168,<class 'ssl.SSLError'>,143.215.0.0/16
+, SSL Error
+https://143.215.134.169,shares.iac.gatech.edu,143.215.0.0/16
+
+https://143.215.134.1
