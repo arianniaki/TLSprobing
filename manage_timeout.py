@@ -15,7 +15,7 @@ import socket
 def check_without_verify(url,file,subnet):
 			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 			try:
-				req = requests.get(url, verify=False,timeout=1)
+				req = requests.get(url, verify=False,timeout=5)
 				print url + ' SSL certificate!'
 				url_without_https = url.replace("https://","")
 				try:
@@ -26,50 +26,61 @@ def check_without_verify(url,file,subnet):
 					file.write(url+','+issued_to+','+subnet+'\n')
 				except ssl.SSLError:
 					print("SSL ERROR",url)
+					file.write(url+',OPENSSL,'+subnet+'\n')
 				except requests.exceptions.SSLError:
 					print("Bad SSL Handshake Error",url)
+					file.write(url+',OPENSSL,'+subnet+'\n')
 				except requests.exceptions.ConnectionError:
-					print("connection Error")
-					# servers_file.write(url+','+url+','+subnet+', Connection Error'+'\n')
+					print("connection Error",url)
+					file.write(url+',OPENSSL,'+subnet+'\n')
 
 			except requests.exceptions.SSLError:
 				print("Bad SSL Handshake Error",url)
+				file.write(url+',OPENSSL,'+subnet+'\n')
 				
 			except ssl.SSLError:
 				print("SSL ERROR", url)
+				file.write(url+',OPENSSL,'+subnet+'\n')
 			except OpenSSL.SSL.SysCallError:
 				print("OpenSSL syscall error",url)
+				file.write(url+',OPENSSL,'+subnet+'\n')
 			except socket.error:
 				print("socket error",url)
+				file.write(url+',OPENSSL,'+subnet+'\n')
 
 			except requests.exceptions.TooManyRedirects:
-				print("too many redirects")
+				print("too many redirects",url)
+				file.write(url+',OPENSSL,'+subnet+'\n')
+			except requests.exceptions.ConnectTimeout:
+				print("connect timeout")
+				file.write(url+',OPENSSL,'+subnet+'\n')
 
 			except requests.exceptions.ConnectionError:
 				# try to send http request
 				newurl = url.replace("https","http")
 				try:
-					req = requests.get(newurl,timeout = 1)
+					req = requests.get(newurl,timeout = 5)
 					# get_curl_info(newurl,req.headers)
 					W.write(newurl+','+','+subnet+'\n')
 				except requests.exceptions.TooManyRedirects:
 					print("too many redirects")
 				except requests.exceptions.ConnectionError:
 					# servers_file.write(newurl+','+','+subnet+','+'connection error'+'\n')
-					print("connection error")
+					print("connection error",url)
 					pass
 					# print("NOT SSL AND Not a Web Server")
 				except requests.exceptions.ReadTimeout:
-					print("read timeout")
+					print("read timeout",url)
 					# servers_file.write(newurl+','+','+subnet+','+'connection timeout'+'\n')
 					pass
 					# print ("NOT SSL timeout No web server at all")
 				except requests.packages.urllib3.exceptions.InvalidHeader:
-					print("invalid header")
+					print("invalid header",url)
 					pass
 					# print("invalid header")
 			except requests.exceptions.ReadTimeout:
 				print 'timeout: '+url
+				file.write(url+',OPENSSL,'+subnet+'\n')
 
 
 subnet_file_name = sys.argv[1]
