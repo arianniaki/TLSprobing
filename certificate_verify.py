@@ -18,6 +18,7 @@ def time_format(time):
 	return Year+'-'+Month+'-'+Day
 
 def use_openssl(ip):
+	self_signed = "False"
 	url_without_https = ip.replace("https://","")
 	p = subprocess.Popen(["curl", "-k" ,ip, "--head","-m","30"],stdout=subprocess.PIPE)
 	out, err = p.communicate()
@@ -35,6 +36,7 @@ def use_openssl(ip):
 	print(out)
 	print("<<---------------------------------out done ---------------------------------->")
 	if("self" in out):
+		self_signed = "True"
 		print("SELF SIGNED<  DO STH ABOUT IT LATER")
 	out_without_n = out.replace('\n','!@#$&*()')
 	cert_res = ''
@@ -46,12 +48,17 @@ def use_openssl(ip):
 		cert = cert[0].replace('!@#$&*()','\n')
 		load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
 		if("Verify return code: 0 (ok)" in out):
-			cert_res = get_certificate_info(load_cert,ip,'valid',ip,subnet_file_name)
+			cert_res = get_certificate_info(load_cert,ip,'valid',ip,subnet_file_name,self_signed)
 			return 'valid_https',curl_res,cert_res
 		else:
-			cert_res = get_certificate_info(load_cert,ip,'invalid',ip,subnet_file_name)
+			cert_res = get_certificate_info(load_cert,ip,'invalid',ip,subnet_file_name,self_signed)
 			return 'invalid_https',curl_res,cert_res
 		# print(cert)
+	else:
+		if(len(curl_res) > 0):
+			return 'https',curl_res,''		
+		else:
+			return 'https','',''
 	
 def check_ssl(url,cname,subnet,subnet_file_name):
 			ip = url
@@ -81,10 +88,11 @@ def check_ssl(url,cname,subnet,subnet_file_name):
 							# servers_file.write(url+'\n')
 							url_without_https = url.replace("https://","")
 							print(url_without_https)
+							self_signed = "False"
 							try:
 								cert = ssl.get_server_certificate((url_without_https, 443))
 								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-								cert_res = get_certificate_info(load_cert,url,'valid',ip,subnet_file_name)
+								cert_res = get_certificate_info(load_cert,url,'valid',ip,subnet_file_name,self_signed)
 								print("____________________________________CURL INFO____________________________________")
 								curl_res = get_curl_info(url,req.headers)
 								print("____________________________END CURL_________________________\n")
@@ -136,7 +144,7 @@ def check_ssl(url,cname,subnet,subnet_file_name):
 			else:
 				print("HTTP URL", url)
 				try:
-					req = requests.get(url,timeout = 0.1)
+					req = requests.get(url,timeout = 2)
 					curl_res = get_curl_info(url,req.headers)
 					return 'http',curl_res,'none'
 				except requests.exceptions.ConnectionError:
@@ -181,10 +189,11 @@ def get_curl_info(url,curl_data):
 	print(json_data)
 	return json_data
 
-def get_certificate_info(cert,url,validity,ip,subnet_file_name):
+def get_certificate_info(cert,url,validity,ip,subnet_file_name,self_signed):
 	# print(cert)
 	data = {}
 	data['university'] = subnet_file_name
+	data['self_signed'] = self_signed
 	data['ip'] = ip
 	data['url'] = url
 	data['valid'] = validity
