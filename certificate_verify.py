@@ -17,7 +17,7 @@ def time_format(time):
 	Day = time[6:8]
 	return Year+'-'+Month+'-'+Day
 
-def check_ssl(url,cname,subnet ):
+def check_ssl(url,cname,subnet,subnet_file_name):
 			ip = url
 			requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 			if("https" in url):
@@ -45,7 +45,7 @@ def check_ssl(url,cname,subnet ):
 							try:
 								cert = ssl.get_server_certificate((url_without_https, 443))
 								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-								cert_res = get_certificate_info(load_cert,url,'valid',ip)
+								cert_res = get_certificate_info(load_cert,url,'valid',ip,subnet_file_name)
 								print("___CURL INFO___")
 								curl_res = get_curl_info(url,req.headers)
 								print("____END CURL___\n")
@@ -73,7 +73,7 @@ def check_ssl(url,cname,subnet ):
 							if("self" in out):
 								print("__+_+_+_+_+_+_+_+_+_+_+__+_++_++++_+_++_+_+_")
 							out_without_n = out.replace('\n','!@#$&*()')
-
+							cert_res = ''
 							cert = re.findall(r'-----BEGIN.*END.CERTIFICATE-----',out_without_n)
 							if(len(cert)>0):
 								print('============')
@@ -82,17 +82,17 @@ def check_ssl(url,cname,subnet ):
 								cert = cert[0].replace('!@#$&*()','\n')
 								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
 								if("Verify return code: 0 (ok)" in out):
-									cert_res = get_certificate_info(load_cert,ip,'valid',ip)
+									cert_res = get_certificate_info(load_cert,ip,'valid',ip,subnet_file_name)
 								else:
-									cert_res = get_certificate_info(load_cert,ip,'invalid',ip)
+									cert_res = get_certificate_info(load_cert,ip,'invalid',ip,subnet_file_name)
 								# print(cert)
 							p = subprocess.Popen(["curl", "-k" ,ip, "--head","-m","30"],stdout=subprocess.PIPE)
 							out, err = p.communicate()
 							print("___CURL INFO___")
 							print(out)
 							curl_res = get_curl_info_invalidcert(url,out)
-							return 'invalid_https',curl_res,cert_res
 							print("____END CURL___\n")
+							return 'invalid_https',curl_res,cert_res
 
 						except requests.exceptions.SSLError:
 							# print("bad handshake: Error([('SSL routines', 'tls_process_server_certificate', 'certificate verify failed")
@@ -112,15 +112,15 @@ def check_ssl(url,cname,subnet ):
 								print('============')
 								cert = cert[0].replace('!@#$&*()','\n')
 								load_cert = crypto.load_certificate(crypto.FILETYPE_PEM, cert)
-								cert_res = get_certificate_info(load_cert,url,'invalid',ip)
+								cert_res = get_certificate_info(load_cert,url,'invalid',ip,subnet_file_name)
 								# print(cert)
 							p = subprocess.Popen(["curl", "-k" ,url, "--head","-m","30"],stdout=subprocess.PIPE)
 							out, err = p.communicate()
 							print("___CURL INFO___")
 							print(out)
 							curl_res = get_curl_info_invalidcert(url,out)
-							return 'invalid_https',curl_res,cert_res
 							print("____END CURL___\n")
+							return 'invalid_https',curl_res,cert_res
 
 
 							# ssl._create_default_https_context = ssl._create_unverified_context() 
@@ -194,9 +194,10 @@ def get_curl_info(url,curl_data):
 	print(json_data)
 	return json_data
 
-def get_certificate_info(cert,url,validity,ip):
+def get_certificate_info(cert,url,validity,ip,subnet_file_name):
 	# print(cert)
 	data = {}
+	data['university'] = subnet_file_name
 	data['ip'] = ip
 	data['url'] = url
 	data['valid'] = validity
@@ -218,7 +219,7 @@ def get_certificate_info(cert,url,validity,ip):
 	data['not_after'] = time_format(str(cert.get_notAfter()))
 	data['not_before'] = time_format(str(cert.get_notBefore()))
 	# data['public_key'] = cert.get_pubkey()
-	data['serial_number'] = cert.get_serial_number()
+	#data['serial_number'] = cert.get_serial_number()
 	data['sig_alg'] = cert.get_signature_algorithm()
 	# data['subject'] = str(cert.get_subject())
 	data['Country'] = cert.get_subject().C
@@ -256,8 +257,8 @@ children_curls = []
 for server in list_of_servers:
 	url,cname,subnet = server.split(',')
 	print(url+'  '+cname+' '+subnet)
-	proto,curl_res,cert_res = check_ssl(url,cname,subnet)
-	print(curl_res)
+	proto,curl_res,cert_res = check_ssl(url,cname,subnet,subnet_file_name)
+	print(curl_res, cert_res)
 	if("https" in proto):
 		if(cert_res !=''):
 			children_certs.append(cert_res)
