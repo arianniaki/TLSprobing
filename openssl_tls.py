@@ -38,6 +38,11 @@ def get_client_hello_info(s_client_out,url):
 		if("Response Data" in ocsp_info):
 			ocsp = "True"
 		
+		cert_chain = re.findall(r'Certificate chain.*-----BEGIN', out_without_n)
+		depth_cert = re.findall(r'[0-9] s:', cert_chain[0])
+		print(">....................................................................")
+		depth = len(depth_cert)
+		
 
 		print("___+_++___+_+_")
 		print(ocsp)
@@ -51,7 +56,7 @@ def get_client_hello_info(s_client_out,url):
 		json_data = json.dumps(data)
 		#print(json_data)
 		#print('==========END======================')
-		return cipher.strip(),ocsp
+		return cipher.strip(),ocsp,depth
 	except IndexError:
 		return 'NA'
 
@@ -93,12 +98,20 @@ for server in list_of_servers:
 				p = subprocess.Popen(["timeout","10","openssl", "s_client",'-cipher',cipher ,ver,'-connect',url_without_https+':443','-status'], stdout=subprocess.PIPE)
 				out, err = p.communicate()
 				print(out)
-				a,ocsp = get_client_hello_info(out,url_without_https)
+				info = get_client_hello_info(out,url_without_https)
+				print("info is ",info)
 
-				if(a != '0000' and a != 'NA'):
-					list_of_valid_ciphers.append(a)
-				data['OCSP'] = ocsp
+				cipher_info = info[0]
+				if(len(info)>2):
+					ocsp_info = info[1]
+					depth_info = info[2]
+					data['OCSP'] = ocsp_info
+					data['Cert_Depth'] = depth_info
 
+
+				if(cipher_info != '0000' and cipher_info != 'NA'):
+					list_of_valid_ciphers.append(cipher_info)
+				
 				#print(">>>>>>>>>>>>>>>>\n")
 				#time.sleep(1)
 
