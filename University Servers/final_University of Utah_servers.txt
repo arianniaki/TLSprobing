@@ -1,0 +1,3615 @@
+https://155.97.7.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.8.226,HPECAA6A,155.97.0.0/16
+https://155.97.8.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.9.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.10.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.12.75,for.temporary.use.only,155.97.0.0/16
+https://155.97.12.76,00405805EF92,155.97.0.0/16
+https://155.97.12.121,octopi,155.97.0.0/16
+https://155.97.12.124,OPENSSL,155.97.0.0/16
+https://155.97.12.154,syndisk.lib.utah.edu,155.97.0.0/16
+https://155.97.12.165,appdev.tools.lib.utah.edu,155.97.0.0/16
+https://155.97.12.166,VMware,155.97.0.0/16
+https://155.97.12.225,*.dpp.sandbox.lib.utah.edu,155.97.0.0/16
+https://155.97.12.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.13.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.16.17,t-mcdaniel-tech-mac-8.scl.utah.edu,155.97.0.0/16
+https://155.97.16.126,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.16.140,PTech-01-Testbed-4,155.97.0.0/16
+https://155.97.16.180,hoggar.scl.utah.edu,155.97.0.0/16
+https://155.97.16.186,OPENSSL,155.97.0.0/16
+https://155.97.16.250,OPENSSL,155.97.0.0/16
+https://155.97.17.2,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.17.67,localhost,155.97.0.0/16
+https://155.97.17.68,localhost,155.97.0.0/16
+https://155.97.17.69,localhost,155.97.0.0/16
+https://155.97.17.70,localhost,155.97.0.0/16
+https://155.97.17.71,localhost,155.97.0.0/16
+https://155.97.17.72,localhost,155.97.0.0/16
+https://155.97.17.73,localhost,155.97.0.0/16
+https://155.97.17.74,localhost,155.97.0.0/16
+https://155.97.17.75,localhost,155.97.0.0/16
+https://155.97.17.76,localhost,155.97.0.0/16
+https://155.97.17.77,localhost,155.97.0.0/16
+https://155.97.17.78,localhost,155.97.0.0/16
+https://155.97.17.89,localhost,155.97.0.0/16
+https://155.97.17.90,kvm-mlib-5300.scl.utah.edu,155.97.0.0/16
+https://155.97.17.94,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.17.132,deploystudio.scl.utah.edu,155.97.0.0/16
+https://155.97.17.133,casper.scl.utah.edu,155.97.0.0/16
+https://155.97.17.136,casper-development.scl.utah.edu,155.97.0.0/16
+https://155.97.17.137,wiki.scl.utah.edu,155.97.0.0/16
+https://155.97.17.139,intermapper.scl.utah.edu,155.97.0.0/16
+https://155.97.17.141,jds.scl.utah.edu,155.97.0.0/16
+https://155.97.17.143,file.scl.utah.edu,155.97.0.0/16
+https://155.97.17.153,Raritan KVM,155.97.0.0/16
+https://155.97.17.169,localhost,155.97.0.0/16
+https://155.97.17.173,localhost,155.97.0.0/16
+https://155.97.18.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.20.47,0004F26C9B97,155.97.0.0/16
+https://155.97.20.57,0004F26C9B9C,155.97.0.0/16
+https://155.97.20.70,0004F28F9239,155.97.0.0/16
+https://155.97.20.75,0004F26C9CE2,155.97.0.0/16
+https://155.97.20.80,NPI5CA4CB,155.97.0.0/16
+https://155.97.20.90,synology.com,155.97.0.0/16
+https://155.97.21.23,OPENSSL,155.97.0.0/16
+https://155.97.21.26,UofU-TANNER-1106-JUNIOR-STUDIO,155.97.0.0/16
+https://155.97.21.33,OPENSSL,155.97.0.0/16
+https://155.97.21.36,UofU-TANNER-1110-INTRO-STUDIO,155.97.0.0/16
+https://155.97.21.43,OPENSSL,155.97.0.0/16
+https://155.97.21.46,UofU-TANNER-1135-ART-STUDIO,155.97.0.0/16
+https://155.97.21.49,OPENSSL,155.97.0.0/16
+https://155.97.21.63,OPENSSL,155.97.0.0/16
+https://155.97.21.66,Cisco,155.97.0.0/16
+https://155.97.21.73,OPENSSL,155.97.0.0/16
+https://155.97.21.76,Cisco,155.97.0.0/16
+https://155.97.21.81,OPENSSL,155.97.0.0/16
+https://155.97.21.94,OPENSSL,155.97.0.0/16
+https://155.97.21.95,OPENSSL,155.97.0.0/16
+https://155.97.21.98,Cisco,155.97.0.0/16
+https://155.97.21.102,OPENSSL,155.97.0.0/16
+https://155.97.21.105,OPENSSL,155.97.0.0/16
+https://155.97.21.113,OPENSSL,155.97.0.0/16
+https://155.97.21.116,Cisco,155.97.0.0/16
+https://155.97.21.123,OPENSSL,155.97.0.0/16
+https://155.97.21.126,Cisco,155.97.0.0/16
+https://155.97.21.133,OPENSSL,155.97.0.0/16
+https://155.97.21.136,Cisco,155.97.0.0/16
+https://155.97.21.143,OPENSSL,155.97.0.0/16
+https://155.97.21.146,Cisco,155.97.0.0/16
+https://155.97.21.153,OPENSSL,155.97.0.0/16
+https://155.97.21.156,UofU-TANNER-3110-DANCE-CONFERENCE,155.97.0.0/16
+https://155.97.21.163,OPENSSL,155.97.0.0/16
+https://155.97.21.166,Cisco,155.97.0.0/16
+https://155.97.21.173,OPENSSL,155.97.0.0/16
+https://155.97.21.176,Cisco,155.97.0.0/16
+https://155.97.21.183,OPENSSL,155.97.0.0/16
+https://155.97.21.186,UofU-TANNER-4106-SENIOR-STUDIO,155.97.0.0/16
+https://155.97.21.193,OPENSSL,155.97.0.0/16
+https://155.97.21.196,UofU-TANNER-4110-SENIOR-STUDIO-B,155.97.0.0/16
+https://155.97.24.133,AcquiSuite SN 001EC60013DF Self-Signed Certificate Generator,155.97.0.0/16
+https://155.97.24.136,OPENSSL,155.97.0.0/16
+https://155.97.24.138,OPENSSL,155.97.0.0/16
+https://155.97.24.143,OPENSSL,155.97.0.0/16
+https://155.97.24.203,SHARP MX-2600N,155.97.0.0/16
+https://155.97.25.149,tandberg,155.97.0.0/16
+https://155.97.26.148,localhost.localdomain,155.97.0.0/16
+https://155.97.26.170,UofU-MBH-212,155.97.0.0/16
+https://155.97.29.57,OPENSSL,155.97.0.0/16
+https://155.97.29.102,eae-d-092.ad.utah.edu,155.97.0.0/16
+https://155.97.29.145,eae-d-135.ad.utah.edu,155.97.0.0/16
+https://155.97.29.228,ZA1608007663,155.97.0.0/16
+https://155.97.32.9,www.hum.utah.edu,155.97.0.0/16
+https://155.97.41.16,Canon iR-ADV,155.97.0.0/16
+https://155.97.41.18,NPI117DDF,155.97.0.0/16
+https://155.97.41.50,SHARP MX-7040N,155.97.0.0/16
+https://155.97.41.202,AWiND,155.97.0.0/16
+https://155.97.44.23,HP Jetdirect 8A3E7EB5,155.97.0.0/16
+https://155.97.44.24,HP Jetdirect A04D3749,155.97.0.0/16
+https://155.97.44.41,00405805ECF7,155.97.0.0/16
+https://155.97.46.21,OPENSSL,155.97.0.0/16
+https://155.97.46.22,NPI74DEB2,155.97.0.0/16
+https://155.97.49.52,OPENSSL,155.97.0.0/16
+https://155.97.49.53,OPENSSL,155.97.0.0/16
+https://155.97.49.68,OPENSSL,155.97.0.0/16
+https://155.97.49.122,HP Jetdirect BB031140,155.97.0.0/16
+https://155.97.49.141,MakerBot Replicator,155.97.0.0/16
+https://155.97.49.152,OPENSSL,155.97.0.0/16
+https://155.97.49.190,eae-staffp,155.97.0.0/16
+https://155.97.51.9,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.15,WMSvc-UPDATE,155.97.0.0/16
+https://155.97.51.19,OPENSSL,155.97.0.0/16
+https://155.97.51.20,ubuntu,155.97.0.0/16
+https://155.97.51.29,connect.ed.utah.edu,155.97.0.0/16
+https://155.97.51.31,Terminal.ed.ad.utah.edu,155.97.0.0/16
+https://155.97.51.40,OPENSSL,155.97.0.0/16
+https://155.97.51.166,doris,155.97.0.0/16
+https://155.97.51.181,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.182,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.184,*.ed.utah.edu,155.97.0.0/16
+https://155.97.52.2,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.5,OPENSSL,155.97.0.0/16
+https://155.97.52.7,HP Designjet D49EB278,155.97.0.0/16
+https://155.97.52.9,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.13,HP Jetdirect 2FF56E0F,155.97.0.0/16
+https://155.97.52.15,192.168.0.2,155.97.0.0/16
+https://155.97.52.16,HP904F3B,155.97.0.0/16
+https://155.97.52.19,155.97.53.52,155.97.0.0/16
+http://155.97.52.69,,155.97.0.0/16
+https://155.97.52.71,OPENSSL,155.97.0.0/16
+https://155.97.52.243,spark.utah.edu,155.97.0.0/16
+https://155.97.54.78,HP5EFE42,155.97.0.0/16
+https://155.97.54.86,OPENSSL,155.97.0.0/16
+https://155.97.55.31,NPI156954,155.97.0.0/16
+https://155.97.55.36,Canon iR-ADV,155.97.0.0/16
+https://155.97.55.47,004058037BE2,155.97.0.0/16
+https://155.97.67.25,Polycom Inc.,155.97.0.0/16
+http://155.97.67.199,,155.97.0.0/16
+https://155.97.67.230,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.231,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.232,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.233,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.234,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.235,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.236,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.239,OPENSSL,155.97.0.0/16
+https://155.97.67.240,OPENSSL,155.97.0.0/16
+https://155.97.67.241,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.242,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.245,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.250,OPENSSL,155.97.0.0/16
+https://155.97.67.251,HP Jetdirect BAC374AC,155.97.0.0/16
+https://155.97.67.252,HP Jetdirect 29240D30,155.97.0.0/16
+https://155.97.68.32,A_LifeSize_System,155.97.0.0/16
+https://155.97.68.216,0004F25A7947,155.97.0.0/16
+https://155.97.68.243,OPENSSL,155.97.0.0/16
+https://155.97.81.26,OPENSSL,155.97.0.0/16
+https://155.97.81.27,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.28,dev_sec.obia.utah.edu,155.97.0.0/16
+https://155.97.81.29,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.33,www.ipia.utah.edu,155.97.0.0/16
+https://155.97.81.34,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.38,cadets.afrotc.utah.edu,155.97.0.0/16
+https://155.97.81.51,csbs-share1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.55,www.soc.utah.edu,155.97.0.0/16
+https://155.97.81.56,support.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.59,tuesday.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.60,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.62,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.64,WEDNESDAY.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.65,www.utahcitydata.org,155.97.0.0/16
+https://155.97.81.66,www.digit.utah.edu,155.97.0.0/16
+https://155.97.81.67,survey.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.70,apps.psych.utah.edu,155.97.0.0/16
+https://155.97.81.71,webdav.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.73,utahcitydata.org,155.97.0.0/16
+https://155.97.81.76,svn.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.77,cadets.afrotc.utah.edu,155.97.0.0/16
+https://155.97.81.79,clerkships.psych.utah.edu,155.97.0.0/16
+https://155.97.81.80,volunteer.mapstudy.utah.edu,155.97.0.0/16
+https://155.97.81.81,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.84,csbs-rdg1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.87,csbs-lamp1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.88,apps.psych.utah.edu,155.97.0.0/16
+https://155.97.81.91,ew.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.103,apps.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.104,csbs-vconn2.csbs.utah.edu,155.97.0.0/16
+https://155.97.82.52,None,155.97.0.0/16
+https://155.97.82.83,MIERCOLES.csbs.utah.edu,155.97.0.0/16
+https://155.97.91.46,AWiND,155.97.0.0/16
+https://155.97.91.48,UofU-BEHS-712,155.97.0.0/16
+https://155.97.98.15,OPENSSL,155.97.0.0/16
+https://155.97.98.20,acronis.ed.ad.utah.edu,155.97.0.0/16
+https://155.97.98.86,avocent.com,155.97.0.0/16
+https://155.97.98.87,avocent.com,155.97.0.0/16
+https://155.97.98.88,avocent.com,155.97.0.0/16
+https://155.97.98.89,avocent.com,155.97.0.0/16
+https://155.97.98.90,OPENSSL,155.97.0.0/16
+https://155.97.98.92,OPENSSL,155.97.0.0/16
+https://155.97.98.97,OPENSSL,155.97.0.0/16
+https://155.97.98.106,lvm1.,155.97.0.0/16
+https://155.97.98.107,lvm2.,155.97.0.0/16
+https://155.97.98.108,lvm3.,155.97.0.0/16
+https://155.97.98.109,lvm4.,155.97.0.0/16
+https://155.97.98.110,localhost.localdomain,155.97.0.0/16
+https://155.97.98.116,localhost.localdomain,155.97.0.0/16
+https://155.97.98.119,localhost.localdomain,155.97.0.0/16
+https://155.97.98.122,localhost.localdomain,155.97.0.0/16
+https://155.97.101.10,Canon iR-ADV,155.97.0.0/16
+https://155.97.104.227,Canon iR-ADV,155.97.0.0/16
+https://155.97.104.241,NPIF7BB9E,155.97.0.0/16
+https://155.97.105.153,UofU-SW-251,155.97.0.0/16
+https://155.97.105.161,OPENSSL,155.97.0.0/16
+https://155.97.105.234,Canon iR-ADV,155.97.0.0/16
+https://155.97.105.243,Canon iR-ADV,155.97.0.0/16
+https://155.97.105.251,Canon iR-ADV,155.97.0.0/16
+https://155.97.106.134,Canon iR-ADV,155.97.0.0/16
+https://155.97.106.142,Avigilon Gateway,155.97.0.0/16
+https://155.97.106.143,AWiND,155.97.0.0/16
+https://155.97.106.162,0004F2D67C33,155.97.0.0/16
+https://155.97.106.166,SHARP MX-5001N,155.97.0.0/16
+https://155.97.106.252,00405805786B,155.97.0.0/16
+https://155.97.110.9,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.10,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.11,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.12,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.24,davpn.dps.utah.edu,155.97.0.0/16
+https://155.97.112.7,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.8,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.12,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.15,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.16,HP Jetdirect 641FAABF,155.97.0.0/16
+https://155.97.112.17,SHARP MX-M623N,155.97.0.0/16
+https://155.97.112.19,HP Jetdirect 7D7B6FC1,155.97.0.0/16
+https://155.97.112.20,SHARP MX-M623N,155.97.0.0/16
+https://155.97.112.21,HP Jetdirect 998AC85C,155.97.0.0/16
+https://155.97.112.139,HP Jetdirect A768766A,155.97.0.0/16
+https://155.97.112.178,Preset Certificate,155.97.0.0/16
+https://155.97.113.70,Cisco,155.97.0.0/16
+https://155.97.113.73,Cisco,155.97.0.0/16
+https://155.97.119.167,Preset Certificate,155.97.0.0/16
+https://155.97.120.5,HP Jetdirect 463F239A,155.97.0.0/16
+https://155.97.120.54,00405805E4A5,155.97.0.0/16
+https://155.97.120.56,SHARP MX-5111N,155.97.0.0/16
+https://155.97.120.80,HP Jetdirect 0284E35B,155.97.0.0/16
+https://155.97.120.83,HP Jetdirect 1C6CD99A,155.97.0.0/16
+http://155.97.122.134,,155.97.0.0/16
+https://155.97.124.70,OPENSSL,155.97.0.0/16
+https://155.97.124.101,OPENSSL,155.97.0.0/16
+https://155.97.124.164,OPENSSL,155.97.0.0/16
+https://155.97.124.228,OPENSSL,155.97.0.0/16
+https://155.97.124.238,OPENSSL,155.97.0.0/16
+https://155.97.127.26,ASA Temporary Self Signed Certificate,155.97.0.0/16
+https://155.97.128.100,FM-DHCPSRVS,155.97.0.0/16
+https://155.97.128.106,*.fm.utah.edu,155.97.0.0/16
+https://155.97.128.146,OPENSSL,155.97.0.0/16
+https://155.97.128.149,OPENSSL,155.97.0.0/16
+https://155.97.128.158,synology.com,155.97.0.0/16
+https://155.97.128.159,OPENSSL,155.97.0.0/16
+https://155.97.128.160,synology.com,155.97.0.0/16
+https://155.97.128.162,OPENSSL,155.97.0.0/16
+https://155.97.128.165,OPENSSL,155.97.0.0/16
+https://155.97.128.168,dev-oda-ilom00,155.97.0.0/16
+https://155.97.128.169,dev-oda-ilom01,155.97.0.0/16
+https://155.97.128.181,Oracle Integrated Lights Out Manager,155.97.0.0/16
+https://155.97.128.223,sbx20awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.228,AWATEST,155.97.0.0/16
+https://155.97.128.247,sbx16awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.248,sbx17awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.249,sbx18awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.251,adm05.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.253,parcel03.cdo.utah.edu,155.97.0.0/16
+https://155.97.130.20,www.bpc.utah.edu,155.97.0.0/16
+https://155.97.130.21,tableau.dashboard.utah.edu,155.97.0.0/16
+https://155.97.130.22,tabdev.dashboard.utah.edu,155.97.0.0/16
+https://155.97.130.146,synology.com,155.97.0.0/16
+https://155.97.131.165,cdmbuntu.lib.utah.edu,155.97.0.0/16
+https://155.97.131.170,cdmbuntu.lib.utah.edu,155.97.0.0/16
+https://155.97.131.175,lib.utah.edu,155.97.0.0/16
+https://155.97.131.180,staffnet.library.utah.edu,155.97.0.0/16
+https://155.97.134.38,www.lists.utah.edu,155.97.0.0/16
+https://155.97.134.77,ib-test.ddi.utah.edu,155.97.0.0/16
+https://155.97.134.78,www.infoblox.com,155.97.0.0/16
+https://155.97.134.81,ddi.utah.edu,155.97.0.0/16
+https://155.97.134.85,ddi.utah.edu,155.97.0.0/16
+https://155.97.134.86,www.infoblox.com,155.97.0.0/16
+https://155.97.136.157,d-candes.addev.utah.edu,155.97.0.0/16
+https://155.97.136.200,b3.ddi.utah.edu,155.97.0.0/16
+https://155.97.137.17,astra.utah.edu,155.97.0.0/16
+https://155.97.137.18,dars.sys.utah.edu,155.97.0.0/16
+https://155.97.137.21,OPENSSL,155.97.0.0/16
+https://155.97.137.26,onboard.utah.edu,155.97.0.0/16
+https://155.97.137.30,www.umail.utah.edu,155.97.0.0/16
+https://155.97.137.32,appdb.it.utah.edu,155.97.0.0/16
+https://155.97.137.33,gsa.search.utah.edu,155.97.0.0/16
+https://155.97.137.37,test.sys.utah.edu,155.97.0.0/16
+https://155.97.137.48,eq.utah.edu,155.97.0.0/16
+https://155.97.137.49,blocku.acs.utah.edu,155.97.0.0/16
+https://155.97.137.54,uitapp.it.utah.edu,155.97.0.0/16
+https://155.97.137.55,www.utah.edu,155.97.0.0/16
+https://155.97.137.62,www.kronos.utah.edu,155.97.0.0/16
+https://155.97.137.68,OPENSSL,155.97.0.0/16
+https://155.97.137.71,proxy0.sys.utah.edu,155.97.0.0/16
+https://155.97.137.72,OPENSSL,155.97.0.0/16
+https://155.97.137.73,worksite.legal.utah.edu,155.97.0.0/16
+https://155.97.137.74,OPENSSL,155.97.0.0/16
+https://155.97.137.77,templates.utah.edu,155.97.0.0/16
+https://155.97.137.80,OPENSSL,155.97.0.0/16
+https://155.97.137.82,incommon2.sso.utah.edu,155.97.0.0/16
+https://155.97.137.83,incommon2.sso.utah.edu,155.97.0.0/16
+https://155.97.137.86,fm-ags0.fm.utah.edu,155.97.0.0/16
+https://155.97.137.88,gate.acs.utah.edu,155.97.0.0/16
+https://155.97.137.90,map.utah.edu,155.97.0.0/16
+https://155.97.137.91,system.apps.utah.edu,155.97.0.0/16
+https://155.97.137.92,finance.apps.utah.edu,155.97.0.0/16
+https://155.97.137.93,hr.apps.utah.edu,155.97.0.0/16
+https://155.97.137.94,student.apps.utah.edu,155.97.0.0/16
+https://155.97.137.95,auxiliary.apps.utah.edu,155.97.0.0/16
+https://155.97.137.96,faculty.apps.utah.edu,155.97.0.0/16
+https://155.97.137.97,faculty.apps.utah.edu,155.97.0.0/16
+https://155.97.137.98,pia.acs.utah.edu,155.97.0.0/16
+https://155.97.137.100,go.utah.edu,155.97.0.0/16
+https://155.97.137.102,testvip2.sys.utah.edu,155.97.0.0/16
+https://155.97.137.103,ulogin.utah.edu,155.97.0.0/16
+https://155.97.137.107,www.test.utah.edu,155.97.0.0/16
+https://155.97.137.109,idp.sso.utah.edu,155.97.0.0/16
+https://155.97.137.110,gis-reporting.fm.utah.edu,155.97.0.0/16
+https://155.97.137.112,OPENSSL,155.97.0.0/16
+https://155.97.137.138,uhr.apps.utah.edu,155.97.0.0/16
+https://155.97.137.223,ese.idm.utah.edu,155.97.0.0/16
+https://155.97.139.20,www.infoblox.com,155.97.0.0/16
+https://155.97.139.30,www.infoblox.com,155.97.0.0/16
+https://155.97.144.4,ipo.cc.utah.edu,155.97.0.0/16
+https://155.97.144.6,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.18,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.24,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.30,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.36,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.42,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.47,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.53,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.59,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.94,X-HUB4,155.97.0.0/16
+https://155.97.144.100,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.102,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.104,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.105,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.106,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.107,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.108,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.109,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.110,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.111,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.112,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.113,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.114,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.115,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.116,www.umail.utah.edu,155.97.0.0/16
+https://155.97.148.16,casa5.web.utah.edu,155.97.0.0/16
+https://155.97.149.8,OPENSSL,155.97.0.0/16
+https://155.97.149.26,OPENSSL,155.97.0.0/16
+https://155.97.149.27,bioscience.old.utah.edu,155.97.0.0/16
+https://155.97.149.29,*.space.utah.edu,155.97.0.0/16
+https://155.97.149.33,apps.techventures.utah.edu,155.97.0.0/16
+https://155.97.149.41,biochem.utah.edu,155.97.0.0/16
+https://155.97.149.44,batholithtest.fm.utah.edu,155.97.0.0/16
+https://155.97.149.50,guestaccounts.web.utah.edu,155.97.0.0/16
+https://155.97.149.53,www.alumni.utah.edu,155.97.0.0/16
+https://155.97.149.56,www.atmos.utah.edu,155.97.0.0/16
+https://155.97.149.58,forms.utah.edu,155.97.0.0/16
+https://155.97.149.67,OPENSSL,155.97.0.0/16
+https://155.97.149.69,bennioncenter.old.utah.edu,155.97.0.0/16
+https://155.97.149.70,csbs.utah.edu,155.97.0.0/16
+https://155.97.149.74,fbstrain.utah.edu,155.97.0.0/16
+https://155.97.149.78,software.utah.edu,155.97.0.0/16
+https://155.97.149.82,humanities.utah.edu,155.97.0.0/16
+https://155.97.149.100,OPENSSL,155.97.0.0/16
+https://155.97.149.104,advising.utah.edu,155.97.0.0/16
+https://155.97.149.107,*.law.utah.edu,155.97.0.0/16
+https://155.97.149.108,*.law.utah.edu,155.97.0.0/16
+https://155.97.149.111,OPENSSL,155.97.0.0/16
+https://155.97.149.112,webapps.umc.utah.edu,155.97.0.0/16
+https://155.97.149.114,it.utah.edu,155.97.0.0/16
+https://155.97.149.115,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.121,facilities.cmes.utah.edu,155.97.0.0/16
+https://155.97.149.124,engagementday.utah.edu,155.97.0.0/16
+https://155.97.149.125,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.126,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.129,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.130,blacklist.web.utah.edu,155.97.0.0/16
+https://155.97.149.131,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.132,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.134,bioraft.utah.edu,155.97.0.0/16
+https://155.97.149.137,accreditation.utah.edu,155.97.0.0/16
+https://155.97.149.142,ucjc.utah.edu,155.97.0.0/16
+https://155.97.149.145,OPENSSL,155.97.0.0/16
+https://155.97.149.149,fbs.admin.utah.edu,155.97.0.0/16
+https://155.97.149.154,*.test.utah.edu,155.97.0.0/16
+https://155.97.149.155,advising.utah.edu,155.97.0.0/16
+https://155.97.149.158,accreditation.utah.edu,155.97.0.0/16
+https://155.97.149.159,wsurvey.it.utah.edu,155.97.0.0/16
+https://155.97.149.160,nhmu.utah.edu,155.97.0.0/16
+https://155.97.149.165,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.150.18,dbadmin.utah.edu,155.97.0.0/16
+https://155.97.150.23,umcfileshare.utah.edu,155.97.0.0/16
+https://155.97.150.24,foo.ent.google.com,155.97.0.0/16
+https://155.97.150.28,foo.ent.google.com,155.97.0.0/16
+https://155.97.150.69,old-wiki.utah.edu,155.97.0.0/16
+https://155.97.150.92,beap.utah.edu,155.97.0.0/16
+https://155.97.150.93,unid.utah.edu,155.97.0.0/16
+https://155.97.150.94,OPENSSL,155.97.0.0/16
+https://155.97.150.100,www.biology.utah.edu,155.97.0.0/16
+https://155.97.150.107,webapps5.utah.edu,155.97.0.0/16
+https://155.97.150.120,medicalhomeportal.org,155.97.0.0/16
+https://155.97.150.121,ehs.utah.edu,155.97.0.0/16
+https://155.97.150.122,printing.old.utah.edu,155.97.0.0/16
+https://155.97.150.130,www.upiq.org,155.97.0.0/16
+https://155.97.150.133,batholith.fm.utah.edu,155.97.0.0/16
+https://155.97.150.135,OPENSSL,155.97.0.0/16
+https://155.97.150.139,education.research.utah.edu,155.97.0.0/16
+https://155.97.150.140,test.fbs.admin.utah.edu,155.97.0.0/16
+https://155.97.150.143,archive.unews.utah.edu,155.97.0.0/16
+https://155.97.150.144,education.research.utah.edu,155.97.0.0/16
+https://155.97.150.148,ulogin.utah.edu,155.97.0.0/16
+https://155.97.150.158,*.test.utah.edu,155.97.0.0/16
+https://155.97.150.159,*.test.utah.edu,155.97.0.0/16
+https://155.97.150.168,setup.utah.edu,155.97.0.0/16
+https://155.97.150.175,OPENSSL,155.97.0.0/16
+https://155.97.150.180,advising.utah.edu,155.97.0.0/16
+https://155.97.150.195,www.hr.utah.edu,155.97.0.0/16
+https://155.97.150.201,social.utah.edu,155.97.0.0/16
+https://155.97.150.222,outdoor.utah.edu,155.97.0.0/16
+https://155.97.150.226,templates.utah.edu,155.97.0.0/16
+https://155.97.150.227,templates.utah.edu,155.97.0.0/16
+https://155.97.150.230,javascript.utah.edu,155.97.0.0/16
+https://155.97.150.235,nhmu.utah.edu,155.97.0.0/16
+https://155.97.150.246,facilities.utah.edu,155.97.0.0/16
+https://155.97.150.252,OPENSSL,155.97.0.0/16
+https://155.97.151.12,OPENSSL,155.97.0.0/16
+https://155.97.151.170,OPENSSL,155.97.0.0/16
+https://155.97.151.211,OPENSSL,155.97.0.0/16
+https://155.97.151.220,stream.utah.edu,155.97.0.0/16
+https://155.97.151.221,stream.utah.edu,155.97.0.0/16
+https://155.97.152.204,www.umail.utah.edu,155.97.0.0/16
+https://155.97.152.208,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.152.209,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.152.210,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.152.211,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.152.212,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.152.213,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.155.29,webapps4.utah.edu,155.97.0.0/16
+https://155.97.155.45,OPENSSL,155.97.0.0/16
+https://155.97.155.90,OPENSSL,155.97.0.0/16
+https://155.97.155.91,OPENSSL,155.97.0.0/16
+https://155.97.155.99,OPENSSL,155.97.0.0/16
+https://155.97.155.102,siteunavailable.it.utah.edu,155.97.0.0/16
+https://155.97.155.104,OPENSSL,155.97.0.0/16
+https://155.97.155.115,OPENSSL,155.97.0.0/16
+https://155.97.155.141,OPENSSL,155.97.0.0/16
+https://155.97.155.159,OPENSSL,155.97.0.0/16
+https://155.97.155.165,redirect.utah.edu,155.97.0.0/16
+https://155.97.155.166,OPENSSL,155.97.0.0/16
+https://155.97.155.201,OPENSSL,155.97.0.0/16
+https://155.97.155.224,redirect.utah.edu,155.97.0.0/16
+https://155.97.155.245,OPENSSL,155.97.0.0/16
+https://155.97.159.13,time-c-mgmt.sys.utah.edu,155.97.0.0/16
+https://155.97.161.118,155.97.161.118,155.97.0.0/16
+https://155.97.161.120,UCAPP.ucard.utah.edu,155.97.0.0/16
+https://155.97.171.215,iam-ra.ad.utah.edu,155.97.0.0/16
+https://155.97.171.220,ra.ad.utah.edu,155.97.0.0/16
+https://155.97.178.7,sa-ucal.ad.utah.edu,155.97.0.0/16
+https://155.97.178.10,muss.alumni.utah.edu,155.97.0.0/16
+https://155.97.178.13,VST-PROG1,155.97.0.0/16
+https://155.97.178.14,VST-PROG2,155.97.0.0/16
+https://155.97.178.23,examservices.utah.edu,155.97.0.0/16
+https://155.97.178.24,test.uonline.utah.edu,155.97.0.0/16
+https://155.97.178.30,BRAHMS-VM.ad.utah.edu,155.97.0.0/16
+https://155.97.178.38,gateway.uss.utah.edu,155.97.0.0/16
+https://155.97.178.39,remote.uss.utah.edu,155.97.0.0/16
+https://155.97.178.47,sri.utah.edu,155.97.0.0/16
+https://155.97.178.48,advisingam.utah.edu,155.97.0.0/16
+https://155.97.178.53,shipping.printing.utah.edu,155.97.0.0/16
+http://155.97.178.62,,155.97.0.0/16
+https://155.97.178.64,apps.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.65,stage.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.66,utaps1.utaps-data.utah.edu,155.97.0.0/16
+https://155.97.178.70,emcweb1.vs.utah.edu,155.97.0.0/16
+https://155.97.178.78,uonline.utah.edu,155.97.0.0/16
+https://155.97.178.81,morancore.utah.edu,155.97.0.0/16
+https://155.97.178.82,rpt.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.88,ldapwebassign.it.utah.edu,155.97.0.0/16
+https://155.97.178.89,lootcrate.sys.utah.edu,155.97.0.0/16
+https://155.97.178.90,UCCS-MBM.ad.utah.edu,155.97.0.0/16
+https://155.97.178.93,MV_IPTel,155.97.0.0/16
+https://155.97.178.94,inventory.global.utah.edu,155.97.0.0/16
+https://155.97.178.97,testproxy.sys.utah.edu,155.97.0.0/16
+https://155.97.178.113,remote.sys.utah.edu,155.97.0.0/16
+https://155.97.178.116,istart.ic.utah.edu,155.97.0.0/16
+https://155.97.178.117,istarttest.ic.utah.edu,155.97.0.0/16
+http://155.97.178.130,,155.97.0.0/16
+https://155.97.178.144,tutortrac.utah.edu,155.97.0.0/16
+https://155.97.178.189,water.utah.edu,155.97.0.0/16
+https://155.97.178.193,*.fm.utah.edu,155.97.0.0/16
+https://155.97.178.205,data.global.utah.edu,155.97.0.0/16
+https://155.97.178.225,pulp.sys.utah.edu,155.97.0.0/16
+https://155.97.178.230,p4e.sys.utah.edu,155.97.0.0/16
+https://155.97.178.242,faculty.utah.edu,155.97.0.0/16
+https://155.97.178.243,test.faculty.utah.edu,155.97.0.0/16
+https://155.97.181.135,rdp-gate.umail.utah.edu,155.97.0.0/16
+https://155.97.181.138,x-umadmin,155.97.0.0/16
+https://155.97.181.140,k2so.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.181.149,redirect.umail.utah.edu,155.97.0.0/16
+https://155.97.183.198,dars.sys.utah.edu,155.97.0.0/16
+https://155.97.183.199,astra.utah.edu,155.97.0.0/16
+https://155.97.183.200,dars.dev.utah.edu,155.97.0.0/16
+https://155.97.183.201,dars.test.utah.edu,155.97.0.0/16
+https://155.97.187.10,access.umail.utah.edu,155.97.0.0/16
+https://155.97.187.13,access.umail.utah.edu,155.97.0.0/16
+https://155.97.187.164,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.165,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.166,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.168,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.169,OPENSSL,155.97.0.0/16
+https://155.97.187.170,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.171,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.172,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.177,lync-app1.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.178,sklync-bot.umail.utah.edu,155.97.0.0/16
+https://155.97.187.179,lync-bot.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.180,jira.umail.utah.edu,155.97.0.0/16
+https://155.97.187.181,sklync-pc1.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.184,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.187,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.188,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.189,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.191.187,IOS-Self-Signed-Certificate-2108048128,155.97.0.0/16
+https://155.97.211.22,HP Jetdirect 8A41233C,155.97.0.0/16
+https://155.97.211.23,HP Jetdirect 8A41133D,155.97.0.0/16
+https://155.97.211.24,HP Jetdirect 6E94057C,155.97.0.0/16
+https://155.97.211.25,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.83,RPS0.ad.utah.edu,155.97.0.0/16
+https://155.97.214.87,OPENSSL,155.97.0.0/16
+https://155.97.214.103,Canon LBP,155.97.0.0/16
+https://155.97.214.104,NPI196CF9,155.97.0.0/16
+https://155.97.214.105,HP Jetdirect F0B9FD05,155.97.0.0/16
+https://155.97.214.106,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.107,SHARP MX-M363N,155.97.0.0/16
+https://155.97.214.110,HP Jetdirect D45D12FB,155.97.0.0/16
+https://155.97.214.115,HP Jetdirect BBDDB686,155.97.0.0/16
+https://155.97.214.120,HP Jetdirect 9C31D0DD,155.97.0.0/16
+https://155.97.214.124,localhost.localdomain,155.97.0.0/16
+https://155.97.214.237,HP033C7F,155.97.0.0/16
+https://155.97.214.241,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.251,HP875869,155.97.0.0/16
+https://155.97.215.134,HP Jetdirect DE1325E0,155.97.0.0/16
+https://155.97.226.177,NPIE895CD,155.97.0.0/16
+https://155.97.226.190,Canon iR-ADV,155.97.0.0/16
+https://155.97.228.140,OPENSSL,155.97.0.0/16
+https://155.97.231.14,res.universityguesthouse.com,155.97.0.0/16
+https://155.97.232.69,OPENSSL,155.97.0.0/16
+https://155.97.233.74,device4460540-59c6eccd.wd2go.com,155.97.0.0/16
+https://155.97.234.214,0004F2CE30E3,155.97.0.0/16
+http://155.97.235.250,,155.97.0.0/16
+http://155.97.236.112,,155.97.0.0/16
+https://155.97.236.238,QNAP NAS,155.97.0.0/16
+https://155.97.237.27,OPENSSL,155.97.0.0/16
+https://155.97.237.186,OPENSSL,155.97.0.0/16
+https://155.97.238.166,HPA8FB32,155.97.0.0/16
+https://155.97.239.4,Windows Media Player Network Sharing Service (DESKTOP-5GJPOM0),155.97.0.0/16
+https://155.97.241.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.243.14,Canon iR-ADV,155.97.0.0/16
+https://155.97.244.4,00405805FFCF,155.97.0.0/16
+http://155.97.244.165,,155.97.0.0/16
+https://155.97.246.202,NPI60CB95,155.97.0.0/16
+https://155.97.246.204,FMI Default Certificate,155.97.0.0/16
+https://155.97.248.78,HP Jetdirect 46490417,155.97.0.0/16
+https://155.97.248.213,00405805EFAB,155.97.0.0/16
+https://155.97.252.68,OPENSSL,155.97.0.0/16
+https://155.97.252.87,OPENSSL,155.97.0.0/16
+https://155.97.252.164,OPENSSL,155.97.0.0/16
+https://155.97.252.196,OPENSSL,155.97.0.0/16
+https://155.97.252.236,OPENSSL,155.97.0.0/16
+https://155.97.253.4,OPENSSL,155.97.0.0/16
+https://155.97.253.5,OPENSSL,155.97.0.0/16
+https://155.97.253.12,OPENSSL,155.97.0.0/16
+https://155.97.253.20,OPENSSL,155.97.0.0/16
+https://155.97.253.28,OPENSSL,155.97.0.0/16
+https://155.97.253.36,OPENSSL,155.97.0.0/16
+https://155.97.253.44,OPENSSL,155.97.0.0/16
+https://155.97.253.92,OPENSSL,155.97.0.0/16
+https://155.97.253.124,OPENSSL,155.97.0.0/16
+https://155.97.253.132,OPENSSL,155.97.0.0/16
+https://155.97.253.140,OPENSSL,155.97.0.0/16
+https://155.97.253.148,OPENSSL,155.97.0.0/16
+https://155.97.253.180,OPENSSL,155.97.0.0/16
+https://155.97.253.188,OPENSSL,155.97.0.0/16
+https://155.97.253.229,OPENSSL,155.97.0.0/16
+https://155.97.253.236,OPENSSL,155.97.0.0/16
+https://155.97.254.4,OPENSSL,155.97.0.0/16
+https://155.97.254.20,IOS-Self-Signed-Certificate-102356352,155.97.0.0/16
+https://155.97.254.28,OPENSSL,155.97.0.0/16
+https://155.97.254.29,OPENSSL,155.97.0.0/16
+https://155.97.254.36,OPENSSL,155.97.0.0/16
+https://155.97.254.44,OPENSSL,155.97.0.0/16
+https://155.97.254.68,OPENSSL,155.97.0.0/16
+https://155.97.254.76,OPENSSL,155.97.0.0/16
+https://155.97.254.84,OPENSSL,155.97.0.0/16
+https://155.97.254.100,OPENSSL,155.97.0.0/16
+https://155.97.254.108,OPENSSL,155.97.0.0/16
+https://155.97.254.109,OPENSSL,155.97.0.0/16
+https://155.97.254.116,OPENSSL,155.97.0.0/16
+https://155.97.254.133,OPENSSL,155.97.0.0/16
+https://155.97.254.141,OPENSSL,155.97.0.0/16
+https://155.97.254.157,OPENSSL,155.97.0.0/16
+https://155.97.254.164,OPENSSL,155.97.0.0/16
+https://155.97.254.172,OPENSSL,155.97.0.0/16
+https://155.97.254.180,OPENSSL,155.97.0.0/16
+https://155.97.254.188,OPENSSL,155.97.0.0/16
+https://155.97.254.196,OPENSSL,155.97.0.0/16
+https://155.97.254.204,OPENSSL,155.97.0.0/16
+https://155.97.254.212,OPENSSL,155.97.0.0/16
+https://155.97.254.220,OPENSSL,155.97.0.0/16
+https://155.97.254.228,OPENSSL,155.97.0.0/16
+https://155.97.254.236,OPENSSL,155.97.0.0/16
+https://128.110.74.254,OPENSSL,128.110.0.0/16
+https://128.110.77.142,OPENSSL,128.110.0.0/16
+https://128.110.96.170,apt170.apt.emulab.net,128.110.0.0/16
+https://128.110.100.4,www.apt.emulab.net,128.110.0.0/16
+https://128.110.100.34,ops.apt.emulab.net,128.110.0.0/16
+https://128.110.153.254,dbox,128.110.0.0/16
+https://128.110.156.4,www.utah.cloudlab.us,128.110.0.0/16
+https://128.110.156.34,ops.utah.cloudlab.us,128.110.0.0/16
+https://128.110.166.31,*.iobio.io,128.110.0.0/16
+http://128.110.176.28,,128.110.0.0/16
+https://128.110.177.142,rebwar.us,128.110.0.0/16
+https://128.110.177.143,OPENSSL,128.110.0.0/16
+https://128.110.177.144,OPENSSL,128.110.0.0/16
+https://128.110.177.145,uucon.org,128.110.0.0/16
+https://128.110.178.12,*.finearts.utah.edu,128.110.0.0/16
+https://128.110.178.13,grads.art.utah.edu,128.110.0.0/16
+https://128.110.178.31,*.finearts.utah.edu,128.110.0.0/16
+https://128.110.178.135,128.110.178.135,128.110.0.0/16
+https://128.110.178.139,128.110.178.135,128.110.0.0/16
+https://128.110.178.145,128.110.178.135,128.110.0.0/16
+https://128.110.179.138,localhost.localdomain,128.110.0.0/16
+https://128.110.179.151,bus-dcesx01.business.utah.edu,128.110.0.0/16
+https://128.110.179.153,bus-dcesx02.business.utah.edu,128.110.0.0/16
+https://128.110.179.154,bus-dcesx01.business.utah.edu,128.110.0.0/16
+https://128.110.179.155,bus-dcesx02.business.utah.edu,128.110.0.0/16
+https://128.110.179.159,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.160,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.161,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.171,Recovery-926S,128.110.0.0/16
+https://128.110.179.172,Recovery-926S,128.110.0.0/16
+https://128.110.179.182,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.230,tickets.pioneertheatre.org,128.110.0.0/16
+https://128.110.179.236,continue.utah.edu,128.110.0.0/16
+https://128.110.184.8,Avocent Mergepoint Unity,128.110.0.0/16
+https://128.110.184.9,Avocent Mergepoint Unity,128.110.0.0/16
+https://128.110.184.21,*.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.22,*.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.23,*.sandbox.lib.utah.edu,128.110.0.0/16
+https://128.110.184.24,OPENSSL,128.110.0.0/16
+https://128.110.184.37,chat.lib.utah.edu,128.110.0.0/16
+https://128.110.184.42,*.ezproxy.lib.utah.edu,128.110.0.0/16
+https://128.110.184.45,apple.lib.utah.edu,128.110.0.0/16
+https://128.110.184.46,simp.lib.utah.edu,128.110.0.0/16
+https://128.110.184.51,digarch.lib.utah.edu,128.110.0.0/16
+https://128.110.184.54,stats.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.56,brussels.lib.utah.edu,128.110.0.0/16
+https://128.110.184.59,conference.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.60,cloudstorage.lib.utah.edu,128.110.0.0/16
+https://128.110.184.61,gitlab.lib.utah.edu,128.110.0.0/16
+https://128.110.184.63,staging.lib.utah.edu,128.110.0.0/16
+https://128.110.184.66,OPENSSL,128.110.0.0/16
+https://128.110.184.70,collections.lib.utah.edu,128.110.0.0/16
+https://128.110.184.71,newspapers.lib.utah.edu,128.110.0.0/16
+https://128.110.184.84,hydra2.lib.utah.edu,128.110.0.0/16
+https://128.110.184.86,OPENSSL,128.110.0.0/16
+https://128.110.184.87,viewer.lib.utah.edu,128.110.0.0/16
+https://128.110.184.95,IPMI,128.110.0.0/16
+https://128.110.184.99,idrac-,128.110.0.0/16
+https://128.110.184.100,VMware default certificate,128.110.0.0/16
+https://128.110.184.103,sv-vmkm1.lib.utah.edu,128.110.0.0/16
+https://128.110.184.107,sv-vmkm2.lib.utah.edu,128.110.0.0/16
+https://128.110.184.109,localhost.localdomain,128.110.0.0/16
+https://128.110.184.110,localhost,128.110.0.0/16
+https://128.110.184.111,localhost,128.110.0.0/16
+https://128.110.184.112,localhost,128.110.0.0/16
+https://128.110.184.113,localhost,128.110.0.0/16
+https://128.110.184.114,localhost,128.110.0.0/16
+https://128.110.184.115,localhost,128.110.0.0/16
+https://128.110.184.116,localhost,128.110.0.0/16
+https://128.110.184.117,localhost,128.110.0.0/16
+https://128.110.184.118,localhost,128.110.0.0/16
+https://128.110.184.119,localhost,128.110.0.0/16
+https://128.110.184.120,localhost,128.110.0.0/16
+https://128.110.184.121,localhost,128.110.0.0/16
+https://128.110.184.122,localhost,128.110.0.0/16
+https://128.110.184.123,localhost,128.110.0.0/16
+https://128.110.184.124,localhost,128.110.0.0/16
+https://128.110.184.125,localhost,128.110.0.0/16
+https://128.110.184.126,localhost,128.110.0.0/16
+https://128.110.184.133,wowza.scl.utah.edu,128.110.0.0/16
+https://128.110.184.134,keyreporter,128.110.0.0/16
+https://128.110.184.135,www.scl.utah.edu,128.110.0.0/16
+https://128.110.184.202,software2.scl.utah.edu,128.110.0.0/16
+https://128.110.184.203,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.204,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.205,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.206,Application Jukebox Server Secured Service,128.110.0.0/16
+https://155.98.0.69,OPENSSL,155.98.0.0/16
+https://155.98.0.71,OPENSSL,155.98.0.0/16
+https://155.98.0.73,OPENSSL,155.98.0.0/16
+https://155.98.0.84,OPENSSL,155.98.0.0/16
+https://155.98.0.92,OPENSSL,155.98.0.0/16
+https://155.98.0.177,HP Jetdirect BB07812F,155.98.0.0/16
+https://155.98.2.21,OPENSSL,155.98.0.0/16
+https://155.98.2.67,OPENSSL,155.98.0.0/16
+https://155.98.2.68,OPENSSL,155.98.0.0/16
+https://155.98.2.138,OPENSSL,155.98.0.0/16
+http://155.98.6.250,,155.98.0.0/16
+https://155.98.6.253,southwestcarbonpartnership.org,155.98.0.0/16
+https://155.98.6.254,OPENSSL,155.98.0.0/16
+https://155.98.7.37,users.coe.utah.edu_Nuclear,155.98.0.0/16
+https://155.98.9.189,HP5EE4C5,155.98.0.0/16
+https://155.98.11.22,coral.nanofab.utah.edu,155.98.0.0/16
+https://155.98.12.58,NPI8007C6,155.98.0.0/16
+https://155.98.12.70,gator.coe.utah.edu,155.98.0.0/16
+https://155.98.12.71,swan.coe.utah.edu,155.98.0.0/16
+https://155.98.12.73,redschool.coe.utah.edu,155.98.0.0/16
+https://155.98.12.81,lnissrv3.users.coe.utah.edu,155.98.0.0/16
+https://155.98.12.83,acm.eng.utah.edu,155.98.0.0/16
+https://155.98.12.87,Bearded Merchant,155.98.0.0/16
+https://155.98.12.94,OPENSSL,155.98.0.0/16
+https://155.98.13.103,karma.eng.utah.edu,155.98.0.0/16
+https://155.98.13.104,eae-svn.eng.utah.edu,155.98.0.0/16
+https://155.98.13.105,gapp-git.eng.utah.edu,155.98.0.0/16
+https://155.98.13.106,eae.utah.edu,155.98.0.0/16
+https://155.98.13.108,eae-git.eng.utah.edu,155.98.0.0/16
+https://155.98.13.109,jose.eng.utah.edu,155.98.0.0/16
+https://155.98.13.110,blogs.eae.utah.edu,155.98.0.0/16
+https://155.98.13.111,gapp.eaemgs.utah.edu,155.98.0.0/16
+https://155.98.14.171,OPENSSL,155.98.0.0/16
+https://155.98.14.226,HP Jetdirect 1C6392A1,155.98.0.0/16
+https://155.98.15.59,Preset Certificate,155.98.0.0/16
+https://155.98.15.68,OPENSSL,155.98.0.0/16
+https://155.98.15.79,OPENSSL,155.98.0.0/16
+https://155.98.15.105,synology.com,155.98.0.0/16
+https://155.98.15.114,Preset Certificate,155.98.0.0/16
+https://155.98.16.13,internal-tools.sci.utah.edu,155.98.0.0/16
+https://155.98.16.15,internal.sci.utah.edu,155.98.0.0/16
+https://155.98.16.16,uces.sci.utah.edu,155.98.0.0/16
+http://155.98.16.17,,155.98.0.0/16
+https://155.98.16.18,facilitiesci.org,155.98.0.0/16
+https://155.98.16.35,mrlforums.sci.utah.edu,155.98.0.0/16
+https://155.98.16.38,cedmav.sci.utah.edu,155.98.0.0/16
+https://155.98.16.40,scilit.sci.utah.edu,155.98.0.0/16
+https://155.98.16.42,cde3m.sci.utah.edu,155.98.0.0/16
+https://155.98.16.50,cde3m-internal.sci.utah.edu,155.98.0.0/16
+https://155.98.16.52,www.sci.utah.edu,155.98.0.0/16
+https://155.98.16.57,ccmsc.sci.utah.edu,155.98.0.0/16
+https://155.98.16.90,OPENSSL,155.98.0.0/16
+https://155.98.16.91,OPENSSL,155.98.0.0/16
+https://155.98.16.201,barracuda.barracudanetworks.com,155.98.0.0/16
+https://155.98.19.32,OPENSSL,155.98.0.0/16
+https://155.98.19.113,bernzinps.sci.utah.edu,155.98.0.0/16
+https://155.98.19.131,synology.com,155.98.0.0/16
+https://155.98.19.213,AMI,155.98.0.0/16
+https://155.98.20.93,HP Jetdirect A76D643B,155.98.0.0/16
+https://155.98.20.189,OPENSSL,155.98.0.0/16
+https://155.98.20.193,OPENSSL,155.98.0.0/16
+https://155.98.20.221,IPMI,155.98.0.0/16
+https://155.98.20.229,OPENSSL,155.98.0.0/16
+https://155.98.20.235,vpn.sci.utah.edu,155.98.0.0/16
+https://155.98.21.185,OPENSSL,155.98.0.0/16
+https://155.98.21.190,OPENSSL,155.98.0.0/16
+https://155.98.22.10,*,155.98.0.0/16
+https://155.98.22.100,cerebro.sci.utah.edu,155.98.0.0/16
+https://155.98.22.140,dhcp217.sci.utah.edu,155.98.0.0/16
+https://155.98.24.28,OPENSSL,155.98.0.0/16
+http://155.98.24.52,,155.98.0.0/16
+https://155.98.25.9,NPI2359A6,155.98.0.0/16
+https://155.98.25.16,Preset Certificate,155.98.0.0/16
+https://155.98.25.43,OPENSSL,155.98.0.0/16
+https://155.98.25.46,Preset Certificate,155.98.0.0/16
+https://155.98.25.55,Preset Certificate,155.98.0.0/16
+https://155.98.25.78,OPENSSL,155.98.0.0/16
+https://155.98.26.30,photonics.ece.utah.edu,155.98.0.0/16
+https://155.98.26.189,debian_lenny,155.98.0.0/16
+https://155.98.26.211,NPI780726,155.98.0.0/16
+https://155.98.26.212,192.168.0.2,155.98.0.0/16
+https://155.98.26.215,Canon Imaging Product,155.98.0.0/16
+https://155.98.26.218,Canon iR-ADV,155.98.0.0/16
+https://155.98.26.233,Preset Certificate,155.98.0.0/16
+https://155.98.26.242,NPI000A12,155.98.0.0/16
+https://155.98.27.18,air.ece.utah.edu,155.98.0.0/16
+https://155.98.27.38,155.98.27.38,155.98.0.0/16
+https://155.98.27.50,Preset Certificate,155.98.0.0/16
+https://155.98.27.141,www.dlink.com,155.98.0.0/16
+http://155.98.27.174,,155.98.0.0/16
+https://155.98.27.206,NPI93142A,155.98.0.0/16
+https://155.98.27.211,ching.ece.utah.edu,155.98.0.0/16
+http://155.98.27.212,,155.98.0.0/16
+https://155.98.32.60,www.emulab.net,155.98.0.0/16
+https://155.98.32.70,www.emulab.net,155.98.0.0/16
+https://155.98.33.74,users.emulab.net,155.98.0.0/16
+https://155.98.34.3,OPENSSL,155.98.0.0/16
+https://155.98.34.4,boss.utah.geniracks.net,155.98.0.0/16
+https://155.98.34.5,ops.utah.geniracks.net,155.98.0.0/16
+https://155.98.34.21,OPENSSL,155.98.0.0/16
+https://155.98.34.22,OPENSSL,155.98.0.0/16
+https://155.98.34.23,OPENSSL,155.98.0.0/16
+https://155.98.34.25,OPENSSL,155.98.0.0/16
+http://155.98.38.87,,155.98.0.0/16
+https://155.98.38.237,iDRAC7 default certificate,155.98.0.0/16
+https://155.98.38.241,myboss.mikelab-vm.emulab-ops.emulab.net,155.98.0.0/16
+https://155.98.38.243,myops.mikelab-vm.emulab-ops.emulab.net,155.98.0.0/16
+https://155.98.39.6,myboss.leelab.testbed.emulab.net,155.98.0.0/16
+https://155.98.39.10,myops.leelab.testbed.emulab.net,155.98.0.0/16
+https://155.98.50.76,system76,155.98.0.0/16
+https://155.98.50.132,beaker.seis.utah.edu,155.98.0.0/16
+https://155.98.56.15,www.bioen.utah.edu,155.98.0.0/16
+https://155.98.56.18,*.bioen.utah.edu,155.98.0.0/16
+https://155.98.56.20,OPENSSL,155.98.0.0/16
+https://155.98.56.22,NPIAD4C06,155.98.0.0/16
+https://155.98.56.27,SHARP MX-M503N,155.98.0.0/16
+https://155.98.56.31,NPIC121EA,155.98.0.0/16
+https://155.98.57.6,*.bioen.utah.edu,155.98.0.0/16
+https://155.97.7.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.8.226,HPECAA6A,155.97.0.0/16
+https://155.97.8.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.9.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.10.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.12.75,for.temporary.use.only,155.97.0.0/16
+https://155.97.12.76,00405805EF92,155.97.0.0/16
+https://155.97.12.121,octopi,155.97.0.0/16
+https://155.97.12.124,OPENSSL,155.97.0.0/16
+https://155.97.12.154,syndisk.lib.utah.edu,155.97.0.0/16
+https://155.97.12.165,appdev.tools.lib.utah.edu,155.97.0.0/16
+https://155.97.12.166,VMware,155.97.0.0/16
+https://155.97.12.225,*.dpp.sandbox.lib.utah.edu,155.97.0.0/16
+https://155.97.12.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.13.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.16.17,t-mcdaniel-tech-mac-8.scl.utah.edu,155.97.0.0/16
+https://155.97.16.126,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.16.140,PTech-01-Testbed-4,155.97.0.0/16
+https://155.97.16.180,hoggar.scl.utah.edu,155.97.0.0/16
+https://155.97.16.186,OPENSSL,155.97.0.0/16
+https://155.97.16.250,OPENSSL,155.97.0.0/16
+https://155.97.17.2,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.17.67,localhost,155.97.0.0/16
+https://155.97.17.68,localhost,155.97.0.0/16
+https://155.97.17.69,localhost,155.97.0.0/16
+https://155.97.17.70,localhost,155.97.0.0/16
+https://155.97.17.71,localhost,155.97.0.0/16
+https://155.97.17.72,localhost,155.97.0.0/16
+https://155.97.17.73,localhost,155.97.0.0/16
+https://155.97.17.74,localhost,155.97.0.0/16
+https://155.97.17.75,localhost,155.97.0.0/16
+https://155.97.17.76,localhost,155.97.0.0/16
+https://155.97.17.77,localhost,155.97.0.0/16
+https://155.97.17.78,localhost,155.97.0.0/16
+https://155.97.17.89,localhost,155.97.0.0/16
+https://155.97.17.90,kvm-mlib-5300.scl.utah.edu,155.97.0.0/16
+https://155.97.17.94,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.17.132,deploystudio.scl.utah.edu,155.97.0.0/16
+https://155.97.17.133,casper.scl.utah.edu,155.97.0.0/16
+https://155.97.17.136,casper-development.scl.utah.edu,155.97.0.0/16
+https://155.97.17.137,wiki.scl.utah.edu,155.97.0.0/16
+https://155.97.17.139,intermapper.scl.utah.edu,155.97.0.0/16
+https://155.97.17.141,jds.scl.utah.edu,155.97.0.0/16
+https://155.97.17.143,file.scl.utah.edu,155.97.0.0/16
+https://155.97.17.153,Raritan KVM,155.97.0.0/16
+https://155.97.17.169,localhost,155.97.0.0/16
+https://155.97.17.173,localhost,155.97.0.0/16
+https://155.97.18.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.20.47,0004F26C9B97,155.97.0.0/16
+https://155.97.20.57,0004F26C9B9C,155.97.0.0/16
+https://155.97.20.70,0004F28F9239,155.97.0.0/16
+https://155.97.20.75,0004F26C9CE2,155.97.0.0/16
+https://155.97.20.80,NPI5CA4CB,155.97.0.0/16
+https://155.97.20.90,synology.com,155.97.0.0/16
+https://155.97.21.23,OPENSSL,155.97.0.0/16
+https://155.97.21.26,UofU-TANNER-1106-JUNIOR-STUDIO,155.97.0.0/16
+https://155.97.21.33,OPENSSL,155.97.0.0/16
+https://155.97.21.36,UofU-TANNER-1110-INTRO-STUDIO,155.97.0.0/16
+https://155.97.21.43,OPENSSL,155.97.0.0/16
+https://155.97.21.46,UofU-TANNER-1135-ART-STUDIO,155.97.0.0/16
+https://155.97.21.49,OPENSSL,155.97.0.0/16
+https://155.97.21.63,OPENSSL,155.97.0.0/16
+https://155.97.21.66,Cisco,155.97.0.0/16
+https://155.97.21.73,OPENSSL,155.97.0.0/16
+https://155.97.21.76,Cisco,155.97.0.0/16
+https://155.97.21.81,OPENSSL,155.97.0.0/16
+https://155.97.21.94,OPENSSL,155.97.0.0/16
+https://155.97.21.95,OPENSSL,155.97.0.0/16
+https://155.97.21.98,Cisco,155.97.0.0/16
+https://155.97.21.102,OPENSSL,155.97.0.0/16
+https://155.97.21.105,OPENSSL,155.97.0.0/16
+https://155.97.21.113,OPENSSL,155.97.0.0/16
+https://155.97.21.116,Cisco,155.97.0.0/16
+https://155.97.21.123,OPENSSL,155.97.0.0/16
+https://155.97.21.126,Cisco,155.97.0.0/16
+https://155.97.21.133,OPENSSL,155.97.0.0/16
+https://155.97.21.136,Cisco,155.97.0.0/16
+https://155.97.21.143,OPENSSL,155.97.0.0/16
+https://155.97.21.146,Cisco,155.97.0.0/16
+https://155.97.21.153,OPENSSL,155.97.0.0/16
+https://155.97.21.156,UofU-TANNER-3110-DANCE-CONFERENCE,155.97.0.0/16
+https://155.97.21.163,OPENSSL,155.97.0.0/16
+https://155.97.21.166,Cisco,155.97.0.0/16
+https://155.97.21.173,OPENSSL,155.97.0.0/16
+https://155.97.21.176,Cisco,155.97.0.0/16
+https://155.97.21.183,OPENSSL,155.97.0.0/16
+https://155.97.21.186,UofU-TANNER-4106-SENIOR-STUDIO,155.97.0.0/16
+https://155.97.21.193,OPENSSL,155.97.0.0/16
+https://155.97.21.196,UofU-TANNER-4110-SENIOR-STUDIO-B,155.97.0.0/16
+https://155.97.24.133,AcquiSuite SN 001EC60013DF Self-Signed Certificate Generator,155.97.0.0/16
+https://155.97.24.136,OPENSSL,155.97.0.0/16
+https://155.97.24.138,OPENSSL,155.97.0.0/16
+https://155.97.24.143,OPENSSL,155.97.0.0/16
+https://155.97.24.203,SHARP MX-2600N,155.97.0.0/16
+https://155.97.25.149,tandberg,155.97.0.0/16
+https://155.97.26.148,localhost.localdomain,155.97.0.0/16
+https://155.97.26.170,UofU-MBH-212,155.97.0.0/16
+https://155.97.29.57,OPENSSL,155.97.0.0/16
+https://155.97.29.102,eae-d-092.ad.utah.edu,155.97.0.0/16
+https://155.97.29.145,eae-d-135.ad.utah.edu,155.97.0.0/16
+https://155.97.29.228,ZA1608007663,155.97.0.0/16
+https://155.97.32.9,www.hum.utah.edu,155.97.0.0/16
+https://155.97.41.16,Canon iR-ADV,155.97.0.0/16
+https://155.97.41.18,NPI117DDF,155.97.0.0/16
+https://155.97.41.50,SHARP MX-7040N,155.97.0.0/16
+https://155.97.41.202,AWiND,155.97.0.0/16
+https://155.97.44.23,HP Jetdirect 8A3E7EB5,155.97.0.0/16
+https://155.97.44.24,HP Jetdirect A04D3749,155.97.0.0/16
+https://155.97.44.41,00405805ECF7,155.97.0.0/16
+https://155.97.46.21,OPENSSL,155.97.0.0/16
+https://155.97.46.22,NPI74DEB2,155.97.0.0/16
+https://155.97.49.52,OPENSSL,155.97.0.0/16
+https://155.97.49.53,OPENSSL,155.97.0.0/16
+https://155.97.49.68,OPENSSL,155.97.0.0/16
+https://155.97.49.122,HP Jetdirect BB031140,155.97.0.0/16
+https://155.97.49.141,MakerBot Replicator,155.97.0.0/16
+https://155.97.49.152,OPENSSL,155.97.0.0/16
+https://155.97.49.190,eae-staffp,155.97.0.0/16
+https://155.97.51.9,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.15,WMSvc-UPDATE,155.97.0.0/16
+https://155.97.51.19,Unknown,155.97.0.0/16
+https://155.97.51.20,ubuntu,155.97.0.0/16
+https://155.97.51.29,connect.ed.utah.edu,155.97.0.0/16
+https://155.97.51.31,Terminal.ed.ad.utah.edu,155.97.0.0/16
+https://155.97.51.40,OPENSSL,155.97.0.0/16
+https://155.97.51.166,doris,155.97.0.0/16
+https://155.97.51.181,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.182,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.184,*.ed.utah.edu,155.97.0.0/16
+https://155.97.52.2,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.5,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.7,HP Designjet D49EB278,155.97.0.0/16
+https://155.97.52.9,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.13,HP Jetdirect 2FF56E0F,155.97.0.0/16
+https://155.97.52.15,192.168.0.2,155.97.0.0/16
+https://155.97.52.16,HP904F3B,155.97.0.0/16
+https://155.97.52.19,155.97.53.52,155.97.0.0/16
+http://155.97.52.69,,155.97.0.0/16
+https://155.97.52.71,OPENSSL,155.97.0.0/16
+https://155.97.52.243,spark.utah.edu,155.97.0.0/16
+https://155.97.54.78,HP5EFE42,155.97.0.0/16
+https://155.97.54.86,OPENSSL,155.97.0.0/16
+https://155.97.55.31,NPI156954,155.97.0.0/16
+https://155.97.55.36,Canon iR-ADV,155.97.0.0/16
+https://155.97.55.47,004058037BE2,155.97.0.0/16
+https://155.97.67.25,Polycom Inc.,155.97.0.0/16
+http://155.97.67.199,,155.97.0.0/16
+https://155.97.67.230,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.231,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.232,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.233,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.234,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.235,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.236,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.239,LAW-5337,155.97.0.0/16
+https://155.97.67.240,HP Jetdirect A9687DE3,155.97.0.0/16
+https://155.97.67.241,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.242,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.245,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.250,OPENSSL,155.97.0.0/16
+https://155.97.67.251,HP Jetdirect BAC374AC,155.97.0.0/16
+https://155.97.67.252,HP Jetdirect 29240D30,155.97.0.0/16
+https://155.97.68.32,A_LifeSize_System,155.97.0.0/16
+https://155.97.68.216,0004F25A7947,155.97.0.0/16
+https://155.97.68.243,OPENSSL,155.97.0.0/16
+https://155.97.81.26,OPENSSL,155.97.0.0/16
+https://155.97.81.27,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.28,dev_sec.obia.utah.edu,155.97.0.0/16
+https://155.97.81.29,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.33,www.ipia.utah.edu,155.97.0.0/16
+https://155.97.81.34,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.38,cadets.afrotc.utah.edu,155.97.0.0/16
+https://155.97.81.51,csbs-share1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.55,www.soc.utah.edu,155.97.0.0/16
+https://155.97.81.56,support.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.59,tuesday.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.60,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.62,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.64,WEDNESDAY.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.65,www.utahcitydata.org,155.97.0.0/16
+https://155.97.81.66,www.digit.utah.edu,155.97.0.0/16
+https://155.97.81.67,survey.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.70,apps.psych.utah.edu,155.97.0.0/16
+https://155.97.81.71,webdav.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.73,utahcitydata.org,155.97.0.0/16
+https://155.97.81.76,svn.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.77,cadets.afrotc.utah.edu,155.97.0.0/16
+https://155.97.81.79,clerkships.psych.utah.edu,155.97.0.0/16
+https://155.97.81.80,volunteer.mapstudy.utah.edu,155.97.0.0/16
+https://155.97.81.81,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.84,csbs-rdg1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.87,csbs-lamp1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.88,apps.psych.utah.edu,155.97.0.0/16
+https://155.97.81.91,ew.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.103,apps.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.104,csbs-vconn1.csbs.utah.edu,155.97.0.0/16
+https://155.97.82.52,None,155.97.0.0/16
+https://155.97.82.83,MIERCOLES.csbs.utah.edu,155.97.0.0/16
+https://155.97.91.46,AWiND,155.97.0.0/16
+https://155.97.91.48,UofU-BEHS-712,155.97.0.0/16
+https://155.97.98.15,OPENSSL,155.97.0.0/16
+https://155.97.98.20,acronis.ed.ad.utah.edu,155.97.0.0/16
+https://155.97.98.86,avocent.com,155.97.0.0/16
+https://155.97.98.87,avocent.com,155.97.0.0/16
+https://155.97.98.88,avocent.com,155.97.0.0/16
+https://155.97.98.89,avocent.com,155.97.0.0/16
+https://155.97.98.90,OPENSSL,155.97.0.0/16
+https://155.97.98.92,OPENSSL,155.97.0.0/16
+https://155.97.98.97,OPENSSL,155.97.0.0/16
+https://155.97.98.106,lvm1.,155.97.0.0/16
+https://155.97.98.107,lvm2.,155.97.0.0/16
+https://155.97.98.108,lvm3.,155.97.0.0/16
+https://155.97.98.109,lvm4.,155.97.0.0/16
+https://155.97.98.110,localhost.localdomain,155.97.0.0/16
+https://155.97.98.116,localhost.localdomain,155.97.0.0/16
+https://155.97.98.119,localhost.localdomain,155.97.0.0/16
+https://155.97.98.122,localhost.localdomain,155.97.0.0/16
+https://155.97.101.10,Canon iR-ADV,155.97.0.0/16
+https://155.97.104.227,Canon iR-ADV,155.97.0.0/16
+https://155.97.104.241,NPIF7BB9E,155.97.0.0/16
+https://155.97.105.153,UofU-SW-251,155.97.0.0/16
+https://155.97.105.161,OPENSSL,155.97.0.0/16
+https://155.97.105.234,Canon iR-ADV,155.97.0.0/16
+https://155.97.105.243,Canon iR-ADV,155.97.0.0/16
+https://155.97.105.251,Canon iR-ADV,155.97.0.0/16
+https://155.97.106.134,Canon iR-ADV,155.97.0.0/16
+https://155.97.106.142,Avigilon Gateway,155.97.0.0/16
+https://155.97.106.143,AWiND,155.97.0.0/16
+https://155.97.106.162,0004F2D67C33,155.97.0.0/16
+https://155.97.106.166,SHARP MX-5001N,155.97.0.0/16
+https://155.97.106.252,00405805786B,155.97.0.0/16
+https://155.97.110.9,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.10,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.11,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.12,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.24,davpn.dps.utah.edu,155.97.0.0/16
+https://155.97.112.7,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.8,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.12,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.15,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.16,HP Jetdirect 641FAABF,155.97.0.0/16
+https://155.97.112.17,SHARP MX-M623N,155.97.0.0/16
+https://155.97.112.19,HP Jetdirect 7D7B6FC1,155.97.0.0/16
+https://155.97.112.20,SHARP MX-M623N,155.97.0.0/16
+https://155.97.112.21,HP Jetdirect 998AC85C,155.97.0.0/16
+https://155.97.112.139,HP Jetdirect A768766A,155.97.0.0/16
+https://155.97.112.178,Preset Certificate,155.97.0.0/16
+https://155.97.113.70,Cisco,155.97.0.0/16
+https://155.97.113.73,Cisco,155.97.0.0/16
+https://155.97.119.167,Preset Certificate,155.97.0.0/16
+https://155.97.120.5,HP Jetdirect 463F239A,155.97.0.0/16
+https://155.97.120.54,00405805E4A5,155.97.0.0/16
+https://155.97.120.56,SHARP MX-5111N,155.97.0.0/16
+https://155.97.120.80,HP Jetdirect 0284E35B,155.97.0.0/16
+https://155.97.120.83,HP Jetdirect 1C6CD99A,155.97.0.0/16
+http://155.97.122.134,,155.97.0.0/16
+https://155.97.124.70,OPENSSL,155.97.0.0/16
+https://155.97.124.101,OPENSSL,155.97.0.0/16
+https://155.97.124.164,OPENSSL,155.97.0.0/16
+https://155.97.124.228,OPENSSL,155.97.0.0/16
+https://155.97.124.238,OPENSSL,155.97.0.0/16
+https://155.97.127.26,ASA Temporary Self Signed Certificate,155.97.0.0/16
+https://155.97.128.100,FM-DHCPSRVS,155.97.0.0/16
+https://155.97.128.106,*.fm.utah.edu,155.97.0.0/16
+https://155.97.128.146,OPENSSL,155.97.0.0/16
+https://155.97.128.149,OPENSSL,155.97.0.0/16
+https://155.97.128.158,synology.com,155.97.0.0/16
+https://155.97.128.159,OPENSSL,155.97.0.0/16
+https://155.97.128.160,synology.com,155.97.0.0/16
+https://155.97.128.162,OPENSSL,155.97.0.0/16
+https://155.97.128.165,OPENSSL,155.97.0.0/16
+https://155.97.128.168,dev-oda-ilom00,155.97.0.0/16
+https://155.97.128.169,dev-oda-ilom01,155.97.0.0/16
+https://155.97.128.181,Oracle Integrated Lights Out Manager,155.97.0.0/16
+https://155.97.128.223,sbx20awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.228,AWATEST,155.97.0.0/16
+https://155.97.128.247,sbx16awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.248,sbx17awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.249,sbx18awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.251,adm05.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.253,parcel03.cdo.utah.edu,155.97.0.0/16
+https://155.97.130.20,www.bpc.utah.edu,155.97.0.0/16
+https://155.97.130.21,tableau.dashboard.utah.edu,155.97.0.0/16
+https://155.97.130.22,tabdev.dashboard.utah.edu,155.97.0.0/16
+https://155.97.130.146,synology.com,155.97.0.0/16
+https://155.97.131.165,cdmbuntu.lib.utah.edu,155.97.0.0/16
+https://155.97.131.170,cdmbuntu.lib.utah.edu,155.97.0.0/16
+https://155.97.131.175,lib.utah.edu,155.97.0.0/16
+https://155.97.131.180,staffnet.library.utah.edu,155.97.0.0/16
+https://155.97.134.38,www.lists.utah.edu,155.97.0.0/16
+https://155.97.134.77,ib-test.ddi.utah.edu,155.97.0.0/16
+https://155.97.134.78,www.infoblox.com,155.97.0.0/16
+https://155.97.134.81,ddi.utah.edu,155.97.0.0/16
+https://155.97.134.85,ddi.utah.edu,155.97.0.0/16
+https://155.97.134.86,www.infoblox.com,155.97.0.0/16
+https://155.97.136.157,d-candes.addev.utah.edu,155.97.0.0/16
+https://155.97.136.200,b3.ddi.utah.edu,155.97.0.0/16
+https://155.97.137.17,astra.utah.edu,155.97.0.0/16
+https://155.97.137.18,dars.sys.utah.edu,155.97.0.0/16
+https://155.97.137.21,OPENSSL,155.97.0.0/16
+https://155.97.137.26,onboard.utah.edu,155.97.0.0/16
+https://155.97.137.30,www.umail.utah.edu,155.97.0.0/16
+https://155.97.137.32,appdb.it.utah.edu,155.97.0.0/16
+https://155.97.137.33,gsa.search.utah.edu,155.97.0.0/16
+https://155.97.137.37,test.sys.utah.edu,155.97.0.0/16
+https://155.97.137.48,eq.utah.edu,155.97.0.0/16
+https://155.97.137.49,blocku.acs.utah.edu,155.97.0.0/16
+https://155.97.137.54,uitapp.it.utah.edu,155.97.0.0/16
+https://155.97.137.55,www.utah.edu,155.97.0.0/16
+https://155.97.137.62,www.kronos.utah.edu,155.97.0.0/16
+https://155.97.137.68,OPENSSL,155.97.0.0/16
+https://155.97.137.71,proxy0.sys.utah.edu,155.97.0.0/16
+https://155.97.137.72,OPENSSL,155.97.0.0/16
+https://155.97.137.73,worksite.legal.utah.edu,155.97.0.0/16
+https://155.97.137.74,OPENSSL,155.97.0.0/16
+https://155.97.137.77,templates.utah.edu,155.97.0.0/16
+https://155.97.137.80,OPENSSL,155.97.0.0/16
+https://155.97.137.82,incommon2.sso.utah.edu,155.97.0.0/16
+https://155.97.137.83,incommon2.sso.utah.edu,155.97.0.0/16
+https://155.97.137.86,fm-ags1.fm.utah.edu,155.97.0.0/16
+https://155.97.137.88,gate.acs.utah.edu,155.97.0.0/16
+https://155.97.137.90,map.utah.edu,155.97.0.0/16
+https://155.97.137.91,system.apps.utah.edu,155.97.0.0/16
+https://155.97.137.92,finance.apps.utah.edu,155.97.0.0/16
+https://155.97.137.93,hr.apps.utah.edu,155.97.0.0/16
+https://155.97.137.94,student.apps.utah.edu,155.97.0.0/16
+https://155.97.137.95,auxiliary.apps.utah.edu,155.97.0.0/16
+https://155.97.137.96,faculty.apps.utah.edu,155.97.0.0/16
+https://155.97.137.97,faculty.apps.utah.edu,155.97.0.0/16
+https://155.97.137.98,pia.acs.utah.edu,155.97.0.0/16
+https://155.97.137.100,go.utah.edu,155.97.0.0/16
+https://155.97.137.102,testvip2.sys.utah.edu,155.97.0.0/16
+https://155.97.137.103,ulogin.utah.edu,155.97.0.0/16
+https://155.97.137.107,www.test.utah.edu,155.97.0.0/16
+https://155.97.137.109,idp.sso.utah.edu,155.97.0.0/16
+https://155.97.137.110,gis-reporting.fm.utah.edu,155.97.0.0/16
+https://155.97.137.112,OPENSSL,155.97.0.0/16
+https://155.97.137.138,uhr.apps.utah.edu,155.97.0.0/16
+https://155.97.137.223,ese.idm.utah.edu,155.97.0.0/16
+https://155.97.139.20,www.infoblox.com,155.97.0.0/16
+https://155.97.139.30,www.infoblox.com,155.97.0.0/16
+https://155.97.144.4,ipo.cc.utah.edu,155.97.0.0/16
+https://155.97.144.6,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.18,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.24,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.30,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.36,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.42,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.47,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.53,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.59,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.94,X-HUB4,155.97.0.0/16
+https://155.97.144.100,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.102,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.104,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.105,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.106,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.107,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.108,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.109,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.110,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.111,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.112,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.113,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.114,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.115,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.116,www.umail.utah.edu,155.97.0.0/16
+https://155.97.148.16,casa5.web.utah.edu,155.97.0.0/16
+https://155.97.149.8,OPENSSL,155.97.0.0/16
+https://155.97.149.26,OPENSSL,155.97.0.0/16
+https://155.97.149.27,bioscience.old.utah.edu,155.97.0.0/16
+https://155.97.149.29,*.space.utah.edu,155.97.0.0/16
+https://155.97.149.33,apps.techventures.utah.edu,155.97.0.0/16
+https://155.97.149.41,biochem.utah.edu,155.97.0.0/16
+https://155.97.149.44,batholithtest.fm.utah.edu,155.97.0.0/16
+https://155.97.149.50,guestaccounts.web.utah.edu,155.97.0.0/16
+https://155.97.149.53,www.alumni.utah.edu,155.97.0.0/16
+https://155.97.149.56,www.atmos.utah.edu,155.97.0.0/16
+https://155.97.149.58,forms.utah.edu,155.97.0.0/16
+https://155.97.149.67,unid1.utah.edu,155.97.0.0/16
+https://155.97.149.69,bennioncenter.old.utah.edu,155.97.0.0/16
+https://155.97.149.70,csbs.utah.edu,155.97.0.0/16
+https://155.97.149.74,fbstrain.utah.edu,155.97.0.0/16
+https://155.97.149.78,software.utah.edu,155.97.0.0/16
+https://155.97.149.82,humanities.utah.edu,155.97.0.0/16
+https://155.97.149.83,nhmu.utah.edu,155.97.0.0/16
+https://155.97.149.100,OPENSSL,155.97.0.0/16
+https://155.97.149.104,advising.utah.edu,155.97.0.0/16
+https://155.97.149.107,*.law.utah.edu,155.97.0.0/16
+https://155.97.149.108,*.law.utah.edu,155.97.0.0/16
+https://155.97.149.111,OPENSSL,155.97.0.0/16
+https://155.97.149.112,webapps.umc.utah.edu,155.97.0.0/16
+https://155.97.149.114,it.utah.edu,155.97.0.0/16
+https://155.97.149.115,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.121,facilities.cmes.utah.edu,155.97.0.0/16
+https://155.97.149.124,engagementday.utah.edu,155.97.0.0/16
+https://155.97.149.125,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.126,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.129,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.130,blacklist.web.utah.edu,155.97.0.0/16
+https://155.97.149.131,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.132,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.134,bioraft.utah.edu,155.97.0.0/16
+https://155.97.149.137,accreditation.utah.edu,155.97.0.0/16
+https://155.97.149.142,ucjc.utah.edu,155.97.0.0/16
+https://155.97.149.145,OPENSSL,155.97.0.0/16
+https://155.97.149.149,fbs.admin.utah.edu,155.97.0.0/16
+https://155.97.149.154,*.test.utah.edu,155.97.0.0/16
+https://155.97.149.155,advising.utah.edu,155.97.0.0/16
+https://155.97.149.158,accreditation.utah.edu,155.97.0.0/16
+https://155.97.149.159,wsurvey.it.utah.edu,155.97.0.0/16
+https://155.97.149.160,nhmu.utah.edu,155.97.0.0/16
+https://155.97.149.165,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.150.18,dbadmin.utah.edu,155.97.0.0/16
+https://155.97.150.23,umcfileshare.utah.edu,155.97.0.0/16
+https://155.97.150.24,foo.ent.google.com,155.97.0.0/16
+https://155.97.150.28,foo.ent.google.com,155.97.0.0/16
+https://155.97.150.69,old-wiki.utah.edu,155.97.0.0/16
+https://155.97.150.92,beap.utah.edu,155.97.0.0/16
+https://155.97.150.93,unid.utah.edu,155.97.0.0/16
+https://155.97.150.94,OPENSSL,155.97.0.0/16
+https://155.97.150.100,www.biology.utah.edu,155.97.0.0/16
+https://155.97.150.107,webapps5.utah.edu,155.97.0.0/16
+https://155.97.150.120,medicalhomeportal.org,155.97.0.0/16
+https://155.97.150.121,ehs.utah.edu,155.97.0.0/16
+https://155.97.150.122,printing.old.utah.edu,155.97.0.0/16
+https://155.97.150.130,www.upiq.org,155.97.0.0/16
+https://155.97.150.133,batholith.fm.utah.edu,155.97.0.0/16
+https://155.97.150.135,OPENSSL,155.97.0.0/16
+https://155.97.150.139,education.research.utah.edu,155.97.0.0/16
+https://155.97.150.140,test.fbs.admin.utah.edu,155.97.0.0/16
+https://155.97.150.143,archive.unews.utah.edu,155.97.0.0/16
+https://155.97.150.144,education.research.utah.edu,155.97.0.0/16
+https://155.97.150.148,ulogin.utah.edu,155.97.0.0/16
+https://155.97.150.158,*.test.utah.edu,155.97.0.0/16
+https://155.97.150.159,*.test.utah.edu,155.97.0.0/16
+https://155.97.150.168,setup.utah.edu,155.97.0.0/16
+https://155.97.150.175,OPENSSL,155.97.0.0/16
+https://155.97.150.180,advising.utah.edu,155.97.0.0/16
+https://155.97.150.195,www.hr.utah.edu,155.97.0.0/16
+https://155.97.150.201,social.utah.edu,155.97.0.0/16
+https://155.97.150.222,outdoor.utah.edu,155.97.0.0/16
+https://155.97.150.226,templates.utah.edu,155.97.0.0/16
+https://155.97.150.227,templates.utah.edu,155.97.0.0/16
+https://155.97.150.230,javascript.utah.edu,155.97.0.0/16
+https://155.97.150.235,nhmu.utah.edu,155.97.0.0/16
+https://155.97.150.246,facilities.utah.edu,155.97.0.0/16
+https://155.97.150.252,OPENSSL,155.97.0.0/16
+https://155.97.151.12,OPENSSL,155.97.0.0/16
+https://155.97.151.170,OPENSSL,155.97.0.0/16
+https://155.97.151.211,OPENSSL,155.97.0.0/16
+https://155.97.151.220,stream.utah.edu,155.97.0.0/16
+https://155.97.151.221,stream.utah.edu,155.97.0.0/16
+https://155.97.152.204,www.umail.utah.edu,155.97.0.0/16
+https://155.97.152.208,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.152.209,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.152.210,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.152.211,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.152.212,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.152.213,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.155.29,webapps4.utah.edu,155.97.0.0/16
+https://155.97.155.45,OPENSSL,155.97.0.0/16
+https://155.97.155.90,OPENSSL,155.97.0.0/16
+https://155.97.155.91,OPENSSL,155.97.0.0/16
+https://155.97.155.99,OPENSSL,155.97.0.0/16
+https://155.97.155.102,siteunavailable.it.utah.edu,155.97.0.0/16
+https://155.97.155.104,OPENSSL,155.97.0.0/16
+https://155.97.155.115,OPENSSL,155.97.0.0/16
+https://155.97.155.141,OPENSSL,155.97.0.0/16
+https://155.97.155.159,OPENSSL,155.97.0.0/16
+https://155.97.155.165,redirect.utah.edu,155.97.0.0/16
+https://155.97.155.166,OPENSSL,155.97.0.0/16
+https://155.97.155.201,OPENSSL,155.97.0.0/16
+https://155.97.155.224,redirect.utah.edu,155.97.0.0/16
+https://155.97.155.245,OPENSSL,155.97.0.0/16
+https://155.97.159.13,time-c-mgmt.sys.utah.edu,155.97.0.0/16
+https://155.97.161.118,155.97.161.118,155.97.0.0/16
+https://155.97.161.120,UCAPP.ucard.utah.edu,155.97.0.0/16
+https://155.97.171.215,iam-ra.ad.utah.edu,155.97.0.0/16
+https://155.97.171.220,ra.ad.utah.edu,155.97.0.0/16
+https://155.97.178.7,sa-ucal.ad.utah.edu,155.97.0.0/16
+https://155.97.178.10,muss.alumni.utah.edu,155.97.0.0/16
+https://155.97.178.13,VST-PROG1,155.97.0.0/16
+https://155.97.178.14,VST-PROG2,155.97.0.0/16
+https://155.97.178.23,examservices.utah.edu,155.97.0.0/16
+https://155.97.178.24,test.uonline.utah.edu,155.97.0.0/16
+https://155.97.178.30,BRAHMS-VM.ad.utah.edu,155.97.0.0/16
+https://155.97.178.38,gateway.uss.utah.edu,155.97.0.0/16
+https://155.97.178.39,remote.uss.utah.edu,155.97.0.0/16
+https://155.97.178.47,sri.utah.edu,155.97.0.0/16
+https://155.97.178.48,advisingam.utah.edu,155.97.0.0/16
+https://155.97.178.53,shipping.printing.utah.edu,155.97.0.0/16
+http://155.97.178.62,,155.97.0.0/16
+https://155.97.178.64,apps.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.65,stage.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.66,utaps1.utaps-data.utah.edu,155.97.0.0/16
+https://155.97.178.70,emcweb1.vs.utah.edu,155.97.0.0/16
+https://155.97.178.78,uonline.utah.edu,155.97.0.0/16
+https://155.97.178.81,morancore.utah.edu,155.97.0.0/16
+https://155.97.178.82,rpt.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.88,ldapwebassign.it.utah.edu,155.97.0.0/16
+https://155.97.178.89,lootcrate.sys.utah.edu,155.97.0.0/16
+https://155.97.178.90,UCCS-MBM.ad.utah.edu,155.97.0.0/16
+https://155.97.178.93,MV_IPTel,155.97.0.0/16
+https://155.97.178.94,inventory.global.utah.edu,155.97.0.0/16
+https://155.97.178.97,testproxy.sys.utah.edu,155.97.0.0/16
+https://155.97.178.113,remote.sys.utah.edu,155.97.0.0/16
+https://155.97.178.116,istart.ic.utah.edu,155.97.0.0/16
+https://155.97.178.117,istarttest.ic.utah.edu,155.97.0.0/16
+http://155.97.178.130,,155.97.0.0/16
+https://155.97.178.144,tutortrac.utah.edu,155.97.0.0/16
+https://155.97.178.189,water.utah.edu,155.97.0.0/16
+https://155.97.178.193,*.fm.utah.edu,155.97.0.0/16
+https://155.97.178.205,data.global.utah.edu,155.97.0.0/16
+https://155.97.178.225,pulp.sys.utah.edu,155.97.0.0/16
+https://155.97.178.230,p4e.sys.utah.edu,155.97.0.0/16
+https://155.97.178.242,faculty.utah.edu,155.97.0.0/16
+https://155.97.178.243,test.faculty.utah.edu,155.97.0.0/16
+https://155.97.181.135,rdp-gate.umail.utah.edu,155.97.0.0/16
+https://155.97.181.138,x-umadmin,155.97.0.0/16
+https://155.97.181.140,k2so.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.181.149,redirect.umail.utah.edu,155.97.0.0/16
+https://155.97.183.198,dars.sys.utah.edu,155.97.0.0/16
+https://155.97.183.199,astra.utah.edu,155.97.0.0/16
+https://155.97.183.200,dars.dev.utah.edu,155.97.0.0/16
+https://155.97.183.201,dars.test.utah.edu,155.97.0.0/16
+https://155.97.187.10,access.umail.utah.edu,155.97.0.0/16
+https://155.97.187.13,access.umail.utah.edu,155.97.0.0/16
+https://155.97.187.164,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.165,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.166,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.168,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.169,ucmon,155.97.0.0/16
+https://155.97.187.170,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.171,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.172,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.177,lync-app1.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.178,sklync-bot.umail.utah.edu,155.97.0.0/16
+https://155.97.187.179,lync-bot.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.180,jira.umail.utah.edu,155.97.0.0/16
+https://155.97.187.181,sklync-pc1.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.184,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.187,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.188,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.189,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.191.187,IOS-Self-Signed-Certificate-2108048128,155.97.0.0/16
+https://155.97.211.22,HP Jetdirect 8A41233C,155.97.0.0/16
+https://155.97.211.23,HP Jetdirect 8A41133D,155.97.0.0/16
+https://155.97.211.24,HP Jetdirect 6E94057C,155.97.0.0/16
+https://155.97.211.25,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.83,RPS0.ad.utah.edu,155.97.0.0/16
+https://155.97.214.87,OPENSSL,155.97.0.0/16
+https://155.97.214.103,Canon LBP,155.97.0.0/16
+https://155.97.214.104,NPI196CF9,155.97.0.0/16
+https://155.97.214.105,HP Jetdirect F0B9FD05,155.97.0.0/16
+https://155.97.214.106,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.107,SHARP MX-M363N,155.97.0.0/16
+https://155.97.214.110,HP Jetdirect D45D12FB,155.97.0.0/16
+https://155.97.214.115,HP Jetdirect BBDDB686,155.97.0.0/16
+https://155.97.214.120,HP Jetdirect 9C31D0DD,155.97.0.0/16
+https://155.97.214.124,localhost.localdomain,155.97.0.0/16
+https://155.97.214.237,HP033C7F,155.97.0.0/16
+https://155.97.214.241,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.251,HP875869,155.97.0.0/16
+https://155.97.215.134,HP Jetdirect DE1325E0,155.97.0.0/16
+https://155.97.226.177,NPIE895CD,155.97.0.0/16
+https://155.97.226.190,Canon iR-ADV,155.97.0.0/16
+https://155.97.228.140,OPENSSL,155.97.0.0/16
+https://155.97.231.14,res.universityguesthouse.com,155.97.0.0/16
+https://155.97.232.69,OPENSSL,155.97.0.0/16
+https://155.97.233.74,device4460540-59c6eccd.wd2go.com,155.97.0.0/16
+https://155.97.234.214,0004F2CE30E3,155.97.0.0/16
+http://155.97.235.250,,155.97.0.0/16
+http://155.97.236.112,,155.97.0.0/16
+https://155.97.236.238,QNAP NAS,155.97.0.0/16
+https://155.97.237.27,OPENSSL,155.97.0.0/16
+https://155.97.237.186,OPENSSL,155.97.0.0/16
+https://155.97.238.166,HPA8FB32,155.97.0.0/16
+https://155.97.239.4,Windows Media Player Network Sharing Service (DESKTOP-5GJPOM0),155.97.0.0/16
+https://155.97.241.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.243.14,Canon iR-ADV,155.97.0.0/16
+https://155.97.244.4,00405805FFCF,155.97.0.0/16
+http://155.97.244.165,,155.97.0.0/16
+https://155.97.246.202,NPI60CB95,155.97.0.0/16
+https://155.97.246.204,FMI Default Certificate,155.97.0.0/16
+https://155.97.248.78,HP Jetdirect 46490417,155.97.0.0/16
+https://155.97.248.213,00405805EFAB,155.97.0.0/16
+https://155.97.252.68,OPENSSL,155.97.0.0/16
+https://155.97.252.87,OPENSSL,155.97.0.0/16
+https://155.97.252.164,OPENSSL,155.97.0.0/16
+https://155.97.252.196,OPENSSL,155.97.0.0/16
+https://155.97.252.236,OPENSSL,155.97.0.0/16
+https://155.97.253.4,OPENSSL,155.97.0.0/16
+https://155.97.253.5,OPENSSL,155.97.0.0/16
+https://155.97.253.12,OPENSSL,155.97.0.0/16
+https://155.97.253.20,OPENSSL,155.97.0.0/16
+https://155.97.253.28,OPENSSL,155.97.0.0/16
+https://155.97.253.36,OPENSSL,155.97.0.0/16
+https://155.97.253.44,OPENSSL,155.97.0.0/16
+https://155.97.253.92,OPENSSL,155.97.0.0/16
+https://155.97.253.124,OPENSSL,155.97.0.0/16
+https://155.97.253.132,OPENSSL,155.97.0.0/16
+https://155.97.253.140,OPENSSL,155.97.0.0/16
+https://155.97.253.148,OPENSSL,155.97.0.0/16
+https://155.97.253.180,OPENSSL,155.97.0.0/16
+https://155.97.253.188,OPENSSL,155.97.0.0/16
+https://155.97.253.229,OPENSSL,155.97.0.0/16
+https://155.97.253.236,OPENSSL,155.97.0.0/16
+https://155.97.254.4,OPENSSL,155.97.0.0/16
+https://155.97.254.20,IOS-Self-Signed-Certificate-102356352,155.97.0.0/16
+https://155.97.254.28,OPENSSL,155.97.0.0/16
+https://155.97.254.29,OPENSSL,155.97.0.0/16
+https://155.97.254.36,OPENSSL,155.97.0.0/16
+https://155.97.254.44,OPENSSL,155.97.0.0/16
+https://155.97.254.68,OPENSSL,155.97.0.0/16
+https://155.97.254.76,OPENSSL,155.97.0.0/16
+https://155.97.254.84,OPENSSL,155.97.0.0/16
+https://155.97.254.100,OPENSSL,155.97.0.0/16
+https://155.97.254.108,OPENSSL,155.97.0.0/16
+https://155.97.254.109,OPENSSL,155.97.0.0/16
+https://155.97.254.116,OPENSSL,155.97.0.0/16
+https://155.97.254.133,OPENSSL,155.97.0.0/16
+https://155.97.254.141,OPENSSL,155.97.0.0/16
+https://155.97.254.157,OPENSSL,155.97.0.0/16
+https://155.97.254.164,OPENSSL,155.97.0.0/16
+https://155.97.254.172,OPENSSL,155.97.0.0/16
+https://155.97.254.180,OPENSSL,155.97.0.0/16
+https://155.97.254.188,OPENSSL,155.97.0.0/16
+https://155.97.254.196,OPENSSL,155.97.0.0/16
+https://155.97.254.204,OPENSSL,155.97.0.0/16
+https://155.97.254.212,OPENSSL,155.97.0.0/16
+https://155.97.254.220,OPENSSL,155.97.0.0/16
+https://155.97.254.228,OPENSSL,155.97.0.0/16
+https://155.97.254.236,OPENSSL,155.97.0.0/16
+https://128.110.74.254,OPENSSL,128.110.0.0/16
+https://128.110.77.142,OPENSSL,128.110.0.0/16
+https://128.110.96.170,apt170.apt.emulab.net,128.110.0.0/16
+https://128.110.100.4,www.apt.emulab.net,128.110.0.0/16
+https://128.110.100.34,ops.apt.emulab.net,128.110.0.0/16
+https://128.110.153.254,dbox,128.110.0.0/16
+https://128.110.156.4,www.utah.cloudlab.us,128.110.0.0/16
+https://128.110.156.34,ops.utah.cloudlab.us,128.110.0.0/16
+https://128.110.166.31,*.iobio.io,128.110.0.0/16
+http://128.110.176.28,,128.110.0.0/16
+https://128.110.177.142,rebwar.us,128.110.0.0/16
+https://128.110.177.143,OPENSSL,128.110.0.0/16
+https://128.110.177.144,OPENSSL,128.110.0.0/16
+https://128.110.177.145,uucon.org,128.110.0.0/16
+https://128.110.178.12,*.finearts.utah.edu,128.110.0.0/16
+https://128.110.178.13,grads.art.utah.edu,128.110.0.0/16
+https://128.110.178.31,*.finearts.utah.edu,128.110.0.0/16
+https://128.110.178.135,128.110.178.135,128.110.0.0/16
+https://128.110.178.139,128.110.178.135,128.110.0.0/16
+https://128.110.178.145,128.110.178.135,128.110.0.0/16
+https://128.110.179.138,localhost.localdomain,128.110.0.0/16
+https://128.110.179.151,bus-dcesx01.business.utah.edu,128.110.0.0/16
+https://128.110.179.153,bus-dcesx02.business.utah.edu,128.110.0.0/16
+https://128.110.179.154,bus-dcesx01.business.utah.edu,128.110.0.0/16
+https://128.110.179.155,bus-dcesx02.business.utah.edu,128.110.0.0/16
+https://128.110.179.159,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.160,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.161,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.171,Recovery-926S,128.110.0.0/16
+https://128.110.179.172,Recovery-926S,128.110.0.0/16
+https://128.110.179.182,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.230,tickets.pioneertheatre.org,128.110.0.0/16
+https://128.110.179.236,continue.utah.edu,128.110.0.0/16
+https://128.110.184.8,Avocent Mergepoint Unity,128.110.0.0/16
+https://128.110.184.9,Avocent Mergepoint Unity,128.110.0.0/16
+https://128.110.184.21,*.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.22,*.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.23,*.sandbox.lib.utah.edu,128.110.0.0/16
+https://128.110.184.24,OPENSSL,128.110.0.0/16
+https://128.110.184.37,chat.lib.utah.edu,128.110.0.0/16
+https://128.110.184.42,*.ezproxy.lib.utah.edu,128.110.0.0/16
+https://128.110.184.45,apple.lib.utah.edu,128.110.0.0/16
+https://128.110.184.46,simp.lib.utah.edu,128.110.0.0/16
+https://128.110.184.51,digarch.lib.utah.edu,128.110.0.0/16
+https://128.110.184.54,stats.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.56,brussels.lib.utah.edu,128.110.0.0/16
+https://128.110.184.59,conference.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.60,cloudstorage.lib.utah.edu,128.110.0.0/16
+https://128.110.184.61,gitlab.lib.utah.edu,128.110.0.0/16
+https://128.110.184.63,staging.lib.utah.edu,128.110.0.0/16
+https://128.110.184.66,did-wiki.lib.utah.edu,128.110.0.0/16
+https://128.110.184.70,collections.lib.utah.edu,128.110.0.0/16
+https://128.110.184.71,newspapers.lib.utah.edu,128.110.0.0/16
+https://128.110.184.84,hydra2.lib.utah.edu,128.110.0.0/16
+https://128.110.184.86,OPENSSL,128.110.0.0/16
+https://128.110.184.87,viewer.lib.utah.edu,128.110.0.0/16
+https://128.110.184.95,IPMI,128.110.0.0/16
+https://128.110.184.99,idrac-,128.110.0.0/16
+https://128.110.184.100,VMware default certificate,128.110.0.0/16
+https://128.110.184.103,sv-vmkm1.lib.utah.edu,128.110.0.0/16
+https://128.110.184.107,sv-vmkm2.lib.utah.edu,128.110.0.0/16
+https://128.110.184.109,localhost.localdomain,128.110.0.0/16
+https://128.110.184.110,localhost,128.110.0.0/16
+https://128.110.184.111,localhost,128.110.0.0/16
+https://128.110.184.112,localhost,128.110.0.0/16
+https://128.110.184.113,localhost,128.110.0.0/16
+https://128.110.184.114,localhost,128.110.0.0/16
+https://128.110.184.115,localhost,128.110.0.0/16
+https://128.110.184.116,localhost,128.110.0.0/16
+https://128.110.184.117,localhost,128.110.0.0/16
+https://128.110.184.118,localhost,128.110.0.0/16
+https://128.110.184.119,localhost,128.110.0.0/16
+https://128.110.184.120,localhost,128.110.0.0/16
+https://128.110.184.121,localhost,128.110.0.0/16
+https://128.110.184.122,localhost,128.110.0.0/16
+https://128.110.184.123,localhost,128.110.0.0/16
+https://128.110.184.124,localhost,128.110.0.0/16
+https://128.110.184.125,localhost,128.110.0.0/16
+https://128.110.184.126,localhost,128.110.0.0/16
+https://128.110.184.133,wowza.scl.utah.edu,128.110.0.0/16
+https://128.110.184.134,keyreporter,128.110.0.0/16
+https://128.110.184.135,www.scl.utah.edu,128.110.0.0/16
+https://128.110.184.202,software2.scl.utah.edu,128.110.0.0/16
+https://128.110.184.203,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.204,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.205,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.206,Application Jukebox Server Secured Service,128.110.0.0/16
+https://155.98.0.69,OPENSSL,155.98.0.0/16
+https://155.98.0.71,OPENSSL,155.98.0.0/16
+https://155.98.0.73,OPENSSL,155.98.0.0/16
+https://155.98.0.84,OPENSSL,155.98.0.0/16
+https://155.98.0.92,OPENSSL,155.98.0.0/16
+https://155.98.0.177,HP Jetdirect BB07812F,155.98.0.0/16
+https://155.98.2.21,OPENSSL,155.98.0.0/16
+https://155.98.2.67,OPENSSL,155.98.0.0/16
+https://155.98.2.68,OPENSSL,155.98.0.0/16
+https://155.98.2.138,OPENSSL,155.98.0.0/16
+http://155.98.6.250,,155.98.0.0/16
+https://155.98.6.253,southwestcarbonpartnership.org,155.98.0.0/16
+https://155.98.6.254,OPENSSL,155.98.0.0/16
+https://155.98.7.37,users.coe.utah.edu_Nuclear,155.98.0.0/16
+https://155.98.9.189,HP5EE4C5,155.98.0.0/16
+https://155.98.11.22,coral.nanofab.utah.edu,155.98.0.0/16
+https://155.98.12.58,NPI8007C6,155.98.0.0/16
+https://155.98.12.70,gator.coe.utah.edu,155.98.0.0/16
+https://155.98.12.71,swan.coe.utah.edu,155.98.0.0/16
+https://155.98.12.73,redschool.coe.utah.edu,155.98.0.0/16
+https://155.98.12.81,lnissrv3.users.coe.utah.edu,155.98.0.0/16
+https://155.98.12.83,acm.eng.utah.edu,155.98.0.0/16
+https://155.98.12.87,Bearded Merchant,155.98.0.0/16
+https://155.98.12.94,OPENSSL,155.98.0.0/16
+https://155.98.13.103,karma.eng.utah.edu,155.98.0.0/16
+https://155.98.13.104,eae-svn.eng.utah.edu,155.98.0.0/16
+https://155.98.13.105,gapp-git.eng.utah.edu,155.98.0.0/16
+https://155.98.13.106,eae.utah.edu,155.98.0.0/16
+https://155.98.13.108,eae-git.eng.utah.edu,155.98.0.0/16
+https://155.98.13.109,jose.eng.utah.edu,155.98.0.0/16
+https://155.98.13.110,blogs.eae.utah.edu,155.98.0.0/16
+https://155.98.13.111,gapp.eaemgs.utah.edu,155.98.0.0/16
+https://155.98.14.171,OPENSSL,155.98.0.0/16
+https://155.98.14.226,HP Jetdirect 1C6392A1,155.98.0.0/16
+https://155.98.15.59,Preset Certificate,155.98.0.0/16
+https://155.98.15.68,OPENSSL,155.98.0.0/16
+https://155.98.15.79,OPENSSL,155.98.0.0/16
+https://155.98.15.105,synology.com,155.98.0.0/16
+https://155.98.15.114,Preset Certificate,155.98.0.0/16
+https://155.98.16.13,internal-tools.sci.utah.edu,155.98.0.0/16
+https://155.98.16.15,internal.sci.utah.edu,155.98.0.0/16
+https://155.98.16.16,uces.sci.utah.edu,155.98.0.0/16
+http://155.98.16.17,,155.98.0.0/16
+https://155.98.16.18,facilitiesci.org,155.98.0.0/16
+https://155.98.16.35,mrlforums.sci.utah.edu,155.98.0.0/16
+https://155.98.16.38,cedmav.sci.utah.edu,155.98.0.0/16
+https://155.98.16.40,scilit.sci.utah.edu,155.98.0.0/16
+https://155.98.16.42,cde3m.sci.utah.edu,155.98.0.0/16
+https://155.98.16.50,cde3m-internal.sci.utah.edu,155.98.0.0/16
+https://155.98.16.52,www.sci.utah.edu,155.98.0.0/16
+https://155.98.16.57,ccmsc.sci.utah.edu,155.98.0.0/16
+https://155.98.16.90,OPENSSL,155.98.0.0/16
+https://155.98.16.91,OPENSSL,155.98.0.0/16
+https://155.98.16.201,barracuda.barracudanetworks.com,155.98.0.0/16
+https://155.98.19.32,OPENSSL,155.98.0.0/16
+https://155.98.19.113,bernzinps.sci.utah.edu,155.98.0.0/16
+https://155.98.19.131,synology.com,155.98.0.0/16
+https://155.98.19.213,AMI,155.98.0.0/16
+https://155.98.20.93,HP Jetdirect A76D643B,155.98.0.0/16
+https://155.98.20.189,Canon iR-ADV,155.98.0.0/16
+https://155.98.20.193,OPENSSL,155.98.0.0/16
+https://155.98.20.221,IPMI,155.98.0.0/16
+https://155.98.20.229,OPENSSL,155.98.0.0/16
+https://155.98.20.235,vpn.sci.utah.edu,155.98.0.0/16
+https://155.98.21.185,OPENSSL,155.98.0.0/16
+https://155.98.21.190,OPENSSL,155.98.0.0/16
+https://155.98.22.10,*,155.98.0.0/16
+https://155.98.22.100,cerebro.sci.utah.edu,155.98.0.0/16
+https://155.98.22.140,dhcp217.sci.utah.edu,155.98.0.0/16
+https://155.98.24.28,OPENSSL,155.98.0.0/16
+http://155.98.24.52,,155.98.0.0/16
+https://155.98.25.9,NPI2359A6,155.98.0.0/16
+https://155.98.25.16,Preset Certificate,155.98.0.0/16
+https://155.98.25.43,OPENSSL,155.98.0.0/16
+https://155.98.25.46,Preset Certificate,155.98.0.0/16
+https://155.98.25.55,Preset Certificate,155.98.0.0/16
+https://155.98.25.78,OPENSSL,155.98.0.0/16
+https://155.98.26.30,photonics.ece.utah.edu,155.98.0.0/16
+https://155.98.26.189,debian_lenny,155.98.0.0/16
+https://155.98.26.211,NPI780726,155.98.0.0/16
+https://155.98.26.212,192.168.0.2,155.98.0.0/16
+https://155.98.26.215,Canon Imaging Product,155.98.0.0/16
+https://155.98.26.218,Canon iR-ADV,155.98.0.0/16
+https://155.98.26.233,Preset Certificate,155.98.0.0/16
+https://155.98.26.242,NPI000A12,155.98.0.0/16
+https://155.98.27.18,air.ece.utah.edu,155.98.0.0/16
+https://155.98.27.38,155.98.27.38,155.98.0.0/16
+https://155.98.27.50,Preset Certificate,155.98.0.0/16
+https://155.98.27.141,www.dlink.com,155.98.0.0/16
+http://155.98.27.174,,155.98.0.0/16
+https://155.98.27.206,NPI93142A,155.98.0.0/16
+https://155.98.27.211,ching.ece.utah.edu,155.98.0.0/16
+http://155.98.27.212,,155.98.0.0/16
+https://155.98.32.60,www.emulab.net,155.98.0.0/16
+https://155.98.32.70,www.emulab.net,155.98.0.0/16
+https://155.98.33.74,users.emulab.net,155.98.0.0/16
+https://155.98.34.3,OPENSSL,155.98.0.0/16
+https://155.98.34.4,boss.utah.geniracks.net,155.98.0.0/16
+https://155.98.34.5,ops.utah.geniracks.net,155.98.0.0/16
+https://155.98.34.21,OPENSSL,155.98.0.0/16
+https://155.98.34.22,OPENSSL,155.98.0.0/16
+https://155.98.34.23,OPENSSL,155.98.0.0/16
+https://155.98.34.25,OPENSSL,155.98.0.0/16
+http://155.98.38.87,,155.98.0.0/16
+https://155.98.38.237,iDRAC7 default certificate,155.98.0.0/16
+https://155.98.38.241,myboss.mikelab-vm.emulab-ops.emulab.net,155.98.0.0/16
+https://155.98.38.243,myops.mikelab-vm.emulab-ops.emulab.net,155.98.0.0/16
+https://155.98.39.6,myboss.leelab.testbed.emulab.net,155.98.0.0/16
+https://155.98.39.10,myops.leelab.testbed.emulab.net,155.98.0.0/16
+https://155.98.50.76,system76,155.98.0.0/16
+https://155.98.50.132,beaker.seis.utah.edu,155.98.0.0/16
+https://155.98.56.15,www.bioen.utah.edu,155.98.0.0/16
+https://155.98.56.18,*.bioen.utah.edu,155.98.0.0/16
+https://155.98.56.20,OPENSSL,155.98.0.0/16
+https://155.98.56.22,NPIAD4C06,155.98.0.0/16
+https://155.98.56.27,SHARP MX-M503N,155.98.0.0/16
+https://155.98.56.31,NPIC121EA,155.98.0.0/16
+https://155.98.57.6,*.bioen.utah.edu,155.98.0.0/16
+https://155.97.7.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.8.226,HPECAA6A,155.97.0.0/16
+https://155.97.8.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.9.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.10.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.12.75,for.temporary.use.only,155.97.0.0/16
+https://155.97.12.76,00405805EF92,155.97.0.0/16
+https://155.97.12.121,octopi,155.97.0.0/16
+https://155.97.12.124,OPENSSL,155.97.0.0/16
+https://155.97.12.154,syndisk.lib.utah.edu,155.97.0.0/16
+https://155.97.12.165,appdev.tools.lib.utah.edu,155.97.0.0/16
+https://155.97.12.166,OPENSSL,155.97.0.0/16
+https://155.97.12.225,*.dpp.sandbox.lib.utah.edu,155.97.0.0/16
+https://155.97.12.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.13.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.16.17,t-mcdaniel-tech-mac-8.scl.utah.edu,155.97.0.0/16
+https://155.97.16.126,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.16.140,PTech-01-Testbed-4,155.97.0.0/16
+https://155.97.16.180,hoggar.scl.utah.edu,155.97.0.0/16
+https://155.97.16.186,OPENSSL,155.97.0.0/16
+https://155.97.16.250,OPENSSL,155.97.0.0/16
+https://155.97.17.2,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.17.67,localhost,155.97.0.0/16
+https://155.97.17.68,localhost,155.97.0.0/16
+https://155.97.17.69,localhost,155.97.0.0/16
+https://155.97.17.70,localhost,155.97.0.0/16
+https://155.97.17.71,localhost,155.97.0.0/16
+https://155.97.17.72,localhost,155.97.0.0/16
+https://155.97.17.73,localhost,155.97.0.0/16
+https://155.97.17.74,localhost,155.97.0.0/16
+https://155.97.17.75,localhost,155.97.0.0/16
+https://155.97.17.76,localhost,155.97.0.0/16
+https://155.97.17.77,localhost,155.97.0.0/16
+https://155.97.17.78,localhost,155.97.0.0/16
+https://155.97.17.89,localhost,155.97.0.0/16
+https://155.97.17.90,kvm-mlib-5300.scl.utah.edu,155.97.0.0/16
+https://155.97.17.94,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.17.132,deploystudio.scl.utah.edu,155.97.0.0/16
+https://155.97.17.133,casper.scl.utah.edu,155.97.0.0/16
+https://155.97.17.136,casper-development.scl.utah.edu,155.97.0.0/16
+https://155.97.17.137,wiki.scl.utah.edu,155.97.0.0/16
+https://155.97.17.139,intermapper.scl.utah.edu,155.97.0.0/16
+https://155.97.17.141,jds.scl.utah.edu,155.97.0.0/16
+https://155.97.17.143,file.scl.utah.edu,155.97.0.0/16
+https://155.97.17.153,Raritan KVM,155.97.0.0/16
+https://155.97.17.169,localhost,155.97.0.0/16
+https://155.97.17.173,localhost,155.97.0.0/16
+https://155.97.18.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.20.47,0004F26C9B97,155.97.0.0/16
+https://155.97.20.57,0004F26C9B9C,155.97.0.0/16
+https://155.97.20.70,0004F28F9239,155.97.0.0/16
+https://155.97.20.75,0004F26C9CE2,155.97.0.0/16
+https://155.97.20.80,NPI5CA4CB,155.97.0.0/16
+https://155.97.20.90,synology.com,155.97.0.0/16
+https://155.97.21.23,OPENSSL,155.97.0.0/16
+https://155.97.21.26,UofU-TANNER-1106-JUNIOR-STUDIO,155.97.0.0/16
+https://155.97.21.33,OPENSSL,155.97.0.0/16
+https://155.97.21.36,UofU-TANNER-1110-INTRO-STUDIO,155.97.0.0/16
+https://155.97.21.43,OPENSSL,155.97.0.0/16
+https://155.97.21.46,UofU-TANNER-1135-ART-STUDIO,155.97.0.0/16
+https://155.97.21.49,OPENSSL,155.97.0.0/16
+https://155.97.21.63,OPENSSL,155.97.0.0/16
+https://155.97.21.66,Cisco,155.97.0.0/16
+https://155.97.21.73,OPENSSL,155.97.0.0/16
+https://155.97.21.76,Cisco,155.97.0.0/16
+https://155.97.21.81,OPENSSL,155.97.0.0/16
+https://155.97.21.94,OPENSSL,155.97.0.0/16
+https://155.97.21.95,OPENSSL,155.97.0.0/16
+https://155.97.21.98,Cisco,155.97.0.0/16
+https://155.97.21.102,OPENSSL,155.97.0.0/16
+https://155.97.21.105,OPENSSL,155.97.0.0/16
+https://155.97.21.113,OPENSSL,155.97.0.0/16
+https://155.97.21.116,Cisco,155.97.0.0/16
+https://155.97.21.123,OPENSSL,155.97.0.0/16
+https://155.97.21.126,Cisco,155.97.0.0/16
+https://155.97.21.133,OPENSSL,155.97.0.0/16
+https://155.97.21.136,Cisco,155.97.0.0/16
+https://155.97.21.143,OPENSSL,155.97.0.0/16
+https://155.97.21.146,Cisco,155.97.0.0/16
+https://155.97.21.153,OPENSSL,155.97.0.0/16
+https://155.97.21.156,UofU-TANNER-3110-DANCE-CONFERENCE,155.97.0.0/16
+https://155.97.21.163,OPENSSL,155.97.0.0/16
+https://155.97.21.166,Cisco,155.97.0.0/16
+https://155.97.21.173,OPENSSL,155.97.0.0/16
+https://155.97.21.176,Cisco,155.97.0.0/16
+https://155.97.21.183,OPENSSL,155.97.0.0/16
+https://155.97.21.186,UofU-TANNER-4106-SENIOR-STUDIO,155.97.0.0/16
+https://155.97.21.193,OPENSSL,155.97.0.0/16
+https://155.97.21.196,UofU-TANNER-4110-SENIOR-STUDIO-B,155.97.0.0/16
+https://155.97.24.133,AcquiSuite SN 001EC60013DF Self-Signed Certificate Generator,155.97.0.0/16
+https://155.97.24.136,OPENSSL,155.97.0.0/16
+https://155.97.24.138,OPENSSL,155.97.0.0/16
+https://155.97.24.143,OPENSSL,155.97.0.0/16
+https://155.97.24.203,SHARP MX-2600N,155.97.0.0/16
+https://155.97.25.149,tandberg,155.97.0.0/16
+https://155.97.26.148,localhost.localdomain,155.97.0.0/16
+https://155.97.26.170,UofU-MBH-212,155.97.0.0/16
+https://155.97.29.57,OPENSSL,155.97.0.0/16
+https://155.97.29.102,eae-d-092.ad.utah.edu,155.97.0.0/16
+https://155.97.29.145,eae-d-135.ad.utah.edu,155.97.0.0/16
+https://155.97.29.228,ZA1608007663,155.97.0.0/16
+https://155.97.32.9,www.hum.utah.edu,155.97.0.0/16
+https://155.97.41.16,Canon iR-ADV,155.97.0.0/16
+https://155.97.41.18,NPI117DDF,155.97.0.0/16
+https://155.97.41.50,SHARP MX-7040N,155.97.0.0/16
+https://155.97.41.202,AWiND,155.97.0.0/16
+https://155.97.44.23,HP Jetdirect 8A3E7EB5,155.97.0.0/16
+https://155.97.44.24,HP Jetdirect A04D3749,155.97.0.0/16
+https://155.97.44.41,00405805ECF7,155.97.0.0/16
+https://155.97.46.21,OPENSSL,155.97.0.0/16
+https://155.97.46.22,NPI74DEB2,155.97.0.0/16
+https://155.97.49.52,OPENSSL,155.97.0.0/16
+https://155.97.49.53,OPENSSL,155.97.0.0/16
+https://155.97.49.68,OPENSSL,155.97.0.0/16
+https://155.97.49.122,HP Jetdirect BB031140,155.97.0.0/16
+https://155.97.49.141,MakerBot Replicator,155.97.0.0/16
+https://155.97.49.152,OPENSSL,155.97.0.0/16
+https://155.97.49.190,eae-staffp,155.97.0.0/16
+https://155.97.51.9,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.15,WMSvc-UPDATE,155.97.0.0/16
+https://155.97.51.19,Unknown,155.97.0.0/16
+https://155.97.51.20,ubuntu,155.97.0.0/16
+https://155.97.51.29,connect.ed.utah.edu,155.97.0.0/16
+https://155.97.51.31,Terminal.ed.ad.utah.edu,155.97.0.0/16
+https://155.97.51.40,OPENSSL,155.97.0.0/16
+https://155.97.51.166,doris,155.97.0.0/16
+https://155.97.51.181,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.182,*.ed.utah.edu,155.97.0.0/16
+https://155.97.51.184,*.ed.utah.edu,155.97.0.0/16
+https://155.97.52.2,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.5,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.7,HP Designjet D49EB278,155.97.0.0/16
+https://155.97.52.9,HP Jetdirect 2B9FA1BE,155.97.0.0/16
+https://155.97.52.13,HP Jetdirect 2FF56E0F,155.97.0.0/16
+https://155.97.52.15,192.168.0.2,155.97.0.0/16
+https://155.97.52.16,HP904F3B,155.97.0.0/16
+https://155.97.52.19,155.97.53.52,155.97.0.0/16
+http://155.97.52.69,,155.97.0.0/16
+https://155.97.52.71,OPENSSL,155.97.0.0/16
+https://155.97.52.243,spark.utah.edu,155.97.0.0/16
+https://155.97.54.78,HP5EFE42,155.97.0.0/16
+https://155.97.54.86,OPENSSL,155.97.0.0/16
+https://155.97.55.31,NPI156954,155.97.0.0/16
+https://155.97.55.36,Canon iR-ADV,155.97.0.0/16
+https://155.97.55.47,004058037BE2,155.97.0.0/16
+https://155.97.67.25,Polycom Inc.,155.97.0.0/16
+http://155.97.67.199,,155.97.0.0/16
+https://155.97.67.230,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.231,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.232,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.233,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.234,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.235,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.236,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.239,LAW-5337,155.97.0.0/16
+https://155.97.67.240,HP Jetdirect A9687DE3,155.97.0.0/16
+https://155.97.67.241,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.242,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.245,Canon iR-ADV,155.97.0.0/16
+https://155.97.67.250,OPENSSL,155.97.0.0/16
+https://155.97.67.251,HP Jetdirect BAC374AC,155.97.0.0/16
+https://155.97.67.252,HP Jetdirect 29240D30,155.97.0.0/16
+https://155.97.68.32,A_LifeSize_System,155.97.0.0/16
+https://155.97.68.216,0004F25A7947,155.97.0.0/16
+https://155.97.68.243,OPENSSL,155.97.0.0/16
+https://155.97.81.26,OPENSSL,155.97.0.0/16
+https://155.97.81.27,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.28,dev_sec.obia.utah.edu,155.97.0.0/16
+https://155.97.81.29,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.33,www.ipia.utah.edu,155.97.0.0/16
+https://155.97.81.34,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.38,cadets.afrotc.utah.edu,155.97.0.0/16
+https://155.97.81.51,csbs-share1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.55,www.soc.utah.edu,155.97.0.0/16
+https://155.97.81.56,support.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.59,tuesday.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.60,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.62,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.64,WEDNESDAY.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.65,www.utahcitydata.org,155.97.0.0/16
+https://155.97.81.66,www.digit.utah.edu,155.97.0.0/16
+https://155.97.81.67,survey.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.70,apps.psych.utah.edu,155.97.0.0/16
+https://155.97.81.71,webdav.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.73,utahcitydata.org,155.97.0.0/16
+https://155.97.81.76,svn.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.77,cadets.afrotc.utah.edu,155.97.0.0/16
+https://155.97.81.79,clerkships.psych.utah.edu,155.97.0.0/16
+https://155.97.81.80,volunteer.mapstudy.utah.edu,155.97.0.0/16
+https://155.97.81.81,*.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.84,csbs-rdg1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.87,csbs-lamp1.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.88,apps.psych.utah.edu,155.97.0.0/16
+https://155.97.81.91,ew.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.103,apps.csbs.utah.edu,155.97.0.0/16
+https://155.97.81.104,csbs-vconn2.csbs.utah.edu,155.97.0.0/16
+https://155.97.82.52,None,155.97.0.0/16
+https://155.97.82.83,MIERCOLES.csbs.utah.edu,155.97.0.0/16
+https://155.97.91.46,AWiND,155.97.0.0/16
+https://155.97.91.48,UofU-BEHS-712,155.97.0.0/16
+https://155.97.98.15,OPENSSL,155.97.0.0/16
+https://155.97.98.20,acronis.ed.ad.utah.edu,155.97.0.0/16
+https://155.97.98.86,avocent.com,155.97.0.0/16
+https://155.97.98.87,avocent.com,155.97.0.0/16
+https://155.97.98.88,avocent.com,155.97.0.0/16
+https://155.97.98.89,avocent.com,155.97.0.0/16
+https://155.97.98.90,OPENSSL,155.97.0.0/16
+https://155.97.98.92,OPENSSL,155.97.0.0/16
+https://155.97.98.97,OPENSSL,155.97.0.0/16
+https://155.97.98.106,lvm1.,155.97.0.0/16
+https://155.97.98.107,lvm2.,155.97.0.0/16
+https://155.97.98.108,lvm3.,155.97.0.0/16
+https://155.97.98.109,lvm4.,155.97.0.0/16
+https://155.97.98.110,localhost.localdomain,155.97.0.0/16
+https://155.97.98.116,localhost.localdomain,155.97.0.0/16
+https://155.97.98.119,localhost.localdomain,155.97.0.0/16
+https://155.97.98.122,localhost.localdomain,155.97.0.0/16
+https://155.97.101.10,Canon iR-ADV,155.97.0.0/16
+https://155.97.104.227,Canon iR-ADV,155.97.0.0/16
+https://155.97.104.241,NPIF7BB9E,155.97.0.0/16
+https://155.97.105.153,UofU-SW-251,155.97.0.0/16
+https://155.97.105.161,OPENSSL,155.97.0.0/16
+https://155.97.105.234,Canon iR-ADV,155.97.0.0/16
+https://155.97.105.243,Canon iR-ADV,155.97.0.0/16
+https://155.97.105.251,Canon iR-ADV,155.97.0.0/16
+https://155.97.106.134,Canon iR-ADV,155.97.0.0/16
+https://155.97.106.142,Avigilon Gateway,155.97.0.0/16
+https://155.97.106.143,AWiND,155.97.0.0/16
+https://155.97.106.162,0004F2D67C33,155.97.0.0/16
+https://155.97.106.166,SHARP MX-5001N,155.97.0.0/16
+https://155.97.106.252,00405805786B,155.97.0.0/16
+https://155.97.110.9,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.10,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.11,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.12,*.dps.utah.edu,155.97.0.0/16
+https://155.97.110.24,davpn.dps.utah.edu,155.97.0.0/16
+https://155.97.112.7,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.8,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.12,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.15,Canon iR-ADV,155.97.0.0/16
+https://155.97.112.16,HP Jetdirect 641FAABF,155.97.0.0/16
+https://155.97.112.17,SHARP MX-M623N,155.97.0.0/16
+https://155.97.112.19,HP Jetdirect 7D7B6FC1,155.97.0.0/16
+https://155.97.112.20,SHARP MX-M623N,155.97.0.0/16
+https://155.97.112.21,HP Jetdirect 998AC85C,155.97.0.0/16
+https://155.97.112.139,HP Jetdirect A768766A,155.97.0.0/16
+https://155.97.112.178,Preset Certificate,155.97.0.0/16
+https://155.97.113.70,Cisco,155.97.0.0/16
+https://155.97.113.73,Cisco,155.97.0.0/16
+https://155.97.119.167,Preset Certificate,155.97.0.0/16
+https://155.97.120.5,HP Jetdirect 463F239A,155.97.0.0/16
+https://155.97.120.54,00405805E4A5,155.97.0.0/16
+https://155.97.120.56,SHARP MX-5111N,155.97.0.0/16
+https://155.97.120.80,HP Jetdirect 0284E35B,155.97.0.0/16
+https://155.97.120.83,HP Jetdirect 1C6CD99A,155.97.0.0/16
+http://155.97.122.134,,155.97.0.0/16
+https://155.97.124.70,OPENSSL,155.97.0.0/16
+https://155.97.124.101,OPENSSL,155.97.0.0/16
+https://155.97.124.164,OPENSSL,155.97.0.0/16
+https://155.97.124.228,OPENSSL,155.97.0.0/16
+https://155.97.124.238,OPENSSL,155.97.0.0/16
+https://155.97.127.26,ASA Temporary Self Signed Certificate,155.97.0.0/16
+https://155.97.128.100,FM-DHCPSRVS,155.97.0.0/16
+https://155.97.128.106,*.fm.utah.edu,155.97.0.0/16
+https://155.97.128.146,OPENSSL,155.97.0.0/16
+https://155.97.128.149,OPENSSL,155.97.0.0/16
+https://155.97.128.158,synology.com,155.97.0.0/16
+https://155.97.128.159,OPENSSL,155.97.0.0/16
+https://155.97.128.160,synology.com,155.97.0.0/16
+https://155.97.128.162,OPENSSL,155.97.0.0/16
+https://155.97.128.165,OPENSSL,155.97.0.0/16
+https://155.97.128.168,dev-oda-ilom00,155.97.0.0/16
+https://155.97.128.169,dev-oda-ilom01,155.97.0.0/16
+https://155.97.128.181,Oracle Integrated Lights Out Manager,155.97.0.0/16
+https://155.97.128.223,sbx20awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.228,AWATEST,155.97.0.0/16
+https://155.97.128.247,sbx16awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.248,sbx17awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.249,sbx18awa.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.251,adm05.cdo.utah.edu,155.97.0.0/16
+https://155.97.128.253,parcel03.cdo.utah.edu,155.97.0.0/16
+https://155.97.130.20,www.bpc.utah.edu,155.97.0.0/16
+https://155.97.130.21,tableau.dashboard.utah.edu,155.97.0.0/16
+https://155.97.130.22,tabdev.dashboard.utah.edu,155.97.0.0/16
+https://155.97.130.146,synology.com,155.97.0.0/16
+https://155.97.131.165,cdmbuntu.lib.utah.edu,155.97.0.0/16
+https://155.97.131.170,cdmbuntu.lib.utah.edu,155.97.0.0/16
+https://155.97.131.175,lib.utah.edu,155.97.0.0/16
+https://155.97.131.180,staffnet.library.utah.edu,155.97.0.0/16
+https://155.97.134.38,www.lists.utah.edu,155.97.0.0/16
+https://155.97.134.77,ib-test.ddi.utah.edu,155.97.0.0/16
+https://155.97.134.78,www.infoblox.com,155.97.0.0/16
+https://155.97.134.81,ddi.utah.edu,155.97.0.0/16
+https://155.97.134.85,ddi.utah.edu,155.97.0.0/16
+https://155.97.134.86,www.infoblox.com,155.97.0.0/16
+https://155.97.136.157,d-candes.addev.utah.edu,155.97.0.0/16
+https://155.97.136.200,b3.ddi.utah.edu,155.97.0.0/16
+https://155.97.137.17,astra.utah.edu,155.97.0.0/16
+https://155.97.137.18,dars.sys.utah.edu,155.97.0.0/16
+https://155.97.137.21,OPENSSL,155.97.0.0/16
+https://155.97.137.26,onboard.utah.edu,155.97.0.0/16
+https://155.97.137.30,www.umail.utah.edu,155.97.0.0/16
+https://155.97.137.32,appdb.it.utah.edu,155.97.0.0/16
+https://155.97.137.33,gsa.search.utah.edu,155.97.0.0/16
+https://155.97.137.37,test.sys.utah.edu,155.97.0.0/16
+https://155.97.137.48,eq.utah.edu,155.97.0.0/16
+https://155.97.137.49,blocku.acs.utah.edu,155.97.0.0/16
+https://155.97.137.54,uitapp.it.utah.edu,155.97.0.0/16
+https://155.97.137.55,www.utah.edu,155.97.0.0/16
+https://155.97.137.62,www.kronos.utah.edu,155.97.0.0/16
+https://155.97.137.68,OPENSSL,155.97.0.0/16
+https://155.97.137.71,proxy0.sys.utah.edu,155.97.0.0/16
+https://155.97.137.72,OPENSSL,155.97.0.0/16
+https://155.97.137.73,worksite.legal.utah.edu,155.97.0.0/16
+https://155.97.137.74,OPENSSL,155.97.0.0/16
+https://155.97.137.77,templates.utah.edu,155.97.0.0/16
+https://155.97.137.80,OPENSSL,155.97.0.0/16
+https://155.97.137.82,incommon2.sso.utah.edu,155.97.0.0/16
+https://155.97.137.83,incommon2.sso.utah.edu,155.97.0.0/16
+https://155.97.137.86,fm-ags5.fm.utah.edu,155.97.0.0/16
+https://155.97.137.88,gate.acs.utah.edu,155.97.0.0/16
+https://155.97.137.90,map.utah.edu,155.97.0.0/16
+https://155.97.137.91,system.apps.utah.edu,155.97.0.0/16
+https://155.97.137.92,finance.apps.utah.edu,155.97.0.0/16
+https://155.97.137.93,hr.apps.utah.edu,155.97.0.0/16
+https://155.97.137.94,student.apps.utah.edu,155.97.0.0/16
+https://155.97.137.95,auxiliary.apps.utah.edu,155.97.0.0/16
+https://155.97.137.96,faculty.apps.utah.edu,155.97.0.0/16
+https://155.97.137.97,faculty.apps.utah.edu,155.97.0.0/16
+https://155.97.137.98,pia.acs.utah.edu,155.97.0.0/16
+https://155.97.137.100,go.utah.edu,155.97.0.0/16
+https://155.97.137.102,testvip2.sys.utah.edu,155.97.0.0/16
+https://155.97.137.103,ulogin.utah.edu,155.97.0.0/16
+https://155.97.137.107,www.test.utah.edu,155.97.0.0/16
+https://155.97.137.109,idp.sso.utah.edu,155.97.0.0/16
+https://155.97.137.110,gis-reporting.fm.utah.edu,155.97.0.0/16
+https://155.97.137.112,OPENSSL,155.97.0.0/16
+https://155.97.137.138,uhr.apps.utah.edu,155.97.0.0/16
+https://155.97.137.223,ese.idm.utah.edu,155.97.0.0/16
+https://155.97.139.20,www.infoblox.com,155.97.0.0/16
+https://155.97.139.30,www.infoblox.com,155.97.0.0/16
+https://155.97.144.4,ipo.cc.utah.edu,155.97.0.0/16
+https://155.97.144.6,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.18,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.24,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.30,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.36,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.42,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.47,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.53,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.59,smtp.utah.edu,155.97.0.0/16
+https://155.97.144.94,X-HUB4,155.97.0.0/16
+https://155.97.144.100,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.102,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.104,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.105,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.106,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.107,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.108,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.109,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.110,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.111,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.112,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.113,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.114,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.115,www.umail.utah.edu,155.97.0.0/16
+https://155.97.144.116,www.umail.utah.edu,155.97.0.0/16
+https://155.97.148.16,casa5.web.utah.edu,155.97.0.0/16
+https://155.97.149.8,OPENSSL,155.97.0.0/16
+https://155.97.149.26,OPENSSL,155.97.0.0/16
+https://155.97.149.27,bioscience.old.utah.edu,155.97.0.0/16
+https://155.97.149.29,*.space.utah.edu,155.97.0.0/16
+https://155.97.149.33,apps.techventures.utah.edu,155.97.0.0/16
+https://155.97.149.41,biochem.utah.edu,155.97.0.0/16
+https://155.97.149.44,batholithtest.fm.utah.edu,155.97.0.0/16
+https://155.97.149.50,guestaccounts.web.utah.edu,155.97.0.0/16
+https://155.97.149.53,www.alumni.utah.edu,155.97.0.0/16
+https://155.97.149.56,www.atmos.utah.edu,155.97.0.0/16
+https://155.97.149.58,forms.utah.edu,155.97.0.0/16
+https://155.97.149.67,unid1.utah.edu,155.97.0.0/16
+https://155.97.149.69,bennioncenter.old.utah.edu,155.97.0.0/16
+https://155.97.149.70,csbs.utah.edu,155.97.0.0/16
+https://155.97.149.74,fbstrain.utah.edu,155.97.0.0/16
+https://155.97.149.78,software.utah.edu,155.97.0.0/16
+https://155.97.149.82,humanities.utah.edu,155.97.0.0/16
+https://155.97.149.83,nhmu.utah.edu,155.97.0.0/16
+https://155.97.149.100,OPENSSL,155.97.0.0/16
+https://155.97.149.104,advising.utah.edu,155.97.0.0/16
+https://155.97.149.107,*.law.utah.edu,155.97.0.0/16
+https://155.97.149.108,*.law.utah.edu,155.97.0.0/16
+https://155.97.149.111,OPENSSL,155.97.0.0/16
+https://155.97.149.112,webapps.umc.utah.edu,155.97.0.0/16
+https://155.97.149.114,it.utah.edu,155.97.0.0/16
+https://155.97.149.115,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.121,facilities.cmes.utah.edu,155.97.0.0/16
+https://155.97.149.124,engagementday.utah.edu,155.97.0.0/16
+https://155.97.149.125,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.126,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.129,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.130,blacklist.web.utah.edu,155.97.0.0/16
+https://155.97.149.131,inclusive-excellence.utah.edu,155.97.0.0/16
+https://155.97.149.132,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.149.134,bioraft.utah.edu,155.97.0.0/16
+https://155.97.149.137,accreditation.utah.edu,155.97.0.0/16
+https://155.97.149.142,ucjc.utah.edu,155.97.0.0/16
+https://155.97.149.145,OPENSSL,155.97.0.0/16
+https://155.97.149.149,fbs.admin.utah.edu,155.97.0.0/16
+https://155.97.149.154,*.test.utah.edu,155.97.0.0/16
+https://155.97.149.155,advising.utah.edu,155.97.0.0/16
+https://155.97.149.158,accreditation.utah.edu,155.97.0.0/16
+https://155.97.149.159,wsurvey.it.utah.edu,155.97.0.0/16
+https://155.97.149.160,nhmu.utah.edu,155.97.0.0/16
+https://155.97.149.165,evals.ugs.utah.edu,155.97.0.0/16
+https://155.97.150.18,dbadmin.utah.edu,155.97.0.0/16
+https://155.97.150.23,umcfileshare.utah.edu,155.97.0.0/16
+https://155.97.150.24,foo.ent.google.com,155.97.0.0/16
+https://155.97.150.28,foo.ent.google.com,155.97.0.0/16
+https://155.97.150.69,old-wiki.utah.edu,155.97.0.0/16
+https://155.97.150.92,beap.utah.edu,155.97.0.0/16
+https://155.97.150.93,unid.utah.edu,155.97.0.0/16
+https://155.97.150.94,OPENSSL,155.97.0.0/16
+https://155.97.150.100,www.biology.utah.edu,155.97.0.0/16
+https://155.97.150.107,webapps5.utah.edu,155.97.0.0/16
+https://155.97.150.120,medicalhomeportal.org,155.97.0.0/16
+https://155.97.150.121,ehs.utah.edu,155.97.0.0/16
+https://155.97.150.122,printing.old.utah.edu,155.97.0.0/16
+https://155.97.150.130,www.upiq.org,155.97.0.0/16
+https://155.97.150.133,batholith.fm.utah.edu,155.97.0.0/16
+https://155.97.150.135,OPENSSL,155.97.0.0/16
+https://155.97.150.139,education.research.utah.edu,155.97.0.0/16
+https://155.97.150.140,test.fbs.admin.utah.edu,155.97.0.0/16
+https://155.97.150.143,archive.unews.utah.edu,155.97.0.0/16
+https://155.97.150.144,education.research.utah.edu,155.97.0.0/16
+https://155.97.150.148,ulogin.utah.edu,155.97.0.0/16
+https://155.97.150.158,*.test.utah.edu,155.97.0.0/16
+https://155.97.150.159,*.test.utah.edu,155.97.0.0/16
+https://155.97.150.168,setup.utah.edu,155.97.0.0/16
+https://155.97.150.175,OPENSSL,155.97.0.0/16
+https://155.97.150.180,advising.utah.edu,155.97.0.0/16
+https://155.97.150.195,www.hr.utah.edu,155.97.0.0/16
+https://155.97.150.201,social.utah.edu,155.97.0.0/16
+https://155.97.150.222,outdoor.utah.edu,155.97.0.0/16
+https://155.97.150.226,templates.utah.edu,155.97.0.0/16
+https://155.97.150.227,templates.utah.edu,155.97.0.0/16
+https://155.97.150.230,javascript.utah.edu,155.97.0.0/16
+https://155.97.150.235,nhmu.utah.edu,155.97.0.0/16
+https://155.97.150.246,facilities.utah.edu,155.97.0.0/16
+https://155.97.150.252,OPENSSL,155.97.0.0/16
+https://155.97.151.12,OPENSSL,155.97.0.0/16
+https://155.97.151.170,OPENSSL,155.97.0.0/16
+https://155.97.151.211,OPENSSL,155.97.0.0/16
+https://155.97.151.220,stream.utah.edu,155.97.0.0/16
+https://155.97.151.221,stream.utah.edu,155.97.0.0/16
+https://155.97.152.204,www.umail.utah.edu,155.97.0.0/16
+https://155.97.152.208,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.152.209,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.152.210,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.152.211,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.152.212,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.152.213,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.155.29,webapps4.utah.edu,155.97.0.0/16
+https://155.97.155.45,OPENSSL,155.97.0.0/16
+https://155.97.155.90,OPENSSL,155.97.0.0/16
+https://155.97.155.91,OPENSSL,155.97.0.0/16
+https://155.97.155.99,OPENSSL,155.97.0.0/16
+https://155.97.155.102,siteunavailable.it.utah.edu,155.97.0.0/16
+https://155.97.155.104,OPENSSL,155.97.0.0/16
+https://155.97.155.115,OPENSSL,155.97.0.0/16
+https://155.97.155.141,OPENSSL,155.97.0.0/16
+https://155.97.155.159,OPENSSL,155.97.0.0/16
+https://155.97.155.165,redirect.utah.edu,155.97.0.0/16
+https://155.97.155.166,OPENSSL,155.97.0.0/16
+https://155.97.155.201,OPENSSL,155.97.0.0/16
+https://155.97.155.224,redirect.utah.edu,155.97.0.0/16
+https://155.97.155.245,OPENSSL,155.97.0.0/16
+https://155.97.159.13,time-c-mgmt.sys.utah.edu,155.97.0.0/16
+https://155.97.161.118,155.97.161.118,155.97.0.0/16
+https://155.97.161.120,UCAPP.ucard.utah.edu,155.97.0.0/16
+https://155.97.171.215,iam-ra.ad.utah.edu,155.97.0.0/16
+https://155.97.171.220,ra.ad.utah.edu,155.97.0.0/16
+https://155.97.178.7,sa-ucal.ad.utah.edu,155.97.0.0/16
+https://155.97.178.10,muss.alumni.utah.edu,155.97.0.0/16
+https://155.97.178.13,VST-PROG1,155.97.0.0/16
+https://155.97.178.14,VST-PROG2,155.97.0.0/16
+https://155.97.178.23,examservices.utah.edu,155.97.0.0/16
+https://155.97.178.24,test.uonline.utah.edu,155.97.0.0/16
+https://155.97.178.30,BRAHMS-VM.ad.utah.edu,155.97.0.0/16
+https://155.97.178.38,gateway.uss.utah.edu,155.97.0.0/16
+https://155.97.178.39,remote.uss.utah.edu,155.97.0.0/16
+https://155.97.178.47,sri.utah.edu,155.97.0.0/16
+https://155.97.178.48,advisingam.utah.edu,155.97.0.0/16
+https://155.97.178.53,shipping.printing.utah.edu,155.97.0.0/16
+http://155.97.178.62,,155.97.0.0/16
+https://155.97.178.64,apps.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.65,stage.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.66,utaps1.utaps-data.utah.edu,155.97.0.0/16
+https://155.97.178.70,emcweb1.vs.utah.edu,155.97.0.0/16
+https://155.97.178.78,uonline.utah.edu,155.97.0.0/16
+https://155.97.178.81,morancore.utah.edu,155.97.0.0/16
+https://155.97.178.82,rpt.tlt.utah.edu,155.97.0.0/16
+https://155.97.178.88,ldapwebassign.it.utah.edu,155.97.0.0/16
+https://155.97.178.89,lootcrate.sys.utah.edu,155.97.0.0/16
+https://155.97.178.90,UCCS-MBM.ad.utah.edu,155.97.0.0/16
+https://155.97.178.93,MV_IPTel,155.97.0.0/16
+https://155.97.178.94,inventory.global.utah.edu,155.97.0.0/16
+https://155.97.178.97,testproxy.sys.utah.edu,155.97.0.0/16
+https://155.97.178.113,remote.sys.utah.edu,155.97.0.0/16
+https://155.97.178.116,istart.ic.utah.edu,155.97.0.0/16
+https://155.97.178.117,istarttest.ic.utah.edu,155.97.0.0/16
+http://155.97.178.130,,155.97.0.0/16
+https://155.97.178.144,tutortrac.utah.edu,155.97.0.0/16
+https://155.97.178.189,water.utah.edu,155.97.0.0/16
+https://155.97.178.193,*.fm.utah.edu,155.97.0.0/16
+https://155.97.178.205,data.global.utah.edu,155.97.0.0/16
+https://155.97.178.225,pulp.sys.utah.edu,155.97.0.0/16
+https://155.97.178.230,p4e.sys.utah.edu,155.97.0.0/16
+https://155.97.178.242,faculty.utah.edu,155.97.0.0/16
+https://155.97.178.243,test.faculty.utah.edu,155.97.0.0/16
+https://155.97.181.135,rdp-gate.umail.utah.edu,155.97.0.0/16
+https://155.97.181.138,x-umadmin,155.97.0.0/16
+https://155.97.181.140,k2so.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.181.149,redirect.umail.utah.edu,155.97.0.0/16
+https://155.97.183.198,dars.sys.utah.edu,155.97.0.0/16
+https://155.97.183.199,astra.utah.edu,155.97.0.0/16
+https://155.97.183.200,dars.dev.utah.edu,155.97.0.0/16
+https://155.97.183.201,dars.test.utah.edu,155.97.0.0/16
+https://155.97.187.10,access.umail.utah.edu,155.97.0.0/16
+https://155.97.187.13,access.umail.utah.edu,155.97.0.0/16
+https://155.97.187.164,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.165,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.166,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.168,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.169,ucmon,155.97.0.0/16
+https://155.97.187.170,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.171,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.172,lync-pool2013.umail.utah.edu,155.97.0.0/16
+https://155.97.187.177,lync-app1.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.178,sklync-bot.umail.utah.edu,155.97.0.0/16
+https://155.97.187.179,lync-bot.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.180,jira.umail.utah.edu,155.97.0.0/16
+https://155.97.187.181,sklync-pc1.xds.umail.utah.edu,155.97.0.0/16
+https://155.97.187.184,splash.umail.utah.edu,155.97.0.0/16
+https://155.97.187.187,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.188,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.187.189,swim.umail.utah.edu,155.97.0.0/16
+https://155.97.191.187,IOS-Self-Signed-Certificate-2108048128,155.97.0.0/16
+https://155.97.211.22,HP Jetdirect 8A41233C,155.97.0.0/16
+https://155.97.211.23,HP Jetdirect 8A41133D,155.97.0.0/16
+https://155.97.211.24,HP Jetdirect 6E94057C,155.97.0.0/16
+https://155.97.211.25,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.83,RPS0.ad.utah.edu,155.97.0.0/16
+https://155.97.214.87,OPENSSL,155.97.0.0/16
+https://155.97.214.103,Canon LBP,155.97.0.0/16
+https://155.97.214.104,NPI196CF9,155.97.0.0/16
+https://155.97.214.105,HP Jetdirect F0B9FD05,155.97.0.0/16
+https://155.97.214.106,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.107,SHARP MX-M363N,155.97.0.0/16
+https://155.97.214.110,HP Jetdirect D45D12FB,155.97.0.0/16
+https://155.97.214.115,HP Jetdirect BBDDB686,155.97.0.0/16
+https://155.97.214.120,HP Jetdirect 9C31D0DD,155.97.0.0/16
+https://155.97.214.124,localhost.localdomain,155.97.0.0/16
+https://155.97.214.237,HP033C7F,155.97.0.0/16
+https://155.97.214.241,Canon iR-ADV,155.97.0.0/16
+https://155.97.214.251,HP875869,155.97.0.0/16
+https://155.97.215.134,HP Jetdirect DE1325E0,155.97.0.0/16
+https://155.97.226.177,NPIE895CD,155.97.0.0/16
+https://155.97.226.190,Canon iR-ADV,155.97.0.0/16
+https://155.97.228.140,OPENSSL,155.97.0.0/16
+https://155.97.231.14,res.universityguesthouse.com,155.97.0.0/16
+https://155.97.232.69,OPENSSL,155.97.0.0/16
+https://155.97.233.74,device4460540-59c6eccd.wd2go.com,155.97.0.0/16
+https://155.97.234.214,0004F2CE30E3,155.97.0.0/16
+http://155.97.235.250,,155.97.0.0/16
+http://155.97.236.112,,155.97.0.0/16
+https://155.97.236.238,QNAP NAS,155.97.0.0/16
+https://155.97.237.27,OPENSSL,155.97.0.0/16
+https://155.97.237.186,OPENSSL,155.97.0.0/16
+https://155.97.238.166,HPA8FB32,155.97.0.0/16
+https://155.97.239.4,Windows Media Player Network Sharing Service (DESKTOP-5GJPOM0),155.97.0.0/16
+https://155.97.241.254,tyr.scl.utah.edu,155.97.0.0/16
+https://155.97.243.14,Canon iR-ADV,155.97.0.0/16
+https://155.97.244.4,00405805FFCF,155.97.0.0/16
+http://155.97.244.165,,155.97.0.0/16
+https://155.97.246.202,NPI60CB95,155.97.0.0/16
+https://155.97.246.204,FMI Default Certificate,155.97.0.0/16
+https://155.97.248.78,HP Jetdirect 46490417,155.97.0.0/16
+https://155.97.248.213,00405805EFAB,155.97.0.0/16
+https://155.97.252.68,OPENSSL,155.97.0.0/16
+https://155.97.252.87,OPENSSL,155.97.0.0/16
+https://155.97.252.164,OPENSSL,155.97.0.0/16
+https://155.97.252.196,OPENSSL,155.97.0.0/16
+https://155.97.252.236,OPENSSL,155.97.0.0/16
+https://155.97.253.4,OPENSSL,155.97.0.0/16
+https://155.97.253.5,OPENSSL,155.97.0.0/16
+https://155.97.253.12,OPENSSL,155.97.0.0/16
+https://155.97.253.20,OPENSSL,155.97.0.0/16
+https://155.97.253.28,OPENSSL,155.97.0.0/16
+https://155.97.253.36,OPENSSL,155.97.0.0/16
+https://155.97.253.44,OPENSSL,155.97.0.0/16
+https://155.97.253.92,OPENSSL,155.97.0.0/16
+https://155.97.253.124,OPENSSL,155.97.0.0/16
+https://155.97.253.132,OPENSSL,155.97.0.0/16
+https://155.97.253.140,OPENSSL,155.97.0.0/16
+https://155.97.253.148,OPENSSL,155.97.0.0/16
+https://155.97.253.180,OPENSSL,155.97.0.0/16
+https://155.97.253.188,OPENSSL,155.97.0.0/16
+https://155.97.253.229,OPENSSL,155.97.0.0/16
+https://155.97.253.236,OPENSSL,155.97.0.0/16
+https://155.97.254.4,OPENSSL,155.97.0.0/16
+https://155.97.254.20,IOS-Self-Signed-Certificate-102356352,155.97.0.0/16
+https://155.97.254.28,OPENSSL,155.97.0.0/16
+https://155.97.254.29,OPENSSL,155.97.0.0/16
+https://155.97.254.36,OPENSSL,155.97.0.0/16
+https://155.97.254.44,OPENSSL,155.97.0.0/16
+https://155.97.254.68,OPENSSL,155.97.0.0/16
+https://155.97.254.76,OPENSSL,155.97.0.0/16
+https://155.97.254.84,OPENSSL,155.97.0.0/16
+https://155.97.254.100,OPENSSL,155.97.0.0/16
+https://155.97.254.108,OPENSSL,155.97.0.0/16
+https://155.97.254.109,OPENSSL,155.97.0.0/16
+https://155.97.254.116,OPENSSL,155.97.0.0/16
+https://155.97.254.133,OPENSSL,155.97.0.0/16
+https://155.97.254.141,OPENSSL,155.97.0.0/16
+https://155.97.254.157,OPENSSL,155.97.0.0/16
+https://155.97.254.164,OPENSSL,155.97.0.0/16
+https://155.97.254.172,OPENSSL,155.97.0.0/16
+https://155.97.254.180,OPENSSL,155.97.0.0/16
+https://155.97.254.188,OPENSSL,155.97.0.0/16
+https://155.97.254.196,OPENSSL,155.97.0.0/16
+https://155.97.254.204,OPENSSL,155.97.0.0/16
+https://155.97.254.212,OPENSSL,155.97.0.0/16
+https://155.97.254.220,OPENSSL,155.97.0.0/16
+https://155.97.254.228,OPENSSL,155.97.0.0/16
+https://155.97.254.236,OPENSSL,155.97.0.0/16
+https://128.110.74.254,OPENSSL,128.110.0.0/16
+https://128.110.77.142,OPENSSL,128.110.0.0/16
+https://128.110.96.170,apt170.apt.emulab.net,128.110.0.0/16
+https://128.110.100.4,www.apt.emulab.net,128.110.0.0/16
+https://128.110.100.34,ops.apt.emulab.net,128.110.0.0/16
+https://128.110.153.254,dbox,128.110.0.0/16
+https://128.110.156.4,www.utah.cloudlab.us,128.110.0.0/16
+https://128.110.156.34,ops.utah.cloudlab.us,128.110.0.0/16
+https://128.110.166.31,*.iobio.io,128.110.0.0/16
+http://128.110.176.28,,128.110.0.0/16
+https://128.110.177.142,rebwar.us,128.110.0.0/16
+https://128.110.177.143,OPENSSL,128.110.0.0/16
+https://128.110.177.144,OPENSSL,128.110.0.0/16
+https://128.110.177.145,uucon.org,128.110.0.0/16
+https://128.110.178.12,*.finearts.utah.edu,128.110.0.0/16
+https://128.110.178.13,grads.art.utah.edu,128.110.0.0/16
+https://128.110.178.31,*.finearts.utah.edu,128.110.0.0/16
+https://128.110.178.135,128.110.178.135,128.110.0.0/16
+https://128.110.178.139,128.110.178.135,128.110.0.0/16
+https://128.110.178.145,128.110.178.135,128.110.0.0/16
+https://128.110.179.138,localhost.localdomain,128.110.0.0/16
+https://128.110.179.151,bus-dcesx01.business.utah.edu,128.110.0.0/16
+https://128.110.179.153,bus-dcesx02.business.utah.edu,128.110.0.0/16
+https://128.110.179.154,bus-dcesx01.business.utah.edu,128.110.0.0/16
+https://128.110.179.155,bus-dcesx02.business.utah.edu,128.110.0.0/16
+https://128.110.179.159,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.160,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.161,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.171,Recovery-926S,128.110.0.0/16
+https://128.110.179.172,Recovery-926S,128.110.0.0/16
+https://128.110.179.182,*.business.utah.edu,128.110.0.0/16
+https://128.110.179.230,tickets.pioneertheatre.org,128.110.0.0/16
+https://128.110.179.236,continue.utah.edu,128.110.0.0/16
+https://128.110.184.8,Avocent Mergepoint Unity,128.110.0.0/16
+https://128.110.184.9,Avocent Mergepoint Unity,128.110.0.0/16
+https://128.110.184.21,*.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.22,*.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.23,*.sandbox.lib.utah.edu,128.110.0.0/16
+https://128.110.184.24,OPENSSL,128.110.0.0/16
+https://128.110.184.37,chat.lib.utah.edu,128.110.0.0/16
+https://128.110.184.42,*.ezproxy.lib.utah.edu,128.110.0.0/16
+https://128.110.184.45,apple.lib.utah.edu,128.110.0.0/16
+https://128.110.184.46,simp.lib.utah.edu,128.110.0.0/16
+https://128.110.184.51,digarch.lib.utah.edu,128.110.0.0/16
+https://128.110.184.54,stats.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.56,brussels.lib.utah.edu,128.110.0.0/16
+https://128.110.184.59,conference.tools.lib.utah.edu,128.110.0.0/16
+https://128.110.184.60,cloudstorage.lib.utah.edu,128.110.0.0/16
+https://128.110.184.61,gitlab.lib.utah.edu,128.110.0.0/16
+https://128.110.184.63,staging.lib.utah.edu,128.110.0.0/16
+https://128.110.184.66,did-wiki.lib.utah.edu,128.110.0.0/16
+https://128.110.184.70,collections.lib.utah.edu,128.110.0.0/16
+https://128.110.184.71,newspapers.lib.utah.edu,128.110.0.0/16
+https://128.110.184.84,hydra2.lib.utah.edu,128.110.0.0/16
+https://128.110.184.86,OPENSSL,128.110.0.0/16
+https://128.110.184.87,viewer.lib.utah.edu,128.110.0.0/16
+https://128.110.184.95,IPMI,128.110.0.0/16
+https://128.110.184.99,idrac-,128.110.0.0/16
+https://128.110.184.100,VMware default certificate,128.110.0.0/16
+https://128.110.184.103,sv-vmkm1.lib.utah.edu,128.110.0.0/16
+https://128.110.184.107,sv-vmkm2.lib.utah.edu,128.110.0.0/16
+https://128.110.184.109,localhost.localdomain,128.110.0.0/16
+https://128.110.184.110,localhost,128.110.0.0/16
+https://128.110.184.111,localhost,128.110.0.0/16
+https://128.110.184.112,localhost,128.110.0.0/16
+https://128.110.184.113,localhost,128.110.0.0/16
+https://128.110.184.114,localhost,128.110.0.0/16
+https://128.110.184.115,localhost,128.110.0.0/16
+https://128.110.184.116,localhost,128.110.0.0/16
+https://128.110.184.117,localhost,128.110.0.0/16
+https://128.110.184.118,localhost,128.110.0.0/16
+https://128.110.184.119,localhost,128.110.0.0/16
+https://128.110.184.120,localhost,128.110.0.0/16
+https://128.110.184.121,localhost,128.110.0.0/16
+https://128.110.184.122,localhost,128.110.0.0/16
+https://128.110.184.123,localhost,128.110.0.0/16
+https://128.110.184.124,localhost,128.110.0.0/16
+https://128.110.184.125,localhost,128.110.0.0/16
+https://128.110.184.126,localhost,128.110.0.0/16
+https://128.110.184.133,wowza.scl.utah.edu,128.110.0.0/16
+https://128.110.184.134,keyreporter,128.110.0.0/16
+https://128.110.184.135,www.scl.utah.edu,128.110.0.0/16
+https://128.110.184.202,software2.scl.utah.edu,128.110.0.0/16
+https://128.110.184.203,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.204,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.205,Application Jukebox Server Secured Service,128.110.0.0/16
+https://128.110.184.206,Application Jukebox Server Secured Service,128.110.0.0/16
+https://155.98.0.69,OPENSSL,155.98.0.0/16
+https://155.98.0.71,OPENSSL,155.98.0.0/16
+https://155.98.0.73,OPENSSL,155.98.0.0/16
+https://155.98.0.84,OPENSSL,155.98.0.0/16
+https://155.98.0.92,OPENSSL,155.98.0.0/16
+https://155.98.0.177,HP Jetdirect BB07812F,155.98.0.0/16
+https://155.98.2.21,OPENSSL,155.98.0.0/16
+https://155.98.2.67,OPENSSL,155.98.0.0/16
+https://155.98.2.68,OPENSSL,155.98.0.0/16
+https://155.98.2.138,OPENSSL,155.98.0.0/16
+http://155.98.6.250,,155.98.0.0/16
+https://155.98.6.253,southwestcarbonpartnership.org,155.98.0.0/16
+https://155.98.6.254,OPENSSL,155.98.0.0/16
+https://155.98.7.37,users.coe.utah.edu_Nuclear,155.98.0.0/16
+https://155.98.9.189,HP5EE4C5,155.98.0.0/16
+https://155.98.11.22,coral.nanofab.utah.edu,155.98.0.0/16
+https://155.98.12.58,NPI8007C6,155.98.0.0/16
+https://155.98.12.70,gator.coe.utah.edu,155.98.0.0/16
+https://155.98.12.71,swan.coe.utah.edu,155.98.0.0/16
+https://155.98.12.73,redschool.coe.utah.edu,155.98.0.0/16
+https://155.98.12.81,lnissrv3.users.coe.utah.edu,155.98.0.0/16
+https://155.98.12.83,acm.eng.utah.edu,155.98.0.0/16
+https://155.98.12.87,Bearded Merchant,155.98.0.0/16
+https://155.98.12.94,OPENSSL,155.98.0.0/16
+https://155.98.13.103,karma.eng.utah.edu,155.98.0.0/16
+https://155.98.13.104,eae-svn.eng.utah.edu,155.98.0.0/16
+https://155.98.13.105,gapp-git.eng.utah.edu,155.98.0.0/16
+https://155.98.13.106,eae.utah.edu,155.98.0.0/16
+https://155.98.13.108,eae-git.eng.utah.edu,155.98.0.0/16
+https://155.98.13.109,jose.eng.utah.edu,155.98.0.0/16
+https://155.98.13.110,blogs.eae.utah.edu,155.98.0.0/16
+https://155.98.13.111,gapp.eaemgs.utah.edu,155.98.0.0/16
+https://155.98.14.171,OPENSSL,155.98.0.0/16
+https://155.98.14.226,HP Jetdirect 1C6392A1,155.98.0.0/16
+https://155.98.15.59,Preset Certificate,155.98.0.0/16
+https://155.98.15.68,OPENSSL,155.98.0.0/16
+https://155.98.15.79,OPENSSL,155.98.0.0/16
+https://155.98.15.105,synology.com,155.98.0.0/16
+https://155.98.15.114,Preset Certificate,155.98.0.0/16
+https://155.98.16.13,internal-tools.sci.utah.edu,155.98.0.0/16
+https://155.98.16.15,internal.sci.utah.edu,155.98.0.0/16
+https://155.98.16.16,uces.sci.utah.edu,155.98.0.0/16
+http://155.98.16.17,,155.98.0.0/16
+https://155.98.16.18,facilitiesci.org,155.98.0.0/16
+https://155.98.16.35,mrlforums.sci.utah.edu,155.98.0.0/16
+https://155.98.16.38,cedmav.sci.utah.edu,155.98.0.0/16
+https://155.98.16.40,scilit.sci.utah.edu,155.98.0.0/16
+https://155.98.16.42,cde3m.sci.utah.edu,155.98.0.0/16
+https://155.98.16.50,cde3m-internal.sci.utah.edu,155.98.0.0/16
+https://155.98.16.52,www.sci.utah.edu,155.98.0.0/16
+https://155.98.16.57,ccmsc.sci.utah.edu,155.98.0.0/16
+https://155.98.16.90,OPENSSL,155.98.0.0/16
+https://155.98.16.91,OPENSSL,155.98.0.0/16
+https://155.98.16.201,barracuda.barracudanetworks.com,155.98.0.0/16
+https://155.98.19.32,OPENSSL,155.98.0.0/16
+https://155.98.19.113,bernzinps.sci.utah.edu,155.98.0.0/16
+https://155.98.19.131,synology.com,155.98.0.0/16
+https://155.98.19.213,AMI,155.98.0.0/16
+https://155.98.20.93,HP Jetdirect A76D643B,155.98.0.0/16
+https://155.98.20.189,Canon iR-ADV,155.98.0.0/16
+https://155.98.20.193,OPENSSL,155.98.0.0/16
+https://155.98.20.221,IPMI,155.98.0.0/16
+https://155.98.20.229,OPENSSL,155.98.0.0/16
+https://155.98.20.235,vpn.sci.utah.edu,155.98.0.0/16
+https://155.98.21.185,OPENSSL,155.98.0.0/16
+https://155.98.21.190,OPENSSL,155.98.0.0/16
+https://155.98.22.10,*,155.98.0.0/16
+https://155.98.22.100,cerebro.sci.utah.edu,155.98.0.0/16
+https://155.98.22.140,dhcp217.sci.utah.edu,155.98.0.0/16
+https://155.98.24.28,OPENSSL,155.98.0.0/16
+http://155.98.24.52,,155.98.0.0/16
+https://155.98.25.9,NPI2359A6,155.98.0.0/16
+https://155.98.25.16,Preset Certificate,155.98.0.0/16
+https://155.98.25.43,OPENSSL,155.98.0.0/16
+https://155.98.25.46,Preset Certificate,155.98.0.0/16
+https://155.98.25.55,Preset Certificate,155.98.0.0/16
+https://155.98.25.78,OPENSSL,155.98.0.0/16
+https://155.98.26.30,photonics.ece.utah.edu,155.98.0.0/16
+https://155.98.26.189,debian_lenny,155.98.0.0/16
+https://155.98.26.211,NPI780726,155.98.0.0/16
+https://155.98.26.212,192.168.0.2,155.98.0.0/16
+https://155.98.26.215,Canon Imaging Product,155.98.0.0/16
+https://155.98.26.218,Canon iR-ADV,155.98.0.0/16
+https://155.98.26.233,Preset Certificate,155.98.0.0/16
+https://155.98.26.242,NPI000A12,155.98.0.0/16
+https://155.98.27.18,air.ece.utah.edu,155.98.0.0/16
+https://155.98.27.38,155.98.27.38,155.98.0.0/16
+https://155.98.27.50,Preset Certificate,155.98.0.0/16
+https://155.98.27.141,www.dlink.com,155.98.0.0/16
+http://155.98.27.174,,155.98.0.0/16
+https://155.98.27.206,NPI93142A,155.98.0.0/16
+https://155.98.27.211,ching.ece.utah.edu,155.98.0.0/16
+http://155.98.27.212,,155.98.0.0/16
+https://155.98.32.60,www.emulab.net,155.98.0.0/16
+https://155.98.32.70,www.emulab.net,155.98.0.0/16
+https://155.98.33.74,users.emulab.net,155.98.0.0/16
+https://155.98.34.3,OPENSSL,155.98.0.0/16
+https://155.98.34.4,boss.utah.geniracks.net,155.98.0.0/16
+https://155.98.34.5,ops.utah.geniracks.net,155.98.0.0/16
+https://155.98.34.21,OPENSSL,155.98.0.0/16
+https://155.98.34.22,OPENSSL,155.98.0.0/16
+https://155.98.34.23,OPENSSL,155.98.0.0/16
+https://155.98.34.25,OPENSSL,155.98.0.0/16
+https://155.98.38.28,OPENSSL,155.98.0.0/16
+http://155.98.38.87,,155.98.0.0/16
+https://155.98.38.237,iDRAC7 default certificate,155.98.0.0/16
+https://155.98.38.241,myboss.mikelab-vm.emulab-ops.emulab.net,155.98.0.0/16
+https://155.98.38.243,myops.mikelab-vm.emulab-ops.emulab.net,155.98.0.0/16
+https://155.98.39.6,myboss.leelab.testbed.emulab.net,155.98.0.0/16
+https://155.98.39.10,myops.leelab.testbed.emulab.net,155.98.0.0/16
+https://155.98.50.76,system76,155.98.0.0/16
+https://155.98.50.132,beaker.seis.utah.edu,155.98.0.0/16
+https://155.98.56.15,www.bioen.utah.edu,155.98.0.0/16
+https://155.98.56.18,*.bioen.utah.edu,155.98.0.0/16
+https://155.98.56.20,OPENSSL,155.98.0.0/16
+https://155.98.56.22,NPIAD4C06,155.98.0.0/16
+https://155.98.56.27,SHARP MX-M503N,155.98.0.0/16
+https://155.98.56.31,NPIC121EA,155.98.0.0/16
+https://155.98.57.6,*.bioen.utah.edu,155.98.0.0/16
+https://155.98.57.168,OPENSSL,155.98.0.0/16
+https://155.98.58.13,lists1.sci.utah.edu,155.98.0.0/16
+https://155.98.58.23,support1.sci.utah.edu,155.98.0.0/16
+https://155.98.58.28,*,155.98.0.0/16
+https://155.98.58.31,None,155.98.0.0/16
+https://155.98.58.46,OPENSSL,155.98.0.0/16
+https://155.98.58.55,lists1.sci.utah.edu,155.98.0.0/16
+https://155.98.58.58,gforge.sci.utah.edu,155.98.0.0/16
+https://155.98.58.75,mail.sci.utah.edu,155.98.0.0/16
+https://155.98.58.76,Barracuda/emailAddress=sales@barracuda.com,155.98.0.0/16
+https://155.98.58.106,localhost,155.98.0.0/16
+https://155.98.58.107,localhost,155.98.0.0/16
+https://155.98.58.108,localhost,155.98.0.0/16
+https://155.98.58.109,localhost,155.98.0.0/16
+https://155.98.58.110,localhost,155.98.0.0/16
+https://155.98.58.111,localhost,155.98.0.0/16
+https://155.98.58.112,localhost,155.98.0.0/16
+https://155.98.58.113,localhost,155.98.0.0/16
+https://155.98.58.114,localhost,155.98.0.0/16
+https://155.98.58.115,localhost,155.98.0.0/16
+https://155.98.58.116,localhost,155.98.0.0/16
+https://155.98.58.146,netbotz1.sci.utah.edu,155.98.0.0/16
+https://155.98.58.147,netbotz2.sci.utah.edu,155.98.0.0/16
+https://155.98.58.148,netbotz3.sci.utah.edu,155.98.0.0/16
+https://155.98.58.149,netbotz2-3.sci.utah.edu,155.98.0.0/16
+https://155.98.58.245,jenkins.sci.utah.edu,155.98.0.0/16
+https://155.98.59.10,localhost,155.98.0.0/16
+https://155.98.59.12,localhost,155.98.0.0/16
+https://155.98.59.21,localhost.localdomain,155.98.0.0/16
+https://155.98.59.60,AMI,155.98.0.0/16
+https://155.98.60.16,gitlab.flux.utah.edu,155.98.0.0/16
+https://155.98.60.18,cisco22,155.98.0.0/16
+https://155.98.60.21,gitlab.flux.utah.edu,155.98.0.0/16
+https://155.98.60.208,git-public.flux.utah.edu,155.98.0.0/16
+https://155.98.63.201,www.flux.utah.edu,155.98.0.0/16
+https://155.98.64.220,*.cs.utah.edu,155.98.0.0/16
+https://155.98.64.249,*.cs.utah.edu,155.98.0.0/16
+https://155.98.64.250,*.cs.utah.edu,155.98.0.0/16
+https://155.98.65.24,*.cs.utah.edu,155.98.0.0/16
+https://155.98.65.60,*.cs.utah.edu,155.98.0.0/16
+https://155.98.65.61,*.cs.utah.edu,155.98.0.0/16
+https://155.98.66.94,gradtrack.cs.utah.edu,155.98.0.0/16
+https://155.98.66.152,gradadmit.cs.utah.edu,155.98.0.0/16
+https://155.98.68.200,*,155.98.0.0/16
+https://155.98.68.217,Gauss Group,155.98.0.0/16
+http://155.98.68.247,,155.98.0.0/16
+https://155.98.80.130,HP Jetdirect 99862316,155.98.0.0/16
+https://155.98.80.131,Preset Certificate,155.98.0.0/16
+https://155.98.80.132,HP Jetdirect 99854DEC,155.98.0.0/16
+https://155.98.80.133,Canon Imaging Product,155.98.0.0/16
+https://155.98.80.134,Preset Certificate,155.98.0.0/16
+https://155.98.80.136,HP LaserJet 600 M601 [30813B],155.98.0.0/16
+https://155.98.80.208,0040580F9DD7,155.98.0.0/16
+https://155.98.81.61,Preset Certificate,155.98.0.0/16
+http://155.98.89.148,,155.98.0.0/16
+https://155.98.92.12,HP Jetdirect EFFEECBC,155.98.0.0/16
+https://155.98.92.13,Preset Certificate,155.98.0.0/16
+https://155.98.92.33,OPENSSL,155.98.0.0/16
+https://155.98.92.138,NPI000397,155.98.0.0/16
+https://155.98.92.199,HP77B3D4,155.98.0.0/16
+https://155.98.92.251,HP Jetdirect 3884A3C7,155.98.0.0/16
+https://155.98.92.252,SHARP MX-4110N,155.98.0.0/16
+https://155.98.93.5,155.98.93.5,155.98.0.0/16
+https://155.98.93.101,OPENSSL,155.98.0.0/16
+https://155.98.94.193,*.cs.utah.edu,155.98.0.0/16
+https://155.98.94.225,*.cs.utah.edu,155.98.0.0/16
+https://155.98.108.10,OPENSSL,155.98.0.0/16
+https://155.98.108.68,phineas.eng.utah.edu,155.98.0.0/16
+https://155.98.108.69,FERB.eng.utah.edu,155.98.0.0/16
+https://155.98.108.253,OPENSSL,155.98.0.0/16
+https://155.98.109.113,usel.ece.utah.edu,155.98.0.0/16
+https://155.98.110.5,salt.eng.utah.edu,155.98.0.0/16
+https://155.98.110.7,sympa.eng.utah.edu,155.98.0.0/16
+https://155.98.110.12,web.eng.utah.edu,155.98.0.0/16
+https://155.98.110.14,nedi.eng.utah.edu,155.98.0.0/16
+https://155.98.110.18,ieee.utahclubs.org,155.98.0.0/16
+https://155.98.110.20,www.nanofab.utah.edu,155.98.0.0/16
+https://155.98.110.22,OPENSSL,155.98.0.0/16
+https://155.98.110.30,www.cade.utah.edu,155.98.0.0/16
+https://155.98.110.32,ministry.eng.utah.edu,155.98.0.0/16
+https://155.98.110.33,yaz.eng.utah.edu,155.98.0.0/16
+https://155.98.110.34,learning2.eng.utah.edu,155.98.0.0/16
+https://155.98.110.41,OPENSSL,155.98.0.0/16
+https://155.98.110.42,155.98.110.42,155.98.0.0/16
+https://155.98.110.57,coecon.eng.utah.edu,155.98.0.0/16
+https://155.98.110.59,coesec.eng.utah.edu,155.98.0.0/16
+https://155.98.110.64,OPENSSL,155.98.0.0/16
+https://155.98.110.67,OPENSSL,155.98.0.0/16
+https://155.98.110.68,155.98.110.68,155.98.0.0/16
+https://155.98.110.69,OPENSSL,155.98.0.0/16
+https://155.98.110.70,OPENSSL,155.98.0.0/16
+https://155.98.110.104,www.learning.eng.utah.edu,155.98.0.0/16
+https://155.98.110.106,www.fluids.mech.utah.edu,155.98.0.0/16
+https://155.98.110.113,bowie.eng.utah.edu,155.98.0.0/16
+https://155.98.110.116,webmail.eng.utah.edu,155.98.0.0/16
+https://155.98.110.120,webhandin.eng.utah.edu,155.98.0.0/16
+https://155.98.110.126,OPENSSL,155.98.0.0/16
+https://155.98.110.182,OPENSSL,155.98.0.0/16
+https://155.98.110.184,OPENSSL,155.98.0.0/16
+https://155.98.110.185,OPENSSL,155.98.0.0/16
+https://155.98.110.186,OPENSSL,155.98.0.0/16
+https://155.98.110.187,OPENSSL,155.98.0.0/16
+https://155.98.110.188,OPENSSL,155.98.0.0/16
+https://155.98.110.215,k2-0.eng.utah.edu,155.98.0.0/16
+https://155.98.110.217,k2-1.eng.utah.edu,155.98.0.0/16
+https://155.98.110.219,k2-2.eng.utah.edu,155.98.0.0/16
+https://155.98.110.220,OPENSSL,155.98.0.0/16
+https://155.98.110.221,k2-3.eng.utah.edu,155.98.0.0/16
+https://155.98.110.222,OPENSSL,155.98.0.0/16
+https://155.98.110.226,OPENSSL,155.98.0.0/16
+https://155.98.110.230,OPENSSL,155.98.0.0/16
+https://155.98.110.231,fitz.eng.utah.edu,155.98.0.0/16
+https://155.98.111.10,icgrf.utah.edu,155.98.0.0/16
+https://155.98.111.23,lnissrv1,155.98.0.0/16
+https://155.98.111.48,maroon.eng.utah.edu,155.98.0.0/16
+https://155.98.111.93,icgrf.utah.edu,155.98.0.0/16
+https://155.98.111.153,docker.nanofab.utah.edu,155.98.0.0/16
+https://155.98.111.154,OPENSSL,155.98.0.0/16
+https://155.98.111.155,*.nanofab.utah.edu,155.98.0.0/16
+https://155.98.111.157,coral-web.eng.utah.edu,155.98.0.0/16
+https://155.98.111.165,OPENSSL,155.98.0.0/16
+https://155.98.111.180,helmet.eng.utah.edu,155.98.0.0/16
+https://155.98.111.196,lwp.eng.utah.edu,155.98.0.0/16
+https://155.98.111.250,OPENSSL,155.98.0.0/16
+https://155.98.111.251,OPENSSL,155.98.0.0/16
+https://155.98.114.86,HP Jetdirect DE110353,155.98.0.0/16
+https://155.98.114.96,ring-server.chemeng.utah.edu,155.98.0.0/16
+https://155.98.114.201,OPENSSL,155.98.0.0/16
+https://155.98.114.221,Preset Certificate,155.98.0.0/16
+https://155.98.114.223,OPENSSL,155.98.0.0/16
+https://155.98.115.133,icinga.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.134,rizzo.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.135,OPENSSL,155.98.0.0/16
+https://155.98.115.150,mrwhite.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.155,ekos.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.157,OPENSSL,155.98.0.0/16
+https://155.98.115.158,OPENSSL,155.98.0.0/16
+https://155.98.115.161,AVG.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.165,license-e.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.167,connect.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.172,hardo.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.174,heisenberg.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.175,colbert.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.176,stark.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.177,chev.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.178,chelios.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.184,cutty.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.185,gru.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.194,UofU-MEB3291-CO1,155.98.0.0/16
+https://155.98.115.195,AWiND,155.98.0.0/16
+http://155.98.115.197,,155.98.0.0/16
+https://155.98.115.232,mrrobot.chemeng.utah.edu,155.98.0.0/16
+https://155.98.115.244,OPENSSL,155.98.0.0/16
+https://155.98.115.249,OPENSSL,155.98.0.0/16
+https://155.98.117.25,HP Jetdirect C183B531,155.98.0.0/16
+https://155.98.117.51,155.98.117.51,155.98.0.0/16
+https://155.98.123.55,AVIGILON-CAMERA-2.0C-H4SL-D1-101703293596,155.98.0.0/16
+https://155.98.124.44,OPENSSL,155.98.0.0/16
+https://155.98.124.45,OPENSSL,155.98.0.0/16
+https://155.98.124.46,OPENSSL,155.98.0.0/16
+http://155.98.124.53,,155.98.0.0/16
+https://155.98.124.70,OPENSSL,155.98.0.0/16
+http://155.98.124.109,,155.98.0.0/16
+https://155.98.124.120,OPENSSL,155.98.0.0/16
+http://155.98.128.102,,155.98.0.0/16
+https://155.98.162.38,Canon iR-ADV,155.98.0.0/16
+https://155.98.162.44,Canon iR-ADV,155.98.0.0/16
+https://155.98.163.198,Cisco,155.98.0.0/16
+https://155.98.163.199,UofU-ST-GEORGE-OFF-107-B,155.98.0.0/16
+https://155.98.163.200,UofU-ST-GEORGE-101,155.98.0.0/16
+https://155.98.163.203,UofU-ST-GEORGE-102,155.98.0.0/16
+https://155.98.163.206,UofU-ST-GEORGE-103,155.98.0.0/16
+https://155.98.163.209,UofU-ST-GEORGE-104,155.98.0.0/16
+https://155.98.163.212,UofU-ST-GEORGE-105,155.98.0.0/16
+https://155.98.163.215,tandberg,155.98.0.0/16
+https://155.98.163.217,tandberg,155.98.0.0/16
+https://155.98.163.218,Cisco,155.98.0.0/16
+https://155.98.163.219,UofU-ST-GEORGE-206-CONF,155.98.0.0/16
+https://155.98.163.226,Cisco,155.98.0.0/16
+https://155.98.163.242,UofU-Bount101-C40,155.98.0.0/16
+https://155.98.175.84,vpnaccess.utah.edu,155.98.0.0/16
+https://155.98.175.85,vpnaccess.utah.edu,155.98.0.0/16
+https://155.98.175.100,vpn-noc.net.utah.edu,155.98.0.0/16
+https://155.98.175.101,vpn-noc.net.utah.edu,155.98.0.0/16
+https://155.98.179.16,komasvst.cdom.utah.edu,155.98.0.0/16
+https://155.98.179.17,192.11.13.6,155.98.0.0/16
+https://155.98.179.18,MV_IPTel,155.98.0.0/16
+http://155.98.179.20,,155.98.0.0/16
+https://155.98.192.36,NPI166B5B,155.98.0.0/16
+https://155.98.192.169,IPMI,155.98.0.0/16
+https://155.98.192.171,IPMI,155.98.0.0/16
+https://155.98.192.173,IPMI,155.98.0.0/16
+https://155.98.192.231,UofU-CON-2300,155.98.0.0/16
+https://155.98.192.232,UofU-CON-2120,155.98.0.0/16
+https://155.98.192.233,UofU-CON-2505,155.98.0.0/16
+https://155.98.192.234,UofU-CON-2510,155.98.0.0/16
+https://155.98.192.235,UofU-CON-3610,155.98.0.0/16
+https://155.98.192.250,*.uucon.org,155.98.0.0/16
+https://155.98.194.71,HP Jetdirect B3EB43E3,155.98.0.0/16
+https://155.98.194.101,HP Jetdirect 78EA5188,155.98.0.0/16
+https://155.98.194.105,Canon iR-ADV,155.98.0.0/16
+https://155.98.196.6,SHARP MX-6240N,155.98.0.0/16
+https://155.98.196.9,OPENSSL,155.98.0.0/16
+https://155.98.196.12,SHARP MX-B402SC,155.98.0.0/16
+https://155.98.196.16,localhost,155.98.0.0/16
+https://155.98.196.94,Preset Certificate,155.98.0.0/16
+https://155.98.196.117,HP Jetdirect A769E286,155.98.0.0/16
+https://155.98.196.135,HP Jetdirect A769E21F,155.98.0.0/16
+https://155.98.196.145,SHARP MX-5141N,155.98.0.0/16
+https://155.98.196.170,OPENSSL,155.98.0.0/16
+https://155.98.196.220,HP Jetdirect A04BB28A,155.98.0.0/16
+https://155.98.196.231,HP Jetdirect A04BB29F,155.98.0.0/16
+https://155.98.196.236,HP Jetdirect A76E197A,155.98.0.0/16
+https://155.98.197.11,WiModID01-00-11-3F-EF-13-D0,155.98.0.0/16
+https://155.98.197.38,Cisco,155.98.0.0/16
+https://155.98.200.70,localhost.localdomain,155.98.0.0/16
+https://155.98.200.78,localhost.localdomain,155.98.0.0/16
+https://155.98.200.83,localhost.localdomain,155.98.0.0/16
+https://155.98.200.84,localhost.localdomain,155.98.0.0/16
+https://155.98.200.85,155.98.200.85,155.98.0.0/16
+https://155.98.200.86,155.98.200.86,155.98.0.0/16
+https://155.98.200.91,localhost.localdomain,155.98.0.0/16
+https://155.98.200.92,localhost.localdomain,155.98.0.0/16
+https://155.98.200.100,VMware default certificate,155.98.0.0/16
+https://155.98.200.106,OPENSSL,155.98.0.0/16
+https://155.98.200.141,trails.nhmu.org,155.98.0.0/16
+https://155.98.200.142,ocsinventory.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.145,webmail.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.146,lists.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.152,rt.umnh.utah.edu,155.98.0.0/16
+http://155.98.200.155,,155.98.0.0/16
+https://155.98.200.156,apps.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.157,iutah.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.158,status.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.160,print.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.161,pests.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.163,sales.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.164,egr.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.168,rews.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.170,VMware default certificate,155.98.0.0/16
+https://155.98.200.173,imu-pub.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.174,cfm.umnh.utah.edu,155.98.0.0/16
+https://155.98.200.177,ec.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.179,plants.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.185,emu.nhmu.utah.edu,155.98.0.0/16
+https://155.98.200.186,sapphire.nhmu.utah.edu,155.98.0.0/16
+https://155.98.202.5,NPIF7A4A1,155.98.0.0/16
+https://155.98.202.6,NPICD8408,155.98.0.0/16
+https://155.98.202.134,SHARP MX-5141N,155.98.0.0/16
+https://155.98.202.135,SHARP MX-5141N,155.98.0.0/16
+https://155.98.202.144,synology.com,155.98.0.0/16
+https://155.98.203.9,NPI9F51AF,155.98.0.0/16
+https://155.98.203.14,HP Jetdirect 641B3D2F,155.98.0.0/16
+https://155.98.203.15,HP Jetdirect 641B4DBA,155.98.0.0/16
+https://155.98.203.17,HP Jetdirect DECC068D,155.98.0.0/16
+https://155.98.203.75,NPI38BE6D.campus.utah.edu,155.98.0.0/16
+https://155.98.203.102,OPENSSL,155.98.0.0/16
+https://155.98.203.174,Preset Certificate,155.98.0.0/16
+https://155.98.203.227,NPI80F8E6,155.98.0.0/16
+https://155.98.204.38,onboard.utah.edu,155.98.0.0/16
+https://155.98.204.81,MORPHOACCESS,155.98.0.0/16
+https://155.98.204.101,NiagaraAX,155.98.0.0/16
+https://155.98.208.106,AWiND,155.98.0.0/16
+https://155.98.210.42,t-mb1,155.98.0.0/16
+https://155.98.210.43,t-mb2,155.98.0.0/16
+https://155.98.210.55,t-hub2,155.98.0.0/16
+https://155.98.210.56,t-hub1,155.98.0.0/16
+https://155.98.210.123,smtp.utah.edu,155.98.0.0/16
+https://155.98.210.124,smtp.utah.edu,155.98.0.0/16
+https://155.98.210.205,OPENSSL,155.98.0.0/16
+https://155.98.210.206,OPENSSL,155.98.0.0/16
+https://155.98.210.251,OPENSSL,155.98.0.0/16
+https://155.98.210.252,OPENSSL,155.98.0.0/16
+https://155.98.212.7,FA-VCENTER.subx.testx.utah.edu,155.98.0.0/16
+https://155.98.212.11,155.98.212.13,155.98.0.0/16
+https://155.98.212.12,155.98.212.13,155.98.0.0/16
+https://155.98.212.13,155.98.212.13,155.98.0.0/16
+https://155.98.212.30,default,155.98.0.0/16
+https://155.98.213.19,nhmu-ts2.nhmu.utah.edu,155.98.0.0/16
+https://155.98.213.21,0040580db0ae,155.98.0.0/16
+https://155.98.213.25,004058102052,155.98.0.0/16
+https://155.98.213.178,OPENSSL,155.98.0.0/16
+https://155.98.217.50,SHARP MX-M365N,155.98.0.0/16
+https://155.98.217.52,QNAP NAS,155.98.0.0/16
+https://155.98.217.84,OPENSSL,155.98.0.0/16
+https://155.98.217.117,155.98.217.117,155.98.0.0/16
+http://155.98.217.219,,155.98.0.0/16
+https://155.98.218.14,develop,155.98.0.0/16
+https://155.98.218.15,develop,155.98.0.0/16
+https://155.98.218.18,develop,155.98.0.0/16
+https://155.98.218.23,develop,155.98.0.0/16
+https://155.98.218.29,develop,155.98.0.0/16
+https://155.98.219.138,OPENSSL,155.98.0.0/16
+https://155.98.219.140,NPI0F6947.campusrec.utah.edu,155.98.0.0/16
+https://155.98.219.141,OPENSSL,155.98.0.0/16
+https://155.98.219.147,NPI40B5D0,155.98.0.0/16
+https://155.98.219.193,00405805EAFF,155.98.0.0/16
+https://155.98.221.34,OPENSSL,155.98.0.0/16
+https://155.98.221.41,HP Jetdirect D4616E08,155.98.0.0/16
+https://155.98.221.45,NPI25BA37,155.98.0.0/16
+https://155.98.221.46,OPENSSL,155.98.0.0/16
+https://155.98.221.48,NPI4C3C40,155.98.0.0/16
+https://155.98.221.49,HP Jetdirect 0B12E466,155.98.0.0/16
+https://155.98.221.50,Canon iR-ADV,155.98.0.0/16
+https://155.98.221.52,SHARP MX-M363N,155.98.0.0/16
+https://155.98.221.53,NPI33F51F.dfpm.utah.edu,155.98.0.0/16
+https://155.98.221.54,nyssa.dfpm.utah.edu,155.98.0.0/16
+https://155.98.221.55,HP Jetdirect 38DB84B2,155.98.0.0/16
+https://155.98.221.56,NPIA3C91C.dfpm.utah.edu,155.98.0.0/16
+https://155.98.221.57,HP LaserJet 600 M602 [62870F],155.98.0.0/16
+https://155.98.221.58,OPENSSL,155.98.0.0/16
+https://155.98.221.59,OPENSSL,155.98.0.0/16
+https://155.98.221.61,Canon iR-ADV,155.98.0.0/16
+https://155.98.221.62,SHARP MX-M623N,155.98.0.0/16
+https://155.98.221.170,IPLP,155.98.0.0/16
+https://155.98.221.171,AVDevice,155.98.0.0/16
+https://155.98.221.209,OPENSSL,155.98.0.0/16
+https://155.98.221.221,UofU-DPH-203,155.98.0.0/16
+https://155.98.221.222,OPENSSL,155.98.0.0/16
+https://155.98.222.45,Preset Certificate,155.98.0.0/16
+http://155.98.222.68,,155.98.0.0/16
+https://155.98.223.28,OPENSSL,155.98.0.0/16
+https://155.98.223.30,OPENSSL,155.98.0.0/16
+http://155.98.223.37,,155.98.0.0/16
+https://155.98.223.73,00405805E4A6,155.98.0.0/16
+https://155.98.224.154,OPENSSL,155.98.0.0/16
+https://155.98.225.32,NPI5E3C36.utah.edu,155.98.0.0/16
+https://155.98.225.33,OPENSSL,155.98.0.0/16
+https://155.98.225.40,NPI2177E6,155.98.0.0/16
+https://155.98.225.43,NPI3504C6,155.98.0.0/16
+https://155.98.225.122,OPENSSL,155.98.0.0/16
+https://155.98.225.138,Preset Certificate,155.98.0.0/16
+https://155.98.225.151,OPENSSL,155.98.0.0/16
+https://155.98.225.187,Canon iR-ADV,155.98.0.0/16
+https://155.98.225.198,Canon iR-ADV,155.98.0.0/16
+https://155.98.228.5,OPENSSL,155.98.0.0/16
+https://155.98.228.6,OPENSSL,155.98.0.0/16
+https://155.98.228.7,OPENSSL,155.98.0.0/16
+https://155.98.228.8,OPENSSL,155.98.0.0/16
+https://155.98.228.9,OPENSSL,155.98.0.0/16
+https://155.98.228.13,tx02.pharm.utah.edu,155.98.0.0/16
+https://155.98.228.20,OPENSSL,155.98.0.0/16
+https://155.98.228.35,SHARP MX-M363U,155.98.0.0/16
+https://155.98.228.49,synology.com,155.98.0.0/16
+https://155.98.228.192,0004F2D68956,155.98.0.0/16
+https://155.98.228.225,155.98.228.225,155.98.0.0/16
+https://155.98.228.240,NPI5FC8F5,155.98.0.0/16
+https://155.98.229.10,OPENSSL,155.98.0.0/16
+https://155.98.229.61,AWiND,155.98.0.0/16
+https://155.98.229.132,HPA6129E,155.98.0.0/16
+https://155.98.229.155,neurocan.campus.utah.edu,155.98.0.0/16
+https://155.98.229.206,OPENSSL,155.98.0.0/16
+https://155.98.229.226,OPENSSL,155.98.0.0/16
+https://155.98.230.97,SHARP MX-M565N,155.98.0.0/16
+https://155.98.230.98,SHARP MX-M565N,155.98.0.0/16
+https://155.98.230.100,SHARP MX-5141N,155.98.0.0/16
+https://155.98.231.38,NPIC8E6D3,155.98.0.0/16
+https://155.98.231.124,HP Jetdirect 6E96367F,155.98.0.0/16
+https://155.98.231.134,0004F258DA60,155.98.0.0/16
+https://155.98.231.142,NPIF7A481,155.98.0.0/16
+https://155.98.232.9,OPENSSL,155.98.0.0/16
+https://155.98.232.12,files.egi.utah.edu,155.98.0.0/16
+https://155.98.232.16,download.egi.utah.edu,155.98.0.0/16
+https://155.98.232.19,download.egi.utah.edu,155.98.0.0/16
+https://155.98.232.20,download.egi.utah.edu,155.98.0.0/16
+https://155.98.232.46,icords.egi.utah.edu,155.98.0.0/16
+https://155.98.232.51,egiweb.egi.slc,155.98.0.0/16
+https://155.98.232.60,authenticate.egi.utah.edu,155.98.0.0/16
+https://155.98.232.66,egiconnect.egi.utah.edu,155.98.0.0/16
+https://155.98.232.71,authenticateconnect.egi.utah.edu,155.98.0.0/16
+https://155.98.233.85,00405805ECF4,155.98.0.0/16
+https://155.98.234.10,egivpn.egi.utah.edu,155.98.0.0/16
+https://155.98.234.11,192.168.123.1,155.98.0.0/16
+https://155.98.235.206,macmini-3c0754524a61.local,155.98.0.0/16
+https://155.98.235.241,OPENSSL,155.98.0.0/16
+https://155.98.235.242,OPENSSL,155.98.0.0/16
+https://155.98.236.62,0040580737EB,155.98.0.0/16
+https://155.98.240.55,OPENSSL,155.98.0.0/16
+https://155.98.240.70,OPENSSL,155.98.0.0/16
+https://155.98.240.201,OPENSSL,155.98.0.0/16
+https://155.98.240.230,bsop-PC,155.98.0.0/16
+https://155.98.240.241,ADX1,155.98.0.0/16
+https://155.98.240.249,169.254.244.120,155.98.0.0/16
+https://155.98.242.142,HP Jetdirect 4B188B81,155.98.0.0/16
+https://155.98.242.150,HP Jetdirect 2FF68D85,155.98.0.0/16
+https://155.98.243.46,OPENSSL,155.98.0.0/16
+https://155.98.250.50,Preset Certificate,155.98.0.0/16
+https://155.98.250.54,AcquiSuite SN 001EC6053AB3 Self-Signed Certificate Generator,155.98.0.0/16
+https://155.98.250.73,OPENSSL,155.98.0.0/16
+https://155.98.250.76,ubnt,155.98.0.0/16
+https://155.99.0.38,OPENSSL,155.99.0.0/16
+https://155.99.8.157,OPENSSL,155.99.0.0/16
+https://155.99.11.170,OPENSSL,155.99.0.0/16
+https://155.99.12.29,OPENSSL,155.99.0.0/16
+https://155.99.30.16,localhost,155.99.0.0/16
+https://155.99.65.39,join.utn.org,155.99.0.0/16
+https://155.99.65.67,OPENSSL,155.99.0.0/16
+https://155.99.70.4,gvhpacs.gvhospital.org,155.99.0.0/16
+https://155.99.70.6,openvpnas2,155.99.0.0/16
+https://155.99.70.13,155.100.11.63,155.99.0.0/16
+https://155.99.70.14,cvmcpacs.com,155.99.0.0/16
+https://155.99.70.18,www.kchradiology.com,155.99.0.0/16
+https://155.99.70.45,owa.ubmc.org,155.99.0.0/16
+https://155.99.70.51,barracuda.ubmc.org,155.99.0.0/16
+https://155.99.70.69,softscript.kchrssd.com,155.99.0.0/16
+https://155.99.70.116,*.bmhutah.org,155.99.0.0/16
+https://155.99.70.135,*.unhsinc.org,155.99.0.0/16
+https://155.99.70.168,mail.utahradiology.com,155.99.0.0/16
+https://155.99.70.175,*.ubmc.org,155.99.0.0/16
+https://155.99.70.186,webmail.mrhmoab.org,155.99.0.0/16
+https://155.99.70.187,*.urpacs.com,155.99.0.0/16
+https://155.99.70.188,*.urpacs.com,155.99.0.0/16
+https://155.99.70.189,*.urpacs.com,155.99.0.0/16
+https://155.99.70.193,support.unhsinc.org,155.99.0.0/16
+https://155.99.70.199,*.bmhutah.org,155.99.0.0/16
+https://155.99.70.222,OPENSSL,155.99.0.0/16
+https://155.99.89.158,OPENSSL,155.99.0.0/16
+https://155.99.92.235,OPENSSL,155.99.0.0/16
+https://155.99.105.98,VMware,155.99.0.0/16
+https://155.99.109.112,OPENSSL,155.99.0.0/16
+https://155.99.131.80,fw-ebc-border.net.utah.edu,155.99.0.0/16
+https://155.99.131.81,localhost,155.99.0.0/16
+https://155.99.144.4,boss.utahddc.geniracks.net,155.99.0.0/16
+https://155.99.144.5,ops.utahddc.geniracks.net,155.99.0.0/16
+https://155.99.144.8,boss.stitch.geniracks.net,155.99.0.0/16
+https://155.99.144.44,www.emulab.net,155.99.0.0/16
+https://155.99.148.19,OPENSSL,155.99.0.0/16
+https://155.99.148.76,OPENSSL,155.99.0.0/16
+https://155.99.148.186,OPENSSL,155.99.0.0/16
+https://155.99.149.8,OPENSSL,155.99.0.0/16
+https://155.99.149.102,OPENSSL,155.99.0.0/16
+https://155.99.149.104,OPENSSL,155.99.0.0/16
+https://155.99.149.127,OPENSSL,155.99.0.0/16
+https://155.99.149.193,OPENSSL,155.99.0.0/16
+https://155.99.149.251,OPENSSL,155.99.0.0/16
+https://155.99.150.139,OPENSSL,155.99.0.0/16
+https://155.99.150.157,OPENSSL,155.99.0.0/16
+https://155.99.160.23,OPENSSL,155.99.0.0/16
+https://155.99.160.111,OPENSSL,155.99.0.0/16
+https://155.99.160.126,OPENSSL,155.99.0.0/16
+https://155.99.160.142,OPENSSL,155.99.0.0/16
+https://155.99.161.157,OPENSSL,155.99.0.0/16
+https://155.99.161.163,OPENSSL,155.99.0.0/16
+https://155.99.161.252,OPENSSL,155.99.0.0/16
+https://155.99.162.139,OPENSSL,155.99.0.0/16
+https://155.99.162.253,OPENSSL,155.99.0.0/16
+https://155.99.164.146,OPENSSL,155.99.0.0/16
+https://155.99.164.174,OPENSSL,155.99.0.0/16
+https://155.99.165.80,OPENSSL,155.99.0.0/16
+https://155.99.165.81,OPENSSL,155.99.0.0/16
+https://155.99.165.244,OPENSSL,155.99.0.0/16
+https://155.99.169.24,OPENSSL,155.99.0.0/16
+https://155.99.169.81,OPENSSL,155.99.0.0/16
+https://155.99.169.211,OPENSSL,155.99.0.0/16
+https://155.99.181.100,OPENSSL,155.99.0.0/16
+https://155.99.183.80,OPENSSL,155.99.0.0/16
+https://155.99.184.130,OPENSSL,155.99.0.0/16
+https://155.99.186.31,OPENSSL,155.99.0.0/16
+https://155.99.216.139,OPENSSL,155.99.0.0/16
+https://155.99.221.4,OPENSSL,155.99.0.0/16
+http://155.99.229.54,,155.99.0.0/16
+https://155.99.229.63,OPENSSL,155.99.0.0/16
+https://155.99.229.83,OPENSSL,155.99.0.0/16
+https://155.99.229.129,OPENSSL,155.99.0.0/16
+https://155.99.229.186,OPENSSL,155.99.0.0/16
+https://155.99.230.183,OPENSSL,155.99.0.0/16
+https://155.99.232.26,OPENSSL,155.99.0.0/16
+https://155.101.1.26,ASA Temporary Self Signed Certificate,155.101.0.0/16
+https://155.101.3.21,gitlab.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.34,humis.bmi.utah.edu,155.101.0.0/16
+https://155.101.3.36,webapps.bmi.utah.edu,155.101.0.0/16
+https://155.101.3.51,fisheye.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.52,OPENSSL,155.101.0.0/16
+https://155.101.3.60,latency.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.80,winkler.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.82,OPENSSL,155.101.0.0/16
+https://155.101.3.85,naghag.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.93,icarus.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.110,cemi-win.geophys.utah.edu,155.101.0.0/16
+https://155.101.3.111,xdmod.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.112,xdmod-test.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.141,nexus.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.142,OPENSSL,155.101.0.0/16
+https://155.101.3.157,wiki.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.163,jira.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.170,boss.astro.utah.edu,155.101.0.0/16
+https://155.101.3.175,www.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.176,www-test.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.177,www-dev.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.178,*.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.179,pbhig.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.180,www.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.190,OPENSSL,155.101.0.0/16
+https://155.101.3.194,svn.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.198,home.chpc.utah.edu,155.101.0.0/16
+https://155.101.3.214,OPENSSL,155.101.0.0/16
+https://155.101.3.220,VMware default certificate,155.101.0.0/16
+https://155.101.3.221,vm-esx-1.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.222,vm-esx-2.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.223,vm-esx-3.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.224,vm-esx-4.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.225,vm-esx-5.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.226,vm-esx-6.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.231,sandbox-esx-1.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.232,sandbox-esx-2.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.233,sandbox-esx-3.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.235,redundant-esx-1.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.236,redundant-esx-2.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.237,redundant-esx-3.inscc.utah.edu,155.101.0.0/16
+https://155.101.3.241,itce.utah.edu,155.101.0.0/16
+https://155.101.3.243,phenotyping.ccts.utah.edu,155.101.0.0/16
+https://155.101.3.247,OPENSSL,155.101.0.0/16
+https://155.101.4.250,localhost.localdomain,155.101.0.0/16
+https://155.101.4.252,localhost.localdomain,155.101.0.0/16
+https://155.101.6.35,www.utah.edu,155.101.0.0/16
+https://155.101.6.55,campwiki.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.56,campjira.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.79,simu.che.utah.edu,155.101.0.0/16
+https://155.101.6.85,virgo-demo.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.86,ciwckan.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.92,blulab.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.93,*.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.99,glyvis.chpc.utah.edu,155.101.0.0/16
+https://155.101.6.125,sutherlandvm.crsim.utah.edu,155.101.0.0/16
+https://155.101.6.126,software.crsim.utah.edu,155.101.0.0/16
+https://155.101.6.127,data.crsim.utah.edu,155.101.0.0/16
+https://155.101.6.130,bmi6115.bmi.utah.edu,155.101.0.0/16
+https://155.101.6.196,OPENSSL,155.101.0.0/16
+https://155.101.7.31,proxy-prisms.bmi.utah.edu,155.101.0.0/16
+https://155.101.7.34,*.brisc.utah.edu,155.101.0.0/16
+https://155.101.7.35,*.brisc.utah.edu,155.101.0.0/16
+https://155.101.7.40,*.brisc.utah.edu,155.101.0.0/16
+https://155.101.7.43,redcap.ccts.utah.edu,155.101.0.0/16
+https://155.101.7.44,*.brisc.utah.edu,155.101.0.0/16
+https://155.101.7.66,asthmatracker.utah.edu,155.101.0.0/16
+https://155.101.7.68,asthmatracker.utah.edu,155.101.0.0/16
+https://155.101.7.73,fulfillment.ccts.utah.edu,155.101.0.0/16
+https://155.101.7.92,sparc.ccts.utah.edu,155.101.0.0/16
+https://155.101.7.93,sparc-dev.ccts.utah.edu,155.101.0.0/16
+https://155.101.7.94,sparc-test.ccts.utah.edu,155.101.0.0/16
+https://155.101.7.96,hearingwell-dev.chpc.utah.edu,155.101.0.0/16
+https://155.101.7.130,dev-app.further.utah.edu,155.101.0.0/16
+https://155.101.8.37,AWiND,155.101.0.0/16
+https://155.101.8.38,AWiND,155.101.0.0/16
+https://155.101.8.39,AWiND,155.101.0.0/16
+https://155.101.10.25,OPENSSL,155.101.0.0/16
+https://155.101.10.27,hpofficejet,155.101.0.0/16
+https://155.101.11.34,*.chpc.utah.edu,155.101.0.0/16
+https://155.101.11.35,pando-rgw01.chpc.utah.edu,155.101.0.0/16
+https://155.101.15.37,OPENSSL,155.101.0.0/16
+https://155.101.15.57,iDRAC7 default certificate,155.101.0.0/16
+https://155.101.15.87,ugp.chpc.utah.edu,155.101.0.0/16
+https://155.101.15.91,uniphi.chpc.utah.edu,155.101.0.0/16
+https://155.101.15.103,air.utah.edu,155.101.0.0/16
+https://155.101.15.115,taxonomer.com,155.101.0.0/16
+https://155.101.15.116,taxonomer.com,155.101.0.0/16
+https://155.101.15.175,localhost.localdomain,155.101.0.0/16
+https://155.101.16.12,SHARP MX-3100N,155.101.0.0/16
+https://155.101.16.13,HP Jetdirect 5A7D438A,155.101.0.0/16
+https://155.101.16.166,sharptop,155.101.0.0/16
+https://155.101.16.176,HP Jetdirect 2914C12F,155.101.0.0/16
+https://155.101.18.46,HP Jetdirect 29235B19,155.101.0.0/16
+https://155.101.18.110,HP Jetdirect B85F6269,155.101.0.0/16
+https://155.101.18.129,OPENSSL,155.101.0.0/16
+http://155.101.18.204,,155.101.0.0/16
+https://155.101.19.20,OPENSSL,155.101.0.0/16
+https://155.101.19.21,internal.sdss.org,155.101.0.0/16
+https://155.101.19.22,trac.sdss.org,155.101.0.0/16
+https://155.101.19.23,svn.sdss.org,155.101.0.0/16
+https://155.101.19.24,mailman.sdss.org,155.101.0.0/16
+https://155.101.19.25,svn.sdss.org,155.101.0.0/16
+https://155.101.19.26,trac.sdss3.org,155.101.0.0/16
+https://155.101.19.27,svn.sdss3.org,155.101.0.0/16
+https://155.101.19.31,data.sdss.org,155.101.0.0/16
+https://155.101.19.32,sas.sdss.org,155.101.0.0/16
+https://155.101.19.34,api.sdss.org,155.101.0.0/16
+https://155.101.19.40,db.sdss.utah.edu,155.101.0.0/16
+https://155.101.19.41,photometry.sdss.utah.edu,155.101.0.0/16
+https://155.101.19.43,*.sdss.utah.edu,155.101.0.0/16
+https://155.101.19.44,OPENSSL,155.101.0.0/16
+https://155.101.19.45,desi.astro.utah.edu,155.101.0.0/16
+https://155.101.19.46,platedesign.sdss.utah.edu,155.101.0.0/16
+https://155.101.19.57,turbulence.utah.edu,155.101.0.0/16
+https://155.101.19.60,visoar.org,155.101.0.0/16
+https://155.101.19.61,clintmason.chpc.utah.edu,155.101.0.0/16
+https://155.101.19.66,mirth.chpc.utah.edu,155.101.0.0/16
+https://155.101.19.90,webapps.ccts.utah.edu,155.101.0.0/16
+https://155.101.20.30,OPENSSL,155.101.0.0/16
+https://155.101.20.36,HP Jetdirect FBE92A0D,155.101.0.0/16
+https://155.101.20.37,711hp.chpc.utah.edu,155.101.0.0/16
+http://155.101.20.98,,155.101.0.0/16
+https://155.101.20.99,HP Jetdirect 2BA00E32,155.101.0.0/16
+https://155.101.21.109,Canon Imaging Product,155.101.0.0/16
+https://155.101.23.21,SHARP MX-4110N,155.101.0.0/16
+https://155.101.23.22,OPENSSL,155.101.0.0/16
+https://155.101.23.126,OPENSSL,155.101.0.0/16
+https://155.101.23.143,OPENSSL,155.101.0.0/16
+https://155.101.23.190,OPENSSL,155.101.0.0/16
+https://155.101.26.102,scicolab.chpc.utah.edu,155.101.0.0/16
+https://155.101.26.124,ondemand.chpc.utah.edu,155.101.0.0/16
+https://155.101.26.180,wx-mysql.chpc.utah.edu,155.101.0.0/16
+https://155.101.26.190,trmm.chpc.utah.edu,155.101.0.0/16
+https://155.101.29.50,inlp.bmi.utah.edu,155.101.0.0/16
+https://155.101.29.59,*.bmi.utah.edu,155.101.0.0/16
+https://155.101.29.71,localhost.localdomain,155.101.0.0/16
+https://155.101.29.72,vtemp1.limbo.inscc.utah.edu,155.101.0.0/16
+https://155.101.29.73,monica.limbo.inscc.utah.edu,155.101.0.0/16
+https://155.101.29.74,vtemp3.limbo.inscc.utah.edu,155.101.0.0/16
+https://155.101.29.75,localhost.localdomain,155.101.0.0/16
+https://155.101.29.78,localhost.localdomain,155.101.0.0/16
+https://155.101.29.79,localhost.localdomain,155.101.0.0/16
+https://155.101.29.85,localhost.localdomain,155.101.0.0/16
+https://155.101.29.87,localhost.localdomain,155.101.0.0/16
+https://155.101.29.88,localhost.localdomain,155.101.0.0/16
+https://155.101.29.89,localhost.localdomain,155.101.0.0/16
+https://155.101.29.134,localhost.localdomain,155.101.0.0/16
+https://155.101.29.135,localhost.localdomain,155.101.0.0/16
+https://155.101.31.63,keep-help.chpc.utah.edu,155.101.0.0/16
+https://155.101.31.100,test-service.oib.utah.edu,155.101.0.0/16
+https://155.101.31.102,openspecimen.ccts.utah.edu,155.101.0.0/16
+https://155.101.31.103,OPENSSL,155.101.0.0/16
+https://155.101.31.196,demo.further.utah.edu,155.101.0.0/16
+https://155.101.31.212,app.further.utah.edu,155.101.0.0/16
+https://155.101.36.6,HP Jetdirect FE9E0D24,155.101.0.0/16
+https://155.101.36.7,OPENSSL,155.101.0.0/16
+https://155.101.37.7,iDRAC6 default certificate,155.101.0.0/16
+https://155.101.37.9,iDRAC6 default certificate,155.101.0.0/16
+http://155.101.37.22,,155.101.0.0/16
+https://155.101.42.28,NPI131ED5,155.101.0.0/16
+https://155.101.44.13,dubnium1.chem.utah.edu,155.101.0.0/16
+https://155.101.44.49,www2.chem.utah.edu,155.101.0.0/16
+https://155.101.44.95,wm.chem.utah.edu,155.101.0.0/16
+https://155.101.66.2,uofu-science-dmz-bandwidth,155.101.0.0/16
+https://155.101.82.25,Cisco,155.101.0.0/16
+https://155.101.82.67,004058071C93,155.101.0.0/16
+https://155.101.82.68,00405805E48E,155.101.0.0/16
+https://155.101.82.101,OPENSSL,155.101.0.0/16
+https://155.101.84.6,remote.sa.utah.edu,155.101.0.0/16
+https://155.101.84.28,cdaonline.sa.utah.edu,155.101.0.0/16
+https://155.101.88.26,HP Jetdirect 38DB84C6,155.101.0.0/16
+https://155.101.88.34,HP Jetdirect 92C0DAC5,155.101.0.0/16
+https://155.101.88.36,OPENSSL,155.101.0.0/16
+https://155.101.88.50,slc.bookstore.utah.edu,155.101.0.0/16
+https://155.101.88.51,NPI6D3D69,155.101.0.0/16
+https://155.101.88.52,ET000400652BEC.,155.101.0.0/16
+http://155.101.88.71,,155.101.0.0/16
+https://155.101.88.115,Lexmark MS310d,155.101.0.0/16
+https://155.101.88.123,Lexmark MS510dn,155.101.0.0/16
+https://155.101.88.147,004058092E1A,155.101.0.0/16
+https://155.101.90.155,Cisco,155.101.0.0/16
+https://155.101.90.156,OPENSSL,155.101.0.0/16
+https://155.101.90.164,nomuse.com,155.101.0.0/16
+https://155.101.90.221,64167F82DC4D,155.101.0.0/16
+https://155.101.90.229,HP481059,155.101.0.0/16
+https://155.101.90.230,Canon iR-ADV,155.101.0.0/16
+https://155.101.90.231,Canon iR-ADV,155.101.0.0/16
+https://155.101.90.244,HP Color LaserJet M553 B5L25A,155.101.0.0/16
+https://155.101.90.245,HP Jetdirect 3EB14C10,155.101.0.0/16
+https://155.101.90.248,HP Jetdirect 4633F011,155.101.0.0/16
+https://155.101.90.252,HP Jetdirect 998F53D1,155.101.0.0/16
+https://155.101.90.253,NPI820BD5,155.101.0.0/16
+https://155.101.92.60,HP Jetdirect 99AAABA6,155.101.0.0/16
+https://155.101.92.61,HP Jetdirect C1846D44,155.101.0.0/16
+https://155.101.92.120,Canon iR-ADV,155.101.0.0/16
+https://155.101.92.140,OPENSSL,155.101.0.0/16
+https://155.101.95.10,www.travelforms.utah.edu,155.101.0.0/16
+https://155.101.96.91,mutsu.math.utah.edu,155.101.0.0/16
+https://155.101.98.13,mail.science.utah.edu,155.101.0.0/16
+https://155.101.98.133,www.math.utah.edu,155.101.0.0/16
+https://155.101.98.135,mail.math.utah.edu,155.101.0.0/16
+https://155.101.98.164,webwork3.math.utah.edu,155.101.0.0/16
+https://155.101.98.165,webwork4.math.utah.edu,155.101.0.0/16
+https://155.101.98.166,webworkt.math.utah.edu,155.101.0.0/16
+https://155.101.98.167,webworkt2.math.utah.edu,155.101.0.0/16
+https://155.101.100.17,newton.physics.utah.edu,155.101.0.0/16
+https://155.101.100.20,sqrl.physics.utah.edu,155.101.0.0/16
+https://155.101.100.123,SHARP MX-4110N,155.101.0.0/16
+https://155.101.100.124,OPENSSL,155.101.0.0/16
+https://155.101.100.125,LIBPS,155.101.0.0/16
+https://155.101.100.127,SHARP MX-5111N,155.101.0.0/16
+https://155.101.100.136,OPENSSL,155.101.0.0/16
+https://155.101.100.140,OPENSSL,155.101.0.0/16
+https://155.101.100.149,OPENSSL,155.101.0.0/16
+https://155.101.100.155,OPENSSL,155.101.0.0/16
+https://155.101.100.157,OPENSSL,155.101.0.0/16
+https://155.101.100.158,OPENSSL,155.101.0.0/16
+https://155.101.100.200,private-use.invalid,155.101.0.0/16
+https://155.101.100.201,OPENSSL,155.101.0.0/16
+https://155.101.101.68,private-use.invalid,155.101.0.0/16
+https://155.101.101.86,bantha.physics.utah.edu,155.101.0.0/16
+https://155.101.101.93,OPENSSL,155.101.0.0/16
+https://155.101.101.94,OPENSSL,155.101.0.0/16
+https://155.101.101.95,OPENSSL,155.101.0.0/16
+https://155.101.101.158,HP LaserJet M506 F2A69A,155.101.0.0/16
+https://155.101.101.225,astroserver01.physics.utah.edu,155.101.0.0/16
+https://155.101.101.227,astroserver03.physics.utah.edu,155.101.0.0/16
+https://155.101.111.8,biomail.biology.utah.edu,155.101.0.0/16
+https://155.101.111.12,baas-becking.biology.utah.edu,155.101.0.0/16
+https://155.101.111.38,bioweb.biology.utah.edu,155.101.0.0/16
+https://155.101.111.45,synology.com,155.101.0.0/16
+https://155.101.114.19,Canon iR-ADV,155.101.0.0/16
+https://155.101.114.55,OPENSSL,155.101.0.0/16
+https://155.101.114.98,HP Jetdirect A135F6F6,155.101.0.0/16
+https://155.101.114.100,Canon iR-ADV,155.101.0.0/16
+http://155.101.115.10,,155.101.0.0/16
+https://155.101.124.4,OPENSSL,155.101.0.0/16
+https://155.101.124.68,OPENSSL,155.101.0.0/16
+https://155.101.124.86,OPENSSL,155.101.0.0/16
+https://155.101.124.87,OPENSSL,155.101.0.0/16
+https://155.101.124.134,OPENSSL,155.101.0.0/16
+https://155.101.124.148,OPENSSL,155.101.0.0/16
+https://155.101.124.164,OPENSSL,155.101.0.0/16
+https://155.101.124.171,OPENSSL,155.101.0.0/16
+https://155.101.124.196,OPENSSL,155.101.0.0/16
+https://155.101.124.197,OPENSSL,155.101.0.0/16
+https://155.101.136.14,OPENSSL,155.101.0.0/16
+https://155.101.136.15,OPENSSL,155.101.0.0/16
+https://155.101.136.16,OPENSSL,155.101.0.0/16
+https://155.101.136.101,OPENSSL,155.101.0.0/16
+https://155.101.136.129,UofU-CON-2600.utah.edu,155.101.0.0/16
+https://155.101.136.169,OPENSSL,155.101.0.0/16
+https://155.101.136.185,OPENSSL,155.101.0.0/16
+https://155.101.136.222,OPENSSL,155.101.0.0/16
+https://155.101.137.166,OPENSSL,155.101.0.0/16
+https://155.101.137.201,None,155.101.0.0/16
+https://155.101.138.12,None,155.101.0.0/16
+https://155.101.138.82,UofU-CON-2400.utah.edu,155.101.0.0/16
+https://155.101.138.90,OPENSSL,155.101.0.0/16
+https://155.101.138.104,OPENSSL,155.101.0.0/16
+https://155.101.138.156,OPENSSL,155.101.0.0/16
+https://155.101.138.243,OPENSSL,155.101.0.0/16
+https://155.101.139.30,OPENSSL,155.101.0.0/16
+https://155.101.139.169,OPENSSL,155.101.0.0/16
+https://155.101.139.171,OPENSSL,155.101.0.0/16
+https://155.101.139.178,AWiND,155.101.0.0/16
+https://155.101.144.40,gw2.genetics.utah.edu,155.101.0.0/16
+https://155.101.145.33,malachite.genetics.utah.edu,155.101.0.0/16
+https://155.101.145.34,phenotips.genetics.utah.edu,155.101.0.0/16
+https://155.101.145.64,*.cores.utah.edu,155.101.0.0/16
+https://155.101.145.85,io2.genetics.utah.edu,155.101.0.0/16
+https://155.101.150.28,*.genetics.utah.edu,155.101.0.0/16
+https://155.101.150.54,*.genetics.utah.edu,155.101.0.0/16
+https://155.101.150.55,mgen.genetics.utah.edu,155.101.0.0/16
+https://155.101.156.171,neurostat.neuro.utah.edu,155.101.0.0/16
+https://155.101.165.22,hci-lync.hci.utah.edu,155.101.0.0/16
+https://155.101.166.201,OPENSSL,155.101.0.0/16
+https://155.101.166.203,OPENSSL,155.101.0.0/16
+https://155.101.169.38,vcsa5-5,155.101.0.0/16
+https://155.101.171.50,OPENSSL,155.101.0.0/16
+https://155.101.171.99,HP Jetdirect 2BA1F705,155.101.0.0/16
+https://155.101.171.106,HP Jetdirect D03FC3A6,155.101.0.0/16
+https://155.101.171.114,OPENSSL,155.101.0.0/16
+https://155.101.171.118,OPENSSL,155.101.0.0/16
+https://155.101.171.122,HP Jetdirect D7F92D95,155.101.0.0/16
+https://155.101.172.26,SHARP MX-5111N,155.101.0.0/16
+https://155.101.172.28,HP Jetdirect 4B0FAB21,155.101.0.0/16
+https://155.101.173.37,155.101.173.37,155.101.0.0/16
+https://155.101.173.40,HP Jetdirect A135F7A1,155.101.0.0/16
+https://155.101.173.41,SHARP MX-4140N,155.101.0.0/16
+https://155.101.173.42,NPI1A961F,155.101.0.0/16
+https://155.101.173.43,SHARP MX-M365N,155.101.0.0/16
+https://155.101.173.80,SHARP MX-5001N,155.101.0.0/16
+https://155.101.173.81,SHARP MX-5141N,155.101.0.0/16
+https://155.101.173.130,ath-depstudio.ad.utah.edu,155.101.0.0/16
+https://155.101.173.131,NPI5CF1F4,155.101.0.0/16
+https://155.101.173.219,mg4.huntsman.utah.edu_2,155.101.0.0/16
+https://155.101.178.48,NPIA82C9F,155.101.0.0/16
+https://155.101.178.130,Preset Certificate,155.101.0.0/16
+https://155.101.178.132,OPENSSL,155.101.0.0/16
+https://155.101.181.75,develop,155.101.0.0/16
+https://155.101.185.12,OPENSSL,155.101.0.0/16
+https://155.101.185.23,004058070388,155.101.0.0/16
+https://155.101.185.39,Canon iR-ADV,155.101.0.0/16
+https://155.101.185.41,OPENSSL,155.101.0.0/16
+https://155.101.185.51,Canon iR-ADV,155.101.0.0/16
+https://155.101.185.110,OPENSSL,155.101.0.0/16
+https://155.101.186.84,OPENSSL,155.101.0.0/16
+https://155.101.186.98,Canon iR-ADV,155.101.0.0/16
+https://155.101.186.99,Canon Imaging Product,155.101.0.0/16
+https://155.101.186.113,OPENSSL,155.101.0.0/16
+https://155.101.186.231,OPENSSL,155.101.0.0/16
+https://155.101.186.236,OPENSSL,155.101.0.0/16
+https://155.101.187.71,studentmedia1.umedia.utah.edu,155.101.0.0/16
+https://155.101.187.84,SHARP MX-M363N,155.101.0.0/16
+https://155.101.187.210,AWiND,155.101.0.0/16
+https://155.101.190.19,VMware,155.101.0.0/16
+https://155.101.190.47,HP Jetdirect 7D866147,155.101.0.0/16
+https://155.101.190.52,Canon Imaging Product,155.101.0.0/16
+https://155.101.190.58,FM00087,155.101.0.0/16
+https://155.101.190.63,AWiND,155.101.0.0/16
+https://155.101.190.84,OPENSSL,155.101.0.0/16
+https://155.101.190.119,OPENSSL,155.101.0.0/16
+https://155.101.190.131,AWiND,155.101.0.0/16
+https://155.101.190.135,AWiND,155.101.0.0/16
+https://155.101.190.148,VMware,155.101.0.0/16
+https://155.101.190.161,UofU-USB-241,155.101.0.0/16
+https://155.101.190.164,Preset Certificate,155.101.0.0/16
+http://155.101.190.165,,155.101.0.0/16
+https://155.101.190.169,VMware,155.101.0.0/16
+https://155.101.190.181,Preset Certificate,155.101.0.0/16
+https://155.101.190.186,VMware,155.101.0.0/16
+https://155.101.190.195,HPFBAF76,155.101.0.0/16
+https://155.101.191.48,Preset Certificate,155.101.0.0/16
+https://155.101.191.171,Canon Imaging Product,155.101.0.0/16
+https://155.101.192.23,192.168.220.27,155.101.0.0/16
+https://155.101.192.30,OPENSSL,155.101.0.0/16
+http://155.101.192.31,,155.101.0.0/16
+https://155.101.192.38,localhost.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.39,New-vSphere.ocm.utah.edu,155.101.0.0/16
+http://155.101.192.53,,155.101.0.0/16
+https://155.101.192.69,harry.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.89,harry.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.90,VMware default certificate,155.101.0.0/16
+https://155.101.192.97,VMware,155.101.0.0/16
+https://155.101.192.130,tglcont.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.131,R&D,155.101.0.0/16
+https://155.101.192.132,R&D,155.101.0.0/16
+https://155.101.192.133,tglcont.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.134,tglcont.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.143,calendar.ocm.utah.edu,155.101.0.0/16
+https://155.101.192.145,155.101.192.145,155.101.0.0/16
+https://155.101.192.191,OPENSSL,155.101.0.0/16
+https://155.101.192.192,SHARP MX-4141N,155.101.0.0/16
+https://155.101.193.198,OPENSSL,155.101.0.0/16
+https://155.101.193.200,OPENSSL,155.101.0.0/16
+https://155.101.194.210,00405805E4D9,155.101.0.0/16
+https://155.101.194.211,004058076DBF,155.101.0.0/16
+https://155.101.194.212,00405807494A,155.101.0.0/16
+https://155.101.194.213,004058076E1E,155.101.0.0/16
+https://155.101.194.214,00405805EA5F,155.101.0.0/16
+https://155.101.194.215,004058084EAA,155.101.0.0/16
+https://155.101.194.217,VMware,155.101.0.0/16
+https://155.101.195.9,IPMI,155.101.0.0/16
+https://155.101.195.10,*.ocm.utah.edu,155.101.0.0/16
+https://155.101.195.11,localhost,155.101.0.0/16
+https://155.101.195.12,harry.ocm.utah.edu,155.101.0.0/16
+https://155.101.195.18,localhost,155.101.0.0/16
+https://155.101.195.31,mailbox-1,155.101.0.0/16
+https://155.101.195.36,localhost.ocm.utah.edu,155.101.0.0/16
+https://155.101.195.39,localhost.localdomain,155.101.0.0/16
+https://155.101.195.54,vc-ops-slice-2,155.101.0.0/16
+https://155.101.195.72,HV6-Center.ocm.utah.edu,155.101.0.0/16
+https://155.101.195.112,vdi-vsphere.ocm.utah.edu,155.101.0.0/16
+https://155.101.195.173,localhost,155.101.0.0/16
+https://155.101.198.52,path.utah.edu,155.101.0.0/16
+https://155.101.198.54,collaborate.path.utah.edu,155.101.0.0/16
+https://155.101.198.56,dna.utah.edu,155.101.0.0/16
+https://155.101.198.68,FMI Default Certificate,155.101.0.0/16
+https://155.101.198.70,path.utah.edu,155.101.0.0/16
+https://155.101.198.78,taskserver5.path.utah.edu,155.101.0.0/16
+https://155.101.198.79,viewlincserver.path.utah.edu,155.101.0.0/16
+https://155.101.200.213,OPENSSL,155.101.0.0/16
+https://155.101.201.134,ebcasa.media.utah.edu,155.101.0.0/16
+https://155.101.202.7,HPB05AAB,155.101.0.0/16
+https://155.101.206.134,eae-g-oj8600,155.101.0.0/16
+https://155.101.206.149,www.example.com,155.101.0.0/16
+https://155.101.206.158,None,155.101.0.0/16
+https://155.101.208.10,Canon iR-ADV,155.101.0.0/16
+https://155.101.208.64,OPENSSL,155.101.0.0/16
+https://155.101.210.21,NVR,155.101.0.0/16
+https://155.101.210.22,NVR,155.101.0.0/16
+http://155.101.210.40,,155.101.0.0/16
+http://155.101.210.55,,155.101.0.0/16
+http://155.101.210.75,,155.101.0.0/16
+http://155.101.210.87,,155.101.0.0/16
+https://155.101.211.108,HP Jetdirect F0B72D86,155.101.0.0/16
+https://155.101.211.123,SHARP MX-5001N,155.101.0.0/16
+https://155.101.213.7,develop,155.101.0.0/16
+https://155.101.213.20,NPIC050C8,155.101.0.0/16
+https://155.101.213.46,OPENSSL,155.101.0.0/16
+https://155.101.213.48,Preset Certificate,155.101.0.0/16
+https://155.101.213.60,OPENSSL,155.101.0.0/16
+https://155.101.213.211,OPENSSL,155.101.0.0/16
+https://155.101.218.10,pledge.kuer.org,155.101.0.0/16
+https://155.101.225.16,OPENSSL,155.101.0.0/16
+https://155.101.225.38,OPENSSL,155.101.0.0/16
+http://155.101.229.54,,155.101.0.0/16
+https://155.101.229.86,OPENSSL,155.101.0.0/16
+https://155.101.232.10,OPENSSL,155.101.0.0/16
+https://155.101.232.11,OPENSSL,155.101.0.0/16
+https://155.101.232.232,OPENSSL,155.101.0.0/16
+https://155.101.236.202,HP Color LaserJet M553 B5L25A,155.101.0.0/16
+https://155.101.237.75,device3239238-122f4667.wd2go.com,155.101.0.0/16
+https://155.101.238.36,default,155.101.0.0/16
+https://155.101.241.236,OPENSSL,155.101.0.0/16
+https://155.101.243.197,OPENSSL,155.101.0.0/16
+https://155.101.246.102,OPENSSL,155.101.0.0/16
+https://155.101.246.200,b4.ddi.utah.edu,155.101.0.0/16
+https://155.101.249.30,www.barco.com,155.101.0.0/16
+https://155.101.249.31,www.barco.com,155.101.0.0/16
+https://155.101.249.155,www.barco.com,155.101.0.0/16
+https://155.101.250.20,www.barco.com,155.101.0.0/16
+https://155.101.250.106,www.barco.com,155.101.0.0/16
+https://155.101.250.234,www.barco.com,155.101.0.0/16
+https://155.101.251.71,OPENSSL,155.101.0.0/16
+https://155.101.251.78,VMware,155.101.0.0/16
+https://155.101.251.135,www.barco.com,155.101.0.0/16
+https://155.101.251.167,www.barco.com,155.101.0.0/16
+https://155.101.251.192,www.barco.com,155.101.0.0/16
+http://155.101.251.214,,155.101.0.0/16
+https://155.101.251.224,www.barco.com,155.101.0.0/16
+https://155.101.255.159,0004F2DBD05D,155.101.0.0/16
+https://155.100.5.181,vidyoportal.med.utah.edu,155.100.0.0/16
+https://155.100.5.182,OPENSSL,155.100.0.0/16
+https://155.100.5.183,OPENSSL,155.100.0.0/16
+https://155.100.5.184,vidyogateway1.med.utah.edu,155.100.0.0/16
+https://155.100.5.185,vidyoportal.med.utah.edu,155.100.0.0/16
+https://155.100.5.187,vidyogateway2.med.utah.edu,155.100.0.0/16
+https://155.100.5.188,vidyogateway3.med.utah.edu,155.100.0.0/16
+https://155.100.5.189,vidyoreplay1.med.utah.edu,155.100.0.0/16
+https://155.100.9.5,vpn-hsc.med.utah.edu,155.100.0.0/16
+https://155.100.13.20,sabitlocker1.ad.utah.edu,155.100.0.0/16
+https://155.100.13.23,saseems1.hsc.ad.utah.edu,155.100.0.0/16
+https://155.100.13.61,ICESEP.ad.utah.edu,155.100.0.0/16
+https://155.100.13.63,icesee.ad.utah.edu,155.100.0.0/16
+https://155.100.13.139,OPENSSL,155.100.0.0/16
+https://155.100.13.160,OPENSSL,155.100.0.0/16
+https://155.100.13.161,OPENSSL,155.100.0.0/16
+https://155.100.22.137,tmwebrtc1.med.utah.edu,155.100.0.0/16
+https://155.100.50.25,csi.med.utah.edu,155.100.0.0/16
+https://155.100.50.26,app.healthcare.utah.edu,155.100.0.0/16
+https://155.100.50.27,app.healthcare.utah.edu,155.100.0.0/16
+https://155.100.50.28,app.healthcare.utah.edu,155.100.0.0/16
+https://155.100.50.29,app.healthcare.utah.edu,155.100.0.0/16
+https://155.100.50.30,pacsanywhere.med.utah.edu,155.100.0.0/16
+https://155.100.50.34,applications.med.utah.edu,155.100.0.0/16
+https://155.100.50.36,applications-dev.med.utah.edu,155.100.0.0/16
+https://155.100.50.37,*.utahdcc.org,155.100.0.0/16
+https://155.100.50.55,uuhcreports.utah.edu,155.100.0.0/16
+https://155.100.50.58,uofuhealth.utah.edu,155.100.0.0/16
+https://155.100.50.71,webproxy.hsc.utah.edu,155.100.0.0/16
+https://155.100.50.76,webproxyprd.hsc.utah.edu,155.100.0.0/16
+https://155.100.50.77,hrit.utah.edu,155.100.0.0/16
+https://155.100.50.84,test.archer.utah.edu,155.100.0.0/16
+https://155.100.50.87,crisisstandardsofcare.utah.edu,155.100.0.0/16
+https://155.100.50.91,meval.med.utah.edu,155.100.0.0/16
+https://155.100.50.98,pulse.utah.edu,155.100.0.0/16
+https://155.100.50.99,ghana.dermatologytraining.med.utah.edu,155.100.0.0/16
+https://155.100.50.100,test.hscintranet.utah.edu,155.100.0.0/16
+https://155.100.50.102,pulse.utah.edu,155.100.0.0/16
+https://155.100.50.120,amcomwb.med.utah.edu,155.100.0.0/16
+https://155.100.50.127,auth.med.utah.edu,155.100.0.0/16
+https://155.100.50.156,epicsf.med.utah.edu,155.100.0.0/16
+https://155.100.50.158,mychart.med.utah.edu,155.100.0.0/16
+https://155.100.50.159,epicbca.med.utah.edu,155.100.0.0/16
+https://155.100.50.164,epicsftest.med.utah.edu,155.100.0.0/16
+https://155.100.50.174,apps.med.utah.edu,155.100.0.0/16
+https://155.100.50.175,archer.utah.edu,155.100.0.0/16
+https://155.100.50.176,apps.med.utah.edu,155.100.0.0/16
+https://155.100.50.215,access.med.utah.edu,155.100.0.0/16
+https://155.100.50.220,secure.med.utah.edu,155.100.0.0/16
+https://155.100.50.223,sf-vip.med.utah.edu,155.100.0.0/16
+https://155.100.50.240,secure-dev2.med.utah.edu,155.100.0.0/16
+https://155.100.50.241,secure-dev.med.utah.edu,155.100.0.0/16
+https://155.100.50.243,access.utah.edu,155.100.0.0/16
+https://155.100.50.244,xen.med.utah.edu,155.100.0.0/16
+https://155.100.50.252,ice.med.utah.edu,155.100.0.0/16
+https://155.100.62.112,OPENSSL,155.100.0.0/16
+https://155.100.69.42,amcomamc.med.utah.edu,155.100.0.0/16
+https://155.100.69.43,amcomsms.srvr.uhsc.utah.edu,155.100.0.0/16
+https://155.100.69.52,amcomwb.med.utah.edu,155.100.0.0/16
+https://155.100.69.53,amcomwb.med.utah.edu,155.100.0.0/16
+https://155.100.72.5,NPI62E32E.path.utah.edu,155.100.0.0/16
+https://155.100.78.4,OPENSSL,155.100.0.0/16
+https://155.100.78.23,HP Jetdirect 92B598A9,155.100.0.0/16
+https://155.100.78.120,bayleaf.med.utah.edu,155.100.0.0/16
+https://155.100.78.121,OPENSSL,155.100.0.0/16
+https://155.100.78.178,fenu.med.utah.edu,155.100.0.0/16
+http://155.100.78.190,,155.100.0.0/16
+https://155.100.78.241,OPENSSL,155.100.0.0/16
+https://155.100.92.193,xserve.anesthesia.med.utah.edu,155.100.0.0/16
+https://155.100.92.197,abl.med.utah.edu,155.100.0.0/16
+http://155.100.104.82,,155.100.0.0/16
+https://155.100.104.154,*.connectomes.utah.edu,155.100.0.0/16
+https://155.100.105.9,connectomes.utah.edu,155.100.0.0/16
+https://155.100.107.116,webdev.connectomes.utah.edu,155.100.0.0/16
+https://155.100.111.139,secure.cfapps.medicine.utah.edu,155.100.0.0/16
+https://155.100.111.144,students.medicine.utah.edu,155.100.0.0/16
+https://155.100.111.145,tools.medicine.utah.edu,155.100.0.0/16
+https://155.100.111.151,enthandbook.medicine.utah.edu,155.100.0.0/16
+https://155.100.111.165,ucr.medicine.utah.edu,155.100.0.0/16
+https://155.100.111.181,desktop.medicine.utah.edu,155.100.0.0/16
+http://155.100.114.139,,155.100.0.0/16
+https://155.100.116.103,QNAP NAS,155.100.0.0/16
+https://155.100.116.134,devirb.research.utah.edu,155.100.0.0/16
+https://155.100.116.135,testirb.research.utah.edu,155.100.0.0/16
+https://155.100.116.137,erica.research.utah.edu,155.100.0.0/16
+https://155.100.117.50,mail.rso.utah.edu,155.100.0.0/16
+https://155.100.118.55,help.med.utah.edu,155.100.0.0/16
+https://155.100.118.81,OPENSSL,155.100.0.0/16
+https://155.100.126.82,intranet.anesthesia.med.utah.edu,155.100.0.0/16
+https://155.100.126.185,secure.rmxlss.med.utah.edu,155.100.0.0/16
+https://155.100.136.219,pst-hosp.med.utah.edu,155.100.0.0/16
+https://155.100.137.103,uurad-public.med.utah.edu,155.100.0.0/16
+https://155.100.141.17,wiki.utah.edu,155.100.0.0/16
+https://155.100.141.21,app.sendit.med.utah.edu,155.100.0.0/16
+https://155.100.141.59,hrit.utah.edu,155.100.0.0/16
+https://155.100.141.63,hrit.utah.edu,155.100.0.0/16
+https://155.100.147.2,OPENSSL,155.100.0.0/16
+https://155.100.147.31,crcjs.med.utah.edu,155.100.0.0/16
+https://155.100.147.54,crcjs.med.utah.edu,155.100.0.0/16
+https://155.100.147.100,OPENSSL,155.100.0.0/16
+https://155.100.147.166,OPENSSL,155.100.0.0/16
+https://155.100.147.181,OPENSSL,155.100.0.0/16
+http://155.100.160.177,,155.100.0.0/16
+https://155.100.162.21,OPENSSL,155.100.0.0/16
+http://155.100.162.84,,155.100.0.0/16
+https://155.100.171.35,OPENSSL,155.100.0.0/16
+https://155.100.188.26,www.pecarn.org,155.100.0.0/16
+https://155.100.188.29,DCCvSphere1.iicrc.med.utah.edu,155.100.0.0/16
+https://155.100.188.33,www.nedarcssl.org,155.100.0.0/16
+https://155.100.188.52,dccesxi-c03-h02.iicrc.med.utah.edu,155.100.0.0/16
+https://155.100.188.57,www.cpccrn.org,155.100.0.0/16
+https://155.100.188.61,www.ped.med.utah.edu,155.100.0.0/16
+https://155.100.188.73,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.76,*.nemsis.org,155.100.0.0/16
+https://155.100.188.78,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.82,www.utahtrauma.org,155.100.0.0/16
+https://155.100.188.93,OPENSSL,155.100.0.0/16
+https://155.100.188.110,www.thapca.org,155.100.0.0/16
+https://155.100.188.113,pedsready.org,155.100.0.0/16
+https://155.100.188.115,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.133,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.134,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.135,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.137,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.138,www.emscsurveys.org,155.100.0.0/16
+https://155.100.188.168,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.170,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.175,decaaf.org,155.100.0.0/16
+https://155.100.188.177,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.183,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.184,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.186,*.utahcto.org,155.100.0.0/16
+https://155.100.188.188,*.utahcto.org,155.100.0.0/16
+https://155.100.188.195,*.nemsis.org,155.100.0.0/16
+https://155.100.188.196,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.197,*.nemsis.org,155.100.0.0/16
+https://155.100.188.198,*.nemsis.org,155.100.0.0/16
+https://155.100.188.206,*.nemsis.org,155.100.0.0/16
+https://155.100.188.213,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.214,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.219,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.223,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.224,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.225,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.231,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.237,*.nemsis.org,155.100.0.0/16
+https://155.100.188.238,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.239,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.240,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.245,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.250,*.utahdcc.org,155.100.0.0/16
+https://155.100.188.251,*.utahdcc.org,155.100.0.0/16
+https://155.100.189.164,*.utahdcc.org,155.100.0.0/16
+https://155.100.190.10,*.nemsis.org,155.100.0.0/16
+https://155.100.190.121,*.nemsis.org,155.100.0.0/16
+https://155.100.190.202,*.utahdcc.org,155.100.0.0/16
+https://155.100.190.218,*.utahcto.org,155.100.0.0/16
+https://155.100.191.54,*.utahcto.org,155.100.0.0/16
+https://155.100.191.73,*.utahdcc.org,155.100.0.0/16
+https://155.100.191.87,*.utahdcc.org,155.100.0.0/16
+https://155.100.195.147,auth.med.utah.edu,155.100.0.0/16
+https://155.100.217.10,hci-progeny-fhq.hci.utah.edu,155.100.0.0/16
+https://155.100.217.43,ri-jira.hci.utah.edu,155.100.0.0/16
+https://155.100.217.85,hci-bio-app.hci.utah.edu,155.100.0.0/16
+https://155.100.217.90,b2b,155.100.0.0/16
+https://155.100.217.91,biominer-b2b.hci.utah.edu,155.100.0.0/16
+https://155.100.218.247,hci-webmail.hci.utah.edu,155.100.0.0/16
+https://155.100.225.27,hci-ftp.hci.utah.edu,155.100.0.0/16
+https://155.100.225.30,hci-as2.hci.utah.edu,155.100.0.0/16
+https://155.100.225.31,hci-as1.hci.utah.edu,155.100.0.0/16
+https://155.100.225.101,hci-ro-rsh.hci.utah.edu,155.100.0.0/16
+https://155.100.225.112,destinysecured,155.100.0.0/16
+https://155.100.225.113,OPENSSL,155.100.0.0/16
+http://155.100.225.135,,155.100.0.0/16
+https://155.100.225.162,oncore-app2.hci.utah.edu,155.100.0.0/16
+https://155.100.225.191,hci-updblapp.hci.utah.edu,155.100.0.0/16
+https://155.100.225.207,OPENSSL,155.100.0.0/16
+https://155.100.225.244,hci-rdgate-d.hci.utah.edu,155.100.0.0/16
+https://155.100.233.210,fw-vpn.hci.utah.edu,155.100.0.0/16
+https://155.100.233.212,hci-vpn.hci.utah.edu,155.100.0.0/16
+https://155.100.233.227,hci-portal.hci.utah.edu,155.100.0.0/16
+https://155.100.233.228,OPENSSL,155.100.0.0/16
+https://155.100.238.16,mbmsupport.med.utah.edu,155.100.0.0/16
+https://155.100.238.103,atstaff.anesthesia.med.utah.edu,155.100.0.0/16
+https://155.100.238.106,atstaff.anesthesia.med.utah.edu,155.100.0.0/16
+https://155.100.238.236,anesthesiacloud.med.utah.edu,155.100.0.0/16
+https://155.100.239.112,ancdb9a.srvr.uhsc.utah.edu,155.100.0.0/16
+https://155.100.239.177,securembm.uuhsc.utah.edu,155.100.0.0/16
+https://155.100.239.178,secure.mbmtest.med.utah.edu,155.100.0.0/16
+https://155.100.239.193,securembm.uuhsc.utah.edu,155.100.0.0/16
+https://155.100.239.194,secure.mbmtest.med.utah.edu,155.100.0.0/16
+https://155.100.240.66,echo.anesthesia.med.utah.edu,155.100.0.0/16
+https://155.100.240.180,planview.med.utah.edu,155.100.0.0/16
+https://155.100.240.188,ucrresearch.med.utah.edu,155.100.0.0/16
+https://155.100.241.13,OPENSSL,155.100.0.0/16
+https://155.100.241.188,test.hscintranet.utah.edu,155.100.0.0/16
