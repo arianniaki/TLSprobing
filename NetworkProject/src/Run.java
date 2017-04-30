@@ -22,7 +22,7 @@ public class Run {
 		FileInputStream inputStream = new FileInputStream(new File(dir));
 		Scanner reader = new Scanner(inputStream, "UTF-8");		
 
-        String keyword = "University of Utah";
+        String keyword = "University of Chicago";
         
         ArrayList<String> list = new ArrayList<>();
         int index = 0;
