@@ -274,7 +274,7 @@ http://140.142.35.209,,140.142.0.0/16
 http://140.142.35.216,,140.142.0.0/16
 https://140.142.36.9,sharepoint.oris.washington.edu,140.142.0.0/16
 http://140.142.36.18,,140.142.0.0/16
-https://140.142.36.69,Common Name (eg, YOUR name),140.142.0.0/16
+https://140.142.36.69,Common Name ( YOUR name),140.142.0.0/16
 https://140.142.36.144,None,140.142.0.0/16
 https://140.142.36.197,cbs-fw2.cbs.biostat.washington.edu,140.142.0.0/16
 https://140.142.36.228,ChrisDevServer,140.142.0.0/16
@@ -1599,7 +1599,7 @@ https://128.95.159.199,128.95.159.199,128.95.0.0/16
 http://128.95.160.8,,128.95.0.0/16
 http://128.95.160.17,,128.95.0.0/16
 https://128.95.160.21,localhost.localdomain,128.95.0.0/16
-https://128.95.160.69,Common Name (eg, YOUR name),128.95.0.0/16
+https://128.95.160.69,Common Name (eg YOUR name),128.95.0.0/16
 https://128.95.160.75,pale.biostat.washington.edu,128.95.0.0/16
 https://128.95.160.77,pilsner.biostat.washington.edu,128.95.0.0/16
 https://128.95.160.89,OPENSSL,128.95.0.0/16
