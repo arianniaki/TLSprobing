@@ -24,6 +24,9 @@ def check_without_verify(url,file,subnet):
 					subject = load_cert.get_subject()
 					issued_to = str(subject.CN)
 					file.write(url+','+issued_to+','+subnet+'\n')
+				except OpenSSL.SSL.Error:
+					print("openssl error",url)
+					file.write(url+',OPENSSL,'+subnet+'\n')
 				except ssl.SSLError:
 					print("SSL ERROR",url)
 					file.write(url+',OPENSSL,'+subnet+'\n')
