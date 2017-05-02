@@ -39,6 +39,9 @@ def check_without_verify(url,file,subnet):
 			except requests.exceptions.InvalidSchema:
 				print("exception Error",url)
 				file.write(url+',OPENSSL,'+subnet+'\n')
+			except OpenSSL.SSL.Error:
+				print("openssl error",url)
+				file.write(url+',OPENSSL,'+subnet+'\n')
 
 			except requests.exceptions.SSLError:
 				print("Bad SSL Handshake Error",url)
