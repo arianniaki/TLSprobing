@@ -40,13 +40,13 @@ def get_client_hello_info(s_client_out,url):
 		
 		cert_chain = re.findall(r'Certificate chain.*-----BEGIN', out_without_n)
 		depth_cert = re.findall(r'[0-9] s:', cert_chain[0])
-		print(">....................................................................")
+		#print(">....................................................................")
 		depth = len(depth_cert)
 		
 
-		print("___+_++___+_+_")
-		print(ocsp)
-		print("___+_++___+_+_")
+		#print("___+_++___+_+_")
+		#print(ocsp)
+		#print("___+_++___+_+_")
 		data = {}
 		data['url'] = url
 		data['OCSP'] = ocsp
@@ -58,7 +58,7 @@ def get_client_hello_info(s_client_out,url):
 		#print('==========END======================')
 		return cipher.strip(),ocsp,depth
 	except IndexError:
-		return 'NA'
+		return 'NA','',''
 
 
 
@@ -82,7 +82,7 @@ for server in list_of_servers:
 	if ('https' in url):
 		for ver in tls_versions:
 			print('===========START=====================')
-			print('Protocol: ' + ver)
+			#print('Protocol: ' + ver)
 			data = {}
 			data['university'] = file_to_read_name
 			data['url'] = url
@@ -92,14 +92,14 @@ for server in list_of_servers:
 			for cipher in ciphers:
 
 				print('...............................')
-				print(ver+'___: '+cipher)
+				print(ver+'___: '+cipher+' '+url)
 				url_without_https = url.replace("https://","")
 				#print(url_without_https)
 				p = subprocess.Popen(["timeout","10","openssl", "s_client",'-cipher',cipher ,ver,'-connect',url_without_https+':443','-status'], stdout=subprocess.PIPE)
 				out, err = p.communicate()
-				print(out)
+				#print(out)
 				info = get_client_hello_info(out,url_without_https)
-				print("info is ",info)
+				#print("info is ",info)
 
 				cipher_info = info[0]
 				if(len(info)>2):
