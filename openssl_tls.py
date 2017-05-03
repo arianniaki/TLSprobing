@@ -82,7 +82,7 @@ for server in list_of_servers:
 	url,servername,subnet = server.split(',')
 	if ('https' in url):
 		for ver in tls_versions:
-			print('===========START=====================')
+			#print('===========START=====================')
 			#print('Protocol: ' + ver)
 			data = {}
 			data['university'] = file_to_read_name
@@ -119,7 +119,7 @@ for server in list_of_servers:
 				data['valid_cipher'] = list_of_valid_ciphers
 				children.append(data)
 
-			print('==========END======================')
+			#print('==========END======================')
 response_json["servers"] = children
 print json.dumps(response_json,indent=2)
 # name should be the same as input text file
