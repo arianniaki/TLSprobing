@@ -106,12 +106,11 @@ for server in list_of_servers:
 				if(len(info)>2):
 					ocsp_info = info[1]
 					depth_info = info[2]
-					data['OCSP'] = ocsp_info
-					data['Cert_Depth'] = depth_info
-
-
+					
 				if(cipher_info != '0000' and cipher_info != 'NA'):
 					list_of_valid_ciphers.append(cipher_info)
+					data['OCSP'] = ocsp_info
+					data['Cert_Depth'] = depth_info
 				
 				#print(">>>>>>>>>>>>>>>>\n")
 				#time.sleep(1)
