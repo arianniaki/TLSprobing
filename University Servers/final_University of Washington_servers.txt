@@ -2291,7 +2291,7 @@ https://128.208.23.131,d-172-25-16-214.dhcp4.washington.edu,128.208.0.0/16
 https://128.208.24.6,IPMI,128.208.0.0/16
 http://128.208.26.145,,128.208.0.0/16
 https://128.208.26.158,HP Jetdirect 0BFFFD3C,128.208.0.0/16
-https://128.208.29.46,Common Name (eg, YOUR name),128.208.0.0/16
+https://128.208.29.46,Common Name (eg YOUR name),128.208.0.0/16
 https://128.208.32.10,access.uwmedicine.org,128.208.0.0/16
 https://128.208.34.116,OPENSSL,128.208.0.0/16
 https://128.208.38.5,pedsport2.pedom.peds.washington.edu,128.208.0.0/16
