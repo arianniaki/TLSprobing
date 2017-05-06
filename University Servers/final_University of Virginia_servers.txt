@@ -1028,21 +1028,7 @@ https://143.60.16.75,localhost.localdomain,143.60.0.0/17
 https://143.60.16.76,localhost.localdomain,143.60.0.0/17
 http://143.60.16.182,,143.60.0.0/17
 https://143.60.16.246,webmail.uvawise.edu,143.60.0.0/17
-https://143.60.6.5,FG3K2C3Z13800418,143.60.0.0/17
-https://143.60.6.37,UBNT Router UI,143.60.0.0/17
 https://143.60.12.62,my.uvawise.edu,143.60.0.0/17
-https://143.60.16.10,dc5.uvawise.edu,143.60.0.0/17
-https://143.60.16.20,people.uvawise.edu,143.60.0.0/17
-https://143.60.16.23,home.uvawise.edu,143.60.0.0/17
-https://143.60.16.27,library.uvawise.edu,143.60.0.0/17
-https://143.60.16.33,mdl.uvawise.edu,143.60.0.0/17
-http://143.60.16.45,,143.60.0.0/17
-https://143.60.16.51,moodle.uvawise.edu,143.60.0.0/17
-https://143.60.16.53,www.uvawise.edu,143.60.0.0/17
-https://143.60.16.57,www.uvawise.edu,143.60.0.0/17
-https://143.60.16.75,localhost.localdomain,143.60.0.0/17
-https://143.60.16.76,localhost.localdomain,143.60.0.0/17
-https://143.60.16.246,webmail.uvawise.edu,143.60.0.0/17
 https://143.60.75.95,gitrdun.mcs.uvawise.edu,143.60.0.0/17
 https://143.60.75.96,lampo,143.60.0.0/17
 https://143.60.76.30,*.mcs.uvawise.edu,143.60.0.0/17
