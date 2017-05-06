@@ -127,7 +127,7 @@ https://129.171.61.71,rads.physics.miami.edu,129.171.0.0/16
 https://129.171.61.169,cgc.physics.miami.edu,129.171.0.0/16
 https://129.171.61.192,courses.physics.miami.edu,129.171.0.0/16
 https://129.171.61.233,web2.physics.miami.edu,129.171.0.0/16
-https://129.171.64.10,https://129.171.64.10,129.171.0.0/16,SSL Socket error
+https://129.171.64.10,129.171.0.0/16,SSL Socket error
 https://129.171.64.22,uhealthsystem.com,129.171.0.0/16
 http://129.171.64.55,,129.171.0.0/16
 https://129.171.64.56,magec.med.miami.edu,129.171.0.0/16
