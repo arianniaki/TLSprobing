@@ -920,7 +920,6 @@ https://130.132.195.235,vmware1.cellbiology.yale.edu,130.132.0.0/16
 https://130.132.195.236,vmware1.cellbiology.yale.edu,130.132.0.0/16
 https://130.132.195.237,localhost.localdomain,130.132.0.0/16
 https://130.132.197.253,Cisco,130.132.0.0/16
-http://130.132.202.47,,130.132.0.0/16
 https://130.132.202.111,130.132.202.111,130.132.0.0/16
 https://130.132.204.47,*.ys.yale.edu,130.132.0.0/16
 https://130.132.205.101,cancerdb.eeb.yale.edu,130.132.0.0/16
