@@ -1,0 +1,1048 @@
+https://128.111.1.22,setup.wireless.ucsb.edu,128.111.0.0/16
+https://128.111.2.2,noc.ucsb.edu,128.111.0.0/16
+https://128.111.4.5,vpn.housing.ucsb.edu,128.111.0.0/16
+https://128.111.4.8,vpn.fs.ucsb.edu,128.111.0.0/16
+https://128.111.4.9,vpn.fs.ucsb.edu,128.111.0.0/16
+https://128.111.8.26,OPENSSL,128.111.0.0/16
+https://128.111.8.36,localhost.localdomain,128.111.0.0/16
+https://128.111.8.52,synology.com,128.111.0.0/16
+https://128.111.8.67,OPENSSL,128.111.0.0/16
+https://128.111.8.69,matrix-reloaded.physics.ucsb.edu,128.111.0.0/16
+https://128.111.8.73,skynet.physics.ucsb.edu,128.111.0.0/16
+https://128.111.8.147,OPENSSL,128.111.0.0/16
+https://128.111.9.11,airwave.kitp.ucsb.edu,128.111.0.0/16
+https://128.111.9.19,oldmill.kitp.ucsb.edu,128.111.0.0/16
+https://128.111.9.21,HP Jetdirect 99ABEB02,128.111.0.0/16
+https://128.111.9.23,HP Jetdirect 4B0CCE0D,128.111.0.0/16
+https://128.111.9.24,xerox1104.kitp.ucsb.edu,128.111.0.0/16
+https://128.111.9.25,OPENSSL,128.111.0.0/16
+https://128.111.9.26,HP Jetdirect B14D78DC,128.111.0.0/16
+https://128.111.9.27,HP LaserJet M506 F2A69A,128.111.0.0/16
+https://128.111.9.200,OPENSSL,128.111.0.0/16
+https://128.111.9.201,OPENSSL,128.111.0.0/16
+https://128.111.9.202,OPENSSL,128.111.0.0/16
+https://128.111.9.203,OPENSSL,128.111.0.0/16
+https://128.111.9.204,OPENSSL,128.111.0.0/16
+https://128.111.9.205,OPENSSL,128.111.0.0/16
+https://128.111.9.206,OPENSSL,128.111.0.0/16
+https://128.111.9.207,OPENSSL,128.111.0.0/16
+https://128.111.9.208,OPENSSL,128.111.0.0/16
+https://128.111.9.209,OPENSSL,128.111.0.0/16
+https://128.111.9.210,OPENSSL,128.111.0.0/16
+https://128.111.9.211,OPENSSL,128.111.0.0/16
+https://128.111.9.212,OPENSSL,128.111.0.0/16
+https://128.111.9.213,OPENSSL,128.111.0.0/16
+https://128.111.9.214,OPENSSL,128.111.0.0/16
+https://128.111.9.218,OPENSSL,128.111.0.0/16
+https://128.111.10.5,mail3.kitp.ucsb.edu,128.111.0.0/16
+https://128.111.10.11,www.kitp.ucsb.edu,128.111.0.0/16
+https://128.111.10.42,www.kitp.ucsb.edu,128.111.0.0/16
+https://128.111.10.152,HP Jetdirect 2D3AC178,128.111.0.0/16
+https://128.111.10.153,HP Jetdirect 9242235B,128.111.0.0/16
+https://128.111.10.154,HP Jetdirect 05FEDF8D,128.111.0.0/16
+https://128.111.10.155,Canon iR-ADV,128.111.0.0/16
+https://128.111.10.229,128.111.10.229,128.111.0.0/16
+https://128.111.12.96,ps-7000f-1-int.vpn.ucsb.edu,128.111.0.0/16
+https://128.111.12.97,ps-7000f-1-int.vpn.ucsb.edu,128.111.0.0/16
+https://128.111.12.182,erx1.kevinschmidt.net,128.111.0.0/16
+https://128.111.14.192,OPENSSL,128.111.0.0/16
+https://128.111.14.218,Dell-C2660dn-D3C93A,128.111.0.0/16
+https://128.111.15.44,rainer.itst.ucsb.edu,128.111.0.0/16
+https://128.111.16.36,passwords.physics.ucsb.edu,128.111.0.0/16
+https://128.111.16.42,OPENSSL,128.111.0.0/16
+https://128.111.16.67,Preset Certificate,128.111.0.0/16
+https://128.111.17.4,OPENSSL,128.111.0.0/16
+https://128.111.17.5,*.belkin.kip,128.111.0.0/16
+https://128.111.17.6,wireless.colubris.com,128.111.0.0/16
+https://128.111.17.9,OPENSSL,128.111.0.0/16
+https://128.111.17.15,voicemail.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.16,voicemail.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.19,localhost.localdomain,128.111.0.0/16
+https://128.111.17.40,pubs.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.41,ram.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.104,titan.dept.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.105,OPENSSL,128.111.0.0/16
+https://128.111.17.107,gus.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.112,OPENSSL,128.111.0.0/16
+https://128.111.17.143,OPENSSL,128.111.0.0/16
+https://128.111.17.144,vpn.physics.ucsb.edu,128.111.0.0/16
+https://128.111.17.172,VMware,128.111.0.0/16
+https://128.111.18.91,quarterpounder.inst.physics.ucsb.edu,128.111.0.0/16
+https://128.111.18.184,OPENSSL,128.111.0.0/16
+https://128.111.18.254,192.168.168.168,128.111.0.0/16
+https://128.111.19.35,localhost.localdomain,128.111.0.0/16
+https://128.111.19.37,stuart.physics.ucsb.edu,128.111.0.0/16
+https://128.111.19.75,localhost.localdomain,128.111.0.0/16
+https://128.111.19.100,OPENSSL,128.111.0.0/16
+https://128.111.19.109,www.example.com,128.111.0.0/16
+https://128.111.19.129,wimp.physics.ucsb.edu,128.111.0.0/16
+https://128.111.19.152,localhost.localdomain,128.111.0.0/16
+https://128.111.19.159,cms9.physics.ucsb.edu,128.111.0.0/16
+https://128.111.19.173,hepdhcp8.physics.ucsb.edu,128.111.0.0/16
+https://128.111.19.174,localhost.localdomain,128.111.0.0/16
+https://128.111.21.72,webtest.lscg.ucsb.edu,128.111.0.0/16
+https://128.111.21.200,smtp1.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.238,hrsweb-ext-c.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.241,vdi-ext.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.242,our.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.244,netnutrition.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.246,our.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.247,our.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.251,hrsweb-kx.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.252,wyse.housing.ucsb.edu,128.111.0.0/16
+https://128.111.21.253,vdi-ext.housing.ucsb.edu,128.111.0.0/16
+https://128.111.23.51,OPENSSL,128.111.0.0/16
+https://128.111.23.61,Thecus,128.111.0.0/16
+https://128.111.23.62,synology.com,128.111.0.0/16
+https://128.111.23.175,synology.com,128.111.0.0/16
+https://128.111.23.177,OPENSSL,128.111.0.0/16
+https://128.111.24.30,lists.noc.ucsb.edu,128.111.0.0/16
+https://128.111.24.43,ftp.ucsb.edu,128.111.0.0/16
+https://128.111.26.30,mail.mat.ucsb.edu,128.111.0.0/16
+https://128.111.26.72,Canon Imaging Product,128.111.0.0/16
+https://128.111.26.114,mail.mat.ucsb.edu,128.111.0.0/16
+https://128.111.26.116,svn.mat.ucsb.edu,128.111.0.0/16
+https://128.111.26.242,www.mat.ucsb.edu,128.111.0.0/16
+https://128.111.27.5,sole.eci.ucsb.edu,128.111.0.0/16
+https://128.111.27.8,www.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.10,lists.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.12,cgi.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.13,sohlab.engineering.ucsb.edu,128.111.0.0/16
+https://128.111.27.14,drupal.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.15,roid.eci.ucsb.edu,128.111.0.0/16
+https://128.111.27.17,*.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.18,webmail.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.31,lists.cs.ucsb.edu,128.111.0.0/16
+https://128.111.27.36,dom.eci.ucsb.edu,128.111.0.0/16
+https://128.111.27.37,HP Jetdirect 92B56D8C,128.111.0.0/16
+https://128.111.27.48,*.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.49,syslog.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.55,rt.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.66,github.ucsb.edu,128.111.0.0/16
+https://128.111.27.69,ocg.example.com,128.111.0.0/16
+https://128.111.27.74,accounts.engr.ucsb.edu,128.111.0.0/16
+https://128.111.27.146,stage.eci.ucsb.edu,128.111.0.0/16
+https://128.111.27.178,HP Jetdirect A04ED6B1,128.111.0.0/16
+https://128.111.28.4,www.msi-norco.ucsb.edu,128.111.0.0/16
+https://128.111.28.22,www.msi-norco.ucsb.edu,128.111.0.0/16
+https://128.111.28.72,ilabsvn.cs.ucsb.edu,128.111.0.0/16
+https://128.111.28.73,visual.cs.ucsb.edu,128.111.0.0/16
+https://128.111.28.115,ubuntu,128.111.0.0/16
+https://128.111.32.67,OPENSSL,128.111.0.0/16
+https://128.111.32.75,192.168.0.2,128.111.0.0/16
+https://128.111.32.99,NPICD205C,128.111.0.0/16
+https://128.111.32.100,NPIF5D7F8.fis.ucsb.edu,128.111.0.0/16
+https://128.111.34.241,128.111.34.241,128.111.0.0/16
+https://128.111.36.102,iDRAC6 default certificate,128.111.0.0/16
+https://128.111.36.106,HP Jetdirect 9987E39B,128.111.0.0/16
+https://128.111.40.31,*.vlab.cs.ucsb.edu,128.111.0.0/16
+https://128.111.40.40,foo.cs.ucsb.edu,128.111.0.0/16
+https://128.111.40.81,piano.cs.ucsb.edu,128.111.0.0/16
+https://128.111.40.186,localhost.localdomain,128.111.0.0/16
+https://128.111.40.191,OPENSSL,128.111.0.0/16
+https://128.111.40.217,trial.cs.ucsb.edu,128.111.0.0/16
+https://128.111.40.244,cerebro,128.111.0.0/16
+https://128.111.41.24,ftp.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.26,*.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.34,HPCF1270,128.111.0.0/16
+https://128.111.41.47,z.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.55,thor.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.61,submit.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.171,HP Jetdirect 7D6E1C4D,128.111.0.0/16
+https://128.111.41.210,NPI0F7F71.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.241,OPENSSL,128.111.0.0/16
+https://128.111.41.242,HP Jetdirect A13403FA,128.111.0.0/16
+https://128.111.41.246,HP Jetdirect 99AB89A6,128.111.0.0/16
+https://128.111.41.250,NPID92B7C.cs.ucsb.edu,128.111.0.0/16
+https://128.111.41.251,NPI5C7812,128.111.0.0/16
+https://128.111.43.15,alumni.cs.ucsb.edu,128.111.0.0/16
+https://128.111.44.156,matador.cs.ucsb.edu,128.111.0.0/16
+https://128.111.44.173,localhost.localdomain,128.111.0.0/16
+https://128.111.44.234,Victor Amelkin,128.111.0.0/16
+https://128.111.44.253,HP Jetdirect 7D7DC13A,128.111.0.0/16
+https://128.111.45.216,apcloud.synology.me,128.111.0.0/16
+https://128.111.45.247,localhost.localdomain,128.111.0.0/16
+https://128.111.45.248,stars.cs.ucsb.edu,128.111.0.0/16
+https://128.111.46.50,NPI616725,128.111.0.0/16
+https://128.111.46.173,OPENSSL,128.111.0.0/16
+https://128.111.46.228,hipcheck.cs.ucsb.edu,128.111.0.0/16
+https://128.111.46.243,verde.cs.ucsb.edu,128.111.0.0/16
+https://128.111.48.14,goodbye-anubis-wepawet.seclab.cs.ucsb.edu,128.111.0.0/16
+https://128.111.48.16,ccs2016.cs.ucsb.edu,128.111.0.0/16
+https://128.111.48.60,ictf.cs.ucsb.edu,128.111.0.0/16
+https://128.111.48.64,ccs2015.cs.ucsb.edu,128.111.0.0/16
+https://128.111.48.75,seclab.cs.ucsb.edu,128.111.0.0/16
+https://128.111.48.139,git.cao.vc,128.111.0.0/16
+https://128.111.48.171,git.seclab.cs.ucsb.edu,128.111.0.0/16
+https://128.111.50.18,NPIC1D20E.engr.ucsb.edu,128.111.0.0/16
+https://128.111.50.31,OPENSSL,128.111.0.0/16
+https://128.111.50.59,NPID870D4.engr.ucsb.edu,128.111.0.0/16
+https://128.111.50.71,NPI60005D,128.111.0.0/16
+https://128.111.50.99,OPENSSL,128.111.0.0/16
+https://128.111.50.128,NPI61A245.engr.ucsb.edu,128.111.0.0/16
+https://128.111.50.165,HP Jetdirect D1A4D591,128.111.0.0/16
+https://128.111.50.187,NPI001339.engr.ucsb.edu,128.111.0.0/16
+https://128.111.50.203,Canon iR-ADV,128.111.0.0/16
+https://128.111.50.227,HP Jetdirect 99A83631,128.111.0.0/16
+https://128.111.52.130,chuckwalla.cs.ucsb.edu,128.111.0.0/16
+https://128.111.52.242,HP Jetdirect 29204198,128.111.0.0/16
+https://128.111.53.80,HP Jetdirect 2B9FA1BE,128.111.0.0/16
+https://128.111.54.10,cf.cs.ucsb.edu,128.111.0.0/16
+https://128.111.54.20,HP Jetdirect D1A97B6A,128.111.0.0/16
+https://128.111.54.66,test.arcticdata.io,128.111.0.0/16
+https://128.111.54.67,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.68,quality.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.54.69,goa.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.54.70,OPENSSL,128.111.0.0/16
+https://128.111.54.74,datateam.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.54.75,ncei.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.54.76,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.77,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.78,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.79,*.dataone.org,128.111.0.0/16
+https://128.111.54.80,*.dataone.org,128.111.0.0/16
+https://128.111.54.81,*.dataone.org,128.111.0.0/16
+https://128.111.54.82,data.esa.org,128.111.0.0/16
+https://128.111.54.83,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.84,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.85,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.86,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.87,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.88,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.89,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.91,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.92,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.93,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.96,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.97,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.98,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.99,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.100,dev.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.54.108,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.109,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.110,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.111,knb.ecoinformatics.org,128.111.0.0/16
+https://128.111.54.112,*.test.dataone.org,128.111.0.0/16
+https://128.111.54.113,data.snap.is,128.111.0.0/16
+https://128.111.54.114,data.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.54.117,*.dataone.org,128.111.0.0/16
+https://128.111.54.119,monitor-ucsb-1.dataone.org,128.111.0.0/16
+https://128.111.54.131,Fireware web CA,128.111.0.0/16
+https://128.111.55.8,OPENSSL,128.111.0.0/16
+https://128.111.55.28,perl.cs.ucsb.edu,128.111.0.0/16
+https://128.111.56.7,OPENSSL,128.111.0.0/16
+https://128.111.56.18,NPI5FDEC0.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.36,apex.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.56,gate.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.57,HP Jetdirect 4B130A00,128.111.0.0/16
+https://128.111.56.59,Dell-C2660dn-0CB2A8,128.111.0.0/16
+https://128.111.56.89,HP Jetdirect 743370E5,128.111.0.0/16
+https://128.111.56.99,*.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.101,OPENSSL,128.111.0.0/16
+https://128.111.56.123,ns2.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.132,gus.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.159,helpdesk2.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.178,vm56-178,128.111.0.0/16
+https://128.111.56.182,logger.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.204,ubuntu,128.111.0.0/16
+https://128.111.56.210,mail.ece.ucsb.edu,128.111.0.0/16
+https://128.111.56.213,OPENSSL,128.111.0.0/16
+https://128.111.56.227,HP Jetdirect B8638B36,128.111.0.0/16
+https://128.111.56.241,HP Jetdirect 0112A769,128.111.0.0/16
+https://128.111.56.242,smbdc.ece.ucsb.edu,128.111.0.0/16
+https://128.111.57.99,Canon iR-ADV,128.111.0.0/16
+https://128.111.57.106,NPI5E9CB4.ece.ucsb.edu,128.111.0.0/16
+https://128.111.57.108,HP Jetdirect 2AF42402,128.111.0.0/16
+https://128.111.57.215,OPENSSL,128.111.0.0/16
+https://128.111.58.40,NPI170EA2.ece.ucsb.edu,128.111.0.0/16
+https://128.111.58.102,HP Jetdirect 99ADCA2B,128.111.0.0/16
+https://128.111.58.109,HP Jetdirect 4637D32A,128.111.0.0/16
+https://128.111.58.207,HP Jetdirect 5A7D98D4,128.111.0.0/16
+https://128.111.58.216,OPENSSL,128.111.0.0/16
+https://128.111.58.250,synology.com,128.111.0.0/16
+https://128.111.60.13,ubuntu,128.111.0.0/16
+https://128.111.60.57,biodev.ece.ucsb.edu,128.111.0.0/16
+https://128.111.60.58,dhcp60-58.ece.ucsb.edu,128.111.0.0/16
+https://128.111.60.102,flour.ece.ucsb.edu,128.111.0.0/16
+https://128.111.60.133,OPENSSL,128.111.0.0/16
+https://128.111.60.139,NPIBD7AB4,128.111.0.0/16
+https://128.111.60.188,Systems Bioimaging Lab,128.111.0.0/16
+https://128.111.60.190,OPENSSL,128.111.0.0/16
+https://128.111.60.200,Canon Imaging Product,128.111.0.0/16
+https://128.111.60.207,flour.ece.ucsb.edu,128.111.0.0/16
+https://128.111.60.222,ccdcsvn.ece.ucsb.edu,128.111.0.0/16
+https://128.111.60.246,localhost,128.111.0.0/16
+https://128.111.68.6,UBNT-44:D9:E7:A2:AE:20,128.111.0.0/16
+https://128.111.68.7,UBNT-44:D9:E7:A2:AD:82,128.111.0.0/16
+https://128.111.68.8,UBNT-80:2A:A8:24:F9:A8,128.111.0.0/16
+https://128.111.68.25,UBNT,128.111.0.0/16
+https://128.111.68.99,UBNT-24:A4:3C:8C:15:2B,128.111.0.0/16
+https://128.111.68.120,UBNT-44:D9:E7:C4:B1:6C,128.111.0.0/16
+https://128.111.68.122,OPENSSL,128.111.0.0/16
+https://128.111.68.220,hotcrp.cs.ucsb.edu,128.111.0.0/16
+https://128.111.69.6,class.arts.ucsb.edu,128.111.0.0/16
+https://128.111.69.7,crunch.arts.ucsb.edu,128.111.0.0/16
+https://128.111.69.21,artsite.arts.ucsb.edu,128.111.0.0/16
+https://128.111.70.33,HP Jetdirect 463FD36D,128.111.0.0/16
+https://128.111.70.37,NPI15722F.mee.ucsb.edu,128.111.0.0/16
+https://128.111.70.122,NPIF79014.mee.ucsb.edu,128.111.0.0/16
+https://128.111.70.165,HP Jetdirect 5A902B70,128.111.0.0/16
+https://128.111.70.168,NPI9F47F3.mee.ucsb.edu,128.111.0.0/16
+https://128.111.70.170,NPI20FD67,128.111.0.0/16
+https://128.111.70.179,NPIA1B2AC,128.111.0.0/16
+https://128.111.70.198,NPID17C54.mee.ucsb.edu,128.111.0.0/16
+https://128.111.70.199,NPI523337,128.111.0.0/16
+https://128.111.70.218,OPENSSL,128.111.0.0/16
+https://128.111.71.233,jtilbian.mat.ucsb.edu,128.111.0.0/16
+https://128.111.72.15,NPIEDC1CF.mee.ucsb.edu,128.111.0.0/16
+https://128.111.72.61,HP Jetdirect 5F6A13BE,128.111.0.0/16
+https://128.111.72.81,OPENSSL,128.111.0.0/16
+https://128.111.72.93,Preset Certificate,128.111.0.0/16
+https://128.111.72.115,HP Jetdirect BBDB69AE,128.111.0.0/16
+https://128.111.72.117,HP Jetdirect 0B0AF89F,128.111.0.0/16
+https://128.111.72.140,HP Jetdirect 463FF378,128.111.0.0/16
+https://128.111.72.201,HP Jetdirect 7D85A0E6,128.111.0.0/16
+https://128.111.72.250,HP Jetdirect B3F76202,128.111.0.0/16
+https://128.111.73.23,ccs.ucsb.edu,128.111.0.0/16
+https://128.111.73.198,pw-login.ets.ucsb.edu,128.111.0.0/16
+https://128.111.73.239,nas3.noc.ucsb.edu,128.111.0.0/16
+https://128.111.74.20,OPENSSL,128.111.0.0/16
+https://128.111.74.23,OPENSSL,128.111.0.0/16
+https://128.111.74.70,HP LaserJet 500 color M551 [BACE3F],128.111.0.0/16
+https://128.111.74.78,Linksys,128.111.0.0/16
+https://128.111.74.87,HP Jetdirect D1A14D6C,128.111.0.0/16
+https://128.111.74.250,OPENSSL,128.111.0.0/16
+https://128.111.76.172,giving.ucsb.edu,128.111.0.0/16
+https://128.111.76.175,OPENSSL,128.111.0.0/16
+https://128.111.76.193,secure.ia.ucsb.edu,128.111.0.0/16
+https://128.111.76.195,OPENSSL,128.111.0.0/16
+https://128.111.76.208,OPENSSL,128.111.0.0/16
+https://128.111.76.209,OPENSSL,128.111.0.0/16
+https://128.111.76.212,OPENSSL,128.111.0.0/16
+https://128.111.76.213,OPENSSL,128.111.0.0/16
+https://128.111.78.197,file-xfer.scre.ucsb.edu,128.111.0.0/16
+https://128.111.79.22,converge.facilities.ucsb.edu,128.111.0.0/16
+https://128.111.79.101,timecard.facilities.ucsb.edu,128.111.0.0/16
+https://128.111.82.28,HP Color LaserJet M553 B5L25A,128.111.0.0/16
+https://128.111.82.29,Dell B2360dn Laser Printer,128.111.0.0/16
+https://128.111.82.32,HP Jetdirect B3FB7216,128.111.0.0/16
+https://128.111.82.35,127.0.0.1,128.111.0.0/16
+https://128.111.82.36,HP Jetdirect C09028DB,128.111.0.0/16
+https://128.111.82.37,HP Jetdirect 2FF2FAFF,128.111.0.0/16
+https://128.111.82.38,Dell B2360dn Laser Printer,128.111.0.0/16
+https://128.111.82.39,HP Jetdirect 5A7C6CF4,128.111.0.0/16
+https://128.111.82.40,NPI14517C,128.111.0.0/16
+https://128.111.82.97,HP5A6911,128.111.0.0/16
+https://128.111.83.45,HP Color LaserJet M553 B5L25A,128.111.0.0/16
+https://128.111.83.121,OPENSSL,128.111.0.0/16
+https://128.111.83.142,NPI7ED02C,128.111.0.0/16
+https://128.111.83.177,HP Color LaserJet M553 B5L24A,128.111.0.0/16
+https://128.111.83.183,HP Jetdirect 99A80A7F,128.111.0.0/16
+https://128.111.83.226,OPENSSL,128.111.0.0/16
+https://128.111.84.21,test.lternet.org,128.111.0.0/16
+https://128.111.84.26,aurora.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.28,im-sandbox.lternet.edu,128.111.0.0/16
+https://128.111.84.31,OPENSSL,128.111.0.0/16
+https://128.111.84.35,kepler-project.org,128.111.0.0/16
+https://128.111.84.36,groups.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.37,*.dataone.org,128.111.0.0/16
+https://128.111.84.38,bestat.ecoinformatics.org,128.111.0.0/16
+https://128.111.84.40,help.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.41,conference.ecoinformatics.org,128.111.0.0/16
+https://128.111.84.46,admin.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.47,alaskasalmonandpeople.org,128.111.0.0/16
+https://128.111.84.54,ceiba.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.58,identity.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.60,ldap.ecoinformatics.org,128.111.0.0/16
+https://128.111.84.61,code.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.62,code.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.63,code.ecoinformatics.org,128.111.0.0/16
+https://128.111.84.64,code.kepler-project.org,128.111.0.0/16
+https://128.111.84.65,*.dataone.org,128.111.0.0/16
+https://128.111.84.80,github.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.81,aoncadis.org,128.111.0.0/16
+https://128.111.84.82,support.nceas.ucsb.edu,128.111.0.0/16
+http://128.111.84.88,,128.111.0.0/16
+https://128.111.84.89,lternet.edu,128.111.0.0/16
+https://128.111.84.90,mazu.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.93,dbadmin2.lternet.edu,128.111.0.0/16
+https://128.111.84.95,lists.lternet.edu,128.111.0.0/16
+https://128.111.84.98,roy.nceas.ucsb.edu,128.111.0.0/16
+https://128.111.84.131,eci-01.eci.ucsb.edu,128.111.0.0/16
+https://128.111.86.7,ebba.english.ucsb.edu,128.111.0.0/16
+https://128.111.86.8,rose.english.ucsb.edu,128.111.0.0/16
+https://128.111.86.11,english.ucsb.edu,128.111.0.0/16
+https://128.111.86.17,webster.lan.english.ucsb.edu,128.111.0.0/16
+https://128.111.86.251,beeb.english.ucsb.edu,128.111.0.0/16
+https://128.111.87.2,zabbix.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.5,help.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.13,mwf.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.23,stash.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.25,wiki.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.33,*.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.38,graylog.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.54,*.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.56,collabsecrets.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.66,FMI Default Certificate,128.111.0.0/16
+https://128.111.87.76,www.victor.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.81,VMware,128.111.0.0/16
+https://128.111.87.83,VMware default certificate,128.111.0.0/16
+https://128.111.87.110,ca.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.113,mwf.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.115,ares.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.137,OPENSSL,128.111.0.0/16
+https://128.111.87.141,crestron.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.142,reset.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.167,github.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.177,VMware,128.111.0.0/16
+https://128.111.87.187,OPENSSL,128.111.0.0/16
+https://128.111.87.196,FMI Certificate Authority,128.111.0.0/16
+https://128.111.87.198,vpn.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.199,gateway.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.209,eset6.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.210,OPENSSL,128.111.0.0/16
+https://128.111.87.214,ca.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.224,arcgis1.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.232,lansweeper1.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.240,OPENSSL,128.111.0.0/16
+https://128.111.87.248,www.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.249,www.library.ucsb.edu,128.111.0.0/16
+https://128.111.87.250,www.library.ucsb.edu,128.111.0.0/16
+https://128.111.88.6,self-help.math.ucsb.edu,128.111.0.0/16
+https://128.111.88.13,mail.math.ucsb.edu,128.111.0.0/16
+https://128.111.88.14,ILOWWW,128.111.0.0/16
+https://128.111.88.22,ILOMXQ538057J,128.111.0.0/16
+https://128.111.88.36,OPENSSL,128.111.0.0/16
+https://128.111.88.53,OPENSSL,128.111.0.0/16
+https://128.111.88.37,localhost.localdomain,128.111.0.0/16
+https://128.111.88.233,OPENSSL,128.111.0.0/16
+https://128.111.88.236,OPENSSL,128.111.0.0/16
+https://128.111.88.252,kepler.math.ucsb.edu,128.111.0.0/16
+https://128.111.90.3,chef.lifesci.ucsb.edu,128.111.0.0/16
+https://128.111.90.5,mailman.lifesci.ucsb.edu,128.111.0.0/16
+https://128.111.90.8,www.lscg.ucsb.edu,128.111.0.0/16
+https://128.111.90.13,antivirus.lscg.ucsb.edu,128.111.0.0/16
+https://128.111.90.14,zabbix.lscg.ucsb.edu,128.111.0.0/16
+https://128.111.90.18,www.sagecenter.ucsb.edu,128.111.0.0/16
+https://128.111.90.21,localhost.localdomain,128.111.0.0/16
+https://128.111.90.31,develop.ads.lifesci.ucsb.edu,128.111.0.0/16
+https://128.111.90.41,webmail.lifesci.ucsb.edu,128.111.0.0/16
+https://128.111.90.44,biology.ucsb.edu,128.111.0.0/16
+http://128.111.90.49,,128.111.0.0/16
+https://128.111.90.55,biosci.mcdb.ucsb.edu,128.111.0.0/16
+https://128.111.90.65,OPENSSL,128.111.0.0/16
+https://128.111.90.67,OPENSSL,128.111.0.0/16
+https://128.111.90.74,wiki.lscg.ucsb.edu,128.111.0.0/16
+https://128.111.90.85,mailman.psych.ucsb.edu,128.111.0.0/16
+https://128.111.90.91,sharepoint.mcdb.ucsb.edu,128.111.0.0/16
+https://128.111.90.93,lists.chem.ucsb.edu,128.111.0.0/16
+https://128.111.90.99,wikis.eemb.ucsb.edu,128.111.0.0/16
+https://128.111.90.133,jayne.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.90.135,zm.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.90.138,lists.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.90.140,secure.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.90.148,vlab.collaborate.ucsb.edu,128.111.0.0/16
+https://128.111.90.149,services.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.90.150,printing.collaborate.ucsb.edu,128.111.0.0/16
+https://128.111.90.170,archive.gauchospace.ucsb.edu,128.111.0.0/16
+https://128.111.90.189,sysadmin.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.90.190,webapps.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.94.42,Canon iR-ADV,128.111.0.0/16
+https://128.111.95.16,VMware,128.111.0.0/16
+https://128.111.95.142,AWiND,128.111.0.0/16
+https://128.111.95.143,AWiND,128.111.0.0/16
+https://128.111.95.144,AWiND,128.111.0.0/16
+https://128.111.96.53,VMware,128.111.0.0/16
+https://128.111.96.65,VMware,128.111.0.0/16
+https://128.111.96.210,VMware,128.111.0.0/16
+https://128.111.96.211,ClickShare-1871993665,128.111.0.0/16
+https://128.111.97.156,VMware,128.111.0.0/16
+https://128.111.97.230,VMware,128.111.0.0/16
+https://128.111.97.233,VMware,128.111.0.0/16
+https://128.111.97.240,VMware,128.111.0.0/16
+https://128.111.97.243,VMware,128.111.0.0/16
+https://128.111.97.245,VMware,128.111.0.0/16
+https://128.111.98.1,Fireware web CA,128.111.0.0/16
+https://128.111.98.37,profiles.research.ucsb.edu,128.111.0.0/16
+https://128.111.98.40,globalengagement.ucsb.edu,128.111.0.0/16
+https://128.111.98.41,sp.research.ucsb.edu,128.111.0.0/16
+https://128.111.98.47,undergrad.research.ucsb.edu,128.111.0.0/16
+https://128.111.98.80,oru.research.ucsb.edu,128.111.0.0/16
+https://128.111.98.86,orahs.research.ucsb.edu,128.111.0.0/16
+https://128.111.100.88,eri.ucsb.edu,128.111.0.0/16
+https://128.111.100.89,fang.eri.ucsb.edu,128.111.0.0/16
+https://128.111.100.91,trailcamp.eri.ucsb.edu,128.111.0.0/16
+https://128.111.100.92,eri.ucsb.edu,128.111.0.0/16
+https://128.111.100.93,eri.ucsb.edu,128.111.0.0/16
+https://128.111.100.94,silk.eri.ucsb.edu,128.111.0.0/16
+https://128.111.100.250,wikid.eri.ucsb.edu,128.111.0.0/16
+https://128.111.104.23,aten.ucsbgeog-viper.geog.ucsb.edu,128.111.0.0/16
+https://128.111.104.37,ldap.geog.ucsb.edu,128.111.0.0/16
+https://128.111.104.59,OPENSSL,128.111.0.0/16
+https://128.111.104.60,OPENSSL,128.111.0.0/16
+https://128.111.104.61,OPENSSL,128.111.0.0/16
+https://128.111.104.150,OPENSSL,128.111.0.0/16
+https://128.111.104.159,OPENSSL,128.111.0.0/16
+https://128.111.104.242,OPENSSL,128.111.0.0/16
+https://128.111.106.27,NPIBDCF06.geog.ucsb.edu,128.111.0.0/16
+https://128.111.106.33,HP Jetdirect 7D6F65DB,128.111.0.0/16
+https://128.111.106.53,helios.geog.ucsb.edu,128.111.0.0/16
+https://128.111.106.62,NPIB3A2DE,128.111.0.0/16
+https://128.111.106.71,NPI61FB00,128.111.0.0/16
+https://128.111.106.76,OPENSSL,128.111.0.0/16
+https://128.111.106.160,OPENSSL,128.111.0.0/16
+https://128.111.106.185,NPI0F4C22.geog.ucsb.edu,128.111.0.0/16
+https://128.111.106.187,hed-server3.ucsbgeog-hed.geog.ucsb.edu,128.111.0.0/16
+https://128.111.106.193,OPENSSL,128.111.0.0/16
+https://128.111.106.203,NPIB946E2.geog.ucsb.edu,128.111.0.0/16
+https://128.111.106.226,IPMI,128.111.0.0/16
+https://128.111.106.243,QNAP NAS,128.111.0.0/16
+https://128.111.108.12,128.111.108.12,128.111.0.0/16
+https://128.111.108.16,HP Jetdirect D70DDB8D,128.111.0.0/16
+https://128.111.108.22,Webb1006-Color,128.111.0.0/16
+https://128.111.108.36,keyreporter,128.111.0.0/16
+https://128.111.108.140,SLS,128.111.0.0/16
+https://128.111.108.207,FMI Default Certificate,128.111.0.0/16
+https://128.111.108.227,MLC,128.111.0.0/16
+https://128.111.108.228,MLC,128.111.0.0/16
+https://128.111.110.134,OPENSSL,128.111.0.0/16
+https://128.111.114.12,www.chem.ucsb.edu,128.111.0.0/16
+https://128.111.114.118,help.chem.ucsb.edu,128.111.0.0/16
+https://128.111.116.44,kalev.chem.ucsb.edu,128.111.0.0/16
+https://128.111.117.240,programreview.ucsb.edu,128.111.0.0/16
+https://128.111.117.241,aait.ucsb.edu,128.111.0.0/16
+https://128.111.117.242,ombuds.ucsb.edu,128.111.0.0/16
+https://128.111.117.243,oeosh.ucsb.edu,128.111.0.0/16
+https://128.111.117.244,dev2.aait.ucsb.edu,128.111.0.0/16
+https://128.111.117.245,oep.ucsb.edu,128.111.0.0/16
+https://128.111.117.246,OPENSSL,128.111.0.0/16
+https://128.111.117.248,ap.ucsb.edu,128.111.0.0/16
+https://128.111.117.249,evc.ucsb.edu,128.111.0.0/16
+https://128.111.117.250,apps.oep.ucsb.edu,128.111.0.0/16
+https://128.111.117.251,dev.aait.ucsb.edu,128.111.0.0/16
+https://128.111.119.3,mc-cam.ucsb.edu,128.111.0.0/16
+https://128.111.119.5,elab.mrl.ucsb.edu,128.111.0.0/16
+https://128.111.119.9,HP Jetdirect 7D8C8179,128.111.0.0/16
+https://128.111.119.23,HP Jetdirect 2924D580,128.111.0.0/16
+https://128.111.119.35,HP Jetdirect 7D8C376C,128.111.0.0/16
+https://128.111.119.73,HP Jetdirect FBEB4A95,128.111.0.0/16
+https://128.111.119.81,mrl.ucsb.edu,128.111.0.0/16
+https://128.111.119.102,localhost.localdomain,128.111.0.0/16
+https://128.111.121.20,sysinfo,128.111.0.0/16
+https://128.111.121.21,OPENSSL,128.111.0.0/16
+https://128.111.121.25,logon.timekeeping.ucsb.edu,128.111.0.0/16
+https://128.111.121.26,fogbugz.isc.ucsb.edu,128.111.0.0/16
+https://128.111.121.30,OPENSSL,128.111.0.0/16
+https://128.111.121.31,OPENSSL,128.111.0.0/16
+https://128.111.121.32,sysinfo,128.111.0.0/16
+https://128.111.121.33,gitlab.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.39,monitor1.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.67,OPENSSL,128.111.0.0/16
+https://128.111.121.70,OPENSSL,128.111.0.0/16
+https://128.111.121.71,puppet.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.75,ipam.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.76,screenconnect.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.80,alert.ucsb.edu,128.111.0.0/16
+https://128.111.121.82,gateway.procurement.ucsb.edu,128.111.0.0/16
+https://128.111.121.83,OPENSSL,128.111.0.0/16
+https://128.111.121.85,gateway.dev.procurement.ucsb.edu,128.111.0.0/16
+https://128.111.121.86,gateway.test.procurement.ucsb.edu,128.111.0.0/16
+https://128.111.121.87,gateway.uat.procurement.ucsb.edu,128.111.0.0/16
+https://128.111.121.97,listserv.ucsb.edu,128.111.0.0/16
+https://128.111.121.119,api-2.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.122,rdp-gate.systems.isc.ucsb.edu,128.111.0.0/16
+https://128.111.121.131,mftdev.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.132,mft.ets.ucsb.edu,128.111.0.0/16
+https://128.111.121.180,dms.senate.uci.edu,128.111.0.0/16
+https://128.111.121.191,map.geog.ucsb.edu,128.111.0.0/16
+https://128.111.125.110,overseer.ets.ucsb.edu,128.111.0.0/16
+https://128.111.126.15,UBNT-44:D9:E7:D8:3E:3E,128.111.0.0/16
+https://128.111.126.16,UBNT-44:D9:E7:D8:37:8B,128.111.0.0/16
+https://128.111.126.17,UBNT-44:D9:E7:D8:35:93,128.111.0.0/16
+https://128.111.126.18,UBNT-44:D9:E7:D8:35:9F,128.111.0.0/16
+https://128.111.126.21,HP Jetdirect B86270AC,128.111.0.0/16
+https://128.111.126.38,UBNT-04:18:D6:4A:93:56,128.111.0.0/16
+https://128.111.126.39,UBNT-04:18:D6:4A:92:FA,128.111.0.0/16
+https://128.111.126.40,UBNT-44:D9:E7:D8:38:6D,128.111.0.0/16
+https://128.111.126.44,UBNT-44:D9:E7:D8:38:6C,128.111.0.0/16
+https://128.111.126.45,UBNT-44:D9:E7:D8:35:7F,128.111.0.0/16
+https://128.111.126.46,UBNT-04:18:D6:6A:ED:39,128.111.0.0/16
+https://128.111.126.47,UBNT-04:18:D6:6A:EA:C0,128.111.0.0/16
+https://128.111.126.93,ventana.gauchospace.ucsb.edu,128.111.0.0/16
+https://128.111.126.94,gauchospace.ucsb.edu,128.111.0.0/16
+https://128.111.126.100,grumpy.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.126.101,sleepy.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.126.109,WMSvc-PANDORA,128.111.0.0/16
+https://128.111.126.111,thebeach.gauchospace.ucsb.edu,128.111.0.0/16
+https://128.111.126.115,webwork.collaborate.ucsb.edu,128.111.0.0/16
+https://128.111.126.133,files.kcsb.org,128.111.0.0/16
+https://128.111.126.134,192.168.1.108,128.111.0.0/16
+https://128.111.126.136,Media-Server.local,128.111.0.0/16
+https://128.111.126.144,FMI Default Certificate,128.111.0.0/16
+https://128.111.126.162,sagedemo.com,128.111.0.0/16
+https://128.111.126.181,mini.kcsb.org,128.111.0.0/16
+https://128.111.126.182,mini2.kcsb.org,128.111.0.0/16
+https://128.111.126.186,OPENSSL,128.111.0.0/16
+https://128.111.126.187,UBNT,128.111.0.0/16
+https://128.111.127.180,OPENSSL,128.111.0.0/16
+https://128.111.128.87,VIDEOSERVER2,128.111.0.0/16
+https://128.111.128.139,OPENSSL,128.111.0.0/16
+https://128.111.128.140,device3266114-2a79967b.wd2go.com,128.111.0.0/16
+https://128.111.128.254,OPENSSL,128.111.0.0/16
+https://128.111.129.34,mnl.ucsb.edu,128.111.0.0/16
+https://128.111.129.35,mnl.ucsb.edu,128.111.0.0/16
+https://128.111.129.62,OPENSSL,128.111.0.0/16
+https://128.111.130.20,OPENSSL,128.111.0.0/16
+https://128.111.130.104,OPENSSL,128.111.0.0/16
+https://128.111.136.12,OPENSSL,128.111.0.0/16
+https://128.111.138.3,lists.id.ucsb.edu,128.111.0.0/16
+https://128.111.138.5,webhost01.id.ucsb.edu,128.111.0.0/16
+https://128.111.138.13,gauchocast.ucsb.edu,128.111.0.0/16
+https://128.111.138.37,esci.id.ucsb.edu,128.111.0.0/16
+https://128.111.138.49,arcanus.id.ucsb.edu,128.111.0.0/16
+https://128.111.138.66,aw-dgurba,128.111.0.0/16
+https://128.111.143.112,OPENSSL,128.111.0.0/16
+https://128.111.143.113,*.as.ucsb.edu,128.111.0.0/16
+https://128.111.143.115,*.as.ucsb.edu,128.111.0.0/16
+https://128.111.143.117,*.as.ucsb.edu,128.111.0.0/16
+https://128.111.143.120,events.ucsb.edu,128.111.0.0/16
+https://128.111.143.254,OPENSSL,128.111.0.0/16
+https://128.111.144.50,HP Jetdirect E13A6A62,128.111.0.0/16
+https://128.111.144.110,NPI664A1B.mee.ucsb.edu,128.111.0.0/16
+https://128.111.147.12,osticket.isber.ucsb.edu,128.111.0.0/16
+https://128.111.147.101,iDRAC6 default certificate,128.111.0.0/16
+https://128.111.147.238,support.avss.ucsb.edu,128.111.0.0/16
+https://128.111.149.180,HP Jetdirect 7D742025,128.111.0.0/16
+https://128.111.150.7,HP Jetdirect 2FF5514F,128.111.0.0/16
+https://128.111.150.36,NPI102775,128.111.0.0/16
+https://128.111.150.37,HP Jetdirect 2FF1BF0A,128.111.0.0/16
+https://128.111.150.38,HP Jetdirect B85E0083,128.111.0.0/16
+https://128.111.150.43,OPENSSL,128.111.0.0/16
+https://128.111.150.76,HP Jetdirect 05EAFE05,128.111.0.0/16
+https://128.111.150.89,HP Jetdirect 4B162061,128.111.0.0/16
+https://128.111.150.90,HP Jetdirect 9987C3FE,128.111.0.0/16
+https://128.111.150.92,synology.com,128.111.0.0/16
+https://128.111.158.63,senate.ucsb.edu,128.111.0.0/16
+https://128.111.160.130,analytics.ets.ucsb.edu,128.111.0.0/16
+https://128.111.160.134,lists.connect.ucsb.edu,128.111.0.0/16
+https://128.111.160.135,it.ucsb.edu,128.111.0.0/16
+https://128.111.160.144,eis.identity.ucsb.edu,128.111.0.0/16
+https://128.111.160.145,eis.identity.ucsb.edu,128.111.0.0/16
+https://128.111.160.174,shib.identity.ucsb.edu,128.111.0.0/16
+https://128.111.160.175,shib.identity.ucsb.edu,128.111.0.0/16
+https://128.111.160.226,directory.ucsb.edu,128.111.0.0/16
+https://128.111.160.228,secure.identity.ucsb.edu,128.111.0.0/16
+https://128.111.160.237,www.im.ucsb.edu,128.111.0.0/16
+https://128.111.164.65,HP Jetdirect 781369D7,128.111.0.0/16
+https://128.111.164.141,QNAP NAS,128.111.0.0/16
+https://128.111.165.46,OPENSSL,128.111.0.0/16
+https://128.111.165.52,OPENSSL,128.111.0.0/16
+https://128.111.165.63,host165-63.lsdepts.ucsb.edu,128.111.0.0/16
+https://128.111.168.213,webapps.ucen.ucsb.edu,128.111.0.0/16
+https://128.111.173.2,passport.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.4,passport2.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.91,OPENSSL,128.111.0.0/16
+https://128.111.173.104,studentvisa.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.105,visitorvisa.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.115,OPENSSL,128.111.0.0/16
+https://128.111.173.116,OPENSSL,128.111.0.0/16
+https://128.111.173.117,OPENSSL,128.111.0.0/16
+https://128.111.173.118,OPENSSL,128.111.0.0/16
+https://128.111.173.120,register.recreation.ucsb.edu,128.111.0.0/16
+https://128.111.173.124,OPENSSL,128.111.0.0/16
+https://128.111.173.125,OPENSSL,128.111.0.0/16
+https://128.111.173.127,OPENSSL,128.111.0.0/16
+https://128.111.173.128,OPENSSL,128.111.0.0/16
+https://128.111.173.129,spamfilter.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.130,studenthealthoc.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.132,OPENSSL,128.111.0.0/16
+https://128.111.173.135,help.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.136,OPENSSL,128.111.0.0/16
+https://128.111.173.137,OPENSSL,128.111.0.0/16
+https://128.111.173.138,OPENSSL,128.111.0.0/16
+https://128.111.173.139,OPENSSL,128.111.0.0/16
+https://128.111.173.141,policy.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.142,OPENSSL,128.111.0.0/16
+https://128.111.173.143,OPENSSL,128.111.0.0/16
+https://128.111.173.144,OPENSSL,128.111.0.0/16
+https://128.111.173.147,OPENSSL,128.111.0.0/16
+https://128.111.173.148,OPENSSL,128.111.0.0/16
+https://128.111.173.149,OPENSSL,128.111.0.0/16
+https://128.111.173.150,OPENSSL,128.111.0.0/16
+https://128.111.173.151,OPENSSL,128.111.0.0/16
+https://128.111.173.153,OPENSSL,128.111.0.0/16
+https://128.111.173.154,OPENSSL,128.111.0.0/16
+https://128.111.173.155,OPENSSL,128.111.0.0/16
+https://128.111.173.156,OPENSSL,128.111.0.0/16
+https://128.111.173.158,webmail.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.159,OPENSSL,128.111.0.0/16
+https://128.111.173.160,OPENSSL,128.111.0.0/16
+https://128.111.173.162,OPENSSL,128.111.0.0/16
+https://128.111.173.163,OPENSSL,128.111.0.0/16
+https://128.111.173.164,OPENSSL,128.111.0.0/16
+https://128.111.173.165,OPENSSL,128.111.0.0/16
+https://128.111.173.166,OPENSSL,128.111.0.0/16
+https://128.111.173.168,OPENSSL,128.111.0.0/16
+https://128.111.173.170,OPENSSL,128.111.0.0/16
+https://128.111.173.173,OPENSSL,128.111.0.0/16
+https://128.111.173.175,OPENSSL,128.111.0.0/16
+https://128.111.173.178,OPENSSL,128.111.0.0/16
+https://128.111.173.179,OPENSSL,128.111.0.0/16
+https://128.111.173.180,OPENSSL,128.111.0.0/16
+https://128.111.173.181,counselingoc.sa.ucsb.edu,128.111.0.0/16
+https://128.111.173.182,OPENSSL,128.111.0.0/16
+https://128.111.173.183,OPENSSL,128.111.0.0/16
+https://128.111.173.187,OPENSSL,128.111.0.0/16
+https://128.111.173.189,OPENSSL,128.111.0.0/16
+https://128.111.173.192,OPENSSL,128.111.0.0/16
+https://128.111.173.194,OPENSSL,128.111.0.0/16
+https://128.111.173.195,OPENSSL,128.111.0.0/16
+https://128.111.173.196,OPENSSL,128.111.0.0/16
+https://128.111.173.197,OPENSSL,128.111.0.0/16
+https://128.111.173.202,OPENSSL,128.111.0.0/16
+https://128.111.173.203,OPENSSL,128.111.0.0/16
+https://128.111.173.221,OPENSSL,128.111.0.0/16
+https://128.111.173.222,OPENSSL,128.111.0.0/16
+https://128.111.174.83,192.168.1.20,128.111.0.0/16
+https://128.111.174.84,zin.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.174.138,portal-dev.scre.ucsb.edu,128.111.0.0/16
+https://128.111.174.139,portal.scre.ucsb.edu,128.111.0.0/16
+https://128.111.174.171,localhost.localdomain,128.111.0.0/16
+https://128.111.174.187,ps-prp-10g.noc.ucsb.edu,128.111.0.0/16
+https://128.111.174.218,ps.vpn.ucsb.edu,128.111.0.0/16
+https://128.111.175.4,chancellor.ucsb.edu,128.111.0.0/16
+https://128.111.179.11,HP Jetdirect 923F091C,128.111.0.0/16
+https://128.111.179.34,NPI6959CE.materials.ucsb.edu,128.111.0.0/16
+https://128.111.179.37,OPENSSL,128.111.0.0/16
+https://128.111.179.46,HP Jetdirect B14E5716,128.111.0.0/16
+https://128.111.179.47,HP Jetdirect B861FD58,128.111.0.0/16
+https://128.111.179.54,HP Jetdirect 05FDB6A0,128.111.0.0/16
+https://128.111.179.81,HP Jetdirect 38D03C24,128.111.0.0/16
+https://128.111.179.104,HP Jetdirect 365EAD81,128.111.0.0/16
+https://128.111.179.117,NPIAEA508,128.111.0.0/16
+https://128.111.179.130,eucalyptus-00.cs.ucsb.edu,128.111.0.0/16
+https://128.111.179.143,OPENSSL,128.111.0.0/16
+https://128.111.179.144,OPENSSL,128.111.0.0/16
+https://128.111.184.11,tps-web1.tps.ucsb.edu,128.111.0.0/16
+https://128.111.185.6,localhost.localdomain,128.111.0.0/16
+https://128.111.185.46,128.111.185.46,128.111.0.0/16
+https://128.111.185.50,HP Jetdirect 38D92AA1,128.111.0.0/16
+https://128.111.185.87,HP Jetdirect E5D8AEA8,128.111.0.0/16
+https://128.111.185.149,loup.ece.ucsb.edu,128.111.0.0/16
+https://128.111.186.3,HP Jetdirect 365E90D7,128.111.0.0/16
+https://128.111.186.122,OPENSSL,128.111.0.0/16
+https://128.111.186.223,muster.education.ucsb.edu,128.111.0.0/16
+https://128.111.186.243,sauron.education.ucsb.edu,128.111.0.0/16
+https://128.111.192.32,OPENSSL,128.111.0.0/16
+https://128.111.192.102,OPENSSL,128.111.0.0/16
+https://128.111.192.218,OPENSSL,128.111.0.0/16
+https://128.111.193.15,OPENSSL,128.111.0.0/16
+https://128.111.193.73,NPIE78DF0.ssldc.ucsb.edu,128.111.0.0/16
+https://128.111.199.31,OPENSSL,128.111.0.0/16
+https://128.111.199.42,OPENSSL,128.111.0.0/16
+https://128.111.199.66,OPENSSL,128.111.0.0/16
+https://128.111.199.73,AWiND,128.111.0.0/16
+https://128.111.206.10,HP Jetdirect 463D99BA,128.111.0.0/16
+https://128.111.206.16,OPENSSL,128.111.0.0/16
+https://128.111.206.17,HP Jetdirect 641E497E,128.111.0.0/16
+https://128.111.206.19,OPENSSL,128.111.0.0/16
+https://128.111.206.21,OPENSSL,128.111.0.0/16
+https://128.111.206.22,HP Jetdirect 386537F3,128.111.0.0/16
+https://128.111.206.29,NPI1A93D1.education.ucsb.edu,128.111.0.0/16
+https://128.111.206.30,HP Jetdirect 463D69E9,128.111.0.0/16
+https://128.111.206.40,NPIBD8B3B.education.ucsb.edu,128.111.0.0/16
+https://128.111.206.68,HP Jetdirect 74322D24,128.111.0.0/16
+https://128.111.206.85,HP Jetdirect 5A915B72,128.111.0.0/16
+https://128.111.206.93,NPIC30B39.education.ucsb.edu,128.111.0.0/16
+https://128.111.206.104,HP634A3B,128.111.0.0/16
+https://128.111.206.132,HP Jetdirect 3883DF21,128.111.0.0/16
+https://128.111.206.194,HP Jetdirect 641C7EF6,128.111.0.0/16
+https://128.111.206.199,NPI138B47,128.111.0.0/16
+https://128.111.206.201,HP Jetdirect 64418A63,128.111.0.0/16
+https://128.111.206.250,HP Jetdirect 5A9550CC,128.111.0.0/16
+https://128.111.207.6,HP Jetdirect 7449DF1C,128.111.0.0/16
+https://128.111.207.8,OPENSSL,128.111.0.0/16
+https://128.111.207.30,HP Jetdirect 38DBDA07,128.111.0.0/16
+https://128.111.207.32,HP Jetdirect D1A13DDF,128.111.0.0/16
+https://128.111.207.34,NPIF8134F,128.111.0.0/16
+https://128.111.207.97,OPENSSL,128.111.0.0/16
+https://128.111.207.207,OPENSSL,128.111.0.0/16
+https://128.111.207.210,secureweb.education.ucsb.edu,128.111.0.0/16
+https://128.111.207.234,passwordstate.ad.education.ucsb.edu,128.111.0.0/16
+https://128.111.207.242,apps.education.ucsb.edu,128.111.0.0/16
+https://128.111.215.3,OPENSSL,128.111.0.0/16
+https://128.111.215.5,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.7,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.12,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.17,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.27,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.28,OPENSSL,128.111.0.0/16
+https://128.111.215.56,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.82,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.97,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.99,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.101,eap.ucop.edu,128.111.0.0/16
+https://128.111.215.125,eap.ucop.edu,128.111.0.0/16
+https://128.111.216.125,WIN-K4ENUAR9ARR,128.111.0.0/16
+https://128.111.216.140,synology.com,128.111.0.0/16
+https://128.111.216.169,develop,128.111.0.0/16
+https://128.111.217.28,OPENSSL,128.111.0.0/16
+https://128.111.217.32,OPENSSL,128.111.0.0/16
+https://128.111.219.3,kant.pstat.ucsb.edu,128.111.0.0/16
+https://128.111.219.7,hilbert.pstat.ucsb.edu,128.111.0.0/16
+https://128.111.219.9,nevanlinna.pstat.ucsb.edu,128.111.0.0/16
+https://128.111.219.14,OPENSSL,128.111.0.0/16
+https://128.111.219.16,venus,128.111.0.0/16
+https://128.111.219.38,ILOMXQ601084G,128.111.0.0/16
+https://128.111.219.39,128.111.219.39,128.111.0.0/16
+https://128.111.219.51,mercury.pstat.ucsb.edu,128.111.0.0/16
+https://128.111.219.53,synology.com,128.111.0.0/16
+https://128.111.219.161,MLC,128.111.0.0/16
+https://128.111.219.174,OPENSSL,128.111.0.0/16
+https://128.111.219.213,host219-213.lsdepts.ucsb.edu,128.111.0.0/16
+https://128.111.219.216,booked.pstat.ucsb.edu,128.111.0.0/16
+https://128.111.219.239,idrac-GFDKMD2,128.111.0.0/16
+https://128.111.219.243,ILOMXQ641064S,128.111.0.0/16
+https://128.111.219.245,ILOMXQ63907VP,128.111.0.0/16
+https://128.111.220.163,OPENSSL,128.111.0.0/16
+https://128.111.221.44,drupal2.asit.ucsb.edu,128.111.0.0/16
+https://128.111.221.46,drupal1.arit.ucsb.edu,128.111.0.0/16
+https://128.111.221.79,webdiver.ehs.ucsb.edu,128.111.0.0/16
+https://128.111.221.165,OPENSSL,128.111.0.0/16
+https://128.111.224.151,OPENSSL,128.111.0.0/16
+https://128.111.224.160,OPENSSL,128.111.0.0/16
+https://128.111.224.195,OPENSSL,128.111.0.0/16
+https://128.111.224.208,OPENSSL,128.111.0.0/16
+https://128.111.224.227,nms.lsit.ucsb.edu,128.111.0.0/16
+https://128.111.224.238,OPENSSL,128.111.0.0/16
+https://128.111.225.5,web.econ.ucsb.edu,128.111.0.0/16
+https://128.111.225.6,econ.ucsb.edu,128.111.0.0/16
+https://128.111.225.15,localhost.localdomain,128.111.0.0/16
+https://128.111.225.21,HP Officejet Color X555 [BC6705],128.111.0.0/16
+https://128.111.225.22,NPIB81BD4,128.111.0.0/16
+https://128.111.225.78,NPIA96897,128.111.0.0/16
+https://128.111.225.157,OPENSSL,128.111.0.0/16
+https://128.111.225.183,OPENSSL,128.111.0.0/16
+https://128.111.225.184,OPENSSL,128.111.0.0/16
+https://128.111.225.194,NPICBA891,128.111.0.0/16
+https://128.111.225.207,OPENSSL,128.111.0.0/16
+https://128.111.228.180,FGT40C3914021241,128.111.0.0/16
+https://128.111.234.5,www.spatial.ucsb.edu,128.111.0.0/16
+https://128.111.234.10,new-oslo,128.111.0.0/16
+https://128.111.234.15,NPIC243FC,128.111.0.0/16
+https://128.111.234.37,HP Jetdirect 4B135301,128.111.0.0/16
+https://128.111.234.38,HP Jetdirect B153BABF,128.111.0.0/16
+https://128.111.235.16,OPENSSL,128.111.0.0/16
+https://128.111.235.17,OPENSSL,128.111.0.0/16
+https://128.111.235.18,OPENSSL,128.111.0.0/16
+https://128.111.235.19,OPENSSL,128.111.0.0/16
+https://128.111.235.31,OPENSSL,128.111.0.0/16
+https://128.111.235.34,OPENSSL,128.111.0.0/16
+https://128.111.235.36,OPENSSL,128.111.0.0/16
+https://128.111.235.37,OPENSSL,128.111.0.0/16
+https://128.111.235.38,OPENSSL,128.111.0.0/16
+https://128.111.235.39,OPENSSL,128.111.0.0/16
+https://128.111.235.40,OPENSSL,128.111.0.0/16
+https://128.111.235.41,OPENSSL,128.111.0.0/16
+https://128.111.235.42,OPENSSL,128.111.0.0/16
+https://128.111.235.44,OPENSSL,128.111.0.0/16
+https://128.111.235.45,OPENSSL,128.111.0.0/16
+https://128.111.235.48,OPENSSL,128.111.0.0/16
+https://128.111.235.61,128.111.235.61,128.111.0.0/16
+https://128.111.235.71,OPENSSL,128.111.0.0/16
+https://128.111.235.73,OPENSSL,128.111.0.0/16
+https://128.111.239.16,OPENSSL,128.111.0.0/16
+https://128.111.239.28,www.nanotech.ucsb.edu,128.111.0.0/16
+https://128.111.239.33,NPI03853E,128.111.0.0/16
+https://128.111.239.44,OPENSSL,128.111.0.0/16
+https://128.111.239.163,128.111.239.163,128.111.0.0/16
+https://128.111.239.168,NPI0F1DA6,128.111.0.0/16
+https://128.111.239.176,OPENSSL,128.111.0.0/16
+https://128.111.239.183,OPENSSL,128.111.0.0/16
+https://128.111.239.191,HP Jetdirect B43109FF,128.111.0.0/16
+https://128.111.239.193,VMware,128.111.0.0/16
+https://128.111.239.244,NPI60F3E8,128.111.0.0/16
+https://128.111.239.254,OPENSSL,128.111.0.0/16
+https://128.111.242.10,services.msi.ucsb.edu,128.111.0.0/16
+https://128.111.242.16,tech.msi.ucsb.edu,128.111.0.0/16
+https://128.111.242.57,localhost.localdomain,128.111.0.0/16
+https://128.111.242.61,services.msi.ucsb.edu,128.111.0.0/16
+https://128.111.243.3,localhost.localdomain,128.111.0.0/16
+https://128.111.243.4,admin3.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.243.25,NPI34C6DF.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.243.35,HP Jetdirect B3F7093E,128.111.0.0/16
+https://128.111.243.58,ucsb-cnsi.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.243.69,Server Fallback SSL Certificate,128.111.0.0/16
+https://128.111.243.89,HP Jetdirect B8612D39,128.111.0.0/16
+https://128.111.243.92,HP Jetdirect 38D8EF45,128.111.0.0/16
+https://128.111.243.93,NPIBAE781.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.243.94,HP Jetdirect 387CD086,128.111.0.0/16
+https://128.111.243.99,HP Jetdirect 78129E66,128.111.0.0/16
+https://128.111.243.111,OPENSSL,128.111.0.0/16
+https://128.111.243.147,IPMI,128.111.0.0/16
+https://128.111.243.231,device1777917-c7c2edf1.wd2go.com,128.111.0.0/16
+https://128.111.243.252,OPENSSL,128.111.0.0/16
+https://128.111.243.253,OPENSSL,128.111.0.0/16
+https://128.111.244.112,webmail1.housing.ucsb.edu,128.111.0.0/16
+https://128.111.246.56,ilti.chem.ucsb.edu,128.111.0.0/16
+https://128.111.246.221,learn.chem.ucsb.edu,128.111.0.0/16
+https://128.111.247.4,localhost.localdomain,128.111.0.0/16
+https://128.111.247.5,web-csep.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.247.14,web.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.247.40,128.111.247.40,128.111.0.0/16
+https://128.111.247.53,OPENSSL,128.111.0.0/16
+https://128.111.247.68,OPENSSL,128.111.0.0/16
+https://128.111.247.102,NPIBB2BDA,128.111.0.0/16
+https://128.111.247.152,HP Jetdirect 5FBC440D,128.111.0.0/16
+https://128.111.247.244,microfluidics.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.247.245,theoc.cnsi.ucsb.edu,128.111.0.0/16
+https://128.111.251.201,www.commserv.ucsb.edu,128.111.0.0/16
+https://128.111.251.203,www.commserv.ucsb.edu,128.111.0.0/16
+https://128.111.251.212,mc550.commserv.ucsb.edu,128.111.0.0/16
+https://128.111.252.154,OPENSSL,128.111.0.0/16
+https://128.111.252.155,OPENSSL,128.111.0.0/16
+https://169.231.2.34,vctr.myqnapcloud.com,169.231.0.0/16
+https://169.231.4.38,OPENSSL,169.231.0.0/16
+https://169.231.4.138,OPENSSL,169.231.0.0/16
+https://169.231.5.157,HP4A4A3F,169.231.0.0/16
+https://169.231.7.69,HP7CAC5A,169.231.0.0/16
+https://169.231.7.155,OPENSSL,169.231.0.0/16
+https://169.231.7.164,OPENSSL,169.231.0.0/16
+https://169.231.7.180,OPENSSL,169.231.0.0/16
+https://169.231.8.84,www.example.com,169.231.0.0/16
+https://169.231.8.97,OPENSSL,169.231.0.0/16
+https://169.231.8.153,OPENSSL,169.231.0.0/16
+https://169.231.8.181,OPENSSL,169.231.0.0/16
+https://169.231.8.190,OPENSSL,169.231.0.0/16
+https://169.231.9.44,OPENSSL,169.231.0.0/16
+https://169.231.9.55,OPENSSL,169.231.0.0/16
+https://169.231.9.78,OPENSSL,169.231.0.0/16
+https://169.231.9.90,OPENSSL,169.231.0.0/16
+https://169.231.9.176,OPENSSL,169.231.0.0/16
+https://169.231.9.181,horizonSecurity.primp-industries.com,169.231.0.0/16
+https://169.231.9.242,OPENSSL,169.231.0.0/16
+https://169.231.10.18,OPENSSL,169.231.0.0/16
+https://169.231.10.57,localhost,169.231.0.0/16
+https://169.231.10.83,192.168.1.1,169.231.0.0/16
+https://169.231.10.105,OPENSSL,169.231.0.0/16
+https://169.231.10.110,OPENSSL,169.231.0.0/16
+https://169.231.10.131,OPENSSL,169.231.0.0/16
+https://169.231.10.217,OPENSSL,169.231.0.0/16
+https://169.231.10.242,OPENSSL,169.231.0.0/16
+https://169.231.11.78,OPENSSL,169.231.0.0/16
+https://169.231.11.155,OPENSSL,169.231.0.0/16
+https://169.231.11.184,OPENSSL,169.231.0.0/16
+https://169.231.11.227,OPENSSL,169.231.0.0/16
+https://169.231.12.213,OPENSSL,169.231.0.0/16
+https://169.231.15.69,OPENSSL,169.231.0.0/16
+https://169.231.18.32,OPENSSL,169.231.0.0/16
+https://169.231.18.163,OPENSSL,169.231.0.0/16
+https://169.231.19.7,OPENSSL,169.231.0.0/16
+https://169.231.19.9,OPENSSL,169.231.0.0/16
+https://169.231.19.217,OPENSSL,169.231.0.0/16
+https://169.231.23.3,OPENSSL,169.231.0.0/16
+https://169.231.23.122,OPENSSL,169.231.0.0/16
+https://169.231.23.140,OPENSSL,169.231.0.0/16
+https://169.231.24.37,OPENSSL,169.231.0.0/16
+https://169.231.24.83,OPENSSL,169.231.0.0/16
+https://169.231.24.147,OPENSSL,169.231.0.0/16
+https://169.231.24.230,Preset Certificate,169.231.0.0/16
+https://169.231.25.176,HPD1BFA0,169.231.0.0/16
+https://169.231.26.32,OPENSSL,169.231.0.0/16
+https://169.231.27.69,OPENSSL,169.231.0.0/16
+https://169.231.27.141,OPENSSL,169.231.0.0/16
+https://169.231.29.53,OPENSSL,169.231.0.0/16
+https://169.231.29.179,OPENSSL,169.231.0.0/16
+https://169.231.29.214,OPENSSL,169.231.0.0/16
+https://169.231.31.9,HPOccam,169.231.0.0/16
+https://169.231.32.139,HP1F9F49,169.231.0.0/16
+https://169.231.32.218,OPENSSL,169.231.0.0/16
+https://169.231.33.22,OPENSSL,169.231.0.0/16
+https://169.231.33.79,OPENSSL,169.231.0.0/16
+https://169.231.35.246,OPENSSL,169.231.0.0/16
+https://169.231.36.214,OPENSSL,169.231.0.0/16
+https://169.231.37.41,HP6ECBC9,169.231.0.0/16
+https://169.231.38.228,OPENSSL,169.231.0.0/16
+https://169.231.39.251,OPENSSL,169.231.0.0/16
+https://169.231.42.240,OPENSSL,169.231.0.0/16
+https://169.231.43.135,HP151EBC,169.231.0.0/16
+https://169.231.44.136,OPENSSL,169.231.0.0/16
+https://169.231.45.134,OPENSSL,169.231.0.0/16
+https://169.231.45.237,AlicePrinter,169.231.0.0/16
+https://169.231.46.56,OPENSSL,169.231.0.0/16
+https://169.231.46.75,OPENSSL,169.231.0.0/16
+https://169.231.46.166,OPENSSL,169.231.0.0/16
+https://169.231.47.25,OPENSSL,169.231.0.0/16
+https://169.231.47.108,OPENSSL,169.231.0.0/16
+https://169.231.47.118,OPENSSL,169.231.0.0/16
+https://169.231.47.235,OPENSSL,169.231.0.0/16
+https://169.231.48.49,OPENSSL,169.231.0.0/16
+https://169.231.49.4,OPENSSL,169.231.0.0/16
+https://169.231.52.174,OPENSSL,169.231.0.0/16
+https://169.231.53.173,OPENSSL,169.231.0.0/16
+https://169.231.53.203,OPENSSL,169.231.0.0/16
+https://169.231.55.170,OPENSSL,169.231.0.0/16
+https://169.231.55.202,OPENSSL,169.231.0.0/16
+https://169.231.56.118,OPENSSL,169.231.0.0/16
+https://169.231.59.1,OPENSSL,169.231.0.0/16
+https://169.231.59.41,OPENSSL,169.231.0.0/16
+https://169.231.60.18,OPENSSL,169.231.0.0/16
+https://169.231.63.134,OPENSSL,169.231.0.0/16
+https://169.231.63.219,OPENSSL,169.231.0.0/16
+https://169.231.65.195,OPENSSL,169.231.0.0/16
+https://169.231.66.228,OPENSSL,169.231.0.0/16
+https://169.231.67.2,OPENSSL,169.231.0.0/16
+https://169.231.68.25,OPENSSL,169.231.0.0/16
+https://169.231.70.181,OPENSSL,169.231.0.0/16
+https://169.231.72.69,OPENSSL,169.231.0.0/16
+https://169.231.74.156,OPENSSL,169.231.0.0/16
+https://169.231.75.58,OPENSSL,169.231.0.0/16
+https://169.231.76.100,OPENSSL,169.231.0.0/16
+https://169.231.78.102,OPENSSL,169.231.0.0/16
+https://169.231.78.113,OPENSSL,169.231.0.0/16
+https://169.231.78.141,HPOccam,169.231.0.0/16
+https://169.231.84.35,OPENSSL,169.231.0.0/16
+https://169.231.87.105,OPENSSL,169.231.0.0/16
+https://169.231.91.61,OPENSSL,169.231.0.0/16
+https://169.231.92.5,OPENSSL,169.231.0.0/16
+https://169.231.92.9,OPENSSL,169.231.0.0/16
+https://169.231.96.145,OPENSSL,169.231.0.0/16
+https://169.231.101.24,OPENSSL,169.231.0.0/16
+https://169.231.101.95,OPENSSL,169.231.0.0/16
+https://169.231.105.197,OPENSSL,169.231.0.0/16
+https://169.231.110.247,Management Science Laboratory,169.231.0.0/16
+https://169.231.116.246,OPENSSL,169.231.0.0/16
+https://169.231.118.162,OPENSSL,169.231.0.0/16
+https://169.231.121.246,OPENSSL,169.231.0.0/16
+https://169.231.124.36,OPENSSL,169.231.0.0/16
+https://169.231.129.57,OPENSSL,169.231.0.0/16
+https://169.231.131.143,OPENSSL,169.231.0.0/16
+https://169.231.132.184,OPENSSL,169.231.0.0/16
+https://169.231.138.31,OPENSSL,169.231.0.0/16
+https://169.231.138.148,OPENSSL,169.231.0.0/16
+https://169.231.139.2,OPENSSL,169.231.0.0/16
+https://169.231.139.37,OPENSSL,169.231.0.0/16
+https://169.231.139.153,OPENSSL,169.231.0.0/16
+https://169.231.140.104,OPENSSL,169.231.0.0/16
+https://169.231.147.88,OPENSSL,169.231.0.0/16
+https://169.231.150.126,OPENSSL,169.231.0.0/16
+https://169.231.150.246,OPENSSL,169.231.0.0/16
+https://169.231.151.33,OPENSSL,169.231.0.0/16
+https://169.231.154.248,OPENSSL,169.231.0.0/16
+https://169.231.158.96,OPENSSL,169.231.0.0/16
+https://169.231.167.233,OPENSSL,169.231.0.0/16
+https://169.231.169.37,OPENSSL,169.231.0.0/16
+https://169.231.177.172,OPENSSL,169.231.0.0/16
+https://169.231.179.62,OPENSSL,169.231.0.0/16
+https://169.231.180.149,OPENSSL,169.231.0.0/16
+https://169.231.181.202,OPENSSL,169.231.0.0/16
+https://169.231.182.25,OPENSSL,169.231.0.0/16
+https://169.231.182.54,OPENSSL,169.231.0.0/16
+https://169.231.184.30,OPENSSL,169.231.0.0/16
+https://169.231.184.245,OPENSSL,169.231.0.0/16
+https://169.231.185.82,OPENSSL,169.231.0.0/16
+https://169.231.188.70,OPENSSL,169.231.0.0/16
+https://169.231.189.24,www.example.com,169.231.0.0/16
+https://169.231.189.193,OPENSSL,169.231.0.0/16
+https://169.231.191.48,OPENSSL,169.231.0.0/16
+https://169.231.234.19,license.math.ucsb.edu,169.231.0.0/16
