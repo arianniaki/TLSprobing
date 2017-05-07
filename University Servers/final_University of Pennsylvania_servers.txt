@@ -376,7 +376,7 @@ https://128.91.53.219,localhost.localdomain,128.91.0.0/16
 https://128.91.54.37,172.25.131.103,128.91.0.0/16
 https://128.91.55.33,*.sas.upenn.edu,128.91.0.0/16
 https://128.91.55.36,OPENSSL,128.91.0.0/16
-https://128.91.55.49,Raritan Computer, Inc.,128.91.0.0/16
+https://128.91.55.49,Raritan Computer Inc.,128.91.0.0/16
 https://128.91.55.74,*.appc.upenn.edu,128.91.0.0/16
 http://128.91.55.77,,128.91.0.0/16
 https://128.91.55.78,*.appc.fyi,128.91.0.0/16

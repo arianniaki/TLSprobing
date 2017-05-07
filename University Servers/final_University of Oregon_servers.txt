@@ -1063,8 +1063,7 @@ https://200.77.233.83,*.inter.mx,200.77.233.0/24
 https://200.77.233.84,www.segurolisto.mx,200.77.233.0/24
 https://200.77.233.85,www.slisto.com,200.77.233.0/24
 http://200.77.233.89,,200.77.233.0/24
-https://200.77.233.92,https://200.77.233.92,200.77.233.0/24
-,SSL Socket error
+https://200.77.233.92,200.77.233.0/24,SSL Socket error
 https://200.77.233.94,CL-INTERPROTECCION VPN Certificate,200.77.233.0/24
 https://200.77.233.176,email.sif.com.mx,200.77.233.0/24
 https://200.77.234.6,imailcn02.huawei.com,200.77.234.0/24

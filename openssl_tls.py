@@ -79,6 +79,7 @@ response_json = {}
 children = []
 
 for server in list_of_servers:
+	print (server)
 	url,servername,subnet = server.split(',')
 	if ('https' in url):
 		for ver in tls_versions:
