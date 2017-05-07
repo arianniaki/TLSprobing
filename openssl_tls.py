@@ -96,7 +96,7 @@ for server in list_of_servers:
 				print(ver+'___: '+cipher+' '+url)
 				url_without_https = url.replace("https://","")
 				#print(url_without_https)
-				p = subprocess.Popen(["timeout","5","openssl", "s_client",'-cipher',cipher ,ver,'-connect',url_without_https+':443','-status'], stdout=subprocess.PIPE)
+				p = subprocess.Popen(["timeout","1.5","openssl", "s_client",'-cipher',cipher ,ver,'-connect',url_without_https+':443','-status'], stdout=subprocess.PIPE)
 				out, err = p.communicate()
 
 				info = get_client_hello_info(out,url_without_https)
