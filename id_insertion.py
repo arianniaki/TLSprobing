@@ -10,7 +10,8 @@ outlist = []
 for infile in glob('json_bank/*'):
     with open(infile, 'r') as of:
         f = json.loads(of.read())
-        outlist += f['certificates']
+        # outlist += f['certificates']
+        outlist += f['servers']
 
 with open('outfile.txt', 'w') as of:
     for _id, obj in enumerate(outlist):

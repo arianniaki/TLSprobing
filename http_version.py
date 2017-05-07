@@ -41,7 +41,7 @@ for server in list_of_servers:
 		children.append(data)
 response_json["servers"] = children
 print json.dumps(response_json,indent=2)
-with open(file_to_read_name + '_openssl.json', 'a') as outfile:
+with open(file_to_read_name + '_http.json', 'a') as outfile:
 	json.dump(response_json, outfile)
 
 		
