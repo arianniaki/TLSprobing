@@ -13,8 +13,3 @@ This is the course project of CSE 534
       using a set of scripts we fetched the certificate of the https web servers and checked their validity and other               certificate features such as the period of validity, their issuer, and etc.   
   4- Web Servers' Study: 
       to gather more data about the web servers we also found out which OS the server is running and we plan to determine the       set of http protocol versions they support
-
-<header>
-<p> testing </p>
-
-</header>
