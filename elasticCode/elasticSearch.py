@@ -9,7 +9,7 @@ print("------------------------------------------")
 
 # Initialize the scroll
 page = es.search(
-  index = 'networks5',
+  index = 'networksproject_curl',
   doc_type = 'certificates',
   size = 1000,
   body = {
@@ -17,8 +17,8 @@ page = es.search(
   "query": {
     "bool": {
       "must": [
-        { "match": { "Issuer_Country": "US" } },
-        { "match": { "self_signed": "True" } }
+        { "match": { "university": "Purdue" } },
+#         { "match": { "has_expired": "True" } }
       ]
     }
   }

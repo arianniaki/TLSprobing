@@ -21,5 +21,9 @@ with open(subnet_file_name, 'r') as of:
 
 response_json = {}
 response_json["certificates"] = outlist
+print ('\n')
+print('\n')
+a= json.dumps(response_json)
+
 with open(subnet_file_name+'_cert_duration.json', 'w') as outfile:
-	json.dump(response_json, outfile)
+	json.dump(a, outfile)
