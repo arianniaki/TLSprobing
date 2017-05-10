@@ -40,9 +40,9 @@
 					<nav id="nav">
 						<ul class="links">
 							<li class="active"><a href="index.html">Project Description</a></li>
-							<li><a href="generic.html">Generic Page</a></li>
-							<li><a href="elements.html">Elements Reference</a></li>
-							<li><a href="elements.html">New Tabs</a></li>
+							<li><a href="tls.html">TLS Measurements</a></li>
+							<li><a href="cert.html">Certificate Maesurements</a></li>
+							<li><a href="http.html">HTTP version Measurement</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://github.com/arianniaki/TLSprobing" class="icon fa-github"><span class="label">GitHub</span></a></li>
@@ -60,68 +60,59 @@ We measure what versions of SSL are supported by web servers. This is important 
 Furthermore, we want to figure out what ciphersuites these HTTPS servers support. Ciphersuites are a combination of authentication, encryption, message authentication code and, key exchange algorithms used in the TLS protocol. Some of the algorithms used in ciphersuites also have known weaknesses. A recent related news is about the collision of SHA1 algorithm which is used in some ciphersuites. It will be interesting to figure out how many servers still continue the usage of these insecure algorithms. In order to classify these servers, we will find out what OS version they have and what protocols they use (HTTP 1.1 or HTTP 2.0). We will attempt to compare the HTTPS servers, their support of TLS, ciphersuites and certificates between several universities around the US.
 We also try to inspect the certificates presented by these servers certificates. Each certificate has a validation duration, issuer and support of OCSP (Online Certificate Status Protocol).</p>
 								<hr />
-
-								<iframe  src="d3temp/sequence_sunburst.html" height="100%" width="105%" style="overflow:hidden" scrolling="no"></iframe>
-
-						<!-- Posts -->
-							<section class="posts">
-								<article>
-									<header>
-										<h2><a href="#">Sed magna<br />
-										ipsum faucibus</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-									<ul class="actions">
-										<li><a href="#" class="button">Full Story</a></li>
-									</ul>
-								</article>
-							</section>
+								<h3>We measured for below universities' servers</h3>
+								<a href="index.html" class="image fit"><img src="images/unilogos.jpg" alt="" /></a>
+								<hr />
+								<h2>An Overview of Our Research</h2>
+								<iframe  src="ourresearchgraph/collapsible_tree_2.html" height="100%" width="100%" scrolling="no"></iframe>
+						</section>
 					</div>
 
-				<!-- Footer -->
-					<footer id="footer">
-						<section>
-							<form method="post" action="#">
-								<div class="field">
-									<label for="name">Name</label>
-									<input type="text" name="name" id="name" />
-								</div>
-								<div class="field">
-									<label for="email">Email</label>
-									<input type="text" name="email" id="email" />
-								</div>
-								<div class="field">
-									<label for="message">Message</label>
-									<textarea name="message" id="message" rows="3"></textarea>
-								</div>
-								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
-								</ul>
-							</form>
-						</section>
-						<section class="split contact">
-							<section class="alt">
-								<h3>Address</h3>
-								<p>Stony Brook University-SUNY<br />
-								New Computer Science Building,<br /> NY 11790</p>
-							</section>
-							<section>
-								<h3>Phone</h3>
-								<p><a href="#">(631) 215-4176</a></p>
-							</section>
-							<section>
-								<h3>Email</h3>
-								<p><a href="#">hrezanejadas(AT)cs.stonybrook.edu</a></p>
-							</section>
-							<section>
-								<h3>GitHub</h3>
-								<ul class="icons alt">
-									<li><a href="https://github.com/arianniaki/TLSprobing" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-								</ul>
-							</section>
-						</section>
-					</footer>
+
+
+						<!-- Footer -->
+							<footer id="footer">
+								<section>
+									<form method="post" action="#">
+										<div class="field">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="3"></textarea>
+										</div>
+										<ul class="actions">
+											<li><input type="submit" value="Send Message" /></li>
+										</ul>
+									</form>
+								</section>
+								<section class="split contact">
+									<section class="alt">
+										<h3>Address</h3>
+										<p>Stony Brook University-SUNY<br />
+										New Computer Science Building,<br /> NY 11790</p>
+									</section>
+									<section>
+										<h3>Phone</h3>
+										<p><a href="#">(631) 215-4176</a></p>
+									</section>
+									<section>
+										<h3>Email</h3>
+										<p><a href="#">hrezanejadas(AT)cs.stonybrook.edu</a></p>
+									</section>
+									<section>
+										<h3>GitHub</h3>
+										<ul class="icons alt">
+											<li><a href="https://github.com/arianniaki/TLSprobing" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
+										</ul>
+									</section>
+								</section>
+							</footer>
 
 				<!-- Copyright -->
 					<div id="copyright">

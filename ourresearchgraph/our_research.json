@@ -1,0 +1,38 @@
+{
+  "name": " Our Research",
+  "children" :[
+    {"name" : "protocols",
+     "children" :[
+       {"name" : "ssl3"},
+       {"name" : "tls1"},
+       {"name" : "tls1_1"},
+       {"name" : "tls1_2"}
+       ]},
+    {"name" : "ciphersuites",
+     "children" :[
+       { "name" :"ECDHE-RSA-AES256-GCM-SHA384"},
+       {"name" : "ECDHE-ECDSA-AES256-GCM-SHA384"},
+       {"name": "ECDHE-RSA-AES256-SHA384"},
+       { "name" :"ECDHE-ECDSA-AES256-SHA384"},
+       { "name" :"ECDHE-RSA-AES256-SHA"},
+       { "name" :"ECDHE-ECDSA-AES256-SHA"},
+       {"name" : "SRP-DSS-AES-256-CBC-SHA"},
+       {"name" : "SRP-RSA-AES-256-CBC-SHA"},
+       {"name" : "SRP-AES-256-CBC-SHA"},
+       {"name" : "DH-DSS-AES256-GCM-SHA384"},
+       {"name" : "..."}
+       ]},
+    {"name" : " Other Information",
+     "children": [
+       {"name" : "Web servers"},
+       {"name" : "OCSP"},
+       {"name" : "Certificate",
+        "children": [
+          {"name" : "valid",
+           "children" : [
+             {"name" : " Validition Duration"}
+             ]},
+          {"name" : "Invalid"}
+          ]}
+       ]}
+     ]}
