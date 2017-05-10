@@ -8,27 +8,19 @@ var b = {
   w: 75, h: 30, s: 3, t: 10
 };
 
+
 // Mapping of step names to colors.
 var colors = {
-  "PU": "#9C27B0",
+  "Purdue": "#9C27B0",
   "Rice": "#673AB7",
   "Yale": "#3F51B5",
   "SBU": "#2196F3",
-  "UCLA": "#03A9F4",
   "Stanford": "#00BCD4",
-  "UVA": "#00BCD4",
+  "Virginia": "#00BCD4",
   "UCSB": "#8BC34A",
-  "Yale":"#CDDC39",
-  "UVA":"#FF5722",
-  "UPenn":"#795548",
-  "Oregon":"#9E9E9E",
   "Miami":"#607D8B",
   "Duke":"#FFC107",
-  "UCB":"#E91E63",
-  "Berkeley":"F44336",
-  "USC":"#FFEB3B",
-  "UUtah":"#FF9800",
-  "UW":"#4CAF50",
+  "Colorado":"#E91E63",
   "UTexas":"#FFC107",
   "SSL3": "#E8EAF6",
   "TLS1": "#C5CAE9",
