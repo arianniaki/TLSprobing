@@ -60,15 +60,14 @@
 							<h2>TLS version breakdown for each university</h2>
 							<p> The following chart specifies the SSL/TLS protocol breakdown for each of the universities we measured. </p>
 							<iframe width="1314.9083941826084" height="699.9985380116959" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=873659919&amp;format=interactive"></iframe>
-							<hr \>
 
 
 						</section>
 						<h2>Ciphersuites</h2>
 <p> A ciphersuite is a named combination of authentication, encryption, message authentication code (MAC) and key exchange algorithms used to negotiate the security settings in a TLS connection.
 	Key exchange algorithms are used to create shared keys for the encryption stage. Encryption algorithms encrypt messages exchanged between clients and servers. Message authentication algorithms generate message hashes and signatures that are used to ensure the integrity of a message.
-	Some of these ciphersuites have proven to be weak, according to this <a href="https://www.acunetix.com/blog/articles/tls-ssl-cipher-hardening/">link</a> : "Weak ciphers such as DES and RC4 should be disabled. Using current technology, DES can be broken in a few hours while RC4 has been found to be weaker than previously thought"
-						<p> We present a breakdown of the top 5 ciphersuites supported by different versions of SSL/TLS. An interesting finding is that while DES is proven to be weak, it is still among the top 3 ciphersuites used in TLS1. Furthermore, recently the first SHA1 collision has been reported <a href="https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html">link.
+	Some of these ciphersuites have proven to be weak, according to this <a href="https://www.acunetix.com/blog/articles/tls-ssl-cipher-hardening/">link</a> : "Weak ciphers such as DES and RC4 should be disabled. Using current technology, DES can be broken in a few hours while RC4 has been found to be weaker than previously thought".
+	We present a breakdown of the top 5 ciphersuites supported by different versions of SSL/TLS. An interesting finding is that while DES is proven to be weak, it is still among the top 3 ciphersuites used in TLS1. Furthermore, recently the first SHA1 collision has been reported <a href="https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html">link.
 							The ciphersuites that openssl uses are mapped to the rfc in the following <a href="https://testssl.sh/openssl-rfc.mapping.html">link</a>.
 </p>
 						<section class="posts">
