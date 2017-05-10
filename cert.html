@@ -45,12 +45,15 @@
 
 							</header>
 							<h2>Valid Certificates vs. Invalid Certificates in Universities' Servers</h2>
-							<p></p>
+							<p>There are two major categories of certificates, trusted (valid) and untrusted (invalid).
+								 Trusted certificates are those that are signed by a trusted certificate authority (CA). During the TLS connection, the server will send its certificate to the client. We compare the amount of valid and invalid certificates.</p>
 							<iframe width="1208.5" height="555" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=643006774&amp;format=interactive"></iframe>
 
 
 							<hr \>
 							<h2>Proportion of Self Signed Certificates in Invalid Certificates</h2>
+							<p>Self Signed certificates will not be trusted and will be marked as invalid certificates. In our data we find that many servers contain self signed certificates.</p>
+
 							<iframe width="1136.5" height="505.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=1607876072&amp;format=interactive"></iframe>
 
 							<hr \>
@@ -66,14 +69,26 @@
 
 							<hr \>
 							<h2>Proportion of Expired Certificates in Invalid Certificates</h2>
+							<p> Each certificate has a validity duration specified by two fields "not before" and "not after". Meaning that a certificate will not be valid before the date specified in the "not before" field and after the "not after".
+								We present the number of invalid certificates due to expiration.
+							</p>
 							<iframe width="1138.2718120805366" height="506.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=1765249412&amp;format=interactive"></iframe>
 
 							<hr \>
 							<h2>The Online Certificate Status Protocol (OCSP) Support Percentage (%)</h2>
+							<p>
+								As certificates can be revoked for a number of reasons. There are a number of ways to check the revocation status of a certificate. The Online Certificate Status Protocol (OCSP) is an Internet protocol used for obtaining the revocation status of an X.509 digital certificate.
+								We measure the adoption of OCSP in web servers.
+
+							</p>
 							<iframe width="1166.5" height="571.5758333333333" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=721933141&amp;format=interactive"></iframe>
 
 							<hr \>
-							<h2>The Online Certificate Status Protocol (OCSP) Support Percentage (%)</h2>
+							<h2>Interesting findings</h2>
+							<p>
+								We found out that many of the invalid certificates are advertised from devices such as printers.
+
+							</p>
 							<iframe width="862.5" height="533.3125" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=448043004&amp;format=interactive"></iframe>
 
 						</section>
