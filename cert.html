@@ -48,9 +48,21 @@
 							<p></p>
 							<iframe width="1208.5" height="555" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=643006774&amp;format=interactive"></iframe>
 
+
 							<hr \>
 							<h2>Proportion of Self Signed Certificates in Invalid Certificates</h2>
 							<iframe width="1136.5" height="505.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=1607876072&amp;format=interactive"></iframe>
+
+							<hr \>
+							<h2>Depth of the chain of trust</h2>
+							<p> Certificate authorities(CA) are entities in the Public Key Infrastructure (PKI) that signs, issues and stores digital certificates. In order to impose hierarchy into PKI, there exist two types of CAs : root CAs and intermediate CAs.
+								In order for a certificate to be considered valid and be trusted, it must have been issued by a CA that is included in the trusted store of the device that is connecting (each device has a list of trusted CAs embedded in its OS).
+								If the certificate was not issued by a trusted CA, the connecting device (eg. a web browser) will then check to see if it can trust the CA that has issue the certificate by checking its issuer, this process continues until either a trusted CA is found
+								or no trusted CA can be found which will cause a security error to be shown to the device. A certificate of depth of one either means that the certificate is self issed (either by a root CA or a self signing entity which we do not trust.)
+
+						The list of SSL certificates, from the root certificate to the end-user certificate, represents the SSL certificate chain.</p>
+							<iframe width="1229.5" height="636" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=214046012&amp;format=interactive"></iframe>
+
 
 							<hr \>
 							<h2>Proportion of Expired Certificates in Invalid Certificates</h2>

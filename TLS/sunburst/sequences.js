@@ -22,7 +22,7 @@ var colors = {
   "Duke":"#FFC107",
   "Colorado":"#E91E63",
   "UTexas":"#FFC107",
-  "SSL3": "#E8EAF6",
+  "SSL3": "#b71c1c",
   "TLS1": "#C5CAE9",
   "TLS1_1": "#9FA8DA",
   "TLS1_2":"#7986CB"

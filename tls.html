@@ -45,22 +45,37 @@
 
 							</header>
 							<h2>Distribution of Cryptographic Protocols in Universities' Servers</h2>
-							<p></p>
+							<p>
+								SSL leverages the Public Key Infrastructure (PKI), in order to bind public cryptographic keys present in X.509 certificates with the identify of the communicating entities. Subsequent SSL versions were released in the following years in order to fix many
+								of its initial security flaws. Its final version, SSL 3.0, was publicly released by the IETF in 1996 but it was deprecated in June 2015 because of its insufficient security guarantees. The Internet Engineering Task Force (IETF) released a standard protocol called
+								Transport Layer Security (TLS) in 1999 to overcome many of the security problems present in SSL 3.0. (A more detailed description of these protocols can be found in <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security" >here</a>)
+
+							</p>
+							<p>The below chart specifies the universities we studied and the percentage of various SSL/TLS protocols they support on their web servers. For example Duke University contains 21.5% of all the records in our data. Further,
+							the servers who support TLS1 in Duke University, are 7.03% of our data.</p>
+
 							<iframe  src="TLS/sunburst/sequence_sunburst.html" height="100%" width="105%" style="overflow:hidden" scrolling="no"></iframe>
 
 							<hr \>
-							<h2>TLS versions each university supports</h2>
+							<h2>TLS version breakdown for each university</h2>
+							<p> The following chart specifies the SSL/TLS protocol breakdown for each of the universities we measured. </p>
 							<iframe width="1314.9083941826084" height="699.9985380116959" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=873659919&amp;format=interactive"></iframe>
 							<hr \>
 
-							<h2>Depth of trust of chain establishment</h2>
-							<iframe width="1229.5" height="636" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=214046012&amp;format=interactive"></iframe>
-						</section>
 
+						</section>
+						<h2>Ciphersuites</h2>
+<p> A ciphersuite is a named combination of authentication, encryption, message authentication code (MAC) and key exchange algorithms used to negotiate the security settings in a TLS connection.
+	Key exchange algorithms are used to create shared keys for the encryption stage. Encryption algorithms encrypt messages exchanged between clients and servers. Message authentication algorithms generate message hashes and signatures that are used to ensure the integrity of a message.
+	Some of these ciphersuites have proven to be weak, according to this <a href="https://www.acunetix.com/blog/articles/tls-ssl-cipher-hardening/">link</a> : "Weak ciphers such as DES and RC4 should be disabled. Using current technology, DES can be broken in a few hours while RC4 has been found to be weaker than previously thought"
+						<p> We present a breakdown of the top 5 ciphersuites supported by different versions of SSL/TLS. An interesting finding is that while DES is proven to be weak, it is still among the top 3 ciphersuites used in TLS1. Furthermore, recently the first SHA1 collision has been reported <a href="https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html">link.
+							The ciphersuites that openssl uses are mapped to the rfc in the following <a href="https://testssl.sh/openssl-rfc.mapping.html">link</a>.
+</p>
 						<section class="posts">
+
 							<article>
 								<header>
-									<h2>TLS1 cipher suits <br />
+									<h2>TLS1 Ciphersuites <br />
 									popularity distribution</h2>
 								</header>
 								<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=515883363&amp;format=interactive"></iframe>
@@ -75,7 +90,7 @@
 
 							<article>
 								<header>
-									<h2>TLS1_1 cipher suits <br />
+									<h2>TLS1_1 Ciphersuites <br />
 									popularity distribution</h2>
 								</header>
 								<iframe width="588.5" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=1082090116&amp;format=interactive"></iframe>
@@ -90,7 +105,7 @@
 
 							<article>
 								<header>
-									<h2>TLS1_2 cipher suits <br />
+									<h2>TLS1_2 Ciphersuites <br />
 									popularity distribution</h2>
 								</header>
 								<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=1572141448&amp;format=interactive"></iframe>
@@ -105,7 +120,7 @@
 
 							<article>
 								<header>
-									<h2>SSL3 cipher suits <br />
+									<h2>SSL3 Ciphersuites <br />
 									popularity distribution</h2>
 								</header>
 								<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1wlLcBOicfqcZFJEiEJVqfX-qPRmusbnofSN0S-wMwzY/pubchart?oid=587172703&amp;format=interactive"></iframe>

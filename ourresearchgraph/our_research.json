@@ -1,14 +1,14 @@
 {
   "name": " Our Research",
   "children" :[
-    {"name" : "protocols",
+    {"name" : "Protocols",
      "children" :[
-       {"name" : "ssl3"},
-       {"name" : "tls1"},
-       {"name" : "tls1_1"},
-       {"name" : "tls1_2"}
+       {"name" : "SSL3"},
+       {"name" : "TLS1"},
+       {"name" : "TLS1_1"},
+       {"name" : "TLS1_2"}
        ]},
-    {"name" : "ciphersuites",
+    {"name" : "Ciphersuites",
      "children" :[
        { "name" :"ECDHE-RSA-AES256-GCM-SHA384"},
        {"name" : "ECDHE-ECDSA-AES256-GCM-SHA384"},
@@ -22,17 +22,17 @@
        {"name" : "DH-DSS-AES256-GCM-SHA384"},
        {"name" : "..."}
        ]},
-    {"name" : " Other Information",
-     "children": [
-       {"name" : "Web servers"},
-       {"name" : "OCSP"},
-       {"name" : "Certificate",
+       {"name" : "Certificates",
         "children": [
-          {"name" : "valid",
-           "children" : [
-             {"name" : " Validition Duration"}
-             ]},
-          {"name" : "Invalid"}
-          ]}
-       ]}
+          {"name" : "OCSP"},
+          {"name" : "Invalid"},
+          {"name" : "Valid",
+           "children": [
+             {"name" : "Validity Duration"}          ]}
+          ]},
+          {"name" : "Other Information",
+           "children": [
+             {"name" : "Web Server Operating Systems"},
+             {"name" : "Http2 Adoption"}
+             ]}
      ]}
