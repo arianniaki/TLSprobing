@@ -16,14 +16,14 @@
 				<!-- Intro -->
 					<div id="intro">
 						<h1> A TLS measurement<br />
-						 on university web servers around the US</h1>
+						 on universities around the United States</h1>
 						<p>This is our CSE 534: Fundamentals of Computer Networks (Spring 2017) project webpage <br />
 							Instructor: Aruna Balasubramanian <br />
 							 You can access our <b>github</b> project from <a href="https://github.com/arianniaki/TLSprobing">this link</a>. <br />
 							 Group Members:
 							 <ul style="list-style-type:square">
 							 	<li>Mina Abbasi Dinani (mabbasidinan@cs.stonybrook.edu)</li>
-							 	<li>Seyed Arian Akhavan Niaki (sakhavanniak@cs.stonybrook.edu)</li>
+							 	<li>Arian Akhavan Niaki (sakhavanniak@cs.stonybrook.edu)</li>
 							 	<li>Hamed Rezanejad Asl-Bonab (hrezanejadas@cs.stonybrook.edu)</li>
 							</ul></p>
 						<ul class="actions">
@@ -56,9 +56,8 @@
 								</header>
 								<h2>Goal of the project</h2>
 								<p>The main goal of project is to measure several factors about HTTPS servers, including TLS version/Ciphersuites, OS version, supported Protocols (HTTP version), and certificates.
-We measure what versions of SSL are supported by web servers. This is important because some versions of SSL like SSL3.0 are insecure and should not be supported by servers. However, there still exist servers on the Internet which support SSL 3.0 which makes them vulnerable.
-Furthermore, we want to figure out what ciphersuites these HTTPS servers support. Ciphersuites are a combination of authentication, encryption, message authentication code and, key exchange algorithms used in the TLS protocol. Some of the algorithms used in ciphersuites also have known weaknesses. A recent related news is about the collision of SHA1 algorithm which is used in some ciphersuites. It will be interesting to figure out how many servers still continue the usage of these insecure algorithms. In order to classify these servers, we will find out what OS version they have and what protocols they use (HTTP 1.1 or HTTP 2.0). We will attempt to compare the HTTPS servers, their support of TLS, ciphersuites and certificates between several universities around the US.
-We also try to inspect the certificates presented by these servers certificates. Each certificate has a validation duration, issuer and support of OCSP (Online Certificate Status Protocol).</p>
+The supported SSL/TLS version is important because of the fact that SSL3 is insecure. However, there still exist servers on the Internet which support SSL 3.0 which in turn makes them vulnerable.
+Furthermore, we want to figure out what ciphersuites these HTTPS servers support. Ciphersuites are a combination of authentication, encryption, message authentication code and, key exchange algorithms used in the TLS protocol. Some of the algorithms used in ciphersuites also have known weaknesses. We compare the HTTPS servers, their support of TLS, ciphersuites and certificates between several universities around the US.</p>
 								<hr />
 								<h3>We measured for below universities' servers</h3>
 								<a href="index.html" class="image fit"><img src="images/unilogos.jpg" alt="" /></a>
